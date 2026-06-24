@@ -1,0 +1,117 @@
+CÔNG BÁO/Số 333/Ngày 16-06-2026 
+8
+ 
+ 
+BỘ KHOA HỌC VÀ CÔNG NGHỆ 
+ 
+        Số: 28/2026/TT-BKHCN 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+                    Hà Nội, ngày 31 tháng 5 năm 2026 
+  
+THÔNG TƯ 
+Quy định Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng 
+ 
+Căn cứ Luật Viễn thông số 24/2023/QH15; 
+Căn cứ Luật Chất lượng sản phẩm, hàng hóa số 05/2007/QH12 được sửa 
+đổi, bổ sung bởi Luật số 78/2025/QH15; 
+Căn cứ Luật Tiêu chuẩn và quy chuẩn kỹ thuật số 68/2006/QH11 được sửa 
+đổi, bổ sung bởi Luật số 70/2025/QH15; 
+Căn cứ Nghị định số 163/2024/NĐ-CP ngày 24 tháng 12 năm 2024 của 
+Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông; 
+Căn cứ Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính 
+phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành 
+Luật Chất lượng sản phẩm, hàng hóa; 
+Căn cứ Nghị định số 55/2025/NĐ-CP ngày 02 tháng 3 năm 2025 của Chính 
+phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học 
+và Công nghệ; 
+Theo đề nghị của Cục trưởng Cục Viễn thông; 
+Bộ trưởng Bộ Khoa học và Công nghệ ban hành Thông tư quy định danh 
+mục dịch vụ viễn thông bắt buộc quản lý chất lượng. 
+ 
+ 
+Điều 1. Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng 
+ 
+1. Ban hành kèm theo Thông tư này Danh mục dịch vụ viễn thông bắt buộc 
+quản lý chất lượng (sau đây gọi tắt là Danh mục): 
+STT 
+Tên dịch vụ 
+Quy chuẩn kỹ thuật        
+quốc gia áp dụng 
+1. 
+Dịch vụ truy nhập Internet băng rộng 
+cố định mặt đất, bao gồm: 
+- Dịch vụ truy nhập Internet băng rộng 
+cố định mặt đất sử dụng công nghệ 
+FTTH/xPON 
+QCVN 34:2022/BTTTT  
+Ký bởi: CÔNG BÁO NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Cơ quan: VĂN PHÒNG CHÍNH PHỦ
+Ngày ký: 2026-06-16 07:30:34 +07:00
+
+CÔNG BÁO/Số 333/Ngày 16-06-2026 
+9
+ 
+ 
+- Dịch vụ truy nhập Internet băng rộng 
+cố định mặt đất sử dụng công nghệ 
+Modem cáp truyền hình 
+2. Dịch vụ điện thoại trên mạng viễn 
+thông di động mặt đất 
+QCVN 36:2022/BTTTT  
+3. Dịch vụ truy nhập Internet trên mạng 
+viễn thông di động mặt đất 4G 
+QCVN 81:2019/BTTTT  
+4. Dịch vụ truy nhập Internet trên mạng 
+viễn thông di động mặt đất 5G 
+ 
+ 
+QCVN 
+126:2021/BTTTT, 
+Sửa đổi 1:2024 QCVN 
+126:2021 /BTTTT (không 
+áp dụng quy định về chỉ tiêu 
+thời gian trễ trung bình truy 
+nhập dịch vụ tại mục 2.1.3 
+QCVN 
+126:2021/BTTTT; 
+doanh nghiệp viễn thông có 
+trách nhiệm tự công bố mức 
+chất lượng cam kết đối với 
+chỉ tiêu này theo quy định 
+của pháp luật và chịu trách 
+nhiệm bảo đảm chất lượng 
+theo mức đã công bố) 
+2. Trường hợp các văn bản quy phạm pháp luật, quy chuẩn kỹ thuật quốc 
+gia được viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực 
+hiện theo quy định của văn bản sửa đổi, bổ sung hoặc văn bản thay thế đó. 
+Điều 2. Hiệu lực thi hành 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 7 năm 2026. 
+2. Thông tư số 32/2020/TT-BTTTT ngày 04 tháng 11 năm 2020 của Bộ 
+trưởng Bộ Thông tin và Truyền thông quy định Danh mục dịch vụ viễn thông bắt 
+buộc quản lý chất lượng hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành. 
+Điều 3. Điều khoản chuyển tiếp 
+Trường hợp cung cấp Dịch vụ truy nhập Internet trên mạng viễn thông di 
+động mặt đất 5G, doanh nghiệp viễn thông có trách nhiệm hoàn thành thủ tục công 
+bố chất lượng dịch vụ trong thời hạn 60 ngày kể từ ngày Thông tư này có hiệu lực 
+thi hành. 
+
+CÔNG BÁO/Số 333/Ngày 16-06-2026 
+10
+ 
+ 
+Điều 4. Tổ chức thực hiện 
+1. Cục trưởng Cục Viễn thông, Thủ trưởng các cơ quan, đơn vị thuộc Bộ 
+Khoa học và Công nghệ, Giám đốc Sở Khoa học và Công nghệ các tỉnh, thành 
+phố trực thuộc Trung ương, Tổng Giám đốc, Giám đốc các doanh nghiệp viễn 
+thông và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư 
+này. 
+2. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cơ quan, 
+doanh nghiệp phản ánh về Bộ Khoa học và Công nghệ (Cục Viễn thông) để xem 
+xét giải quyết ./. 
+ 
+BỘ TRƯỞNG 
+ 
+Vũ Hải Quân 
+ 
