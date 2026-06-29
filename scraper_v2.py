@@ -91,10 +91,11 @@ def loai_priority(slug):
     return 99, "Khác", 0
 
 def pdf_url_of(html):
+    clean = html.replace("&amp;","&")
     for pat in [r"https://congbaocdn\.chinhphu\.vn/[^\"'\s<>]+?\.pdf",
-                r"https://g7\.cdnchinhphu\.vn/api/download/stream\?[^\"'\s<>]+?\.pdf"]:
-        m = re.search(pat, html.replace("&amp;","&"))
-        if m: return m.group(0).replace("&amp;","&")
+                r"https://g7\.cdnchinhphu\.vn/api/download/stream\?[^\"'\s<>]+"]:
+        m = re.search(pat, clean)
+        if m: return m.group(0)
     return None
 
 def load_json(p, d):
@@ -123,6 +124,15 @@ def process_vb(vb_url, desc, state, index):
     try:
         page = fetch_text(vb_url)
         pdf_url = pdf_url_of(page)
+        # Nếu không có PDF trên main page → thử sub-page /van-ban/{slug}/{doc_id}
+        if not pdf_url:
+            sub_ids = list(dict.fromkeys(re.findall(
+                r'/van-ban/' + re.escape(slug) + r'/(\d+)', page)))
+            for doc_id in sub_ids[:3]:
+                sub_html = fetch_text(f"{BASE_URL}/van-ban/{slug}/{doc_id}.htm")
+                pdf_url = pdf_url_of(sub_html)
+                if pdf_url:
+                    break
         if not pdf_url:
             pv[slug] = "no_pdf"; return None
         pdf_data = fetch(pdf_url)
@@ -296,6 +306,7 @@ AGENCY_CATS = {
 
 # Mỗi topic nên browse ở cơ quan nào
 TOPIC_AGENCIES = {
+    "hdld":          ["bldtbxh", "chinh_phu", "quoc_hoi"],
     "bhxh":          ["bldtbxh", "chinh_phu", "quoc_hoi"],
     "thue_tncn":     ["btc", "chinh_phu", "quoc_hoi"],
     "cong_doan":     ["bldtbxh", "chinh_phu", "quoc_hoi"],
@@ -401,7 +412,8 @@ def send_telegram_report(state, added_today):
 
     state2 = load_json(STATE2_FILE, {})
     now = datetime.now().strftime("%d/%m/%Y %H:%M")
-    lines = [f"📋 <b>BÁO CÁO PHÁP LUẬT 8 CHỦ ĐỀ</b> ({now})", f"Hôm nay thêm: <b>{added_today} VB mới</b>\n"]
+    new_line = f"<b>{added_today} VB mới</b>" if added_today > 0 else "<b>Không có văn bản mới hôm nay</b>"
+    lines = [f"📋 <b>BÁO CÁO PHÁP LUẬT 8 CHỦ ĐỀ</b> ({now})", f"Hôm nay thêm: {new_line}\n"]
     total = 0
     for tk, td in TOPICS.items():
         cnt  = state.get("count",{}).get(tk, 0)
@@ -453,25 +465,23 @@ def main():
     if mode in ("full", "--history") or "--browse" in sys.argv:
         topics_need = [tk for tk in TOPICS if state.get("count",{}).get(tk,0) < TARGET]
         if topics_need:
-            if "--browse" in sys.argv:
-                # Chế độ browse: duyệt trực tiếp trang listing cơ quan
-                log(f"\n── Browse cơ quan: {len(topics_need)} chủ đề còn thiếu ──")
-                added += run_history_browse(state, index, max_pages_per_agency=40)
-                save_json(STATE_FILE, state)
-                save_json(INDEX_FILE, index)
-            else:
-                # Chế độ SearXNG (mặc định)
-                log(f"\n── SearXNG history: {len(topics_need)} chủ đề còn thiếu ──")
-                added += run_history(state, index, max_topic_year=200)
-                save_json(STATE_FILE, state)
-                save_json(INDEX_FILE, index)
-                # Nếu sau SearXNG vẫn còn thiếu → browse bổ sung
-                topics_still_need = [tk for tk in TOPICS if state.get("count",{}).get(tk,0) < TARGET]
-                if topics_still_need and mode == "full":
-                    log(f"\n── Browse bổ sung: {len(topics_still_need)} chủ đề chưa đủ ──")
-                    added += run_history_browse(state, index, max_pages_per_agency=20)
+            # BROWSE là phương thức chính — duyệt trực tiếp trang listing cơ quan
+            # SearXNG bị loại khỏi primary vì Google/Bing không index đầy đủ congbao
+            log(f"\n── Browse cơ quan (primary): {len(topics_need)} chủ đề còn thiếu ──")
+            added += run_history_browse(state, index, max_pages_per_agency=40)
+            save_json(STATE_FILE, state)
+            save_json(INDEX_FILE, index)
+            # SearXNG bổ sung nếu browse không đủ (chỉ khi SearXNG đang chạy)
+            topics_still_need = [tk for tk in TOPICS if state.get("count",{}).get(tk,0) < TARGET]
+            if topics_still_need and "--browse" not in sys.argv:
+                try:
+                    urllib.request.urlopen(f"{SEARXNG_URL}/", timeout=3)
+                    log(f"\n── SearXNG bổ sung: {len(topics_still_need)} chủ đề chưa đủ ──")
+                    added += run_history(state, index, max_topic_year=100)
                     save_json(STATE_FILE, state)
                     save_json(INDEX_FILE, index)
+                except Exception:
+                    log(f"[searxng] Không khả dụng, bỏ qua.")
         else:
             log("\n── Tất cả chủ đề đã đủ 50 VB ──")
 
@@ -490,6 +500,16 @@ def main():
     if "--no-push" not in sys.argv:
         git_push(added)
     send_telegram_report(state, added)
+
+    # Tạo lại Excel vào mỗi thứ Hai (hoặc khi có VB mới)
+    if added > 0 or datetime.now().weekday() == 0:
+        try:
+            import export_excel as _xl
+            xl_path = _xl.main()
+            log(f"[excel] ✓ {xl_path}")
+        except Exception as e:
+            log(f"[excel] Bỏ qua: {e}")
+
     log("\nXONG.")
 
 if __name__ == "__main__":
