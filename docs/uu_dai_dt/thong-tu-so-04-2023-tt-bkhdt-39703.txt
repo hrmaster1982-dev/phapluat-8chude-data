@@ -1,0 +1,2294 @@
+ 
+50 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+BỘ KẾ HOẠCH VÀ ĐẦU TƯ 
+ 
+ 
+BỘ KẾ HOẠCH VÀ ĐẦU TƯ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
+ 
+Số: 04/2023/TT-BKHĐT 
+Hà Nội, ngày 26 tháng 6 năm 2023 
+THÔNG TƯ 
+Hướng dẫn yêu cầu nội dung và kỹ thuật của cơ sở dữ liệu hồ sơ quy hoạch 
+và sơ đồ, bản đồ quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh 
+ 
+Căn cứ Luật Quy hoạch ngày 24 tháng 11 năm 2017; 
+Căn cứ Luật Đo đạc và bản đồ ngày 14 tháng 6 năm 2018; 
+Căn cứ Luật Bảo vệ bí mật nhà nước ngày 15 tháng 11 năm 2018; 
+Căn cứ Nghị định số 89/2022/NĐ-CP ngày 28 tháng 10 năm 2022 của Chính 
+phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch 
+và Đầu tư; 
+Căn cứ Nghị định số 37/2019/NĐ-CP ngày 07 tháng 5 năm 2019 của Chính 
+phủ quy định chi tiết thi hành một số điều của Luật Quy hoạch; 
+Căn cứ Nghị định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 của Chính 
+phủ quy định chi tiết một số điều của Luật Đo đạc và bản đồ đã được sửa đổi, bổ 
+sung một số điều theo Nghị định số 136/2021/NĐ-CP ngày 31 tháng 12 năm 2021 
+và Nghị định số 22/2023/NĐ-CP ngày 12 tháng 5 năm 2023 của Chính phủ; 
+Theo đề nghị của Vụ trưởng Vụ Quản lý quy hoạch; 
+Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư hướng dẫn yêu cầu nội 
+dung và kỹ thuật của cơ sở dữ liệu hồ sơ quy hoạch và sơ đồ, bản đồ quy hoạch 
+cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh. 
+ 
+Chương I 
+QUY ĐỊNH CHUNG 
+ 
+Điều 1. Phạm vi điều chỉnh 
+Người ký: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 13.07.2023 14:44:45 +07:00
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+51 
+ 
+1. Thông tư này quy định về yêu cầu kỹ thuật chung của cơ sở dữ liệu hồ sơ 
+quy hoạch và sơ đồ, bản đồ quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch 
+tỉnh; yêu cầu về nội dung chủ yếu và yêu cầu kỹ thuật của cơ sở dữ liệu địa lý 
+quy hoạch và sơ đồ, bản đồ quy hoạch tổng thể quốc gia, quy hoạch vùng, quy 
+hoạch tỉnh. 
+2. Cơ sở dữ liệu hồ sơ quy hoạch và sơ đồ, bản đồ quy hoạch cấp quốc gia, quy 
+hoạch vùng, quy hoạch tỉnh liên quan đến bí mật nhà nước thực hiện theo quy định 
+của pháp luật của bảo vệ bí mật nhà nước.  
+Điều 2. Đối tượng áp dụng  
+Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân thực hiện việc xây 
+dựng, cập nhật, quản lý, sử dụng cơ sở dữ liệu hồ sơ quy hoạch và sơ đồ, bản đồ 
+quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh và cơ quan, tổ chức, cá 
+nhân khác có liên quan. 
+Điều 3. Giải thích từ ngữ 
+1. Cơ sở dữ liệu hồ sơ quy hoạch bao gồm văn bản điện tử của hồ sơ quy 
+hoạch đã được quyết định hoặc phê duyệt và cơ sở dữ liệu địa lý quy hoạch. 
+2. Văn bản điện tử của hồ sơ quy hoạch đã được quyết định hoặc phê duyệt là 
+các tài liệu, văn bản điện tử dưới dạng thông điệp dữ liệu được tạo lập hoặc được 
+số hóa từ văn bản giấy của hồ sơ quy hoạch đã được quyết định hoặc phê duyệt 
+bao gồm: Tờ trình quyết định hoặc phê duyệt quy hoạch; văn bản quyết định hoặc 
+phê duyệt quy hoạch; báo cáo quy hoạch (báo cáo tổng hợp và báo cáo tóm tắt) và 
+báo cáo đánh giá môi trường chiến lược (nếu có), sơ đồ, bản đồ quy hoạch đã được 
+cơ quan tổ chức lập quy hoạch rà soát, hoàn thiện thống nhất với văn bản quyết 
+định hoặc phê duyệt quy hoạch; tài liệu văn bản khác (nếu có). 
+3. Cơ sở dữ liệu địa lý quy hoạch là tập hợp có tổ chức các dữ liệu về vị trí địa 
+lý và thuộc tính của đối tượng địa lý thể hiện nội dung cơ bản về quy hoạch được 
+xây dựng trên nền cơ sở dữ liệu nền địa lý quốc gia. 
+ 
+Chương II 
+YÊU CẦU KỸ THUẬT CHUNG CỦA CƠ SỞ DỮ LIỆU HỒ SƠ  
+QUY HOẠCH VÀ SƠ ĐỒ, BẢN ĐỒ QUY HOẠCH CẤP QUỐC GIA,  
+QUY HOẠCH VÙNG, QUY HOẠCH TỈNH 
+ 
+Điều 4. Định dạng văn bản điện tử của hồ sơ quy hoạch cấp quốc gia, 
+quy hoạch vùng, quy hoạch tỉnh 
+
+ 
+52 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+1. Tệp văn bản, báo cáo định dạng *.doc; *.docx; *.odt;  
+2. Văn bản, báo cáo được số hóa từ tài liệu dạng giấy: định dạng Portable 
+Document Fomart (*.pdf) phiên bản 1.4 trở lên; ảnh màu (nếu có); độ phân giải tối 
+thiểu: 200 dpi; tỷ lệ số hóa: 100%. 
+3. Sơ đồ, bản đồ quy hoạch dạng giấy được số hóa định dạng GeoTIFF, 
+GeoPDF độ phân giải tối thiểu từ 300 dpi trở lên, tỷ lệ quét 1:1. 
+4. Định dạng của tài liệu khác (nếu có) thực hiện theo quy định pháp luật 
+liên quan. 
+Điều 5. Định dạng dữ liệu của cơ sở dữ liệu địa lý của quy hoạch cấp quốc 
+gia, quy hoạch vùng, quy hoạch tỉnh 
+1. Cơ sở dữ liệu địa lý quy hoạch được đóng gói ở định dạng Geodatabase 
+(*.gdb) hoặc theo chuẩn trao đổi dữ liệu địa lý *.xml, *.gml. 
+2. Kết quả trình bày dữ liệu không gian địa lý về quy hoạch theo định dạng: 
+*.mxd, *.mpk, *.qgz. 
+Điều 6. Cơ sở toán học và yêu cầu thể hiện nội dung sơ đồ, bản đồ quy 
+hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh 
+1. Sơ đồ, bản đồ quy hoạch được thành lập trong hệ quy chiếu, hệ tọa độ quốc 
+gia VN-2000 và trên nền bản đồ địa hình quốc gia theo tỷ lệ tương ứng với tỷ lệ 
+của sơ đồ, bản đồ quy hoạch. 
+2. Nội dung sơ đồ, bản đồ quy hoạch bảo đảm phù hợp với văn bản quyết định 
+hoặc phê duyệt quy hoạch và tài liệu có liên quan trong hồ sơ quy hoạch; thể hiện 
+đúng, đầy đủ chủ quyền lãnh thổ quốc gia, phù hợp với điều ước quốc tế mà nước 
+Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. 
+Điều 7. Hệ quy chiếu tọa độ, hệ quy chiếu thời gian, siêu dữ liệu của cơ sở 
+dữ liệu địa lý quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh 
+1. Hệ quy chiếu tọa độ, hệ quy chiếu thời gian thực hiện theo Quy chuẩn kỹ 
+thuật quốc gia về chuẩn thông tin địa lý cơ sở mã số QCVN 42:2020/BTNMT ban 
+hành kèm theo Thông tư số 06/2020/TT-BTNMT ngày 31 tháng 8 năm 2020 của 
+Bộ trưởng Bộ Tài nguyên và Môi trường. 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+53 
+ 
+2. Siêu dữ liệu của cơ sở dữ liệu địa lý về quy hoạch được xây dựng theo quy 
+định tại khoản 4 Điều 45 Luật Đo đạc và bản đồ, Phụ lục I của QCVN 42:2020/BTNMT 
+và TCVN 12687:2019 Cơ sở dữ liệu địa lý - Xây dựng siêu dữ liệu. 
+ 
+Chương III 
+YÊU CẦU VỀ NỘI DUNG CHỦ YẾU VÀ KỸ THUẬT THỂ HIỆN 
+CỦA CƠ SỞ DỮ LIỆU ĐỊA LÝ QUY HOẠCH VÀ SƠ ĐỒ, BẢN ĐỒ 
+QUY HOẠCH TỔNG THỂ QUỐC GIA, QUY HOẠCH VÙNG,  
+QUY HOẠCH TỈNH 
+ 
+Điều 8. Yêu cầu về nội dung chủ yếu và kỹ thuật thể hiện sơ đồ, bản đồ 
+quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch tỉnh 
+1. Nội dung chủ yếu của sơ đồ, bản đồ quy hoạch tổng thể quốc gia, quy hoạch 
+vùng, quy hoạch tỉnh quy định tại Phụ lục I kèm theo Thông tư này.  
+2. Sơ đồ, bản đồ quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch tỉnh 
+phải đáp ứng các yêu cầu kỹ thuật sau:  
+a) Vị trí, phạm vi ranh giới, hướng tuyến của các đối tượng địa lý được thể 
+hiện trên sơ đồ, bản đồ quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch 
+tỉnh phải bảo bảm phù hợp với các căn cứ pháp lý có liên quan theo quy định của 
+pháp luật và tuân thủ quy định của pháp luật về bảo vệ bí mật nhà nước và các quy 
+định có liên quan. Trường hợp chưa đủ căn cứ pháp lý xác định chính xác vị trí, 
+phạm vi ranh giới, hướng tuyến của đối tượng địa lý quy hoạch, thì thể hiện ký 
+hiệu về vị trí, phạm vi ranh giới, hướng tuyến dự kiến của đối tượng địa lý trên sơ 
+đồ, bản đồ của quy hoạch. Vị trí, phạm vi ranh giới, hướng huyến chính xác của 
+đối tượng địa lý trong quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch 
+tỉnh được cụ thể hóa trong quy hoạch đô thị, quy hoạch nông thôn, quy hoạch, kế 
+hoạch sử dụng đất cấp huyện, quy hoạch có tính chất kỹ thuật, chuyên ngành, hoặc 
+trong giai đoạn lập, thẩm định, chấp thuận hoặc quyết định chủ trương đầu tư, 
+quyết định đầu tư của các chương trình, dự án. Các Bộ, cơ quan ngang Bộ, Ủy ban 
+nhân dân cấp tỉnh được phân công nhiệm vụ lập quy hoạch chịu trách nhiệm về 
+tính chính xác, tính đầy đủ và tuân thủ quy định của nội dung và kỹ thuật thể hiện 
+
+ 
+54 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+sơ đồ, bản đồ quy hoạch thuộc phạm vi quản lý, bảo đảm phù hợp với văn bản 
+quyết định hoặc phê duyệt quy hoạch; 
+b) Bố cục trình bày và hệ thống ký hiệu sơ đồ, bản đồ quy hoạch tổng thể quốc 
+gia, quy hoạch vùng, quy hoạch tỉnh thực hiện theo quy định tại Phụ lục II kèm 
+theo Thông tư này; 
+c) Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh được bổ sung các nội 
+dung của sơ đồ, bản đồ và ký hiệu, chú giải thuyết minh của Phụ lục I và Phụ lục II 
+của Thông tư này để thể hiện nội dung quy hoạch đã được quyết định hoặc phê 
+duyệt và bảo đảm tuân thủ quy định của pháp luật về quy hoạch, pháp luật có 
+liên quan. 
+4. Việc xác định mức độ ưu tiên các đối tượng địa lý thể hiện trên sơ đồ, bản 
+đồ quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch tỉnh bảo đảm nguyên 
+tắc sau: 
+a) Các đối tượng địa lý về nội dung chính của quy hoạch được ưu tiên thể hiện 
+trên sơ đồ, bản đồ quy hoạch; 
+b) Thứ tự ưu tiên thể hiện các đối tượng địa lý: các đối tượng địa lý dạng điểm, 
+các đối tượng địa lý dạng tuyến, các đối tượng địa lý dạng vùng; 
+c) Ký hiệu trên bản đồ của đối tượng địa lý có mức độ ưu tiên thấp hơn được 
+dịch chuyển sang vị trí bên cạnh ký hiệu của đối tượng địa lý có mức độ ưu tiên 
+cao hơn.  
+Điều 9. Tổ chức dữ liệu của cơ sở dữ liệu địa lý quy hoạch tổng thể quốc 
+gia, quy hoạch vùng, quy hoạch tỉnh 
+1. Cơ sở dữ liệu địa lý quy hoạch tổng thể quốc gia, quy hoạch vùng, quy 
+hoạch tỉnh được đóng gói thành 01 gói Geodatabase (*.gdb) và được tổ chức 
+theo 14 chủ đề dữ liệu như sau:  
+a) Kinh tế - xã hội và đầu tư; 
+b) Xây dựng; 
+c) Công nghiệp và thương mại; 
+d) Nông nghiệp và phát triển nông thôn; 
+đ) Tài nguyên và môi trường 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+55 
+ 
+e) Văn hóa, thể thao và du lịch; 
+g) Giao thông vận tải; 
+h) Thông tin và truyền thông; 
+i) Khoa học và công nghệ; 
+k) Y tế; 
+l) Giáo dục và đào tạo; 
+m) Lao động - Thương binh và xã hội; 
+n) Quốc phòng, an ninh; 
+o) Ngoại giao. 
+2. Quy cách đặt tên gói dữ liệu, chủ đề dữ liệu, lớp dữ liệu và trường thông tin 
+của cơ sở dữ liệu địa lý quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch 
+tỉnh thực hiện theo quy định tại mục 1 của Phụ lục III kèm theo Thông tư này. 
+Điều 10. Gán mã nhận dạng của đối tượng địa lý trong cơ sở dữ liệu địa lý 
+quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch tỉnh 
+1. Cơ sở dữ liệu địa lý quy hoạch tổng thể quốc gia, quy hoạch vùng, quy 
+hoạch tỉnh phải thực hiện việc gán mã nhận dạng là dãy mã số duy nhất xác định 
+cho từng đối tượng địa lý. 
+2. Quy tắc gán mã nhận dạng của từng đối tượng địa lý trong cơ sở dữ liệu địa 
+lý quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch tỉnh thực hiện theo quy 
+định tại mục 2 Phụ lục III kèm theo Thông tư này. 
+Điều 11. Danh mục đối tượng địa lý của cơ sở dữ liệu địa lý quy hoạch 
+tổng thể quốc gia, quy hoạch vùng, quy hoạch tỉnh 
+1. Danh mục đối tượng địa lý của cơ sở dữ liệu địa lý quy hoạch tổng thể quốc 
+gia, quy hoạch vùng, quy hoạch tỉnh quy định tại mục 3 Phụ lục III kèm theo 
+Thông tư này. 
+2. Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh được bổ sung các đối 
+tượng địa lý mới, hoặc bổ sung kiểu dữ liệu, thuộc tính, quan hệ, miền giá trị cho 
+các đối tượng địa lý đã có trong danh mục tại mục 3 Phụ lục III kèm theo Thông tư 
+này để thể hiện nội dung quy hoạch đã được quyết định hoặc phê duyệt và bảo đảm 
+tuân thủ quy định của pháp luật về quy hoạch, pháp luật khác có liên quan. 
+
+ 
+56 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+Chương IV 
+TỔ CHỨC THỰC HIỆN 
+ 
+Điều 12. Tổ chức thực hiện 
+1. Bộ Kế hoạch và Đầu tư tổ chức xây dựng cơ sở dữ liệu hồ sơ quy hoạch và 
+sơ đồ, bản đồ quy hoạch tổng thể quốc gia, quy hoạch vùng đáp ứng yêu cầu nội 
+dung và kỹ thuật được quy định tại Chương II, Chương III Thông tư này; cập nhật 
+cơ sở dữ liệu hồ sơ quy hoạch tổng thể quốc gia, quy hoạch vùng lên hệ thống 
+thông tin và cơ sở dữ liệu quốc gia về quy hoạch sau khi quy hoạch được quyết 
+định hoặc phê duyệt. 
+2. Các Bộ, cơ quan ngang Bộ tổ chức xây dựng cơ sở dữ liệu hồ sơ quy hoạch, 
+sơ đồ, bản đồ quy hoạch thuộc phạm vi quản lý đáp ứng yêu cầu kỹ thuật được quy 
+định tại Chương II Thông tư này và các quy định có liên quan; cập nhật cơ sở dữ 
+liệu hồ sơ quy hoạch thuộc phạm vi quản lý lên hệ thống thông tin và cơ sở dữ liệu 
+quốc gia về quy hoạch sau khi quy hoạch được quyết định hoặc phê duyệt. 
+3. Ủy ban nhân dân cấp tỉnh tổ chức xây dựng cơ sở dữ liệu hồ sơ quy hoạch, 
+sơ đồ, bản đồ quy hoạch tỉnh thuộc phạm vi quản lý đáp ứng yêu cầu nội dung và 
+kỹ thuật được quy định tại Chương II, Chương III Thông tư này; cập nhật cơ sở dữ 
+liệu hồ sơ quy hoạch tỉnh lên hệ thống thông tin và cơ sở dữ liệu quốc gia về quy 
+hoạch sau khi quy hoạch được phê duyệt. 
+Điều 13. Điều khoản chuyển tiếp 
+1. Đối với các quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh đã 
+được quyết định hoặc phê duyệt trước ngày Thông tư này có hiệu lực, thì cơ sở dữ 
+liệu hồ sơ quy hoạch, sơ đồ, bản đồ quy hoạch thực hiện theo văn bản hướng dẫn 
+trước ngày Thông tư này có hiệu lực. Trường hợp cơ sở dữ liệu hồ sơ quy hoạch 
+chưa được cập nhật lên hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch, 
+thì hoàn thiện cơ sở dữ liệu hồ sơ quy hoạch, sơ đồ, bản đồ quy hoạch bảo đảm 
+thống nhất với văn bản quyết định hoặc phê duyệt quy hoạch theo quy định của 
+Thông tư này và cập nhật cơ sở dữ liệu hồ sơ quy hoạch lên hệ thống thông tin và 
+cơ sở dữ liệu quốc gia về quy hoạch. 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+57 
+ 
+2. Đối với quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh đã trình 
+thẩm định nhưng chưa được Hội đồng thẩm định quy hoạch thông qua, hoặc đã 
+được Hội đồng thẩm định quy hoạch thông qua nhưng chưa được quyết định hoặc 
+phê duyệt quy hoạch trước ngày Thông tư này có hiệu lực, thì cơ sở dữ liệu hồ sơ 
+quy hoạch, sơ đồ, bản đồ quy hoạch của hồ sơ trình quyết định hoặc phê duyệt quy 
+hoạch thực hiện theo văn bản hướng dẫn trước ngày Thông tư này có hiệu lực. Sau 
+khi quy hoạch được quyết định hoặc phê duyệt, các Bộ, cơ quan ngang Bộ, Ủy ban 
+nhân dân cấp tỉnh có trách nhiệm hoàn thiện cơ sở dữ liệu hồ sơ quy hoạch, sơ đồ, 
+bản đồ quy hoạch bảo đảm thống nhất với văn bản quyết định hoặc phê duyệt quy 
+hoạch và tuân thủ quy định của Thông tư này. 
+3. Đối với các quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh chưa 
+trình thẩm định kể từ ngày Thông tư này có hiệu lực, thì cơ sở dữ liệu hồ sơ quy 
+hoạch, sơ đồ, bản đồ quy hoạch thực hiện theo quy định của Thông tư này. 
+Điều 14. Hiệu lực thi hành 
+1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 8 năm 2023. 
+2. Trường hợp các văn bản quy phạm pháp luật viện dẫn trong Thông tư này 
+được sửa đổi, bổ sung, thay thế thì áp dụng theo các văn bản sửa đổi, bổ sung, 
+thay thế. 
+3. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc hoặc phát sinh 
+những điểm chưa phù hợp, đề nghị các cơ quan, đơn vị phản ánh về Bộ Kế hoạch 
+và Đầu tư để xem xét, điều chỉnh cho phù hợp./. 
+ 
+BỘ TRƯỞNG 
+ 
+Nguyễn Chí Dũng 
+ 
+ 
+ 
+
+ 
+58 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+Phụ lục I 
+NỘI DUNG CHỦ YẾU CỦA SƠ ĐỒ, BẢN ĐỒ QUY HOẠCH  
+TỔNG THỂ QUỐC GIA, QUY HOẠCH VÙNG, QUY HOẠCH TỈNH 
+(Ban hành kèm theo Thông tư số 04/2023/TT-BKHĐT ngày 26 tháng 6 năm 2023 
+ của Bộ Kế hoạch và Đầu tư) 
+ 
+I. NỘI DUNG CHỦ YẾU CỦA SƠ ĐỒ, BẢN ĐỒ QUY HOẠCH TỔNG 
+THỂ QUỐC GIA 
+1. Về vị trí địa lý và mối quan hệ giữa Việt Nam với khu vực và thế giới, 
+bao gồm vị trí địa lý và mối quan hệ về tự nhiên, kinh tế, xã hội và môi trường 
+giữa Việt Nam với các quốc gia trong khu vực và thế giới. Sơ đồ được lập ở tỷ 
+lệ 1:4.000.000. 
+2. Về hiện trạng điều kiện tự nhiên, kinh tế - xã hội, dân cư, hệ thống kết cấu 
+hạ tầng quan trọng cấp quốc gia và liên vùng, các nội dung được thể hiện trên nền 
+bản đồ địa hình quốc gia tỷ lệ 1:1.000.000. 
+3. Về đánh giá tổng hợp đất đai theo các mục đích sử dụng, các nội dung được 
+thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000 và bản đồ hiện trạng 
+sử dụng đất của cả nước. 
+4. Về định hướng phân vùng và liên kết vùng, bao gồm định hướng phân vùng 
+kinh tế - xã hội, liên kết quốc tế, liên vùng; thể hiện trên nền bản đồ địa hình quốc 
+gia tỷ lệ 1:1.000.000 và định hướng phát triển hệ thống đô thị và nông thôn quốc 
+gia được quy định tại mục I.7 của Phụ lục này. 
+5. Về định hướng phát triển ngành hạ tầng kỹ thuật cấp quốc gia, các nội dung 
+được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000. 
+6. Về định hướng phát triển ngành hạ tầng xã hội cấp quốc gia, các nội dung 
+được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000. 
+7. Về định hướng phát triển hệ thống đô thị và nông thôn quốc gia, bao gồm 
+định hướng phân bố các vùng đô thị lớn, định hướng phát triển kết cấu hạ tầng liên 
+kết các cực tăng trưởng, vùng đô thị lớn, đô thị trung tâm của các tỉnh, thành phố 
+trực thuộc Trung ương; thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000.  
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+59 
+ 
+8. Về định hướng sử dụng tài nguyên quốc gia, các nội dung được thể hiện trên 
+nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000. 
+9. Về định hướng bảo vệ môi trường quốc gia, các nội dung được thể hiện trên 
+nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000.  
+10. Về định hướng phòng, chống thiên tai và ứng phó với biến đổi khí hậu, các 
+nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000. 
+11. Về định hướng phát triển không gian quốc gia, bao gồm vùng động lực, 
+cực tăng trưởng quốc gia, hành lang kinh tế, vành đai kinh tế - công nghiệp - đô thị - 
+dịch vụ; thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000 và định hướng 
+phát triển hệ thống đô thị và nông thôn quốc gia quy định tại mục I.7 của Phụ lục 
+này. 
+12. Về định hướng sử dụng đất quốc gia, các nội dung được thể hiện trên nền 
+bản đồ địa hình quốc gia tỷ lệ 1:1.000.000. 
+13. Về bố trí không gian các dự án quan trọng quốc gia, bao gồm danh mục dự 
+kiến dự án quan trọng quốc gia và ký hiệu thể hiện vị trí dự kiến của dự án; thể 
+hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:1.000.000. 
+II. NỘI DUNG CHỦ YẾU CỦA SƠ ĐỒ, BẢN ĐỒ QUY HOẠCH VÙNG 
+1. Về vị trí và các mối quan hệ của vùng, bao gồm vị trí địa lý và mối quan hệ 
+về tự nhiên, kinh tế, xã hội và môi trường của các vùng lân cận, của quốc gia, khu 
+vực và quốc tế tác động đến vùng lập quy hoạch; thể hiện trên nền bản đồ địa hình 
+quốc gia tỷ lệ 1:1.000.000. 
+2. Về hiện trạng phát triển vùng, bao gồm các nội dung chủ yếu sau: 
+a) Hiện trạng phát triển kinh tế, xã hội;  
+b) Hiện trạng phát triển hệ thống đô thị, nông thôn; các khu chức năng (khu 
+kinh tế; khu công nghiệp; khu công nghệ cao; khu du lịch, khu thể dục thể thao, di 
+tích lịch sử - văn hóa, danh lam thắng cảnh cấp quốc gia; khu chức năng khác theo 
+quy định pháp luật); vùng sản xuất tập trung; 
+c) Hiện trạng kết cấu hạ tầng xã hội, hạ tầng kỹ thuật cấp quốc gia, cấp vùng, 
+liên tỉnh;  
+
+ 
+60 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+d) Hiện trạng khai thác tài nguyên nước, bảo vệ môi trường (khu vực đa dạng 
+sinh học cao, vùng đất ngập nước quan trọng, khu vực cảnh quan sinh thái quan 
+trọng, các khu bảo tồn thiên nhiên, cơ sở bảo tồn đa dạng sinh học, các hành lang 
+đa dạng sinh học liên tỉnh);  
+đ) Hiện trạng sử dụng đất của vùng trên cơ sở tổng hợp, khái quát nội dung 
+bản đồ hiện trạng sử dụng đất của các đơn vị hành chính cấp tỉnh; 
+e) Hiện trạng hệ thống đê điều, kết cấu hạ tầng phòng, chống thiên tai và ứng 
+phó với biến đổi khí hậu; 
+g) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 
+hoặc 1:500.000 (tùy theo hình dạng và diện tích của vùng). Tùy vào điều kiện 
+riêng biệt của từng vùng có thể lập các sơ đồ, bản đồ riêng cho các đối tượng của 
+ngành hoặc loại tài nguyên để đảm bảo thể hiện được nội dung quy hoạch trên sơ 
+đồ, bản đồ. 
+3. Về phương hướng phát triển hệ thống đô thị, nông thôn, bao gồm các nội 
+dung chủ yếu sau: 
+a) Định hướng phát triển hệ thống đô thị và nông thôn đã được xác định trong 
+sơ đồ, bản đồ quy hoạch cấp quốc gia trên địa bàn vùng; 
+b) Phương hướng phát triển hệ thống các đô thị từ loại II trở lên và các đô thị 
+là trung tâm tổng hợp hoặc trung tâm chuyên ngành cấp vùng; 
+c) Phương hướng phát triển vùng nông thôn (vùng sản xuất nông nghiệp tập 
+trung, khu nông nghiệp ứng dụng công nghệ cao, khu lâm nghiệp ứng dụng công 
+nghệ cao); 
+d) Phương hướng phát triển kết cấu hạ tầng liên kết hệ thống đô thị, nông thôn 
+trên lãnh thổ vùng; 
+đ) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 
+hoặc 1:500.000 (tùy theo hình dạng và diện tích của vùng). 
+4. Về phương hướng tổ chức không gian và phân vùng chức năng, bao gồm 
+các nội dung chủ yếu sau: 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+61 
+ 
+a) Phương hướng phát triển vùng động lực, cực tăng trưởng quốc gia, hành 
+lang kinh tế, vành đai kinh tế - công nghiệp - đô thị - dịch vụ;  
+b) Phương hướng phát triển các khu chức năng (khu kinh tế, khu công nghiệp, 
+khu công nghệ cao, khu du lịch, khu di tích, khu thể dục thể thao cấp quốc gia, khu 
+chức năng khác theo quy định của pháp luật); vùng sản xuất tập trung; các khu vực 
+cần bảo tồn, hạn chế phát triển (khu vực đa dạng sinh học cao, vùng đất ngập nước 
+quan trọng, khu vực cảnh quan sinh thái quan trọng, các khu bảo tồn thiên nhiên); 
+c) Phương hướng kết nối hệ thống kết cấu hạ tầng của vùng với hệ thống kết 
+cấu hạ tầng quốc gia; 
+d) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 
+hoặc 1:500.000 (tùy theo hình dạng và diện tích của vùng). 
+5. Về phương hướng phát triển kết cấu hạ tầng xã hội, bao gồm các nội dung 
+chủ yếu sau: 
+a) Phương hướng phát triển kết cấu hạ tầng xã hội đã được xác định trong sơ 
+đồ, bản đồ quy hoạch cấp quốc gia trên địa bàn vùng; phương hướng phát triển kết 
+cấu hạ tầng xã hội cấp vùng, liên tỉnh bao gồm: mạng lưới cơ sở văn hóa, cơ sở thể 
+dục, thể thao; di tích lịch sử - văn hóa, danh lam thắng cảnh, khu du lịch quốc gia; 
+mạng lưới cơ sở y tế; mạng lưới cơ sở giáo dục; mạng lưới cơ sở giáo dục nghề 
+nghiệp; trung tâm logistics cấp vùng, liên tỉnh trở lên; 
+b) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 
+hoặc 1:500.000 (tùy theo hình dạng và diện tích của vùng) và phương hướng tổ 
+chức không gian và phân vùng chức năng được quy định tại Mục II.4 của Phụ lục 
+này. Tùy vào điều kiện riêng biệt của từng vùng có thể lập các sơ đồ, bản đồ riêng 
+cho các đối tượng của ngành để đảm bảo thể hiện được nội dung quy hoạch trên sơ 
+đồ, bản đồ. 
+6. Về phương hướng phát triển kết cấu hạ tầng kỹ thuật, bao gồm các nội dung 
+chủ yếu sau:  
+a) Phương hướng phát triển kết cấu hạ tầng kỹ thuật trên lãnh thổ vùng đã 
+được xác định trong sơ đồ, bản đồ của quy hoạch cấp quốc gia trên địa bàn vùng; 
+
+ 
+62 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+phương hướng phát triển kết cấu hạ tầng kỹ thuật cấp vùng, liên tỉnh bao gồm: 
+mạng lưới giao thông; mạng lưới cấp điện, cung cấp năng lượng; mạng lưới thủy 
+lợi; hệ thống cảng cá và khu neo đậu tránh trú bão cho tàu cá; mạng lưới cấp nước; 
+khu xử lý chất thải và công trình hạ tầng kỹ thuật cấp vùng khác; 
+b) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 
+hoặc 1:500.000 (tùy theo hình dạng và diện tích của vùng) và phương hướng tổ 
+chức không gian và phân vùng chức năng được quy định tại Mục II.4 của Phụ lục 
+này. Tùy vào điều kiện riêng biệt của từng vùng có thể lập các sơ đồ, bản đồ riêng 
+cho các đối tượng của ngành để đảm bảo thể hiện được nội dung quy hoạch trên sơ 
+đồ, bản đồ. 
+7. Về phương hướng sử dụng tài nguyên, bao gồm các nội dung chủ yếu sau: 
+a) Định hướng sử dụng tài nguyên đã được xác định trong quy hoạch cấp quốc 
+gia trên địa bàn vùng; định hướng sử dụng tài nguyên cấp vùng, liên tỉnh khác; 
+b) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 
+hoặc 1:500.000 (tùy theo hình dạng và diện tích của vùng). Tùy vào điều kiện 
+riêng biệt của từng vùng có thể lập các sơ đồ, bản đồ riêng cho các đối tượng của 
+ngành hoặc loại tài nguyên để đảm bảo thể hiện được nội dung quy hoạch trên sơ 
+đồ, bản đồ. 
+8. Về phương hướng bảo vệ môi trường, bao gồm các nội dung chủ yếu sau:  
+a) Định hướng bảo vệ môi trường được xác định trong quy hoạch cấp quốc gia 
+trên địa bàn vùng; phương hướng xác lập các khu vực đa dạng sinh học cao, vùng 
+đất ngập nước quan trọng, khu vực cảnh quan sinh thái quan trọng, các khu bảo tồn 
+thiên nhiên, cơ sở bảo tồn đa dạng sinh học, các hành lang đa dạng sinh học liên 
+tỉnh; phương hướng tổ chức không gian các khu xử lý chất thải tập trung cấp vùng 
+và liên tỉnh; 
+b) Phương hướng phát triển bền vững rừng đặc dụng, rừng phòng hộ, rừng sản 
+xuất liên tỉnh và phát triển kết cấu hạ tầng lâm nghiệp đã được xác định trong sơ 
+đồ, bản đồ quy hoạch cấp quốc gia trên địa bàn vùng; 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+63 
+ 
+c) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 
+hoặc 1:500.000 (tùy theo hình dạng và diện tích của vùng). Tùy vào điều kiện 
+riêng biệt của từng vùng có thể lập các sơ đồ, bản đồ riêng cho các đối tượng của 
+ngành hoặc loại tài nguyên để đảm bảo thể hiện được nội dung quy hoạch trên sơ 
+đồ, bản đồ. 
+9. Về phương hướng phòng, chống thiên tai và ứng phó với biến đổi khí hậu, 
+bao gồm các nội dung chủ yếu sau: 
+a) Định hướng phòng, chống thiên tai và ứng phó với biến đổi khí hậu được 
+xác định trong quy hoạch cấp quốc gia trên địa bàn vùng; phương hướng phát triển 
+hệ thống đê điều, kết cấu hạ tầng phòng, chống thiên tai và ứng phó với biến đổi 
+khí hậu;  
+b) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 
+hoặc 1:500.000 (tùy theo hình dạng và diện tích của vùng). Tùy vào điều kiện 
+riêng biệt của từng vùng có thể lập các sơ đồ, bản đồ riêng cho các đối tượng của 
+ngành để đảm bảo thể hiện được nội dung quy hoạch trên sơ đồ, bản đồ. 
+10. Về vị trí các dự án và thứ tự ưu tiên thực hiện, bao gồm danh mục dự án dự 
+kiến ưu tiên đầu tư và ký hiệu thể hiện vị trí dự kiến của dự án. Các nội dung được 
+thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 hoặc 1:500.000 (tùy theo 
+hình dạng và diện tích của vùng) và phương hướng tổ chức không gian và phân 
+vùng chức năng được quy định tại Mục II.4 của Phụ lục này. 
+III. NỘI DUNG CHỦ YẾU CỦA SƠ ĐỒ, BẢN ĐỒ QUY HOẠCH TỈNH 
+1. Về vị trí và các mối quan hệ của tỉnh, bao gồm vị trí địa lý, mối quan hệ về 
+tự nhiên, kinh tế, xã hội và môi trường với các tỉnh lân cận, vùng, quốc gia, quốc 
+tế; thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:250.000 hoặc 1:500.000 hoặc 
+1:1000.000 (tùy theo hình dạng và diện tích của tỉnh). 
+2. Về hiện trạng phát triển, bao gồm các nội dung chủ yếu sau: 
+a) Hiện trạng phát triển kinh tế, xã hội;  
+b) Hiện trạng hệ thống đô thị, nông thôn; hiện trạng các khu chức năng;  
+
+ 
+64 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+c) Hiện trạng sử dụng đất;  
+d) Hiện trạng kết cấu hạ tầng xã hội;  
+đ) Hiện trạng kết cấu hạ tầng kỹ thuật; 
+e) Hiện trạng thăm dò, khai thác, sử dụng, bảo vệ tài nguyên; 
+g) Hiện trạng môi trường, bảo vệ môi trường, bảo tồn đa dạng sinh học, phòng, 
+chống thiên tai và ứng phó biến đổi khí hậu; 
+h) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 
+hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện tích của tỉnh). Tùy vào 
+điều kiện riêng biệt của từng tỉnh có thể lập các sơ đồ, bản đồ riêng cho các đối 
+tượng của ngành hoặc loại tài nguyên để đảm bảo thể hiện được nội dung quy 
+hoạch trên sơ đồ, bản đồ. 
+3. Về đánh giá tổng hợp đất đai theo các mục đích sử dụng, các nội dung được 
+thể hiện trên nền bản đồ hiện trạng sử dụng đất cấp tỉnh kết hợp bản đồ địa hình 
+quốc gia tỷ lệ 1:25.000 hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện 
+tích của tỉnh). 
+4. Về phương án quy hoạch hệ thống đô thị, nông thôn, bao gồm các nội dung 
+chủ yếu sau: 
+a) Phương án quy hoạch hệ thống đô thị (phân loại đô thị đến đô thị loại V);  
+b) Phương án tổ chức lãnh thổ khu vực nông thôn (vùng sản xuất nông nghiệp 
+tập trung, khu nông nghiệp ứng dụng công nghệ cao); 
+c) Phương án phát triển kết cấu hạ tầng liên kết hệ thống đô thị, nông thôn; 
+d) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 
+hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện tích của tỉnh). 
+5. Về phương án tổ chức không gian và phân vùng chức năng, bao gồm các nội 
+dung chủ yếu sau: 
+a) Phương án tổ chức không gian bao gồm các hành lang kinh tế, vùng động 
+lực, hệ thống đô thị, phân vùng kinh tế, xã hội, môi trường và phân vùng khác; 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+65 
+ 
+b) Phương án phân vùng chức năng bao gồm định hướng phát triển hệ thống 
+khu kinh tế; khu công nghiệp, khu chế xuất, khu công nghệ cao; khu du lịch; khu 
+nghiên cứu, đào tạo; khu thể dục thể thao; khu bảo tồn, khu vực cần được bảo 
+quản, tu bổ, phục hồi di tích lịch sử - văn hóa, danh lam thắng cảnh và đối tượng 
+đã được kiểm kê di tích; phương án phát triển các cụm công nghiệp;  
+c) Phương án kết nối hệ thống kết cấu hạ tầng của tỉnh với hệ thống kết cấu hạ 
+tầng quốc gia và vùng; 
+d) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 
+hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện tích của tỉnh). 
+6. Về phương án phát triển kết cấu hạ tầng xã hội, bao gồm các nội dung chủ 
+yếu sau:  
+a) Kết cấu hạ tầng văn hóa, thể dục, thể thao bao gồm: hạ tầng văn hóa, thể 
+dục, thể thao đã được xác định ở quy hoạch cấp quốc gia, quy hoạch vùng trên địa 
+bàn tỉnh; cơ sở văn hóa (trung tâm văn hóa; cung thiếu nhi hoặc nhà thiếu nhi hoặc 
+trung tâm hoạt động thanh thiếu nhi; cung văn hóa lao động, nhà văn hóa lao động; 
+bảo tàng, triển lãm, thư viện; nhà hát...); cơ sở thể dục, thể thao (khu liên hợp thể 
+thao, trung tâm thể thao, sân vận động, cơ sở tập luyện, huấn luyện, thi đấu thể 
+dục, thể thao khác...) cấp tỉnh; 
+b) Kết cấu hạ tầng thương mại, bao gồm: chợ hạng I; trung tâm logistics cấp 
+quốc gia, cấp tỉnh;  
+c) Kết cấu hạ tầng giáo dục và đào tạo, cơ sở giáo dục nghề nghiệp công lập 
+bao gồm: cơ sở giáo dục đại học (đại học, trường đại học, học viện), cơ sở giáo dục 
+nghề nghiệp (trung tâm giáo dục nghề nghiệp, trường trung cấp, trường cao đẳng) 
+được xác định trong quy hoạch cấp quốc gia, quy hoạch vùng; cơ sở giáo dục 
+phổng thông, trường chuyên biệt cấp tỉnh, liên huyện trở lên (trường trung học phổ 
+thông; trường liên cấp trung học cơ sở và trung học phổ thông, trường liên cấp tiểu 
+học, trung học cơ sở và trung học phổ thông; trường phổ thông dân tộc nội trú, 
+trường dự bị đại học; trường chuyên, trường năng khiếu; trường dành cho người 
+tàn tật, khuyết tật; trường giáo dưỡng); 
+
+ 
+66 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+d) Kết cấu hạ tầng y tế: cơ sở y tế được xác định trong quy hoạch cấp quốc gia, 
+quy hoạch vùng; cơ sở y tế thuộc phạm vi quản lý từ cấp tỉnh, liên huyện trở lên 
+(cơ sở khám bệnh, chữa bệnh, phục hồi chức năng; cơ sở y tế dự phòng, y tế công 
+cộng; cơ sở giám định y khoa, pháp y, pháp y tâm thần, cơ sở y tế khác); 
+đ) Kết cấu hạ tầng bảo trợ xã hội công lập bao gồm: cơ sở an sinh xã hội, trợ 
+giúp xã hội được xác định trong quy hoạch cấp quốc gia; cơ sở xã hội nuôi dưỡng, 
+điều dưỡng người có công với cách mạng, cơ sở trợ giúp xã hội cấp tỉnh (cơ sở bảo 
+trợ xã hội chăm sóc người cao tuổi, cơ sở bảo trợ xã hội chăm sóc trẻ em có hoàn 
+cảnh đặc biệt, cơ sở bảo trợ xã hội chăm sóc người khuyết tật, cơ sở bảo trợ xã hội 
+chăm sóc và phục hồi chức năng cho người tâm thần, người rối nhiễu tâm trí, cơ sở 
+bảo trợ xã hội tổng hợp);  
+g) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 
+hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện tích của tỉnh) và phương 
+án tổ chức không gian và phân vùng chức năng được quy định tại Mục III.5 của 
+Phụ lục này. Tùy vào điều kiện riêng biệt của từng tỉnh có thể lập các sơ đồ, bản đồ 
+riêng cho các đối tượng của ngành để đảm bảo thể hiện được nội dung quy hoạch 
+trên sơ đồ, bản đồ. 
+7. Về phương án phát triển kết cấu hạ tầng kỹ thuật, bao gồm các nội dung chủ 
+yếu sau: 
+a) Mạng lưới giao thông: Mạng lưới đường cao tốc, quốc lộ, đường sắt; các 
+tuyến đường thủy nội địa và đường hàng hải; các cảng biển, cảng hàng không, sân 
+bay; mạng lưới đường bộ, đường thủy liên tỉnh, cảng cạn đã được xác định trong 
+quy hoạch cấp quốc gia, quy hoạch vùng trên địa bàn; mạng lưới đường tỉnh; mạng 
+lưới đường đô thị liên quận, huyện có vai trò kết nối các khu vực phát triển quan 
+trọng của tỉnh; 
+b) Mạng lưới cấp điện: Nguồn điện, mạng lưới truyền tải điện đã được xác 
+định trong quy hoạch cấp quốc gia, quy hoạch vùng; mạng lưới điện truyền tải và 
+lưới điện phân phối liên huyện trên địa bàn tỉnh; các nguồn điện vừa và nhỏ (công 
+suất đặt từ 50MW trở xuống); 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+67 
+ 
+c) Mạng lưới thủy lợi: Mạng lưới thủy lợi quy mô vùng, liên tỉnh đã được xác 
+định trong quy hoạch cấp quốc gia, quy hoạch vùng; mạng lưới thủy lợi liên huyện 
+(phân vùng tưới, tiêu thoát nước; công trình đầu mối tưới, tiêu thoát nước; hệ 
+thống kênh dẫn, chuyển nước chính); 
+d) Mạng lưới cấp nước: Mạng lưới cấp nước sạch quy mô vùng, liên tỉnh đã 
+được xác định trong quy hoạch cấp quốc gia, quy hoạch vùng trên địa bàn; mạng 
+lưới cấp nước sạch liên huyện (phân vùng cấp nước; nhà máy nước); 
+đ) Khu xử lý chất thải và nghĩa trang: Các khu xử lý chất thải đã được xác định 
+trong quy hoạch cấp quốc gia, quy hoạch vùng; các khu xử lý chất thải, khu nghĩa 
+trang cấp tỉnh, liên huyện; 
+e) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 
+hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện tích của tỉnh) và phương 
+án tổ chức không gian và phân vùng chức năng được quy định tại Mục III.5 của 
+Phụ lục này. Tùy vào điều kiện riêng biệt của từng tỉnh có thể lập các sơ đồ, bản đồ 
+riêng cho các đối tượng của ngành để đảm bảo thể hiện được nội dung quy hoạch 
+trên sơ đồ, bản đồ. 
+8. Về phương án quy hoạch sử dụng đất (phương án phân bổ và khoanh vùng 
+các chỉ tiêu sử dụng đất): 
+a) Đối với khoanh vùng chỉ tiêu sử dụng đất cấp quốc gia về đất khu công 
+nghiệp, đất khu kinh tế, đất khu công nghệ cao, đất đô thị thực hiện như sau: 
+- Trong trường hợp có căn cứ pháp lý theo quy định pháp luật, khoanh vùng dự 
+kiến theo chỉ tiêu sử dụng đất khu công nghiệp, đất khu kinh tế, đất khu công nghệ 
+cao, đất đô thị; 
+- Trong trường hợp chưa có đầy đủ các căn cứ pháp lý để khoanh vùng đất khu 
+công nghiệp, đất khu kinh tế, đất khu công nghệ cao, đất đô thị theo quy định pháp 
+luật, thể hiện ký hiệu về vị trí dự kiến của khu công nghiệp, khu kinh tế, khu công 
+nghệ cao và đô thị quy định tại Phụ lục II của Thông tư này. 
+b) Đối với chỉ tiêu sử dụng đất khác, việc khoanh vùng theo các chỉ tiêu sử 
+dụng đất thể hiện định hướng phát triển và dự kiến sắp xếp không gian; chưa xác 
+
+ 
+68 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+định vị trí và ranh giới chính xác và sẽ được cụ thể hóa trong quy hoạch đô thị, quy 
+hoạch nông thôn, quy hoạch, kế hoạch sử dụng đất cấp huyện, quy hoạch có tính 
+chất kỹ thuật, chuyên ngành khác, hoặc trong giai đoạn lập, thẩm định, chấp thuận 
+hoặc quyết định chủ trương đầu tư, quyết định đầu tư. Việc khoanh vùng theo các 
+chỉ tiêu sử dụng đất thực hiện như sau: 
+- Khoanh vùng dự kiến theo các chỉ tiêu sử dụng đất được khái quát hóa, làm 
+trơn, bảo đảm diện tích tối thiểu mỗi khoanh vùng là 12,5 ha đối với tỷ lệ 1:25.000 
+và 50 ha đối với tỷ lệ 1:50.000 và 1:100.000; ưu tiên khoanh vùng dự kiến theo 
+đường trục chính đô thị, đường huyện trở lên. Khoanh vùng dự kiến theo các chỉ 
+tiêu sử dụng đất có diện tích nhỏ hơn diện tích tối thiểu thì được ghép vào khoanh 
+vùng lớn hơn liền kề; 
+- Đối với các khu vực quan trọng của tỉnh có căn cứ pháp lý để xác định phạm 
+vi ranh giới và các đảo có diện tích nhỏ hơn quy định trên đây thì thể hiện khoanh 
+vùng kèm theo ghi chú tên khu vực, đảo mà không thực hiện khái quát hóa; 
+c) Ký hiệu loại đất của khoanh vùng dự kiến chỉ tiêu sử dụng đất bao gồm mã 
+và màu loại đất tuân thủ quy định tại Phụ lục II của Thông tư này. Đối với khoanh 
+vùng của khu vực tổng hợp có nhiều loại đất thì mã loại đất có diện tích lớn nhất 
+đứng trước, mã loại đất khác đứng tiếp sau trong ngoặc đơn; màu ký hiệu của 
+khoanh vùng đất là màu của loại đất có diện tích lớn nhất; 
+d) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 
+hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện tích của tỉnh). 
+9. Về phương án thăm dò, khai thác, sử dụng, bảo vệ tài nguyên, bao gồm các 
+nội dung chủ yếu sau: 
+a) Định hướng sử dụng tài nguyên đã được xác định trong quy hoạch cấp quốc 
+gia, quy hoạch vùng trên địa bàn; 
+b) Khoanh định khu vực mỏ, loại tài nguyên khoáng sản dự kiến đầu tư thăm 
+dò, khai thác đối với loại khoáng sản thuộc thẩm quyền cấp phép của Ủy ban nhân 
+dân cấp tỉnh được quy định tại khoản 2 Điều 82 Luật Khoáng sản;  
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+69 
+ 
+c) Phương án khai thác, sử dụng, bảo vệ tài nguyên nước, phòng, chống khắc 
+phục hậu quả tác hại do nước gây ra: Phân vùng chức năng của nguồn nước; 
+phương án ưu tiên phân bổ trong trường hợp bình thường và hạn hán, thiếu nước; 
+định hướng nguồn nước dự phòng để cấp nước sinh hoạt; định hướng phát triển hệ 
+thống giám sát tài nguyên nước và khai thác, sử dụng nước; công trình điều tiết, 
+khai thác, sử dụng, phát triển tài nguyên nước; giải pháp bảo vệ nguồn nước, phục 
+hồi nguồn nước bị ô nhiễm hoặc bị suy thoái, cạn kiệt để bảo đảm chức năng của 
+nguồn nước; hệ thống giám sát chất lượng nước, giám sát xả nước thải vào nguồn nước; 
+d) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 
+hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện tích của tỉnh). Tùy vào 
+điều kiện riêng biệt của từng tỉnh có thể lập các sơ đồ, bản đồ riêng cho các đối 
+tượng của ngành hoặc loại tài nguyên để đảm bảo thể hiện được nội dung quy 
+hoạch trên sơ đồ, bản đồ. 
+10. Về phương án bảo vệ môi trường, bảo tồn đa dạng sinh học, phòng, chống 
+thiên tai và ứng phó biến đổi khí hậu, bao gồm các nội dung chủ yếu sau: 
+a) Phương án phân vùng môi trường trên địa bàn tỉnh theo vùng bảo vệ nghiêm 
+ngặt, vùng hạn chế phát thải và vùng khác; phương án phát triển các khu xử lý chất 
+thải tập trung trên địa bàn tỉnh; 
+b) Dự kiến vị trí khu vực đa dạng sinh học cao, vùng đất ngập nước quan 
+trọng, khu vực cảnh quan sinh thái quan trọng, hành lang đa dạng sinh học, khu 
+bảo tồn thiên nhiên, cơ sở bảo tồn đa dạng sinh học trên địa bàn tỉnh; 
+c) Phương án phát triển bền vững rừng đặc dụng, rừng phòng hộ, rừng sản xuất 
+trên địa bàn tỉnh đã được xác định trong quy hoạch lâm nghiệp quốc gia và các 
+định hướng phát triển rừng bền vững trên địa bàn tỉnh; 
+d) Phân vùng rủi ro đối với các loại hình thiên tai điển hình trên địa bàn phù 
+hợp với kịch bản biến đổi khí hậu; 
+đ) Phương án phòng chống lũ của các tuyến sông có đê; phương án phát triển 
+hệ thống đê điều, kết cấu hạ tầng phòng, chống thiên tai và ứng phó với biến đổi 
+khí hậu trên địa bàn tỉnh; 
+
+ 
+70 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+e) Các nội dung được thể hiện trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 
+hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình dạng và diện tích của tỉnh). Tùy vào 
+điều kiện riêng biệt của từng tỉnh có thể lập các sơ đồ, bản đồ riêng cho các đối 
+tượng của ngành hoặc loại tài nguyên để đảm bảo thể hiện được nội dung quy 
+hoạch trên sơ đồ, bản đồ. 
+11. Về phương án quy hoạch xây dựng vùng liên huyện, vùng huyện, bao gồm: 
+Phạm vi vùng liên huyện, vùng huyện; định hướng hệ thống các thị trấn; định 
+hướng phát triển mạng lưới giao thông từ cấp huyện trở lên; thể hiện trên nền bản 
+đồ địa hình quốc gia tỷ lệ 1:25.000 hoặc 1:50.000 hoặc 1:100.000 (tùy theo hình 
+dạng và diện tích của tỉnh) và phương án quy hoạch hệ thống đô thị, nông thôn quy 
+định tại mục III.4 của Phụ lục này.  
+12. Về vị trí các dự án và thứ tự ưu tiên thực hiện, bao gồm danh mục dự án dự 
+kiến ưu tiên đầu tư của tỉnh và ký hiệu thể hiện vị trí dự kiến của dự án; thể hiện 
+trên nền bản đồ địa hình quốc gia tỷ lệ 1:25.000 hoặc 1:50.000 hoặc 1:100.000 (tùy 
+theo hình dạng và diện tích của tỉnh) và phương án tổ chức không gian và phân 
+vùng chức năng quy định tại mục III.5 của Phụ lục này. 
+ 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+71 
+ 
+Phụ lục II 
+BỐ CỤC VÀ HỆ THỐNG KÝ HIỆU CỦA SƠ ĐỒ, BẢN ĐỒ QUY HOẠCH 
+TỔNG THỂ QUỐC GIA, QUY HOẠCH VÙNG VÀ QUY HOẠCH TỈNH 
+(Ban hành kèm theo Thông tư số 04/2023/TT-BKHĐT ngày 26 tháng 6 năm 2023 
+ của Bộ Kế hoạch và Đầu tư) 
+ 
+I. BỐ CỤC  
+1. Bố cục chung 
+Bố cục sơ đồ, bản đồ quy hoạch tổng thể quốc gia, quy hoạch vùng và quy 
+hoạch tỉnh bao gồm 06 thành phần nội dung được bố trí như sau: 
+ 
+ 
+
+ 
+72 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+STT 
+Thể thức 
+A. Các thành phần bên ngoài khung  
+1 
+Tên sơ đồ, bản đồ quy hoạch đặt cân giữa tờ sơ đồ, bản đồ  
+2 
+Tỷ lệ sơ đồ, bản đồ kèm theo thước tỷ lệ tương ứng đặt cân giữa tờ sơ đồ, 
+bản đồ 
+B. Khung và các thành phần bên trong khung  
+3 
+Khung, lưới tọa độ và tọa độ địa lý: 
+- Khung có thể bố trí theo chiều dọc hoặc theo chiều ngang của tờ giấy.  
+- Lưới tọa độ và tọa độ địa lý tương tứng với bản đồ địa hình quốc gia 
+cùng tỷ lệ. Lưới tọa độ và tọa độ địa lý không thể hiện trong các sơ đồ, 
+bản đồ về vị trí và các mối quan hệ. 
+4 
+Chỉ hướng Bắc đặt ở góc trên bên phải. Tùy vào hình dạng đặc thù của 
+phạm vi ranh giới lập quy hoạch, nội dung này có thể đặt ở góc trên bên 
+trái để bảo đảm thể hiện nội dung sơ đồ, bản đồ quy hoạch. 
+5 
+Chú giải và ký hiệu của sơ đồ, bản đồ quy hoạch đặt ở góc dưới bên trái. 
+Tùy vào hình dạng đặc thù của phạm vi ranh giới lập quy hoạch, nội dung 
+này có thể đặt vị trí khác nằm ngoài phạm vi ranh giới lập quy hoạch để 
+bảo đảm thể hiện nội dung sơ đồ, bản đồ quy hoạch. 
+6 
+Phần ký xác nhận của cơ quan, tổ chức có liên quan đặt ở góc dưới bên 
+phải. Tùy vào hình dạng đặc thù của phạm vi ranh giới lập quy hoạch, nội 
+dung này có thể đặt ở góc dưới bên trái để bảo đảm thể hiện nội dung sơ 
+đồ, bản đồ quy hoạch. 
+2. Bố cục phần ký xác nhận 
+Bố cục phần ký xác nhận của sơ đồ, bản đồ quy hoạch kèm theo hồ sơ trình 
+thẩm định quy hoạch, hồ sơ trình phê duyệt quy hoạch, hồ sơ quy hoạch đã cập 
+nhật, bổ sung hoàn thiện theo văn bản quyết định hoặc phê duyệt quy hoạch quy 
+định như sau: 
+
+ 
+ 
+73 
+   
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+     73
+a) Đối với quy hoạch tổng thể q uốc gia, quy hoạch vùng 
+Tên quy hoạch: 
+QUY HOẠCH..... 
+Tên sơ đồ, bản đồ: 
+SƠ ĐỒ............ 
+TỶ LỆ:..... 
+(Kèm theo hồ sơ trình thẩm định, trình quyết định hoặc phê duyệt quy hoạch tại Tờ trình số...  
+ngày... tháng... năm... của....; hoặc đã hoàn thiện theo văn bản quyết định hoặc phê duyệt quy hoạch số...  
+ngày... tháng... năm... của....) 
+BỘ KẾ HOẠCH VÀ ĐẦU TƯ 
+ 
+ 
+Hà Nội, ngày... tháng... năm... 
+ 
+(Chữ ký của người có thẩm 
+quyền, dấu/chữ ký của  
+cơ quan, tổ chức) 
+ 
+CƠ QUAN, TỔ CHỨC CÓ 
+LIÊN QUAN (Nếu có) 
+ 
+Hà Nội, ngày... tháng... năm...
+ 
+(Chữ ký của người  
+có thẩm quyền, dấu/chữ ký  
+của cơ quan, tổ chức) 
+TÊN TỔ CHỨC TƯ VẤN 
+LẬP QUY HOẠCH 
+ 
+Hà Nội, ngày... tháng... năm...
+ 
+(Chữ ký của người có thẩm 
+quyền, dấu/chữ ký của  
+cơ quan, tổ chức) 
+TÊN TỔ CHỨC TƯ VẤN 
+LẬP HỢP PHẦN QUY HOẠCH 
+(Nếu có) 
+Hà Nội, ngày... tháng... năm... 
+ 
+(Chữ ký của người có thẩm 
+quyền, dấu/chữ ký của  
+cơ quan, tổ chức) 
+Hệ tọa độ: VN-2000 
+Nguồn tài liệu:.... 
+
+ 
+ 
+74 
+74 
+  
+74 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+b) Đối với quy hoạch tỉnh 
+ 
+Tên quy hoạch: 
+QUY HOẠCH ..... 
+Tên sơ đồ, bản đồ: 
+SƠ ĐỒ............ 
+TỶ LỆ:..... 
+(Kèm theo hồ sơ trình thẩm định, trình quyết định hoặc phê duyệt quy hoạch tại Tờ trình số... ngày... tháng... năm... của....;  
+hoặc đã cập nhật, bổ sung, hoàn thiện theo văn bản quyết định hoặc phê duyệt quy hoạch số... ngày... tháng... năm... của...) 
+ỦY BAN NHÂN DÂN 
+TỈNH... 
+ 
+ 
+..., ngày... tháng... năm... 
+ 
+(Chữ ký của người  
+có thẩm quyền, dấu/chữ ký  
+của cơ quan, tổ chức) 
+ 
+TÊN CƠ QUAN LẬP QUY 
+HOẠCH TỈNH 
+(Ví dụ: Sở KHĐT, Ban Chỉ đạo 
+lập quy hoạch tỉnh...) 
+..., ngày... tháng... năm... 
+ 
+(Chữ ký của người  
+có thẩm quyền, dấu/chữ ký  
+của cơ quan, tổ chức) 
+CƠ QUAN, TỔ CHỨC CÓ 
+LIÊN QUAN (Nếu có) 
+(Ví dụ: Sở, ban, ngành chuyên 
+môn của UBND cấp tỉnh...) 
+..., ngày... tháng... năm... 
+ 
+(Chữ ký của người  
+có thẩm quyền, dấu/chữ ký  
+của cơ quan, tổ chức) 
+TÊN TỔ CHỨC TƯ VẤN 
+LẬP QUY HOẠCH 
+ 
+ 
+..., ngày... tháng... năm... 
+ 
+(Chữ ký của người  
+có thẩm quyền, dấu/chữ ký  
+của cơ quan, tổ chức) 
+Hệ tọa độ: VN-2000 
+Nguồn tài liệu:.... 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+75 
+ 
+ 
+II. HỆ THỐNG KÝ HIỆU 
+1. Quy định chung 
+a) Ký hiệu thể hiện lưới tọa độ, biên giới quốc gia, địa giới hành chính các cấp 
+trên đất liền, đường ranh giới hành chính các cấp trên biển, các yếu tố thể hiện đặc 
+trưng cơ bản về địa hình, thủy văn của khu vực lập quy hoạch thực hiện theo quy 
+định về bản đồ địa hình quốc gia; 
+b) Ký hiệu các đối tượng địa lý dạng tuyến hoặc dạng vùng thể hiện định 
+hướng phát triển của quy hoạch thể hiện bằng nét đứt; 
+c) Tùy theo mật độ các đối tượng cần thể hiện, kích thước ký hiệu và chú giải 
+thông tin về từng đối tượng có thể điều chỉnh cho phù hợp.  
+2. Quy định cụ thể: Xem bảng ký hiệu. 
+ 
+
+ 
+76 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+ 
+76
+ 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+77 
+ 
+ 
+ 
+
+ 
+78 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+ 
+78
+ 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+79 
+ 
+ 
+ 
+
+ 
+80 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+ 
+80
+ 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+81 
+ 
+ 
+ 
+
+ 
+82 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+ 
+82
+Phụ lục III 
+QUY CÁCH ĐẶT TÊN, GÁN MÃ NHẬN DẠNG VÀ DANH MỤC 
+ĐỐI TƯỢNG ĐỊA LÝ CỦA CƠ SỞ DỮ LIỆU ĐỊA LÝ QUY HOẠCH TỔNG 
+THỂ QUỐC GIA, QUY HOẠCH VÙNG, QUY HOẠCH TỈNH 
+(Kèm theo Thông tư số 04/2023/TT-BKHĐT ngày 26 tháng 6 năm 2023 
+của Bộ Kế hoạch và Đầu tư) 
+ 
+Mục 1 
+QUY CÁCH ĐẶT TÊN 
+ 
+I. TÊN GÓI DỮ LIỆU 
+1. Tên gói dữ liệu quy hoạch tổng thể quốc gia, quy hoạch vùng 
+a) Tên gói dữ liệu quy hoạch tổng thể quốc gia là TongTheQuocGia.gdb 
+b) Tên gói dữ liệu quy hoạch vùng 
+- Cách đặt tên: [Tên quy hoạch viết tắt theo tên vùng].gdb 
+- Quy ước: Viết hoa chữ cái đầu của từng từ, viết liền không dấu và không có 
+ký tự đặc biệt.  
+Ví dụ: Tên gói dữ liệu Quy hoạch vùng Đồng bằng sông Cửu Long là 
+DongBangSongCuuLong.gdb 
+2. Tên gói dữ liệu quy hoạch tỉnh 
+- Cách đặt tên: [Tên quy hoạch viết tắt theo tên tỉnh, thành phố trực thuộc 
+Trung ương].gdb 
+- Quy ước: Viết hoa chữ cái đầu của từng từ, viết liền không dấu và không có 
+ký tự đặc biệt.  
+Ví dụ: Tên gói dữ liệu Quy hoạch tỉnh Bắc Giang là BacGiang.gdb 
+II. TÊN NHÓM LỚP ĐỐI TƯỢNG, LỚP ĐỐI TƯỢNG, TRƯỜNG 
+THÔNG TIN THUỘC TÍNH 
+1. Tên nhóm lớp đối tượng 
+- Cách đặt tên: [Tên nhóm lớp đối tượng].gdb 
+- Quy ước: Viết hoa chữ cái đầu của từng từ, viết liền không dấu và không có 
+ký tự đặc biệt.  
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+83 
+ 
+ 
+Tên nhóm lớp đối tượng chính của cơ sở dữ liệu địa lý quy hoạch tổng thể 
+quốc gia, quy hoạch vùng, quy hoạch tỉnh quy định như sau: 
+STT 
+Chủ đề 
+Tên nhóm lớp đối tượng 
+1 
+Kinh tế - xã hội và đầu tư 
+KinhTeXaHoiDauTu 
+2 
+Xây dựng 
+XayDung 
+3 
+Công nghiệp và thương mại 
+CongThuong 
+4 
+Nông nghiệp và phát triển nông thôn NongNghiepPhatTrienNongThon
+5 
+Tài nguyên và môi trường 
+TaiNguyenMoiTruong 
+6 
+Văn hóa, thể thao và du lịch 
+VanHoaTheThaoDuLich 
+7 
+Giao thông vận tải 
+GiaoThongVanTai 
+8 
+Thông tin và truyền thông 
+ThongTinTruyenThong 
+9 
+Khoa học và công nghệ 
+KhoaHocCongNghe 
+10 
+Y tế 
+YTe 
+11 
+Giáo dục và đào tạo 
+GiaoDucDaoTao 
+12 
+Lao động - Thương binh và xã hội 
+LaoDongThuongBinhXaHoi 
+13 
+Quốc phòng, an ninh  
+QuocPhongAnNinhNgoaiGiao 
+14 
+Ngoại giao 
+NgoaiGiao 
+2. Tên lớp, nhóm lớp dữ liệu 
+- Cách đặt tên: [Tên lớp dữ liệu]_[kiểu hình học] 
+- Quy ước:  
++ Đối với tên lớp dữ liệu: Viết hoa chữ cái đầu của từng từ, viết liền không dấu 
+và không có ký tự đặc biệt.  
++ Đối với kiểu dữ liệu hình học quy ước như sau:  
+Kiểu dữ liệu hình học 
+Ký hiệu 
+Dạng vùng (GM_Polygon) 
+A 
+Dạng điểm (GM_Point) 
+P 
+Dạng đường (GM_Line hoặc GM_Polyline) 
+L 
+
+ 
+84 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+ 
+84
+Ví dụ: Lớp Hiện trạng hệ thống đô thị có kiểu dữ liệu hình học dạng điểm đặt 
+tên HienTrangDoThi_P 
+3. Tên trường thông tin thuộc tính 
+Quy ước: Viết hoa chữ cái đầu của từng ngoại trừ từ đầu tiên; viết liền không 
+dấu và không có ký tự đặc biệt. Ví dụ: Trường thông tin mã đối tượng đặt tên là 
+maDoiTuong 
+Tên các lớp dữ liệu, trường thông tin chính của cơ sở dữ liệu địa lý quy hoạch tổng 
+thể quốc gia, quy hoạch vùng, quy hoạch tỉnh được quy định tại Mục 3 Phụ lục này. 
+ 
+Mục 2 
+QUY TẮC GÁN MÃ NHẬN DẠNG CỦA ĐỐI TƯỢNG ĐỊA LÝ 
+ 
+Mã nhận dạng của mỗi đối tượng địa lý trong danh mục đối tượng địa lý quy 
+hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch tỉnh là dãy mã số duy nhất 
+xác định từng đối tượng địa lý, bao gồm ba (03) phần được đặt liên tiếp nhau, cụ 
+thể như sau: 
+- Phần thứ nhất là mã cơ sở dữ liệu địa lý quy hoạch, bao gồm 03 ký tự được 
+quy định tại phần I Mục này; 
+- Phần thứ hai là mã tên kiểu đối tượng địa lý trong danh mục đối tượng địa lý, 
+bao gồm 04 ký tự quy định tại phần II Mục này; 
+- Phần thứ ba là số thứ tự của đối tượng địa lý cùng kiểu trong tập dữ liệu, bao 
+gồm 08 chữ số Ả rập bắt đầu từ 00000001. 
+I. MÃ CƠ SỞ DỮ LIỆU ĐỊA LÝ QUY HOẠCH 
+1. Ký tự thứ nhất là chữ cái Latinh viết hoa thay cho tên cấp quy hoạch quy 
+định như sau: 
+Mã 
+Cấp quy hoạch 
+G 
+Quy hoạch cấp quốc gia 
+V 
+Quy hoạch cấp vùng 
+T 
+Quy hoạch cấp tỉnh 
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+85 
+ 
+ 
+2. Hai ký tự tiếp theo là hai chữ số Ả rập thay cho tên quy hoạch được quy 
+định như sau: 
+- Đối với quy hoạch tổng thể quốc gia 
+Mã 
+Quy hoạch 
+01 
+Quy hoạch tổng thể quốc gia  
+- Đối với quy hoạch vùng 
+Mã 
+Quy hoạch 
+01 
+Quy hoạch vùng Trung du miền núi phía Bắc  
+02 
+Quy hoạch vùng Đồng bằng sông Hồng  
+03 
+Quy hoạch vùng Bắc Trung bộ và Duyên hải miền Trung  
+04 
+Quy hoạch vùng Tây Nguyên  
+05 
+Quy hoạch vùng Đông Nam Bộ 
+06 
+Quy hoạch vùng Đồng bằng sông Cửu Long  
+- Đối với quy hoạch tỉnh, được gán theo mã số đơn vị hành chính Việt Nam 
+ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ 
+tướng Chính phủ. 
+II. MÃ TÊN KIỂU ĐỐI TƯỢNG ĐỊA LÝ  
+Mã tên kiểu đối tượng địa lý trong danh mục đối tượng địa lý quy hoạch tổng 
+thể quốc gia, quy hoạch vùng, quy hoạch tỉnh bao gồm 05 ký tự được đặt liên tiếp 
+nhau theo quy định như sau: 
+1. Ký tự thứ nhất là chữ cái Latinh viết hoa thay cho tên chủ đề dữ liệu được 
+quy định như sau: 
+Mã 
+Chủ đề 
+L 
+Kinh tế - xã hội và đầu tư 
+M 
+Xây dựng 
+N 
+Công nghiệp và thương mại 
+
+ 
+86 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+  
+ 
+86
+Mã 
+Chủ đề 
+P 
+Nông nghiệp và phát triển nông thôn 
+Q 
+Tài nguyên và môi trường 
+R 
+Văn hóa, thể thao và du lịch 
+S 
+Giao thông vận tải 
+T 
+Thông tin và truyền thông 
+U 
+Khoa học và công nghệ 
+V 
+Y tế 
+W 
+Giáo dục và đào tạo 
+X 
+Lao động - Thương binh và xã hội 
+Y 
+Quốc phòng, an ninh 
+Z 
+Ngoại giao 
+3. Ký tự tiếp theo là chữ cái Latinh viết hoa thay cho phân loại nhóm đối tượng 
+dữ liệu được quy định như sau: 
+Mã 
+Phân loại dữ liệu 
+H 
+Dữ liệu hiện trạng 
+Q 
+Dữ liệu định hướng phát triển 
+K 
+Dữ liệu khác  
+4. Hai ký tự tiếp theo là hai chữ số Ả rập bắt đầu từ 01 lần lượt theo thứ tự của 
+tên kiểu đối tượng trong nhóm đối tượng dữ liệu hiện trạng, dữ liệu định hướng 
+phát triển, dữ liệu khác. 
+Mã tên của các kiểu đối tượng địa lý chính của cơ sở dữ liệu quy hoạch tổng 
+thể quốc gia, quy hoạch vùng, quy hoạch tỉnh được quy định tại Mục 3 của Phụ 
+lục này.  
+
+ 
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+87 
+ 
+ 
+Ví dụ: T19-MH02-00000001 
+- T19 là mã cơ sở dữ liệu địa lý quy hoạch tỉnh Thái Nguyên, trong đó: T là ký 
+tự viết tắt cho quy hoạch tỉnh; 19 là ký tự viết tắt cho tỉnh Thái Nguyên; 
+- MH01 là mã tên kiểu đối tượng địa lý về Hiện trạng hệ thống đô thị, trong 
+đó: M là ký tự viết tắt cho chủ đề dữ liệu về Xây dựng; H là ký tự viết tắt cho nhóm 
+dữ liệu hiện trạng; 01 là số thứ tự của kiểu đối tượng địa lý (Hiện trạng hệ thống 
+đô thị) trong nhóm dữ liệu hiện trạng. 
+- 00000001 là số thứ tự của đô thị thứ nhất trong tập dữ liệu về Hiện trạng hệ thống 
+đô thị. 
+
+ 
+ 
+88 
+88 
+  
+88 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+Mục 3  
+DANH MỤC ĐỐI TƯỢNG ĐỊA LÝ 
+Danh mục từ viết tắt 
+GM_Point 
+Đối tượng dạng điểm 
+GM_Polygon 
+Đối tượng dạng vùng 
+GM_Polyline 
+Đối tượng dạng đường 
+CharacterString 
+Kiểu dữ liệu xâu ký tự 
+Date 
+Kiểu dữ liệu ngày - tháng - năm 
+Integer 
+Kiểu dữ liệu số nguyên 
+Long Integer 
+Kiểu dữ liệu số nguyên lớn (kích thước 4 byte, giá trị từ -2,147,483,648 tới 2,147,483,647) 
+Real 
+Kiểu dữ liệu số thực 
+Ghi chú: 
+* là các đối tượng địa lý không bắt buộc 
+1. Kinh tế - xã hội và đầu tư 
+Kiểu đối tượng địa lý 
+Phạm vi áp dụng và kiểu dữ liệu hình học 
+Mã tên kiểu đối tượng
+TT 
+Dữ liệu 
+hiện 
+trạng 
+Dữ liệu 
+định hướng 
+phát triển 
+Tên 
+Mô tả 
+Tên lớp 
+Trường thuộc tính 
+Kiểu dữ liệu 
+ thuộc tính 
+Yêu cầu 
+Tên (nhãn)/Mô tả thuộc tính 
+Quy hoạch 
+tổng thể  
+quốc gia 
+Quy hoạch 
+vùng 
+Quy hoạch 
+tỉnh 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên vùng 
+dienTich 
+Real 
+Bắt buộc 
+Diện tích ước tính của vùng (km2) 
+danSo 
+Long Integer 
+Bắt buộc 
+Dân số trung bình của vùng (người) 
+nam 
+Integer 
+Bắt buộc 
+Năm cập nhật 
+1 
+LH01 
+ 
+Hiện trạng 
+kinh tế - xã 
+hội vùng 
+Là hiện trạng phát 
+triển kinh tế - xã 
+hội của vùng được 
+phân tích, đánh giá 
+trong quy hoạch. 
+HienTrangKinhTe
+XaHoiVung 
+nguon 
+CharacterString 
+Bắt buộc 
+Nguồn gốc dữ liệu 
+GM_Polygon 
+GM_Polygon 
+  
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên tỉnh, thành phố trực thuộc Trung ương 
+dienTich 
+Real 
+Bắt buộc 
+Tổng diện tích đất tự nhiên của tỉnh, thành 
+phố trực thuộc Trung ương (km2) 
+2 
+LH02 
+ 
+Hiện trạng 
+kinh tế -xã 
+hội cấp tỉnh* 
+Là hiện trạng phát 
+triển kinh tế - xã 
+hội chi tiết đến đơn 
+vị hành chính cấp 
+tỉnh được phân 
+tích, đánh giá trong 
+quy hoạch 
+HienTrangKinhTe
+XaHoiCapTinh 
+danSo 
+Long Integer 
+Bắt buộc 
+Dân số trung bình của tỉnh, thành phố trực 
+thuộc Trung ương (người) 
+GM_Polygon 
+GM_Polygon 
+GM_Polygon 
+
+ 
+ 
+89 
+   
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+     89
+Kiểu đối tượng địa lý 
+Phạm vi áp dụng và kiểu dữ liệu hình học 
+Mã tên kiểu đối tượng
+TT 
+Dữ liệu 
+hiện 
+trạng 
+Dữ liệu 
+định hướng 
+phát triển 
+Tên 
+Mô tả 
+Tên lớp 
+Trường thuộc tính 
+Kiểu dữ liệu 
+ thuộc tính 
+Yêu cầu 
+Tên (nhãn)/Mô tả thuộc tính 
+Quy hoạch 
+tổng thể  
+quốc gia 
+Quy hoạch 
+vùng 
+Quy hoạch 
+tỉnh 
+GRDP 
+real 
+Có thể Null Tổng sản phẩm trên địa bàn của tỉnh, thành 
+phố trực thuộc Trung ương 
+gdpBinhQuanDau 
+Nguoi 
+real 
+Có thể Null Tổng sản phẩm (GDP) bình quân đầu người 
+của tỉnh, thành phố trực thuộc Trung ương 
+(tính bằng USD). 
+tongVonDauTuToan
+XaHoi 
+Real 
+Có thể Null Tổng vốn đầu tư toàn xã hội của tỉnh, thành 
+phố trực thuộc Trung ương. 
+nam 
+Integer 
+Bắt buộc 
+Năm cập nhật. 
+ 
+ 
+ 
+ 
+ 
+ 
+nguon 
+CharacterString 
+Bắt buộc 
+Nguồn gốc dữ liệu. 
+ 
+ 
+ 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên đơn vị hành chính cấp huyện 
+dienTich 
+Real 
+Bắt buộc 
+Tổng diện tích đất tự nhiên của đơn vị hành 
+chính cấp huyện (km2). 
+danSo 
+Long Integer 
+Bắt buộc 
+Dân số trung bình của đơn vị hành chính cấp 
+huyện (người). 
+matDoDanSo 
+Real 
+Có thể Null Mật độ dân số của đơn vị hành chính cấp 
+huyện (người/km2) 
+nam 
+Integer 
+Bắt buộc 
+Năm cập nhật 
+3 
+LH03 
+ 
+Hiện trạng 
+kinh tế xã 
+hội cấp 
+huyện* 
+Là hiện trạng phát 
+triển kinh tế - xã 
+hội của đơn vị hành 
+chính cấp huyện 
+được phân tích, 
+đánh giá trong quy 
+hoạch 
+HienTrangKinhTe
+XaHoiCapHuyen 
+nguon 
+CharacterString 
+Bắt buộc 
+Nguồn gốc dữ liệu 
+  
+  
+GM_Polygon 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên vùng 
+dienTich 
+Real 
+Có thể Null Diện tích ước tính của vùng (km2) 
+quyHoachBatDau 
+Date 
+Bắt buộc 
+Ngày quy hoạch được quyết định hoặc phê 
+duyệt  
+quyHoachKetThuc 
+Date 
+Bắt buộc 
+Ngày cuối cùng của thời kỳ quy hoạch 
+4 
+ 
+LQ01 
+Định hướng 
+phân vùng  
+Là định hướng 
+phân vùng được 
+xác định trong quy 
+hoạch 
+DinhHuongPhanVung
+KinhTeXaHoi 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+ GM_Polygon 
+  
+ 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+5 
+ 
+LQ02 
+Định hướng 
+phát triển  
+Là vùng động lực 
+phát triển được xác 
+VungDongLuc 
+ten 
+CharacterString 
+Bắt buộc 
+Tên vùng động lực 
+GM_Polygon 
+GM_Polygon 
+GM_Polygon 
+
+ 
+ 
+90 
+90 
+  
+90 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+Kiểu đối tượng địa lý 
+Phạm vi áp dụng và kiểu dữ liệu hình học 
+Mã tên kiểu đối tượng
+TT 
+Dữ liệu 
+hiện 
+trạng 
+Dữ liệu 
+định hướng 
+phát triển 
+Tên 
+Mô tả 
+Tên lớp 
+Trường thuộc tính 
+Kiểu dữ liệu 
+ thuộc tính 
+Yêu cầu 
+Tên (nhãn)/Mô tả thuộc tính 
+Quy hoạch 
+tổng thể  
+quốc gia 
+Quy hoạch 
+vùng 
+Quy hoạch 
+tỉnh 
+dinhHuongPhatTrien CharacterString 
+Có thể Null Định hướng phát triển vùng động lực 
+quyHoachBatDau 
+Date 
+Bắt buộc 
+Ngày quy hoạch được quyết định hoặc phê 
+duyệt  
+quyHoachKetThuc 
+Date 
+Bắt buộc 
+Ngày cuối cùng của thời kỳ quy hoạch 
+ 
+ 
+ 
+vùng động 
+lực* 
+định trong quy 
+hoạch 
+ 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+ 
+ 
+ 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên hành lang kinh tế 
+dinhHuongPhatTrien CharacterString 
+Có thể Null Định hướng phát triển hành lang kinh tế 
+quyHoachBatDau 
+Date 
+Bắt buộc 
+Ngày quy hoạch được quyết định hoặc phê 
+duyệt  
+quyHoachKetThuc 
+Date 
+Bắt buộc 
+Ngày cuối cùng của thời kỳ quy hoạch 
+6 
+ 
+LQ03 
+Định hướng 
+phát triển 
+hành lang 
+kinh tế* 
+Là hành lang kinh 
+tế được định hướng 
+phát triển trong quy 
+hoạch 
+HanhLangKinhTe 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+GM_Polyline 
+GM_Polyline 
+GM_Polyline 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên vành đai kinh tế - công nghiệp - đô thị - 
+dịch vụ 
+dinhHuongPhatTrien CharacterString 
+Có thể Null Định hướng phát triển hành lang kinh tế được 
+xác định trong quy hoạch 
+quyHoachBatDau 
+Date 
+Bắt buộc 
+Ngày quy hoạch được quyết định hoặc phê 
+duyệt  
+quyHoachKetThuc 
+Date 
+Bắt buộc 
+Ngày cuối cùng của thời kỳ quy hoạch 
+7 
+ 
+LQ04 
+Định hướng 
+phát triển 
+vành đai 
+kinh tế - 
+công nghiệp 
+- đô thị - 
+dịch vụ* 
+Là vành đai kinh tế 
+- công nghiệp - đô 
+thị - dịch vụ được 
+định hướng phát 
+triển trong quy 
+hoạch 
+VanhDaiKinhTe 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+GM_Polyline 
+GM_Polyline 
+GM_Polyline 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên khu kinh tế 
+Khu kinh tế ven biển 
+Khu kinh tế cửa khẩu 
+loaiKhuKinhTe 
+CharacterString 
+Có thể Null 
+Khu kinh tế chuyên biệt 
+8 
+LH04 
+ 
+Hiện trạng 
+khu kinh tế 
+Là khu kinh tế hiện 
+hữu được phân 
+tích, đánh giá trong 
+quy hoạch 
+HienTrangKhuKinhTe
+dienTich 
+Real 
+Có thể Null Diện tích khu kinh tế (ha) 
+ GM_Point 
+GM_Point hoặc 
+GM_Polygon 
+GM_Point 
+hoặc 
+GM_Polygon 
+
+ 
+ 
+91 
+   
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+     91
+Kiểu đối tượng địa lý 
+Phạm vi áp dụng và kiểu dữ liệu hình học 
+Mã tên kiểu đối tượng
+TT 
+Dữ liệu 
+hiện 
+trạng 
+Dữ liệu 
+định hướng 
+phát triển 
+Tên 
+Mô tả 
+Tên lớp 
+Trường thuộc tính 
+Kiểu dữ liệu 
+ thuộc tính 
+Yêu cầu 
+Tên (nhãn)/Mô tả thuộc tính 
+Quy hoạch 
+tổng thể  
+quốc gia 
+Quy hoạch 
+vùng 
+Quy hoạch 
+tỉnh 
+diaDiem 
+CharacterString 
+Có thể Null Địa điểm của khu kinh tế: 
+- Quy hoạch tổng thể quốc gia, quy hoạch: 
+Chi tiết đến đơn vị hành chính cấp tỉnh; 
+- Quy hoạch tỉnh: Chi tiết đến đơn vị hành 
+chính cấp huyện 
+Hiện trạng được giữ nguyên 
+Hiện trạng dự kiến điều chỉnh trong kỳ quy 
+hoạch 
+loaiHienTrang 
+CharacterString 
+Bắt buộc 
+Hiện trạng dự kiến loại bỏ trong kỳ quy 
+hoạch  
+nam 
+Integer 
+Bắt buộc 
+Năm cập nhật 
+ 
+ 
+ 
+ 
+ 
+ 
+nguon 
+CharacterString 
+Bắt buộc 
+Nguồn gốc dữ liệu 
+ 
+ 
+ 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên khu kinh tế 
+Khu kinh tế ven biển 
+Khu kinh tế cửa khẩu 
+loaiKhuKinhTe 
+CharacterString 
+ 
+ 
+ 
+Có thể Null 
+Khu kinh tế chuyên biệt 
+dienTich 
+Real 
+Có thể Null Diện tích dự kiến của khu kinh tế được xác 
+định trong quy hoạch (ha) 
+diaDiem 
+CharacterString 
+Có thể Null Địa điểm dự kiến của khu kinh tế: 
+- Quy hoạch tổng thể quốc gia, quy hoạch: 
+Chi tiết đến đơn vị hành chính cấp tỉnh; 
+- Quy hoạch tỉnh: Chi tiết đến đơn vị hành 
+chính cấp huyện 
+Quy hoạch mới 
+loaiQuyHoach 
+CharacterString 
+Bắt buộc 
+Quy hoạch trên cơ sở điều chỉnh hiện trạng 
+9 
+ 
+LQ05 
+Định hướng 
+phát triển 
+khu kinh tế 
+Là định hướng phát 
+triển khu kinh tế 
+trong quy hoạch 
+DinhHuongPhatTrien
+KhuKinhTe 
+quyHoachBatDau 
+Date 
+Bắt buộc 
+Ngày quy hoạch được quyết định hoặc phê 
+duyệt  
+ GM_Point 
+GM_Point hoặc 
+GM_Polygon 
+GM_Point 
+hoặc 
+GM_Polygon 
+
+ 
+ 
+92 
+92 
+  
+92 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+Kiểu đối tượng địa lý 
+Phạm vi áp dụng và kiểu dữ liệu hình học 
+Mã tên kiểu đối tượng
+TT 
+Dữ liệu 
+hiện 
+trạng 
+Dữ liệu 
+định hướng 
+phát triển 
+Tên 
+Mô tả 
+Tên lớp 
+Trường thuộc tính 
+Kiểu dữ liệu 
+ thuộc tính 
+Yêu cầu 
+Tên (nhãn)/Mô tả thuộc tính 
+Quy hoạch 
+tổng thể  
+quốc gia 
+Quy hoạch 
+vùng 
+Quy hoạch 
+tỉnh 
+quyHoachKetThuc 
+Date 
+Bắt buộc 
+Ngày cuối cùng của thời kỳ quy hoạch 
+ 
+ 
+ 
+ 
+ 
+ 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+ 
+ 
+ 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên khu công nghiệp 
+Khu công nghiệp 
+Khu chế xuất 
+Khu công nghiệp hỗ trợ 
+Khu công nghiệp chuyên ngành 
+Khu công nghiệp sinh thái 
+loaiHinh 
+CharacterString 
+Có thể Null 
+Khu công nghiệp công nghệ cao 
+dienTich 
+Real 
+Có thể Null Diện tích khu công nghiệp (ha) 
+chuQuanLy 
+CharacterString 
+Có thể Null Tên đơn vị quản lý 
+diaDiem 
+CharacterString 
+Có thể Null Địa điểm của khu công nghiệp.  
+- Quy hoạch vùng: Chi tiết đến đơn vị hành 
+chính cấp tỉnh; 
+- Quy hoạch tỉnh: Chi tiết đến đơn vị hành 
+chính cấp huyện 
+thoiHanHoatDong 
+Short Integer 
+Có thể Null Thời hạn hoạt động của khu công nghiệp 
+tyleLapDay 
+Real 
+Có thể Null Tỷ lệ lấp đầy của khu công nghiệp (%) 
+Hiện trạng được giữ nguyên 
+Hiện trạng dự kiến điều chỉnh trong kỳ quy 
+hoạch 
+loaiHienTrang 
+CharacterString 
+Bắt buộc 
+Hiện trạng dự kiến loại bỏ trong kỳ quy 
+hoạch  
+nam 
+Integer 
+Bắt buộc 
+Năm cập nhật 
+10 
+LH05 
+ 
+Hiện trạng 
+khu công 
+nghiệp 
+Là khu công 
+nghiệp hiện hữu 
+được phân tích, 
+đánh giá trong quy 
+hoạch 
+HienTrangKhuCong
+Nghiep 
+nguon 
+CharacterString 
+Bắt buộc 
+Nguồn gốc dữ liệu 
+  
+GM_Point 
+GM_Point 
+hoặc 
+GM_Polygon 
+
+ 
+ 
+93 
+   
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+     93
+Kiểu đối tượng địa lý 
+Phạm vi áp dụng và kiểu dữ liệu hình học 
+Mã tên kiểu đối tượng
+TT 
+Dữ liệu 
+hiện 
+trạng 
+Dữ liệu 
+định hướng 
+phát triển 
+Tên 
+Mô tả 
+Tên lớp 
+Trường thuộc tính 
+Kiểu dữ liệu 
+ thuộc tính 
+Yêu cầu 
+Tên (nhãn)/Mô tả thuộc tính 
+Quy hoạch 
+tổng thể  
+quốc gia 
+Quy hoạch 
+vùng 
+Quy hoạch 
+tỉnh 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên khu công nghiệp 
+Khu công nghiệp 
+Khu chế xuất 
+Khu công nghiệp hỗ trợ 
+Khu công nghiệp chuyên ngành 
+Khu công nghiệp sinh thái 
+loaiHinh 
+CharacterString 
+Có thể Null 
+Khu công nghiệp công nghệ cao 
+dienTich 
+Real 
+Có thể Null Diện tích dự kiến của khu công nghiệp (ha) 
+diaDiem 
+CharacterString 
+Có thể Null Địa điểm dự kiến của khu công nghiệp: 
+- Quy hoạch vùng: Chi tiết đến đơn vị hành 
+chính cấp tỉnh; 
+- Quy hoạch tỉnh: Chi tiết đến đơn vị hành 
+chính cấp huyện 
+Đối tượng hiện trạng được nâng cấp, điều 
+chỉnh trong quy hoạch 
+loaiQuyHoach 
+CharacterString 
+Bắt buộc 
+Đối tượng được xác định mới trong quy 
+hoạch 
+quyHoachBatDau 
+Date 
+Bắt buộc 
+Ngày quy hoạch được quyết định hoặc phê 
+duyệt  
+quyHoachKetThuc 
+Date 
+Bắt buộc 
+Ngày cuối cùng của thời kỳ quy hoạch 
+11 
+ 
+LQ06 
+Định hướng 
+phát triển 
+khu công 
+nghiệp 
+Là định hướng phát 
+triển khu công 
+nghiệp trong quy 
+hoạch 
+DinhHuongKhuCong
+Nghiep 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+  
+GM_Point 
+GM_Point 
+hoặc 
+GM_Polygon 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên dự án đầu tư công 
+12 
+LH06 
+ 
+Hiện trạng 
+dự án đầu tư 
+công* 
+Là dự án đầu tư 
+công nhóm B trở 
+lên đã có trong kế 
+hoạch đầu tư công 
+trung hạn trên địa 
+bàn tỉnh 
+HienTrangDuAnDau
+TuCong 
+duKienTongMucDau
+Tu 
+Real 
+Có thể Null Dự kiến tổng mức đầu tư của dự án đầu tư 
+công trong kế hoạch đầu tư công trung hạn 
+(triệu đồng) 
+  
+  
+GM_Point 
+
+ 
+ 
+94 
+94 
+  
+94 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+Kiểu đối tượng địa lý 
+Phạm vi áp dụng và kiểu dữ liệu hình học 
+Mã tên kiểu đối tượng
+TT 
+Dữ liệu 
+hiện 
+trạng 
+Dữ liệu 
+định hướng 
+phát triển 
+Tên 
+Mô tả 
+Tên lớp 
+Trường thuộc tính 
+Kiểu dữ liệu 
+ thuộc tính 
+Yêu cầu 
+Tên (nhãn)/Mô tả thuộc tính 
+Quy hoạch 
+tổng thể  
+quốc gia 
+Quy hoạch 
+vùng 
+Quy hoạch 
+tỉnh 
+diaDiem 
+CharacterString 
+Có thể Null Địa điểm của dự án đầu tư công chi tiết đến 
+đơn vị hành chính cấp huyện 
+nam 
+Integer 
+Bắt buộc 
+Năm cập nhật 
+ 
+ 
+ 
+ 
+ 
+ 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+ 
+ 
+ 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên dự án đầu tư 
+quyMoVon 
+Real 
+Có thể Null Tổng mức đầu tư hoặc dự kiến tổng mức đầu 
+tư của dự án đầu tư (triệu đồng) 
+diaDiem 
+CharacterString 
+Có thể Null Địa điểm của dự án đầu tư công chi tiết đến 
+đơn vị hành chính cấp huyện 
+nam 
+Integer 
+Bắt buộc 
+Năm cập nhật 
+13 
+LH07 
+ 
+Hiện trạng 
+dự án đầu tư* 
+Là dự án đầu tư 
+nhóm B trở lên đã 
+được chấp thuận 
+chủ trương đầu tư 
+theo quy định của 
+Luật Đầu tư trong 5 
+năm gần nhất 
+HienTrangDuAnDau
+Tu 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+  
+  
+GM_Point 
+maDoiTuong 
+CharacterString 
+Bắt buộc 
+Mã đối tượng  
+ten 
+CharacterString 
+Bắt buộc 
+Tên dự án đầu tư  
+Dự án đã có trong kế hoạch đầu tư công trung 
+hạn 
+Dự án đầu tư công từ nhóm B trở lên dự kiến 
+đưa vào kế hoạch đầu tư công trung hạn 
+phanLoai 
+CharacterString 
+Bắt buộc 
+Dự án thu hút đầu tư, trong đó: 
+- Quy hoạch tổng thể quốc gia thể hiện dự án 
+quan trọng của quốc gia; 
+- Quy hoạch vùng thể hiện dự án cấp vùng, 
+liên tỉnh; 
+- Quy hoạch tỉnh thể hiện dự án cấp tỉnh, liên 
+huyện. 
+14 
+ 
+LQ07 
+Dự án dự 
+kiến ưu tiên 
+đầu tư  
+Là dự án dự kiến 
+ưu tiên đầu tư cấp 
+tỉnh, liên huyện trở 
+lên được xác định 
+trong quy hoạch.  
+DuAnDuKienUuTien
+DauTu 
+tinhTrangDuAn 
+CharacterString 
+Có thể Null Đã được quyết định chủ trương đầu tư, chấp 
+thuận chủ trương đầu tư, hoặc quyết định đầu tư 
+GM_Point 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+GM_Point 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+GM_Point 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+ 
+95 
+   
+ 
+CÔNG BÁO/Số 815 + 816/Ngày 12-7-2023 
+     95
+Kiểu đối tượng địa lý 
+Phạm vi áp dụng và kiểu dữ liệu hình học 
+Mã tên kiểu đối tượng
+TT 
+Dữ liệu 
+hiện 
+trạng 
+Dữ liệu 
+định hướng 
+phát triển 
+Tên 
+Mô tả 
+Tên lớp 
+Trường thuộc tính 
+Kiểu dữ liệu 
+ thuộc tính 
+Yêu cầu 
+Tên (nhãn)/Mô tả thuộc tính 
+Quy hoạch 
+tổng thể  
+quốc gia 
+Quy hoạch 
+vùng 
+Quy hoạch 
+tỉnh 
+ 
+ 
+ 
+Chưa được quyết định chủ trương đầu tư, 
+chấp thuận chủ trương đầu tư, hoặc quyết 
+định đầu tư 
+quyHoachBatDau 
+Date 
+Bắt buộc 
+Ngày quy hoạch được quyết định hoặc phê 
+duyệt  
+quyHoachKetThuc 
+Date 
+Bắt buộc 
+Ngày cuối cùng của thời kỳ quy hoạch 
+ 
+ 
+ 
+ 
+ 
+ 
+nguon 
+CharacterString 
+Có thể Null Nguồn gốc dữ liệu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Xem tiếp Công báo số 817 + 818) 
+

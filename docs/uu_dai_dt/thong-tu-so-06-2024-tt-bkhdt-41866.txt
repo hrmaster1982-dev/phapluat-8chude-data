@@ -1,0 +1,3723 @@
+ 
+2 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+VĂN BẢN QUY PHẠM PHÁP LUẬT 
+ 
+BỘ KẾ HOẠCH VÀ ĐẦU TƯ 
+ 
+BỘ KẾ HOẠCH VÀ ĐẦU TƯ 
+ 
+ 
+Số: 06/2024/TT-BKHĐT 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
+ 
+Hà Nội, ngày 26 tháng 4 năm 2024 
+ 
+ 
+THÔNG TƯ 
+Hướng dẫn việc cung cấp, đăng tải thông tin về lựa chọn nhà thầu 
+và mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia 
+ 
+Căn cứ Luật Đấu thầu ngày 23 tháng 6 năm 2023;  
+Căn cứ Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính 
+phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn 
+nhà thầu; 
+Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính 
+phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ 
+chứng thực chữ ký số; 
+Căn cứ Nghị định số 01/2021/NĐ-CP ngày 04 tháng 01 năm 2021 của Chính 
+phủ về đăng ký doanh nghiệp; 
+Căn cứ Nghị định số 89/2022/NĐ-CP ngày 28 tháng 10 năm 2022 của Chính 
+phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch 
+và Đầu tư; 
+Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu, 
+Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư hướng dẫn việc cung 
+cấp, đăng tải thông tin về lựa chọn nhà thầu và mẫu hồ sơ đấu thầu trên Hệ thống 
+mạng đấu thầu quốc gia. 
+ 
+Chương I 
+QUY ĐỊNH CHUNG 
+ 
+Điều 1. Phạm vi điều chỉnh  
+Người ký: CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: VĂN PHÒNG CHÍNH PHỦ
+Thời gian ký: 22.05.2024 09:15:55 +07:00
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+3 
+ 
+Thông tư này hướng dẫn về cung cấp, đăng tải thông tin về lựa chọn nhà thầu 
+và các mẫu hồ sơ đấu thầu, gồm:  
+1. Mẫu lập, thẩm định, phê duyệt kế hoạch tổng thể lựa chọn nhà thầu, kế 
+hoạch lựa chọn nhà thầu đối với dự án, dự toán mua sắm theo quy định tại Điều 1 
+và Điều 2 của Luật Đấu thầu; 
+2. Mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia đối với gói thầu 
+cung cấp dịch vụ tư vấn, dịch vụ phi tư vấn, hàng hoá (trừ thuốc), xây lắp thuộc 
+phạm vi điều chỉnh của Luật Đấu thầu được tổ chức đấu thầu rộng rãi, đấu thầu 
+hạn chế, chào hàng cạnh tranh trong nước theo phương thức một giai đoạn một túi 
+hồ sơ, một giai đoạn hai túi hồ sơ. 
+Điều 2. Đối tượng áp dụng  
+1. Tổ chức, cá nhân liên quan đến việc lựa chọn nhà thầu thuộc phạm vi điều 
+chỉnh quy định tại Điều 1 của Thông tư này. 
+2. Tổ chức, cá nhân có hoạt động lựa chọn nhà thầu không thuộc phạm vi điều 
+chỉnh quy định tại Điều 1 của Thông tư này nhưng chọn áp dụng quy định của 
+Thông tư này. Trong trường hợp này, quy trình thực hiện theo Hướng dẫn sử dụng 
+trên Hệ thống mạng đấu thầu quốc gia. 
+Điều 3. Giải thích từ ngữ  
+1. Hệ thống mạng đấu thầu quốc gia (sau đây gọi là Hệ thống) là hệ thống 
+công nghệ thông tin do Bộ Kế hoạch và Đầu tư xây dựng và quản lý theo quy định 
+tại khoản 18 Điều 4 của Luật Đấu thầu có địa chỉ tại https://muasamcong.mpi.gov.vn. 
+2. Hệ thống thông tin quốc gia về đăng ký doanh nghiệp là hệ thống thông tin 
+nghiệp vụ chuyên môn về đăng ký doanh nghiệp được quy định tại khoản 2 Điều 3 
+của Nghị định số 01/2021/NĐ-CP. 
+3. Các từ ngữ viết tắt tại Thông tư này và trên Hệ thống bao gồm:  
+a) E-TBMST là thông báo mời sơ tuyển qua mạng;  
+b) E-TBMQT là thông báo mời quan tâm qua mạng; 
+
+ 
+4 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+c) E-TBMT là thông báo mời thầu qua mạng; 
+d) E-HSMQT là hồ sơ mời quan tâm qua mạng; 
+đ) E-HSQT là hồ sơ quan tâm qua mạng; 
+e) E-HSMST là hồ sơ mời sơ tuyển qua mạng; 
+g) E-HSDST là hồ sơ dự sơ tuyển qua mạng; 
+h) E-HSMT là hồ sơ mời thầu đối với đấu thầu rộng rãi qua mạng, đấu thầu hạn 
+chế qua mạng, chào hàng cạnh tranh qua mạng; 
+i) E-HSDT là hồ sơ dự thầu đối với đấu thầu rộng rãi qua mạng, đấu thầu hạn 
+chế qua mạng, chào hàng cạnh tranh qua mạng; 
+k) E-HSĐXKT là hồ sơ đề xuất về kỹ thuật qua mạng; 
+l) E-HSĐXTC là hồ sơ đề xuất về tài chính qua mạng. 
+4. Văn bản điện tử là văn bản, thông tin được gửi, nhận và lưu trữ thành công 
+trên Hệ thống, bao gồm:  
+a) Thông tin về dự án; 
+b) Kế hoạch tổng thể lựa chọn nhà thầu; kế hoạch lựa chọn nhà thầu; 
+c) E-TBMQT, E-TBMST, E-TBMT, thông báo mời thầu, thông báo mời sơ 
+tuyển, thông báo mời quan tâm;  
+d) Danh sách ngắn; 
+đ) E-HSMQT, E-HSQT, E-HSMST, E-HSDST, E-HSMT, E-HSDT, hồ sơ mời 
+quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu; nội dung làm rõ E-HSMST, E-HSMQT, 
+E-HSQT, E-HSDST, E-HSMT, E-HSDT, E-HSĐXKT, E-HSĐXTC, hồ sơ mời 
+quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu; 
+e) Thỏa thuận liên danh; 
+g) Biên bản mở thầu, biên bản mở E-HSĐXKT, biên bản mở E-HSĐXTC; 
+h) Báo cáo đánh giá E-HSQT, E-HSDST, E-HSDT; 
+i) Kết quả lựa chọn nhà thầu;  
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+5 
+ 
+k) Nội dung kiến nghị kết quả lựa chọn nhà thầu và những vấn đề liên quan 
+đến quá trình lựa chọn nhà thầu qua mạng; 
+l) Văn bản dưới dạng điện tử khác được trao đổi trên Hệ thống. 
+5. Thông tin không hợp lệ là thông tin do đối tượng quy định tại Điều 2 của 
+Thông tư này đăng tải trên Hệ thống không tuân thủ quy định của pháp luật về đấu 
+thầu và pháp luật khác có liên quan. 
+6. Chứng thư số sử dụng trên Hệ thống là chứng thư số công cộng do tổ chức 
+cung cấp dịch vụ chứng thực chữ ký số công cộng cấp hoặc chứng thư số do tổ 
+chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ cấp. 
+7. Hướng dẫn sử dụng là tài liệu điện tử được đăng tải trên Hệ thống để hướng 
+dẫn người dùng thực hiện các giao dịch trên Hệ thống.  
+8. Tổ chức tham gia Hệ thống là các cơ quan, tổ chức, cá nhân đăng ký tham 
+gia Hệ thống với một hoặc một số vai trò như sau:  
+a) Chủ đầu tư; 
+b) Bên mời thầu; 
+c) Nhà thầu (cá nhân, nhóm cá nhân tham gia gói thầu tư vấn cá nhân; cá nhân, 
+nhóm cá nhân khởi nghiệp sáng tạo tham gia gói thầu mua sắm hàng hóa; tổ chức; 
+hộ kinh doanh);  
+d) Đơn vị quản lý về đấu thầu; 
+đ) Cơ sở đào tạo về đấu thầu; 
+e) Khối nhà sản xuất (nhà sản xuất, văn phòng đại diện, đại lý của nhà sản 
+xuất) đăng ký tham gia Hệ thống để phản hồi về thông tin mà nhà thầu phản ánh. 
+9. Tài khoản tham gia Hệ thống là tài khoản do Trung tâm Đấu thầu qua mạng 
+quốc gia cấp cho Tổ chức tham gia Hệ thống để thực hiện một hoặc một số vai trò 
+quy định tại khoản 8 Điều này. 
+10. Tài khoản nghiệp vụ là tài khoản được tạo bởi Tài khoản tham gia Hệ 
+thống để thực hiện các nghiệp vụ trên Hệ thống.  
+
+ 
+6 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+11. Doanh nghiệp dự án e-GP là Công ty TNHH Đầu tư và Phát triển Hệ 
+thống đấu thầu qua mạng quốc gia do Nhà đầu tư (Công ty TNHH Hệ thống thông 
+tin FPT) thành lập theo quy định tại Hợp đồng BOT Dự án e-GP. Doanh nghiệp dự 
+án e-GP và Trung tâm Đấu thầu qua mạng quốc gia (sau đây gọi là Trung tâm) 
+thực hiện trách nhiệm của tổ chức vận hành Hệ thống quy định tại Điều 52 của 
+Luật Đấu thầu. 
+12. Hợp đồng BOT dự án e-GP là hợp đồng được ký kết giữa Bộ Kế hoạch và 
+Đầu tư với Nhà đầu tư (Công ty TNHH Hệ thống thông tin FPT) để đầu tư, thiết 
+kế, xây dựng, vận hành, bảo trì, nâng cấp và chuyển giao Hệ thống mạng đấu thầu 
+quốc gia theo hình thức đối tác công tư. 
+Điều 4. Áp dụng các Mẫu hồ sơ và Phụ lục  
+1. Mẫu lập, thẩm định, phê duyệt kế hoạch tổng thể lựa chọn nhà thầu gồm: 
+a) Mẫu số 01A được sử dụng để lập Tờ trình kế hoạch tổng thể lựa chọn nhà thầu; 
+b) Mẫu số 01B được sử dụng để lập Báo cáo thẩm định kế hoạch tổng thể lựa 
+chọn nhà thầu; 
+c) Mẫu số 01C được sử dụng để lập Quyết định phê duyệt kế hoạch tổng thể 
+lựa chọn nhà thầu. 
+Trường hợp cần điều chỉnh một số nội dung thuộc kế hoạch tổng thể lựa chọn 
+nhà thầu đã được phê duyệt thì chỉ lập, trình, thẩm định, phê duyệt đối với các nội 
+dung có sự thay đổi, điều chỉnh. 
+2. Mẫu lập, thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu gồm: 
+a) Mẫu số 02A được sử dụng để lập Tờ trình kế hoạch lựa chọn nhà thầu; 
+b) Mẫu số 02B được sử dụng để lập Báo cáo thẩm định kế hoạch lựa chọn 
+nhà thầu; 
+c) Mẫu số 02C được sử dụng để lập Quyết định phê duyệt kế hoạch lựa chọn 
+nhà thầu. 
+Trường hợp cần điều chỉnh một số nội dung thuộc kế hoạch lựa chọn nhà thầu 
+đã được phê duyệt thì chỉ lập, trình, thẩm định, phê duyệt đối với các nội dung có 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+7 
+ 
+sự thay đổi, điều chỉnh. Đối với phần công việc chưa đủ điều kiện lập kế hoạch lựa 
+chọn nhà thầu, khi đủ điều kiện để lập kế hoạch lựa chọn nhà thầu thì chỉ lập, trình, 
+thẩm định, phê duyệt cho phần công việc này mà không phải lập, trình, thẩm định, 
+phê duyệt lại cho phần công việc đã được phê duyệt trước đó. Trường hợp trong 
+quá trình thực hiện hợp đồng có thay đổi về thời gian thực hiện gói thầu so với kế 
+hoạch lựa chọn nhà thầu đã được phê duyệt thì không phải điều chỉnh kế hoạch lựa 
+chọn nhà thầu. 
+3. Đối với gói thầu xây lắp: 
+a) Mẫu số 3A được sử dụng để lập E-HSMT áp dụng hình thức đấu thầu rộng 
+rãi, đấu thầu hạn chế, chào hàng cạnh tranh theo phương thức một giai đoạn một 
+túi hồ sơ; 
+b) Mẫu số 3B được sử dụng để lập E-HSMT áp dụng hình thức đấu thầu rộng 
+rãi, đấu thầu hạn chế theo phương thức một giai đoạn hai túi hồ sơ; 
+c) Mẫu số 3C được sử dụng để lập E-HSMST. 
+4. Đối với gói thầu mua sắm hàng hóa (bao gồm cả trường hợp mua sắm 
+tập trung): 
+a) Mẫu số 4A được sử dụng để lập E-HSMT áp dụng hình thức đấu thầu rộng 
+rãi, đấu thầu hạn chế, chào hàng cạnh tranh theo phương thức một giai đoạn một 
+túi hồ sơ; 
+b) Mẫu số 4B được sử dụng để lập E-HSMT áp dụng hình thức đấu thầu rộng 
+rãi, đấu thầu hạn chế theo phương thức một giai đoạn hai túi hồ sơ; 
+c) Mẫu số 4C được sử dụng để lập E-HSMST. 
+5. Đối với gói thầu dịch vụ phi tư vấn: 
+a) Mẫu số 5A được sử dụng để lập E-HSMT áp dụng hình thức đấu thầu rộng 
+rãi, đấu thầu hạn chế, chào hàng cạnh tranh theo phương thức một giai đoạn một 
+túi hồ sơ; 
+b) Mẫu số 5B được sử dụng để lập E-HSMT áp dụng hình thức đấu thầu rộng 
+rãi, đấu thầu hạn chế theo phương thức một giai đoạn hai túi hồ sơ; 
+c) Mẫu số 5C được sử dụng để lập E-HSMST. 
+
+ 
+8 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+6. Đối với gói thầu dịch vụ tư vấn: 
+a) Mẫu số 6A được sử dụng để lập E-HSMT áp dụng hình thức đấu thầu rộng 
+rãi, đấu thầu hạn chế theo phương thức một giai đoạn hai túi hồ sơ; 
+b) Mẫu số 6B được sử dụng để lập E-HSMQT; 
+c) Mẫu số 6C được sử dụng để lập các biểu mẫu dành cho tư vấn cá nhân. 
+7. Đối với Mẫu báo cáo đánh giá: 
+a) Mẫu số 7A được sử dụng để lập báo cáo đánh giá E-HSDT theo quy trình 01 
+quy định tại điểm a khoản 1 Điều 28 của Thông tư này cho gói thầu dịch vụ phi tư 
+vấn, mua sắm hàng hóa, xây lắp theo phương thức một giai đoạn một túi hồ sơ; 
+b) Mẫu số 7B được sử dụng để lập báo cáo đánh giá E-HSDT theo quy trình 02 
+quy định tại điểm b khoản 1 Điều 28 của Thông tư này cho gói thầu dịch vụ phi tư 
+vấn, mua sắm hàng hóa theo phương thức một giai đoạn một túi hồ sơ; 
+c) Mẫu số 7C được sử dụng để lập báo cáo đánh giá E-HSDT cho gói thầu dịch 
+vụ phi tư vấn, mua sắm hàng hóa, xây lắp theo phương thức một giai đoạn hai túi 
+hồ sơ; 
+d) Mẫu số 7D được sử dụng để lập báo cáo đánh giá E-HSDT cho gói thầu 
+dịch vụ tư vấn theo phương thức một giai đoạn hai túi hồ sơ. 
+8. Phụ lục: 
+a) Phụ lục 1A: Mẫu Tờ trình đề nghị phê duyệt kết quả đánh giá E-HSĐXKT 
+(đối với gói thầu theo phương thức một giai đoạn hai túi hồ sơ); 
+b) Phụ lục 1B: Mẫu Quyết định phê duyệt danh sách nhà thầu đáp ứng yêu cầu 
+về kỹ thuật (đối với gói thầu theo phương thức một giai đoạn hai túi hồ sơ); 
+c) Phụ lục 2A: Mẫu Kết quả đối chiếu tài liệu (đối với tất cả các gói thầu); 
+d) Phụ lục 2B: Mẫu Biên bản thương thảo hợp đồng (đối với gói thầu mua sắm 
+hàng hóa, xây lắp, hỗn hợp, phi tư vấn áp dụng thương thảo hợp đồng theo quy 
+định tại điểm d khoản 1 Điều 43 của Luật Đấu thầu); 
+đ) Phụ lục 2C: Mẫu Biên bản thương thảo hợp đồng (đối với gói thầu dịch vụ 
+tư vấn); 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+9 
+ 
+e) Phụ lục 3A: Mẫu Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu; 
+g) Phụ lục 3B: Mẫu Quyết định phê duyệt kết quả lựa chọn nhà thầu; 
+h) Phụ lục 4: Mẫu Bản cam kết; 
+i) Phụ lục 5: Phiếu đăng ký thông tin văn bản quy phạm pháp luật về đấu thầu; 
+j) Phụ lục 6: Phiếu thông báo thông tin về nhà thầu nước ngoài trúng thầu tại 
+Việt Nam;  
+k) Phụ lục 7: Phiếu thông báo thông tin xử lý vi phạm pháp luật về đấu thầu; 
+l) Phụ lục 8: Một số hành vi vi phạm quy định tại khoản 3 Điều 44 của Luật 
+Đấu thầu. 
+9. Việc lựa chọn nhà thầu thuộc dự án có sử dụng vốn hỗ trợ phát triển chính 
+thức (ODA), vốn vay ưu đãi của nhà tài trợ nước ngoài theo điều ước quốc tế mà 
+nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên (sau đây gọi là điều ước 
+quốc tế), thỏa thuận vay nước ngoài thực hiện theo quy định tại khoản 5 Điều 3 
+của Luật Đấu thầu. Vai trò của tổ chức, cá nhân trình, thẩm định và phê duyệt kế 
+hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu, E-HSMQT, E-HSMST, 
+E-HSMT, kết quả lựa chọn nhà thầu thực hiện theo Luật Đấu thầu và các văn bản 
+quy định chi tiết, hướng dẫn thực hiện Luật này; nội dung kế hoạch tổng thể lựa 
+chọn nhà thầu, kế hoạch lựa chọn nhà thầu, E-HSMQT, E-HSMST, E-HSMT thực 
+hiện theo quy định tại điều ước quốc tế, thỏa thuận vay. Trường hợp điều ước quốc 
+tế, thỏa thuận vay yêu cầu áp dụng quy định của nhà tài trợ thì nếu được nhà tài trợ 
+chấp thuận, việc lập, thẩm định, phê duyệt kế hoạch tổng thể lựa chọn nhà thầu, kế 
+hoạch lựa chọn nhà thầu, E-HSMT, E-HSMQT, E-HSMST, báo cáo đánh giá E-HSDT, 
+E-HSQT, E-HSDST được áp dụng các Mẫu quy định tại các khoản 1, 2, 3, 4, 5, 6, 7 
+và 8 Điều này. 
+Thông tin về đấu thầu đối với gói thầu thuộc dự án quy định tại khoản này 
+được khuyến khích đăng tải trên mục "vốn khác" của Hệ thống. 
+10. Đối với dự án, gói thầu có nội dung thuộc danh mục bí mật nhà nước theo 
+quy định của pháp luật về bảo vệ bí mật nhà nước thì không phải cung cấp, đăng 
+
+ 
+10 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+tải thông tin bí mật đó theo quy định của Thông tư này. Việc quản lý thông tin 
+thuộc danh mục bí mật nhà nước thực hiện theo quy định của pháp luật về bảo vệ 
+bí mật nhà nước. 
+Điều 5. Quy định về định dạng của tệp tin (file) đính kèm  
+1. Tệp tin (file) đăng tải trên Hệ thống phải bảo đảm:  
+a) Các file mở, đọc được bằng các phần mềm thông dụng như: các phần mềm 
+đọc, soạn thảo văn bản MS Office hoặc Open Office; các phần mềm đọc file PDF; 
+các phần mềm thiết kế thông dụng như AutoCad, Photoshop; phần mềm đọc file 
+ảnh tích hợp sẵn trên Hệ điều hành Windows. Các file sử dụng phông chữ thuộc 
+bảng mã Unicode; 
+b) Các file nén mở được bằng các phần mềm giải nén thông dụng như phần 
+mềm giải nén ZIP tích hợp sẵn trên hệ điều hành Windows hoặc phần mềm giải 
+nén Rar hoặc 7Zip. Trường hợp sử dụng file nén, các file sau khi giải nén phải có 
+định dạng quy định tại điểm a khoản này; 
+c) Không bị nhiễm virus, không bị lỗi, hỏng và không thiết lập mật khẩu. 
+2. Trường hợp file đính kèm trong hồ sơ mời quan tâm, E-HSMQT, hồ sơ mời 
+sơ tuyển, E-HSMST, hồ sơ mời thầu, E-HSMT không đáp ứng quy định tại khoản 1 
+Điều này hoặc vì lý do khác dẫn đến không thể mở hoặc không đọc được thì bên 
+mời thầu phải đăng tải và phát hành lại toàn bộ hồ sơ mời quan tâm, E-HSMQT, 
+hồ sơ mời sơ tuyển, E-HSMST, hồ sơ mời thầu, E-HSMT.  
+3. Trường hợp file đính kèm trong E-HSDT, E-HSQT, E-HSDST không đáp 
+ứng quy định tại khoản 1 Điều này dẫn đến không thể mở hoặc không đọc được thì 
+các file này không được xem xét, đánh giá. 
+Điều 6. Xử lý kỹ thuật trong trường hợp Hệ thống gặp sự cố ngoài khả 
+năng kiểm soát  
+1. Trường hợp gặp sự cố dẫn đến Hệ thống không thể vận hành thì các gói thầu 
+lựa chọn nhà thầu qua mạng có thời điểm đóng thầu, thời điểm hết hạn làm rõ 
+E-HSQT, E-HSDST, E-HSDT trong thời gian từ khi Hệ thống bị sự cố cho đến 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+11 
+ 
+thời điểm sau hoàn thành khắc phục sự cố 02 giờ sẽ được Hệ thống tự động gia hạn 
+đến thời điểm đóng thầu mới, thời điểm hết hạn làm rõ E-HSQT, E-HSDST, E-HSDT 
+mới là sau 06 giờ kể từ thời điểm hoàn thành khắc phục sự cố.  
+2. Trường hợp thời điểm đóng thầu mới và thời điểm hết hạn làm rõ E-HSQT, 
+E-HSDST, E-HSDT mới theo quy định tại khoản 1 Điều này sau 17 giờ 00 phút và 
+trước 11 giờ 00 phút ngày tiếp theo thì Hệ thống tự động gia hạn đến 11 giờ 00 phút 
+của ngày tiếp theo. 
+3. Trường hợp Hệ thống tự động gia hạn thời điểm đóng thầu theo quy định tại 
+khoản 1 và khoản 2 Điều này thì việc đánh giá E-HSQT, E-HSDST, E-HSDT được 
+thực hiện trên cơ sở thời điểm đóng thầu nêu trong E-TBMQT, E-TBMST, E-TBMT 
+trước thời điểm Hệ thống gặp sự cố. 
+Điều 7. Quản lý tài khoản và sử dụng chứng thư số 
+1. Tạo lập tài khoản nghiệp vụ:  
+Tài khoản tham gia Hệ thống tạo, phân quyền cho Tài khoản nghiệp vụ tương 
+ứng với các vai trò của Tổ chức tham gia Hệ thống được quy định tại các điểm a, 
+b, c, d và đ khoản 8 Điều 3 của Thông tư này; khóa, mở khóa; thiết lập lại mật 
+khẩu, hình thức xác thực, thiết bị xác thực đăng nhập cho Tài khoản nghiệp vụ. 
+2. Sử dụng chứng thư số trên Hệ thống: 
+a) Tổ chức, cá nhân được cấp chứng thư số khi tham gia Hệ thống phải đăng 
+ký sử dụng chứng thư số theo Hướng dẫn sử dụng. Chứng thư số sử dụng trên Hệ 
+thống là chứng thư số được cấp cho tổ chức, cá nhân quy định tại khoản 8 Điều 3 
+của Thông tư này; 
+b) Chứng thư số được sử dụng để tạo chữ ký số và xác thực tổ chức, cá nhân; 
+c) Việc đăng ký sử dụng, thay đổi, hủy thông tin chứng thư số của Tổ chức, cá 
+nhân tham gia Hệ thống thực hiện trên Hệ thống theo Hướng dẫn sử dụng; 
+d) Tổ chức, cá nhân tham gia Hệ thống có trách nhiệm đảm bảo tính chính xác 
+của chứng thư số sử dụng trên Hệ thống. 
+
+ 
+12 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Điều 8. Gửi, nhận văn bản điện tử trên Hệ thống  
+1. Văn bản điện tử quy định tại khoản 4 Điều 3 của Thông tư này có giá trị 
+pháp lý, làm cơ sở đối chiếu, so sánh, xác thực thông tin phục vụ công tác đánh 
+giá, thẩm định, thanh tra, kiểm tra, kiểm toán và giải ngân theo quy định của 
+pháp luật.  
+2. Thời điểm gửi, nhận văn bản điện tử được xác định căn cứ theo thời gian 
+thực ghi lại trên Hệ thống. Văn bản điện tử đã gửi thành công được lưu trữ trên 
+Hệ thống. 
+3. Khi người sử dụng gửi văn bản điện tử trên Hệ thống, Hệ thống phải phản 
+hồi cho người sử dụng về việc gửi thành công hoặc không thành công.  
+4. Tổ chức tham gia Hệ thống đăng ký thành công trên Hệ thống được quyền 
+truy xuất tình trạng văn bản điện tử của mình và các thông tin khác trên Hệ thống. 
+Thông tin về lịch sử giao dịch được sử dụng để giải quyết tranh chấp (nếu có) về 
+việc gửi, nhận văn bản điện tử trên Hệ thống. 
+5. Tổ chức, cá nhân thực hiện việc thanh tra, kiểm tra, kiểm toán và giải ngân 
+không được yêu cầu cung cấp văn bản giấy khi việc tra cứu, truy xuất văn bản điện 
+tử tương ứng có thể thực hiện được trên Hệ thống, trừ trường hợp cần kiểm tra, xác 
+nhận bằng văn bản gốc. 
+Điều 9. Điều kiện về hạ tầng công nghệ thông tin  
+Tổ chức, cá nhân tham gia Hệ thống phải đáp ứng yêu cầu về hạ tầng công 
+nghệ thông tin quy định tại khoản 14 Điều 78, khoản 3 Điều 79 và điểm a khoản 3 
+Điều 82 của Luật Đấu thầu và được hướng dẫn chi tiết tại Hướng dẫn sử dụng. 
+ 
+Chương II 
+CUNG CẤP, ĐĂNG TẢI THÔNG TIN VỀ LỰA CHỌN NHÀ THẦU 
+ 
+Điều 10. Cung cấp thông tin để xây dựng cơ sở dữ liệu quốc gia về nhà 
+thầu, chất lượng hàng hóa đã được sử dụng 
+1. Thông tin về tình trạng pháp lý của nhà thầu 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+13 
+ 
+Hệ thống trích xuất thông tin về tình trạng pháp lý, báo cáo tài chính và các 
+thông tin khác của doanh nghiệp, hợp tác xã, hộ kinh doanh lưu trữ tại Hệ thống 
+thông tin quốc gia về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký hộ kinh 
+doanh. Đối với các nhà thầu chưa đăng ký trên Hệ thống thông tin quốc gia về 
+đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký hộ kinh doanh, nhà thầu cung 
+cấp thông tin khi đăng ký tham gia Hệ thống. 
+2. Thông tin về năng lực, kinh nghiệm của nhà thầu 
+a) Thông tin về năng lực, kinh nghiệm của nhà thầu thực hiện theo quy định 
+tại điểm c khoản 1 Điều 17 của Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 
+năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành 
+Luật Đấu thầu về lựa chọn nhà thầu (sau đây gọi là Nghị định số 24/2024/NĐ-CP). 
+Trường hợp nhà thầu có các chứng chỉ theo quy định của pháp luật thì kê khai 
+trên Hệ thống. 
+b) Nhà thầu chủ động cập nhật thông tin về năng lực, kinh nghiệm của mình 
+theo quy định tại điểm a khoản này trên Hệ thống và chịu trách nhiệm trước pháp 
+luật về tính chính xác đối với các thông tin đã kê khai trên Hệ thống. Trường hợp 
+nhà thầu tự thực hiện việc chỉnh sửa trên Hệ thống, Hệ thống sẽ lưu lại toàn bộ các 
+thông tin trước và sau khi nhà thầu thực hiện chỉnh sửa. Thông tin về năng lực, 
+kinh nghiệm của nhà thầu được xác thực bằng chữ ký số của nhà thầu. 
+c) Nhà thầu phải đính kèm các văn bản, tài liệu để chứng minh tính xác thực về 
+năng lực, kinh nghiệm, tài liệu đính kèm được lưu trữ và quản lý trên Hệ thống. 
+d) Trường hợp nhà thầu kê khai không trung thực nhằm thu được lợi ích tài 
+chính hoặc lợi ích khác hoặc nhằm trốn tránh bất kỳ một nghĩa vụ nào thì bị coi là 
+gian lận theo quy định tại khoản 4 Điều 16 của Luật Đấu thầu. 
+đ) Đối với nội dung thông tin về số liệu về báo cáo tài chính, trường hợp số 
+liệu về báo cáo tài chính trên Hệ thống đã được cập nhật từ Hệ thống thuế điện tử 
+và Hệ thống thông tin quốc gia về đăng ký doanh nghiệp thì nhà thầu không phải 
+kê khai số liệu về báo cáo tài chính. Đối với số liệu báo cáo tài chính từ năm 2021 
+
+ 
+14 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+trở đi, trường hợp nhà thầu phát hiện Hệ thống chưa cập nhật số liệu so với Hệ 
+thống thuế điện tử thì nhà thầu sửa đổi cho phù hợp với số liệu đã báo cáo với cơ 
+quan thuế, Hệ thống sẽ lưu lại các phiên bản sửa đổi thông tin của nhà thầu.  
+3. Chủ đầu tư cung cấp thông tin về uy tín của nhà thầu trong việc tham dự 
+thầu theo quy định tại điểm d khoản 1 Điều 17 của Nghị định số 24/2024/NĐ-CP. 
+4. Chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung có 
+trách nhiệm cung cấp thông tin về kết quả thực hiện hợp đồng của nhà thầu theo 
+quy định tại điểm đ khoản 1 Điều 17 của Nghị định số 24/2024/NĐ-CP. 
+5. Chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung có 
+trách nhiệm cung cấp thông tin về chất lượng hàng hóa đã được sử dụng theo quy 
+định tại khoản 2 Điều 17 của Nghị định số 24/2024/NĐ-CP. 
+6. Chủ đầu tư cung cấp thông tin về xử lý vi phạm pháp luật về đấu thầu theo 
+quy định tại điểm a khoản 1 Điều 8 của Luật Đấu thầu. 
+Điều 11. Thông tin chủ yếu của hợp đồng  
+1. Thông tin chủ yếu của hợp đồng gồm: số hiệu hợp đồng, chủ thể hợp đồng, 
+giá hợp đồng, loại hợp đồng, thời gian thực hiện gói thầu theo quy định tại khoản 7 
+Điều 39 của Luật Đấu thầu, thời gian thực hiện hợp đồng (là số ngày tính từ ngày 
+hợp đồng có hiệu lực đến ngày các bên hoàn thành nghĩa vụ theo quy định trong 
+hợp đồng), thời điểm hợp đồng bắt đầu có hiệu lực, danh sách nhà thầu phụ (nếu có), 
+phạm vi công việc của hợp đồng, các thông tin khác (nếu có). 
+2. Chủ đầu tư có trách nhiệm cung cấp thông tin chủ yếu của hợp đồng chậm 
+nhất là 05 ngày làm việc kể từ ngày hợp đồng có hiệu lực theo quy định tại khoản 4 
+Điều 8 của Luật Đấu thầu. 
+Điều 12. Thông tin về dự án, kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch 
+lựa chọn nhà thầu  
+1. Thời gian đăng tải: 
+Thông tin về kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu 
+được chủ đầu tư đăng tải trên Hệ thống theo quy định tại điểm a khoản 1 và khoản 4 
+Điều 8 của Luật Đấu thầu và khoản 6 Điều 14 của Nghị định số 24/2024/NĐ-CP.  
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+15 
+ 
+2. Khi đăng tải kế hoạch tổng thể lựa chọn nhà thầu, chủ đầu tư đính kèm các 
+tài liệu là căn cứ lập kế hoạch tổng thể lựa chọn nhà thầu theo quy định tại khoản 2 
+Điều 14 của Nghị định số 24/2024/NĐ-CP.  
+Đối với kế hoạch lựa chọn nhà thầu, thông tin cơ bản về dự án được đăng tải 
+đồng thời với kế hoạch lựa chọn nhà thầu. 
+3. Trường hợp gói thầu có dự toán được duyệt sau khi phê duyệt kế hoạch lựa 
+chọn nhà thầu theo quy định tại khoản 2 Điều 131 của Nghị định số 24/2024/NĐ-CP 
+thì dự toán được duyệt phải được đăng tải trên Hệ thống trong thời hạn tối thiểu 05 
+ngày trước ngày có thời điểm đóng thầu. 
+4. Tài liệu đính kèm: 
+Chủ đầu tư phải đính kèm quyết định phê duyệt kế hoạch tổng thể lựa chọn 
+nhà thầu, kế hoạch lựa chọn nhà thầu trong quá trình đăng tải kế hoạch tổng thể lựa 
+chọn nhà thầu, kế hoạch lựa chọn nhà thầu.  
+Điều 13. Thông báo mời quan tâm, thông báo mời sơ tuyển, E-TBMQT, 
+E-TBMST  
+Bên mời thầu đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển, 
+E-TBMQT, E-TBMST trên Hệ thống theo tiến độ tổ chức lựa chọn nhà thầu và 
+phù hợp với thời gian tổ chức lựa chọn nhà thầu trong kế hoạch lựa chọn nhà 
+thầu được phê duyệt. Việc sửa đổi, hủy thông báo mời quan tâm, thông báo mời 
+sơ tuyển, E-TBMQT, E-TBMST chỉ được thực hiện trước thời điểm đóng thầu, 
+trừ trường hợp không có nhà thầu nộp hồ sơ quan tâm, hồ sơ dự sơ tuyển, E-HSQT, 
+E-HSDST. 
+Điều 14. Phát hành, sửa đổi, làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ 
+tuyển, E-HSMQT, E-HSMST  
+1. Phát hành:  
+a) Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, E-HSMST được phát 
+hành miễn phí trên Hệ thống ngay sau khi đăng tải thành công thông báo mời sơ 
+tuyển, thông báo mời quan tâm, E-TBMQT, E-TBMST. Trong quá trình đăng tải 
+thông báo mời sơ tuyển, thông báo mời quan tâm, E-TBMQT, E-TBMST, bên mời 
+
+ 
+16 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+thầu phải đính kèm quyết định phê duyệt hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, 
+E-HSMQT, E-HSMST; hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, 
+E-HSMST đã được phê duyệt. 
+Chủ đầu tư, bên mời thầu không được phát hành bản giấy hồ sơ mời quan tâm, 
+hồ sơ mời sơ tuyển cho nhà thầu. Trường hợp chủ đầu tư, bên mời thầu phát hành 
+bản giấy cho nhà thầu thì bản giấy không có giá trị pháp lý để lập, đánh giá hồ sơ 
+quan tâm, hồ sơ dự sơ tuyển. 
+b) Trường hợp nội dung của hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, 
+E-HSMST được đăng tải trên Hệ thống có sự sai khác với nội dung của hồ sơ 
+mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, E-HSMST được phê duyệt thì 
+hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, E-HSMST phát hành trên 
+Hệ thống là cơ sở để lập, đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển, E-HSQT, 
+E-HSDST. 
+2. Sửa đổi: 
+a) Đối với lựa chọn nhà thầu không qua mạng, trường hợp sửa đổi hồ sơ mời 
+quan tâm, hồ sơ mời sơ tuyển sau khi phát hành, bên mời thầu phải đăng tải các 
+tài liệu theo một trong hai cách sau đây trên Hệ thống: Quyết định sửa đổi kèm 
+theo những nội dung sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển; hoặc quyết 
+định sửa đổi và hồ sơ mời quan tâm, hồ sơ mời sơ tuyển đã được sửa đổi, trong 
+hồ sơ mời quan tâm, hồ sơ mời sơ tuyển đã được sửa đổi phải thể hiện rõ nội 
+dung sửa đổi. 
+b) Đối với lựa chọn nhà thầu qua mạng, trường hợp sửa đổi E-HSMQT, E-HSMST 
+sau khi phát hành, bên mời thầu phải đăng tải các tài liệu sau đây trên Hệ thống: 
+Quyết định sửa đổi kèm theo những nội dung sửa đổi E-HSMQT, E-HSMST; 
+E-HSMQT, E-HSMST đã được sửa đổi. 
+3. Làm rõ: 
+a) Trường hợp cần làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, 
+E-HSMST, nhà thầu gửi đề nghị làm rõ đến bên mời thầu thông qua Hệ thống 
+trong thời hạn tối thiểu 03 ngày làm việc trước ngày có thời điểm đóng thầu; 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+17 
+ 
+b) Bên mời thầu đăng tải văn bản làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ 
+tuyển, E-HSMQT, E-HSMST trên Hệ thống trong thời hạn tối thiểu 02 ngày làm 
+việc trước ngày có thời điểm đóng thầu;  
+c) Nội dung làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, E-HSMST 
+không được trái với nội dung của hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, 
+E-HSMST đã được phê duyệt. Trường hợp việc tiếp nhận nội dung yêu cầu làm rõ 
+hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, E-HSMST dẫn đến phải sửa 
+đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, E-HSMST thì việc sửa 
+đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, E-HSMQT, E-HSMST thực hiện theo 
+quy định tại khoản 2 Điều này. 
+Điều 15. Danh sách ngắn  
+1. Thời gian đăng tải: 
+Bên mời thầu đăng tải danh sách ngắn trên Hệ thống trong thời hạn 05 ngày 
+làm việc kể từ ngày danh sách ngắn được phê duyệt. 
+2. Tài liệu đính kèm: 
+Bên mời thầu đính kèm quyết định phê duyệt danh sách ngắn trong quá trình 
+đăng tải danh sách ngắn. 
+Điều 16. Thông báo mời thầu, E-TBMT  
+Bên mời thầu đăng tải thông báo mời thầu, E-TBMT trên Hệ thống theo tiến 
+độ tổ chức lựa chọn nhà thầu và phù hợp với thời gian tổ chức lựa chọn nhà thầu 
+trong kế hoạch lựa chọn nhà thầu được phê duyệt. Việc sửa đổi, hủy thông báo mời 
+thầu, E-TBMT chỉ được thực hiện trước thời điểm đóng thầu, trừ trường hợp 
+không có nhà thầu nào nộp hồ sơ dự thầu, E-HSDT. 
+Điều 17. Phát hành, sửa đổi, làm rõ hồ sơ mời thầu, E-HSMT  
+1. Phát hành: 
+a) Trong quá trình đăng tải thông báo mời thầu, E-TBMT, bên mời thầu phải 
+đính kèm các tài liệu: Quyết định phê duyệt hồ sơ mời thầu, E-HSMT; hồ sơ mời 
+thầu, E-HSMT đã được phê duyệt; điều khoản tham chiếu đã được phê duyệt; 
+
+ 
+18 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Đối với lựa chọn nhà thầu không qua mạng, hồ sơ mời thầu được phát hành 
+trên Hệ thống ngay sau khi đăng tải thành công thông báo mời thầu. Bên mời thầu 
+không được phát hành hồ sơ mời thầu bản giấy cho nhà thầu, trường hợp bên mời 
+thầu phát hành bản giấy cho nhà thầu thì bản giấy không có giá trị pháp lý để lập, 
+đánh giá hồ sơ dự thầu. 
+b) Trường hợp nội dung của hồ sơ mời thầu, E-HSMT, điều khoản tham chiếu 
+được đăng tải trên Hệ thống có sự sai khác với nội dung của hồ sơ mời thầu, E-HSMT, 
+điều khoản tham chiếu được phê duyệt thì hồ sơ mời thầu, E-HSMT, điều khoản 
+tham chiếu phát hành trên Hệ thống là cơ sở để lập, đánh giá hồ sơ dự thầu, E-HSDT, 
+hồ sơ lý lịch khoa học. 
+2. Sửa đổi: 
+a) Đối với lựa chọn nhà thầu không qua mạng, trường hợp sửa đổi hồ sơ mời 
+thầu sau khi phát hành, bên mời thầu phải đăng tải các tài liệu theo một trong hai 
+cách sau đây trên Hệ thống: quyết định sửa đổi kèm theo những nội dung sửa đổi 
+hồ sơ mời thầu; hoặc quyết định sửa đổi và hồ sơ mời thầu đã được sửa đổi, trong 
+hồ sơ mời thầu đã được sửa đổi phải thể hiện rõ nội dung sửa đổi. 
+b) Đối với lựa chọn nhà thầu qua mạng, trường hợp sửa đổi E-HSMT, điều 
+khoản tham chiếu sau khi phát hành, bên mời thầu phải đăng tải các tài liệu sau 
+đây trên Hệ thống: quyết định sửa đổi kèm theo những nội dung sửa đổi E-HSMT, 
+điều khoản tham chiếu; E-HSMT, điều khoản tham chiếu đã được sửa đổi. 
+3. Làm rõ: 
+a) Đối với lựa chọn nhà thầu không qua mạng, trường hợp cần làm rõ hồ sơ 
+mời thầu, nhà thầu phải gửi đề nghị làm rõ đến bên mời thầu thông qua Hệ thống 
+trong thời hạn tối thiểu 03 ngày làm việc (đối với đấu thầu trong nước), tối thiểu 
+05 ngày làm việc (đối với đấu thầu quốc tế) trước ngày có thời điểm đóng thầu để 
+xem xét, xử lý.  
+Đối với lựa chọn nhà thầu qua mạng, trường hợp cần làm rõ E-HSMT, điều 
+khoản tham chiếu, nhà thầu phải gửi đề nghị làm rõ đến bên mời thầu thông qua 
+Hệ thống trong thời hạn tối thiểu 03 ngày làm việc trước ngày có thời điểm đóng 
+thầu để xem xét, xử lý.  
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+19 
+ 
+b) Bên mời thầu tiếp nhận nội dung yêu cầu làm rõ của nhà thầu và đăng tải 
+văn bản làm rõ hồ sơ mời thầu, E-HSMT, điều khoản tham chiếu trên Hệ thống 
+trong thời hạn tối thiểu 02 ngày làm việc trước ngày có thời điểm đóng thầu;  
+c) Nội dung làm rõ hồ sơ mời thầu, E-HSMT, điều khoản tham chiếu không 
+được trái với nội dung của hồ sơ mời thầu, E-HSMT, điều khoản tham chiếu đã 
+được phê duyệt. Trường hợp việc tiếp nhận nội dung yêu cầu làm rõ hồ sơ mời 
+thầu, E-HSMT, điều khoản tham chiếu dẫn đến phải sửa đổi hồ sơ mời thầu, E-HSMT, 
+điều khoản tham chiếu thì việc sửa đổi hồ sơ mời thầu, E-HSMT, điều khoản tham 
+chiếu thực hiện theo quy định tại khoản 2 Điều này; 
+d) Trong trường hợp cần thiết, bên mời thầu tổ chức hội nghị tiền đấu thầu để 
+trao đổi về những nội dung trong hồ sơ mời thầu, E-HSMT mà các nhà thầu chưa 
+rõ. Bên mời thầu đăng tải giấy mời tham dự hội nghị tiền đấu thầu trên Hệ thống. 
+Nội dung trao đổi giữa bên mời thầu và nhà thầu phải được bên mời thầu ghi lại 
+thành biên bản và đăng tải trên Hệ thống trong thời hạn tối đa 02 ngày làm việc kể 
+từ ngày kết thúc hội nghị tiền đấu thầu.  
+Điều 18. Hủy, gia hạn, sửa đổi thông tin đã đăng tải 
+Việc hủy, gia hạn, sửa đổi thông tin đã đăng tải được thực hiện theo Hướng 
+dẫn sử dụng.  
+Điều 19. Kết quả lựa chọn nhà thầu  
+1. Thời gian đăng tải: 
+Chủ đầu tư đăng tải kết quả lựa chọn nhà thầu trên Hệ thống chậm nhất là 05 ngày 
+làm việc kể từ ngày phê duyệt kết quả lựa chọn nhà thầu.  
+2. Tài liệu đính kèm bao gồm: 
+a) Quyết định phê duyệt kết quả lựa chọn nhà thầu; 
+b) Báo cáo đánh giá E-HSDT đối với lựa chọn nhà thầu qua mạng (đăng tải 
+báo cáo đánh giá tổng hợp, không kèm theo các phiếu chấm của thành viên trong 
+tổ chuyên gia); 
+
+ 
+20 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+c) Trường hợp giá gói thầu trong kế hoạch lựa chọn nhà thầu được phê duyệt 
+điều chỉnh theo quy định tại điểm b khoản 8 Điều 131 của Nghị định số 
+24/2024/NĐ-CP thì chủ đầu tư phải đăng tải quyết định điều chỉnh giá gói thầu 
+trên Hệ thống trước thời điểm hết hạn chào lại giá dự thầu.  
+3. Đối với gói thầu mua sắm hàng hóa phải công khai chi tiết thông tin về các 
+hạng mục hàng hóa trúng thầu bao gồm các nội dung sau: 
+a) Danh mục hàng hóa; 
+b) Ký mã hiệu; 
+c) Nhãn hiệu; 
+d) Năm sản xuất; 
+đ) Xuất xứ (quốc gia, vùng lãnh thổ); 
+e) Hãng sản xuất; 
+g) Cấu hình, tính năng kỹ thuật cơ bản; 
+h) Đơn vị tính; 
+i) Khối lượng; 
+k) Mã Chương, mã Nhóm (tương ứng với 4 số đầu tiên của bộ mã) trong Hệ 
+thống hài hòa mô tả và mã hóa hàng hóa theo Hệ thống phân loại hàng hóa do Tổ 
+chức Hải quan thế giới WCO phát hành (gọi chung là mã HS) (nếu có); 
+l) Đơn giá trúng thầu. 
+Điều 20. Các thông tin khác đăng tải trên Hệ thống và quy trình đăng tải 
+trên Hệ thống  
+1. Ngoài các thông tin được đăng tải trên Hệ thống theo quy định tại các 
+Điều 10, 11, 12, 13, 14, 15, 16, 17 và 19 của Thông tư này, các thông tin khác 
+được đăng tải và thực hiện trên Hệ thống gồm: 
+a) Biên bản mở thầu đối với đấu thầu không qua mạng được đăng tải trên Hệ 
+thống trong thời hạn 24 giờ kể từ thời điểm mở thầu; 
+b) Quyết định hủy thầu được đăng tải trên Hệ thống trong thời hạn 05 ngày 
+làm việc kể từ ngày ký quyết định; 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+21 
+ 
+c) Văn bản giải quyết kiến nghị của chủ đầu tư, người có thẩm quyền được 
+đăng tải trên Hệ thống trong thời hạn 05 ngày làm việc kể từ ngày ban hành văn 
+bản giải quyết kiến nghị; 
+d) Danh sách nhà thầu đáp ứng về kỹ thuật đối với đấu thầu không qua mạng 
+được đăng tải trên Hệ thống trong thời hạn 05 ngày làm việc kể từ ngày phê duyệt; 
+đ) Đối với phương thức đấu thầu hai giai đoạn, danh sách nhà thầu đáp ứng 
+yêu cầu của hồ sơ mời thầu giai đoạn một và danh sách nhà thầu đáp ứng yêu cầu 
+về kỹ thuật giai đoạn hai phải được đăng tải trên Hệ thống chậm nhất là 05 ngày 
+làm việc kể từ ngày phê duyệt; 
+e) Danh sách nhà thầu nước ngoài trúng thầu tại Việt Nam được đăng tải trên 
+Hệ thống trong thời hạn 15 ngày kể từ ngày hợp đồng ký kết với nhà thầu nước 
+ngoài có hiệu lực. 
+2. Quy trình đăng tải thông tin tại các Điều 10, 11, 12, 13, 14, 15, 16, 17, 19 và 
+khoản 1 Điều này được thực hiện theo Hướng dẫn sử dụng.  
+Điều 21. Trách nhiệm của chủ đầu tư  
+1. Thực hiện các trách nhiệm theo quy định tại Điều 78 của Luật Đấu thầu. 
+2. Đăng tải thông tin quy định tại các điểm a, g, h, i và k khoản 1 Điều 7 của 
+Luật Đấu thầu. Trường hợp thuê tư vấn đấu thầu để làm bên mời thầu thì chủ đầu 
+tư vẫn phải chịu trách nhiệm đăng tải các thông tin này. 
+3. Đăng tải trên Hệ thống thông tin về nhà thầu nước ngoài trúng thầu tại Việt 
+Nam theo Phụ lục 6 ban hành kèm theo Thông tư này; việc đăng tải thực hiện theo 
+Hướng dẫn sử dụng. Thông tin được gửi đồng thời đến Cục Quản lý đấu thầu, Bộ 
+Kế hoạch và Đầu tư trong thời hạn 07 ngày làm việc kể từ ngày phê duyệt kết quả 
+lựa chọn nhà thầu. 
+4. Chịu trách nhiệm trước pháp luật về tính chính xác và trung thực của các 
+thông tin đã đăng ký, đăng tải trên Hệ thống khi đăng nhập bằng Tài khoản tham 
+gia Hệ thống của mình. 
+5. Kiểm tra và xác nhận việc đăng tải các thông tin của mình trên Hệ thống. 
+
+ 
+22 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+6. Quản lý và chịu trách nhiệm trong việc phân quyền cho các Tài khoản 
+nghiệp vụ tương ứng với vai trò của mình; quản lý việc sử dụng chứng thư số trên 
+Hệ thống. 
+Điều 22. Trách nhiệm của bên mời thầu  
+1. Thực hiện các trách nhiệm theo quy định tại Điều 79 của Luật Đấu thầu. 
+2. Đăng tải thông tin quy định tại các điểm b, c, d và đ khoản 1 Điều 7 của 
+Luật Đấu thầu. Đối với gói thầu được tổ chức đấu thầu quốc tế, bên mời thầu phải 
+đăng tải các thông tin quy định tại các điểm b, c và d khoản 1 Điều 7 của Luật Đấu 
+thầu bằng tiếng Việt và tiếng Anh; đối với thông tin quy định tại điểm đ khoản 1 
+Điều 7 của Luật Đấu thầu, bên mời thầu đăng tải bằng tiếng Anh hoặc tiếng Việt 
+và tiếng Anh. 
+3. Chịu trách nhiệm về tính thống nhất của tài liệu đăng tải trên Hệ thống với 
+tài liệu đã được phê duyệt. Trường hợp có sự sai khác giữa tài liệu được đăng tải 
+trên Hệ thống với tài liệu đã được phê duyệt thì tài liệu đăng tải trên Hệ thống là cơ 
+sở pháp lý để thực hiện. 
+4. Theo dõi, cập nhật các thông tin đã đăng tải trên Hệ thống và các thông tin 
+mà Hệ thống phản hồi. 
+5. Quản lý và chịu trách nhiệm trong việc phân quyền cho các Tài khoản 
+nghiệp vụ tương ứng với vai trò của mình; quản lý việc sử dụng chứng thư số trên 
+Hệ thống.  
+Điều 23. Trách nhiệm của Trung tâm và Doanh nghiệp dự án e-GP 
+1. Trung tâm có trách nhiệm:  
+a) Quản lý, giám sát vận hành Hệ thống, đảm bảo Hệ thống hoạt động ổn định, 
+liên tục, an toàn, bảo mật; 
+b) Xây dựng tài liệu Hướng dẫn sử dụng; hỗ trợ tổ chức tham gia Hệ thống 
+trong quá trình đăng ký, cung cấp, đăng tải thông tin và lựa chọn nhà thầu qua mạng; 
+c) Cung cấp các dịch vụ tuyên truyền, đào tạo, hướng dẫn tổ chức tham gia Hệ 
+thống và triển khai các dịch vụ liên quan đến thông tin về đấu thầu, lựa chọn nhà 
+thầu qua mạng; 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+23 
+ 
+d) Phối hợp với Doanh nghiệp dự án e-GP thực hiện các trách nhiệm quy định 
+tại Điều 52 của Luật Đấu thầu. 
+2. Doanh nghiệp dự án e-GP thực hiện các trách nhiệm quy định tại Điều 52 
+của Luật Đấu thầu. 
+ 
+Chương III 
+NỘI DUNG MẪU HỒ SƠ ĐẤU THẦU 
+ 
+Điều 24. Lập, trình, thẩm định, phê duyệt E-HSMQT, E-HSMST, E-HSMT 
+1. Tổ chuyên gia lập E-HSMQT, E-HSMST, E-HSMT trên Hệ thống. Sau khi 
+tổ chuyên gia lập E-HSMQT, E-HSMST, E-HSMT, bên mời thầu trình chủ đầu tư 
+để chủ đầu tư tổ chức thẩm định, phê duyệt E-HSMQT, E-HSMST, E-HSMT.  
+2. E-HSMQT, E-HSMST, E-HSMT phải bao gồm đầy đủ các thông tin cần 
+thiết để làm cơ sở cho nhà thầu chuẩn bị E-HSQT, E-HSDST, E-HSDT. Trường 
+hợp bên mời thầu đăng tải E-HSMQT, E-HSMST, E-HSMT không đầy đủ thông 
+tin (thiếu thiết kế, bản vẽ và các tài liệu khác) hoặc thông tin không rõ ràng, gây 
+khó khăn cho nhà thầu trong việc chuẩn bị E-HSQT, E-HSDST, E-HSDT thì E-HSMQT, 
+E-HSMST, E-HSMT này không hợp lệ; chủ đầu tư, bên mời thầu phải sửa đổi, bổ 
+sung E-HSMQT, E-HSMST, E-HSMT cho phù hợp và tiến hành đăng tải lại E-
+HSMQT, E-HSMST, E-HSMT. Việc sửa đổi E-HSMQT, E-HSMST, E-HSMT 
+thực hiện theo quy định tại khoản 2 Điều 14 và khoản 2 Điều 17 của Thông tư này. 
+3. Đối với gói thầu mua sắm hàng hóa, xây lắp, dịch vụ phi tư vấn, bảng dữ 
+liệu, tiêu chuẩn đánh giá về tính hợp lệ, yêu cầu về năng lực, kinh nghiệm trong 
+E-HSMST, E-HSMT được số hóa dưới dạng webform trên Hệ thống. Chủ đầu tư, 
+bên mời thầu không được đính kèm các file yêu cầu khác về bảng dữ liệu, tiêu 
+chuẩn đánh giá về tính hợp lệ, yêu cầu về năng lực, kinh nghiệm trong E-HSMST, 
+E-HSMT. Bảng dữ liệu, tiêu chuẩn đánh giá về tính hợp lệ, yêu cầu về năng lực, 
+kinh nghiệm không phải là bản được số hóa dưới dạng webform sẽ không được coi 
+là một phần của E-HSMST, E-HSMT và nhà thầu không phải đáp ứng các yêu 
+cầu này. 
+
+ 
+24 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+4. Trường hợp gói thầu đã áp dụng sơ tuyển, mời quan tâm, nếu năng lực và 
+kinh nghiệm của nhà thầu khi nộp E-HSDT có sự thay đổi so với khi tham dự sơ 
+tuyển, quan tâm thì nhà thầu phải cập nhật lại năng lực và kinh nghiệm của mình. 
+5. Trường hợp E-HSMT có các nội dung dẫn đến hạn chế sự tham gia của nhà 
+thầu hoặc tạo lợi thế cho một hoặc một số nhà thầu gây ra sự cạnh tranh không 
+bình đẳng, vi phạm quy định tại khoản 3 Điều 44 của Luật Đấu thầu nêu tại Phụ 
+lục 8 ban hành kèm theo Thông tư này thì bên mời thầu, tổ chuyên gia không được 
+loại bỏ E-HSDT không đáp ứng các nội dung này, các nội dung này bị coi là vô 
+hiệu theo quy định tại khoản 4 Điều 44 của Luật Đấu thầu, không phải là căn cứ để 
+đánh giá E-HSDT. 
+6. Trường hợp thuê tư vấn để thực hiện vai trò của bên mời thầu, tổ chuyên gia 
+để đăng tải thông tin, lập E-HSMQT, E-HSMST, E-HSMT, đánh giá E-HSQT, 
+E-HSDST, E-HSDT, đơn vị được thuê thực hiện theo Hướng dẫn sử dụng. 
+Điều 25. Trách nhiệm của nhà thầu trong quá trình tham dự thầu 
+1. Nhà thầu chịu trách nhiệm về tính chính xác của các thông tin kê khai trên 
+webform và file tài liệu đính kèm trong quá trình tham dự thầu. Nhà thầu nhập 
+thông tin theo yêu cầu của E-HSMQT, E-HSMST, E-HSMT và đính kèm các file 
+tài liệu để tạo thành bộ E-HSQT, E-HSDST, E-HSDT như sau: 
+a) Thông tin về tính hợp lệ của E-HSDT:  
+Đối với nội dung về bảo đảm dự thầu, nhà thầu kê khai thông tin và đính kèm 
+bản scan bảo đảm dự thầu. Trường hợp sử dụng bảo lãnh dự thầu điện tử, nhà thầu 
+chọn bảo lãnh dự thầu do tổ chức tín dụng trong nước hoặc chi nhánh ngân hàng 
+nước ngoài được thành lập theo pháp luật Việt Nam phát hành hoặc giấy chứng 
+nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi 
+nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp 
+luật Việt Nam phát hành, lưu trữ trên Hệ thống vào E-HSDT. Đối với nhà thầu liên 
+danh, các thành viên liên danh phải sử dụng cùng thể thức bảo lãnh dự thầu: bảo 
+lãnh dự thầu điện tử hoặc bằng giấy; 
+Đối với các nội dung còn lại, nhà thầu chỉ kê khai thông tin trên webform mà 
+không cần đính kèm bản scan các văn bản, tài liệu liên quan. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+25 
+ 
+b) Thông tin về năng lực, kinh nghiệm: 
+Đối với hợp đồng tương tự, năng lực sản xuất: nhà thầu kê khai và đính kèm 
+file tài liệu liên quan để chứng minh thông tin đã kê khai;  
+Đối với yêu cầu về nguồn lực tài chính: nhà thầu kê khai thông tin; trường 
+hợp nhà thầu sử dụng cam kết cung cấp tín dụng để chứng minh nguồn lực tài 
+chính, ngoài việc kê khai thông tin, nhà thầu phải đính kèm bản scan cam kết 
+cung cấp tín dụng;  
+Đối với doanh thu hằng năm, giá trị tài sản ròng: kể từ năm 2021, Hệ thống tự 
+động trích xuất số liệu về báo cáo tài chính từ Hệ thống thông tin quốc gia về đăng 
+ký doanh nghiệp, Hệ thống thuế điện tử vào hồ sơ năng lực của nhà thầu;  
+Đối với các nội dung khác: nhà thầu kê khai trên webform mà không cần đính 
+kèm bản scan các văn bản, tài liệu liên quan; 
+Đối với số liệu về báo cáo tài chính kể từ năm 2021, trường hợp nhà thầu phát 
+hiện Hệ thống chưa cập nhật số liệu so với Hệ thống thuế điện tử của các năm từ 
+năm 2021 thì nhà thầu sửa đổi thông tin cho phù hợp với số liệu đã báo cáo với cơ 
+quan thuế; trường hợp số liệu mà nhà thầu cập nhật, sửa đổi trên Hệ thống không 
+thống nhất với số liệu trên Hệ thống thuế điện tử dẫn đến làm sai lệch kết quả lựa 
+chọn nhà thầu thì nhà thầu bị coi là gian lận, vi phạm khoản 4 Điều 16 của Luật 
+Đấu thầu.  
+2. Nhà thầu có trách nhiệm nghiên cứu E-HSMQT, E-HSMST, E-HSMT đối 
+với các gói thầu mà nhà thầu quan tâm để chuẩn bị E-HSQT, E-HSDST, E-HSDT 
+cho phù hợp với yêu cầu của E-HSMQT, E-HSMST, E-HSMT. Trường hợp phát 
+hiện E-HSMQT, E-HSMST, E-HSMT có các nội dung không rõ ràng, gây khó 
+khăn cho nhà thầu trong việc chuẩn bị E-HSQT, E-HSDST, E-HSDT thì nhà thầu 
+phải yêu cầu bên mời thầu làm rõ E-HSMQT, E-HSMST, E-HSMT để chủ đầu tư, 
+bên mời thầu sửa đổi, bổ sung các tài liệu này cho phù hợp. 
+3. Nhà thầu có trách nhiệm theo dõi, cập nhật các thông tin trên Hệ thống đối 
+với gói thầu mà nhà thầu quan tâm hoặc tham dự. Trường hợp xảy ra các sai sót do 
+không theo dõi, cập nhật thông tin trên Hệ thống dẫn đến bất lợi cho nhà thầu trong 
+
+ 
+26 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+quá trình tham dự thầu bao gồm: thay đổi, sửa đổi về E-HSMQT, E-HSMST, 
+E-HSMT, thời gian nộp E-HSQT, E-HSDST, E-HSDT, thời gian làm rõ E-HSQT, 
+E-HSDST, E-HSDT, thời gian thương thảo hợp đồng và các nội dung khác thì nhà 
+thầu phải tự chịu trách nhiệm và chịu bất lợi trong quá trình tham dự thầu.  
+4. Trường hợp người đại diện theo pháp luật của nhà thầu ủy quyền cho giám 
+đốc chi nhánh, giám đốc công ty con hạch toán phụ thuộc, giám đốc xí nghiệp và 
+người đứng đầu đơn vị hạch toán phụ thuộc khác để thực hiện các công việc trong 
+quá trình tham dự thầu thì việc tham dự thầu trên Hệ thống phải được thực hiện 
+bằng tài khoản tham gia Hệ thống của nhà thầu mà không được sử dụng tài khoản 
+tham gia Hệ thống của chi nhánh, công ty con, xí nghiệp, đơn vị hạch toán phụ 
+thuộc khác. Trường hợp sử dụng tài khoản tham gia Hệ thống của chi nhánh hoặc 
+các đơn vị phụ thuộc (hạch toán phụ thuộc) thì nhà thầu sẽ bị coi là không đáp ứng 
+về tư cách hợp lệ theo quy định tại khoản 1 Điều 5 của Luật Đấu thầu. 
+5. Thực hiện các trách nhiệm khác bao gồm: 
+a) Đăng ký tham gia Hệ thống để bảo đảm tư cách hợp lệ theo quy định tại 
+điểm d khoản 1 Điều 5 của Luật Đấu thầu;  
+b) Thực hiện các trách nhiệm theo quy định tại Điều 82 của Luật Đấu thầu; 
+c) Quản lý tài khoản tham gia Hệ thống, chứng thư số đăng ký trên Hệ thống.  
+Điều 26. Nội dung về hàng mẫu 
+E-HSMT không được đưa ra yêu cầu về hàng mẫu; trường hợp cần yêu cầu về 
+hàng mẫu để đánh giá về kỹ thuật thì chủ đầu tư phải trình người có thẩm quyền 
+xem xét, quyết định. Tờ trình phải nêu rõ lý do yêu cầu về hàng mẫu. Chủ đầu tư, 
+bên mời thầu phải bảo đảm việc yêu cầu cung cấp hàng mẫu không dẫn đến làm 
+tăng chi phí của gói thầu, hạn chế sự tham gia của nhà thầu hoặc nhằm tạo lợi thế 
+cho một hoặc một số nhà thầu gây ra sự cạnh tranh không bình đẳng. Trường hợp 
+E-HSMT có yêu cầu cung cấp hàng mẫu, nhà thầu có thể nộp bổ sung hàng mẫu 
+trong thời hạn 05 ngày làm việc sau thời điểm đóng thầu. 
+Điều 27. Mở thầu đối với lựa chọn nhà thầu qua mạng  
+1. Đối với gói thầu áp dụng phương thức một giai đoạn một túi hồ sơ: 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+27 
+ 
+Bên mời thầu phải tiến hành mở thầu và công khai biên bản mở thầu trên Hệ 
+thống trong thời hạn không quá 02 giờ kể từ thời điểm đóng thầu.  
+2. Đối với gói thầu áp dụng phương thức một giai đoạn hai túi hồ sơ: 
+a) Bên mời thầu phải tiến hành mở E-HSĐXKT và công khai biên bản mở 
+E-HSĐXKT trên Hệ thống trong thời hạn không quá 02 giờ kể từ thời điểm 
+đóng thầu; 
+b) Sau khi có quyết định phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ 
+thuật, bên mời thầu đăng tải danh sách này trên Hệ thống và đính kèm bản chụp 
+(scan) văn bản phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật trên Hệ 
+thống. Sau khi đăng tải thành công, Hệ thống gửi thông báo đến các nhà thầu tham 
+dự gói thầu; 
+c) Sau khi đăng tải danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật, bên mời 
+thầu mở E-HSĐXTC của các nhà thầu có tên trong danh sách nhà thầu đáp ứng 
+yêu cầu về kỹ thuật và công khai biên bản mở E-HSĐXTC trên Hệ thống. 
+Điều 28. Đánh giá E-HSDT 
+1. Quy trình đánh giá E-HSDT: 
+a) Quy trình 01 áp dụng cho tất cả các gói thầu, gồm: đánh giá tính hợp lệ của 
+E-HSDT; đánh giá về năng lực và kinh nghiệm; đánh giá về kỹ thuật; đánh giá về 
+tài chính. 
+Đối với gói thầu mua sắm tập trung cần lựa chọn nhà thầu theo khả năng cung 
+cấp, việc đánh giá về bảo đảm dự thầu, doanh thu bình quân hằng năm, hợp đồng 
+tương tự, năng lực sản xuất được thực hiện tại bước đánh giá về tài chính. 
+b) Quy trình 02 áp dụng đối với gói thầu mua sắm hàng hóa, dịch vụ phi tư vấn 
+theo phương thức một giai đoạn một túi hồ sơ, sử dụng phương pháp “giá thấp 
+nhất” và các E-HSDT đều không có bất kỳ ưu đãi nào.  
+Căn cứ vào biên bản mở thầu, Hệ thống tự động xếp hạng nhà thầu theo giá dự 
+thầu thấp nhất (không phải phê duyệt danh sách xếp hạng nhà thầu trong trường 
+hợp này). Trường hợp có từ 02 nhà thầu trở lên cùng xếp thứ nhất thì không đánh 
+giá theo quy trình 02 mà phải đánh giá theo quy trình 01; 
+
+ 
+28 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Đánh giá tính hợp lệ của E-HSDT của nhà thầu xếp hạng thứ nhất; 
+Đánh giá về năng lực và kinh nghiệm của nhà thầu xếp hạng thứ nhất; 
+Đánh giá về kỹ thuật của nhà thầu xếp hạng thứ nhất. 
+Trường hợp nhà thầu xếp hạng thứ nhất không đáp ứng thì đánh giá đối với 
+nhà thầu xếp hạng tiếp theo. 
+c) Đối với gói thầu áp dụng theo phương thức một giai đoạn một túi hồ sơ, 
+căn cứ vào E-HSDT của các nhà thầu đã nộp trên Hệ thống và phương pháp 
+đánh giá E-HSDT quy định trong E-HSMT, bên mời thầu được chọn một trong 
+hai quy trình quy định tại điểm a và điểm b khoản này để đánh giá E-HSDT. 
+Quy trình 02 chỉ thực hiện khi đáp ứng đầy đủ các điều kiện quy định tại điểm b 
+khoản này. 
+2. Trường hợp chỉ có 01 nhà thầu tham dự thầu hoặc chỉ có 01 nhà thầu vượt 
+qua bước đánh giá về kỹ thuật thì không cần xác định giá đánh giá (trong trường 
+hợp gói thầu áp dụng phương pháp giá đánh giá), điểm tổng hợp (trong trường hợp 
+gói thầu áp dụng phương pháp kết hợp giữa kỹ thuật và giá), không cần xác định 
+ưu đãi, không cần xếp hạng nhà thầu. 
+3. Sau khi đánh giá E-HSDT, tổ trưởng tổ chuyên gia đính kèm bản scan báo 
+cáo đánh giá E-HSDT (có chữ ký của tất cả thành viên trong tổ chuyên gia) trên 
+Hệ thống. Tổ trưởng tổ chuyên gia chịu trách nhiệm về sự thống nhất giữa bản báo 
+cáo đánh giá E-HSDT scan đính kèm trên Hệ thống và bản báo cáo đánh giá E-HSDT 
+bằng giấy có chữ ký của các thành viên trong tổ chuyên gia.  
+Điều 29. Trình, thẩm định và phê duyệt kết quả lựa chọn nhà thầu 
+1. Bên mời thầu lập tờ trình theo Phụ lục 3A ban hành kèm theo Thông tư này 
+và kèm theo báo cáo đánh giá E-HSDT trình chủ đầu tư phê duyệt kết quả lựa chọn 
+nhà thầu. 
+2. Chủ đầu tư phê duyệt kết quả lựa chọn nhà thầu theo Phụ lục 3B ban hành 
+kèm theo Thông tư này trên cơ sở tờ trình, báo cáo đánh giá E-HSDT, báo cáo 
+thẩm định kết quả lựa chọn nhà thầu. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+29 
+ 
+Chương IV 
+TỔ CHỨC THỰC HIỆN 
+ 
+Điều 30. Điều khoản chuyển tiếp 
+1. Đối với gói thầu đã phê duyệt kế hoạch lựa chọn nhà thầu (đã đăng tải kế 
+hoạch lựa chọn nhà thầu hoặc chưa đăng tải trên Hệ thống) trước ngày 01 tháng 01 
+năm 2024 nhưng đến ngày Thông tư này có hiệu lực thi hành chưa phát hành hồ sơ 
+mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu thì phải phê 
+duyệt điều chỉnh kế hoạch lựa chọn nhà thầu để phù hợp với quy định của Luật 
+Đấu thầu, Nghị định số 24/2024/NĐ-CP và Thông tư này (nếu có).  
+2. Đối với gói thầu đã được phê duyệt áp dụng lựa chọn nhà thầu qua mạng 
+và lập E-HSMST, E-HSMQT, E-HSMT theo quy định của Thông tư số 
+01/2024/TT-BKHĐT ngày 15 tháng 02 năm 2024 của Bộ trưởng Bộ Kế hoạch 
+và Đầu tư hướng dẫn việc cung cấp, đăng tải thông tin về lựa chọn nhà thầu và 
+mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia (sau đây gọi là 
+Thông tư số 01/2024/TT-BKHĐT): 
+a) Trường hợp gói thầu đã đăng tải E-HSMST, E-HSMQT, E-HSMT trên Hệ 
+thống trong thời gian từ ngày 01 tháng 01 năm 2024 đến trước ngày 27 tháng 02 
+năm 2024 thì tiếp tục tổ chức lựa chọn danh sách ngắn, lựa chọn nhà thầu, ký kết 
+và quản lý thực hiện hợp đồng theo quy định của Luật Đấu thầu số 22/2023/QH15, 
+các nội dung còn phù hợp với Luật Đấu thầu số 22/2023/QH15 của Nghị định 
+số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi 
+hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu (sau đây gọi là Nghị 
+định số 63/2014/NĐ-CP) và Thông tư số 01/2024/TT-BKHĐT; 
+b) Trường hợp gói thầu đã đăng tải E-HSMST, E-HSMQT, E-HSMT trên Hệ 
+thống kể từ ngày 27 tháng 02 năm 2024 đến trước ngày Thông tư này có hiệu lực 
+thi hành thì tiếp tục tổ chức lựa chọn danh sách ngắn, lựa chọn nhà thầu, ký kết và 
+quản lý thực hiện hợp đồng theo quy định của Luật Đấu thầu số 22/2023/QH15, 
+Nghị định số 24/2024/NĐ-CP và Thông tư số 01/2024/TT-BKHĐT; 
+
+ 
+30 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+c) Kể từ ngày Thông tư này có hiệu lực thi hành, trường hợp gói thầu chưa lập 
+E-HSMST, E-HSMQT, E-HSMT hoặc đã lập, phê duyệt E-HSMST, E-HSMQT, 
+E-HSMT nhưng chưa đăng tải E-HSMST, E-HSMQT, E-HSMT trên Hệ thống thì 
+phải lập, sửa đổi, phê duyệt lại E-HSMST, E-HSMQT, E-HSMT theo quy định của 
+Thông tư này. 
+3. Đối với gói thầu không áp dụng lựa chọn nhà thầu qua mạng: 
+a) Trường hợp gói thầu đã đăng tải hồ sơ mời sơ tuyển, hồ sơ mời quan tâm, 
+hồ sơ mời thầu trên Hệ thống trong thời gian từ ngày 01 tháng 01 năm 2024 đến 
+trước ngày 27 tháng 02 năm 2024 thì tiếp tục tổ chức lựa chọn danh sách ngắn, lựa 
+chọn nhà thầu, ký kết và quản lý thực hiện hợp đồng theo quy định của Luật Đấu 
+thầu số 22/2023/QH15, các nội dung còn phù hợp với Luật Đấu thầu số 
+22/2023/QH15 của Nghị định số 63/2014/NĐ-CP; 
+b) Trường hợp gói thầu đã đăng tải hồ sơ mời sơ tuyển, hồ sơ mời quan tâm, 
+hồ sơ mời thầu trên Hệ thống kể từ ngày 27 tháng 02 năm 2024 đến trước ngày 
+Thông tư này có hiệu lực thi hành thì tiếp tục tổ chức lựa chọn danh sách ngắn, lựa 
+chọn nhà thầu, ký kết và quản lý thực hiện hợp đồng theo quy định của Luật Đấu 
+thầu số 22/2023/QH15, Nghị định số 24/2024/NĐ-CP; 
+c) Kể từ ngày Thông tư này có hiệu lực thi hành, trường hợp gói thầu chưa lập 
+hồ sơ mời sơ tuyển, hồ sơ mời quan tâm, hồ sơ mời thầu hoặc đã phê duyệt hồ sơ 
+mời sơ tuyển, hồ sơ mời quan tâm, hồ sơ mời thầu nhưng chưa đăng tải hồ sơ mời 
+sơ tuyển, hồ sơ mời quan tâm, hồ sơ mời thầu trên Hệ thống thì phải lập, sửa đổi, 
+thẩm định, phê duyệt lại hồ sơ mời sơ tuyển, hồ sơ mời quan tâm, hồ sơ mời thầu 
+cho phù hợp với quy định của Luật Đấu thầu, Nghị định số 24/2024/NĐ-CP. Chủ 
+đầu tư chỉnh sửa các Mẫu hồ sơ mời thầu ban hành kèm theo Thông tư này để phù 
+hợp với cách thức tổ chức lựa chọn nhà thầu không qua mạng. 
+4. Trường hợp thay đổi hình thức lựa chọn nhà thầu từ không qua mạng thành 
+qua mạng thì chủ đầu tư không phải trình người có thẩm quyền phê duyệt điều 
+chỉnh kế hoạch lựa chọn nhà thầu mà tiến hành chỉnh sửa hình thức lựa chọn nhà 
+thầu trên Hệ thống từ không qua mạng thành qua mạng. Quy trình chỉnh sửa thực 
+hiện theo Hướng dẫn sử dụng. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+31 
+ 
+Điều 31. Hiệu lực thi hành  
+1. Thông tư này có hiệu lực thi hành kể từ ngày 26 tháng 4 năm 2024. 
+2. Kể từ ngày Thông tư này có hiệu lực thi hành, Thông tư số 01/2024/TT-BKHĐT 
+hết hiệu lực thi hành, trừ nội dung quy định tại khoản 3 Điều này. 
+3. Mẫu số 7A và Mẫu số 7B ban hành kèm theo Thông tư số 01/2024/TT-BKHĐT 
+có hiệu lực thi hành cho đến khi Thông tư hướng dẫn về đấu thầu thuốc tại các cơ 
+sở y tế công lập do Bộ Y tế ban hành có hiệu lực thi hành. 
+4. Trường hợp các thông tin trong quá trình lựa chọn nhà thầu cần bảo mật và 
+không thể công khai trên Hệ thống, người có thẩm quyền quyết định việc đăng tải 
+thông tin trong quá trình lựa chọn nhà thầu. 
+5. Trường hợp gói thầu đặc thù mà nếu áp dụng các quy định của Mẫu E-HSMST, 
+E-HSMQT, E-HSMT ban hành kèm theo Thông tư này sẽ có ít hơn 03 nhà thầu 
+đáp ứng yêu cầu về doanh thu bình quân hằng năm, hợp đồng tương tự thì chủ đầu 
+tư, bên mời thầu được chỉnh sửa các yêu cầu này theo nguyên tắc sau: 
+a) Việc chỉnh sửa yêu cầu về doanh thu bình quân hằng năm, hợp đồng tương 
+tự khác với quy định của các Mẫu E-HSMST, E-HSMQT, E-HSMT phải bảo 
+đảm việc phân chia gói thầu là hợp lý, quy mô gói thầu không quá lớn để hạn chế 
+cạnh tranh; 
+b) Khi trình phê duyệt E-HSMST, E-HSMQT, E-HSMT, bên mời thầu phải 
+nêu rõ việc chỉnh sửa E-HSMST, E-HSMQT, E-HSMT trong tờ trình để chủ đầu 
+tư xem xét;  
+c) Trong mọi trường hợp, chủ đầu tư phải bảo đảm không làm hạn chế sự tham 
+gia của nhà thầu; nhà thầu được lựa chọn có đủ năng lực, kinh nghiệm để thực hiện 
+gói thầu. 
+6. Kể từ ngày Thông tư này có hiệu lực thi hành, khi lập hồ sơ mời thầu đối 
+với lựa chọn nhà thầu không qua mạng, chủ đầu tư, bên mời thầu vận dụng các 
+Mẫu E-HSMT ban hành kèm theo Thông tư này trên cơ sở bảo đảm không trái với 
+quy định của Luật Đấu thầu và Nghị định số 24/2024/NĐ-CP. 
+
+ 
+32 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+7. Hằng năm, Bộ Kế hoạch và Đầu tư hướng dẫn việc cung cấp, đăng tải thông 
+tin về đấu thầu trên Hệ thống phù hợp với lịch nghỉ lễ, Tết theo thông báo của Bộ 
+Lao động - Thương binh và Xã hội. 
+8. Việc chỉnh sửa các biểu mẫu dưới dạng webform trên Hệ thống thực hiện 
+theo quy định tại điểm đ khoản 1 Điều 135 của Nghị định số 24/2024/NĐ-CP.  
+9. Trong quá trình thực hiện, nếu có vướng mắc, các Bộ, cơ quan ngang Bộ, cơ 
+quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp, các 
+tập đoàn kinh tế nhà nước, các tổng công ty nhà nước và tổ chức, cá nhân có liên 
+quan gửi ý kiến về Bộ Kế hoạch và Đầu tư để kịp thời hướng dẫn./. 
+ 
+ 
+BỘ TRƯỞNG  
+ 
+Nguyễn Chí Dũng 
+ 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+33 
+ 
+PHỤ LỤC  
+(Ban hành kèm theo Thông tư số 06/2024/TT-BKHĐT ngày 26 tháng 4 năm 2024 
+của Bộ trưởng Bộ Kế hoạch và Đầu tư) 
+ 
+Phụ lục 1A: Mẫu Tờ trình đề nghị phê duyệt kết quả đánh giá E-HSĐXKT 
+(đối với gói thầu theo phương thức một giai đoạn hai túi hồ sơ) 
+Phụ lục 1B: Mẫu Quyết định phê duyệt danh sách nhà thầu đáp ứng yêu cầu 
+về kỹ thuật (đối với gói thầu theo phương thức một giai đoạn hai túi hồ sơ) 
+Phụ lục 2A: Mẫu Kết quả đối chiếu tài liệu (đối với tất cả các gói thầu) 
+Phụ lục 2B: Mẫu Biên bản thương thảo hợp đồng (đối với gói thầu mua sắm 
+hàng hóa, xây lắp, hỗn hợp, phi tư vấn áp dụng thương thảo hợp đồng theo quy 
+định tại điểm d khoản 1 Điều 43 của Luật Đấu thầu) 
+Phụ lục 2C: Mẫu Biên bản thương thảo hợp đồng (đối với gói thầu cung cấp 
+dịch vụ tư vấn) 
+Phụ lục 3A: Mẫu Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu 
+Phụ lục 3B: Mẫu Quyết định phê duyệt kết quả lựa chọn nhà thầu 
+Phụ lục 4: Mẫu Bản cam kết  
+Phụ lục 5: Phiếu đăng ký thông tin văn bản quy phạm pháp luật về đấu thầu 
+Phụ lục 6: Phiếu thông báo thông tin về nhà thầu nước ngoài trúng thầu tại 
+Việt Nam  
+Phụ lục 7: Phiếu thông báo thông tin xử lý vi phạm pháp luật về đấu thầu 
+Phụ lục 8: Một số hành vi vi phạm quy định tại khoản 3 Điều 44 của Luật Đấu thầu  
+ 
+ 
+
+ 
+34 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+ Phụ lục 1A 
+[TÊN CHỦ ĐẦU TƯ] 
+[TÊN BÊN MỜI THẦU] 
+ 
+Số: _____ /_____ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+_____, ngày____ tháng____ năm____
+ 
+TỜ TRÌNH  
+V/v đề nghị phê duyệt kết quả đánh giá E-HSĐXKT gói thầu...  
+[ghi tên gói thầu trong KHLCNT được duyệt]  
+(đối với gói thầu theo phương thức một giai đoạn hai túi hồ sơ) 
+ 
+Kính gửi: [ghi tên Chủ đầu tư] 
+ 
+1. Căn cứ pháp lý 
+Nêu các căn cứ pháp lý có liên quan đến quá trình lựa chọn nhà thầu. 
+2. Nội dung gói thầu 
+Theo KHLCNT, Bên mời thầu điền các nội dung liên quan đến gói thầu như sau: 
+- Tên gói thầu; 
+- Giá gói thầu; 
+- Nguồn vốn; 
+- Thời gian tổ chức lựa chọn nhà thầu; 
+- Thời gian bắt đầu tổ chức lựa chọn nhà thầu; 
+- Hình thức, phương thức lựa chọn nhà thầu; 
+- Loại hợp đồng;  
+- Thời gian thực hiện gói thầu; 
+- Tùy chọn mua thêm (nếu có). 
+3. Quá trình thực hiện 
+a) Bên mời thầu tóm tắt quá trình thực hiện theo bảng sau: 
+Stt 
+Nội dung 
+Thời gian thực hiện 
+1 
+Chuẩn bị lựa chọn nhà thầu 
+2 
+Đăng tải KHLCNT  
+[Ghi ngày đăng tải trên Hệ thống mạng 
+đấu thầu quốc gia] 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+35 
+ 
+Stt 
+Nội dung 
+Thời gian thực hiện 
+3 
+Mời thầu 
+3.1 Đăng tải E-TBMT và phát hành 
+E-HSMT 
+[ghi số E-TBMT và thời điểm đăng tải] 
+3.2 Làm rõ E-HSMT (nếu có) 
+[Ghi ngày làm rõ, số văn bản làm rõ 
+(nếu có) của văn bản yêu cầu làm rõ của 
+nhà thầu và văn bản làm rõ E-HSMT 
+của Bên mời thầu] 
+3.3 Sửa đổi E-HSMT (nếu có) 
+[Ghi thời gian, số, ngày ban hành văn 
+bản sửa đổi] 
+3.4 Thời điểm đóng thầu 
+[Ghi thời điểm đóng thầu] 
+4 
+Mở thầu 
+4.1 Thời gian mở thầu 
+[Ghi thời gian hoàn thành mở thầu] 
+4.2 Các vấn đề khác trong quá trình 
+mở thầu (nếu có) 
+[Ghi các vấn đề và cách xử lý] 
+5 
+Đánh giá HSĐXKT 
+ 
+Thời gian đánh giá E-HSĐXKT
+[Ghi thời gian đánh giá E-HSĐXKT từ 
+ngày, tháng, năm đến ngày, tháng, năm 
+trình phê duyệt kết quả đánh giá về kỹ 
+thuật] 
+b) Các vấn đề trong quá trình đánh giá E-HSĐXKT, các vấn đề phát sinh cần 
+xử lý tình huống; 
+c) Kết luận của tổ chuyên gia về danh sách nhà thầu vượt qua bước đánh giá 
+về kỹ thuật; 
+d) Ý kiến của Bên mời thầu về các nội dung đánh giá nêu trong báo cáo của tổ 
+chuyên gia, ý kiến của tổ chuyên gia; 
+đ) Nhận xét của Bên mời thầu về việc bảo đảm tính cạnh tranh, công bằng, 
+minh bạch. Trường hợp chưa bảo đảm cạnh tranh, công bằng, minh bạch và hiệu 
+quả kinh tế, phải nêu rõ lý do và đề xuất biện pháp xử lý; những nội dung của E-
+HSMT không phù hợp với quy định của pháp luật về đấu thầu hoặc nội dung có thể 
+dẫn đến cách hiểu không rõ hoặc khác nhau trong quá trình thực hiện hoặc có thể 
+làm sai lệch kết quả lựa chọn nhà thầu (nếu có); đề xuất biện pháp xử lý. 
+
+ 
+36 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+4. Kiến nghị 
+Trên cơ sở kết quả đánh giá E-HSĐXKT, _______ [ghi tên Bên mời thầu] kiến 
+nghị_______ [ghi tên Chủ đầu tư] phê duyệt danh sách nhà thầu đáp ứng yêu cầu 
+về kỹ thuật của gói thầu_______ [ghi tên gói thầu theo KHLCNT]: 
+[Liệt kê:  
+- Các nhà thầu đáp ứng yêu cầu về kỹ thuật, số điểm kỹ thuật (trường hợp áp 
+dụng phương pháp chấm điểm); 
+- Các nhà thầu không đáp ứng yêu cầu về kỹ thuật, số điểm kỹ thuật (trường 
+hợp áp dụng phương pháp chấm điểm).] 
+ 
+Nơi nhận: 
+- Như trên; 
+- Tổ chức thẩm định (để thẩm định); 
+- Lưu: VT,  
+ĐẠI DIỆN HỢP PHÁP  
+CỦA BÊN MỜI THẦU 
+(Ký tên, đóng dấu (nếu có)) 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+37 
+ 
+Phụ lục 1B 
+[TÊN CHỦ ĐẦU TƯ] 
+ 
+ 
+Số: _____ /_____ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+_____, ngày____tháng____năm____  
+ 
+QUYẾT ĐỊNH1 
+Về việc phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật  
+của gói thầu... [ghi tên gói thầu] thuộc kế hoạch lựa chọn nhà thầu...  
+[ghi tên kế hoạch lựa chọn nhà thầu] thuộc dự án/dự toán mua sắm...  
+[ghi tên dự án/dự toán mua sắm] 
+ 
+(đối với gói thầu theo phương thức một giai đoạn hai túi hồ sơ) 
+ 
+[ĐẠI DIỆN THEO PHÁP LUẬT CỦA CHỦ ĐẦU TƯ] 
+ 
+Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23 tháng 6 năm 2023; 
+Căn cứ.... 
+[Nêu các căn cứ pháp lý như: Quyết định phê duyệt dự án; Quyết định phê 
+duyệt kế hoạch lựa chọn nhà thầu; Quyết định phê duyệt E-HSMT, Tờ trình của 
+bên mời thầu; Báo cáo thẩm định của tổ thẩm định...] 
+Xét đề nghị của......,  
+ 
+QUYẾT ĐỊNH: 
+ 
+Điều 1. Phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật của gói 
+thầu.... thuộc kế hoạch lựa chọn nhà thầu.... thuộc dự án/dự toán mua sắm.... bao gồm: 
+[Ghi tên đầy đủ của nhà thầu. Trường hợp áp dụng phương pháp chấm điểm 
+phải ghi rõ số điểm và xếp hạng nhà thầu theo thứ tự từ cao đến thấp] 
+Điều 2. Giao.... [ghi tên đơn vị được giao] chịu trách nhiệm thực hiện các 
+bước tiếp theo của quy trình đấu thầu. 
+                                          
+1 Chủ đầu tư sử dụng phụ lục này. 
+
+ 
+38 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký..... [ghi tên đơn vị được 
+giao] chịu trách nhiệm thi hành Quyết định này./. 
+ 
+Nơi nhận: 
+- ...... (....) 
+- Lưu: VT, BMT (....).  
+ĐẠI DIỆN THEO PHÁP LUẬT 
+CỦA CHỦ ĐẦU TƯ 
+[Ký tên, đóng dấu] 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+39 
+ 
+Phụ lục 2A 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+____, ngày___ tháng___ năm____ 
+ 
+BIÊN BẢN ĐỐI CHIẾU TÀI LIỆU 
+Gói thầu: ____ [ghi tên gói thầu] 
+Số: ________/__________  
+ 
+1. Tên nhà thầu được đối chiếu tài liệu: 
+2. Tên cá nhân được phân công đối chiếu tài liệu: 
+Ông/Bà:_________ [ghi tên các cá nhân trong bên mời thầu phụ trách việc 
+đối chiếu tài liệu]. 
+3. Kết quả đối chiếu tài liệu: 
+a) Thông tin về tính hợp lệ của E-HSDT: 
+(ghi rõ "thống nhất" hay "không thống nhất") 
+Các nội dung không thống nhất: [ghi cụ thể từng nội dung không thống nhất 
+giữa thông tin cam kết, kê khai trong E-HSDT với tài liệu nhà thầu cung cấp theo 
+bảng dưới đây]. 
+Nội dung không thống nhất 
+Cam kết, kê khai 
+trong E-HSDT 
+Tài liệu của nhà thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+b) Thông tin về năng lực, kinh nghiệm: 
+(ghi rõ "thống nhất" hay "không thống nhất") 
+Các nội dung không thống nhất: [ghi cụ thể từng nội dung không thống nhất giữa 
+thông tin kê khai của nhà thầu với tài liệu nhà thầu cung cấp theo bảng dưới đây ]. 
+Nội dung không thống nhất 
+Kê khai trong E-HSDT Tài liệu của nhà thầu
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+40 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+4. Kết luận về việc đối chiếu tài liệu: 
+(chọn một trong hai kết luận dưới đây) 
+□ Thống nhất với thông tin kê khai, được mời vào thương thảo hợp đồng 
+(nếu có). 
+□ Không thống nhất với thông tin kê khai. 
+Ý kiến khác (nếu có):..... 
+(Trường hợp kết luận về việc đối chiếu tài liệu là không thống nhất với thông 
+tin kê khai thì bên mời thầu phải có ý kiến yêu cầu tổ chuyên gia đánh giá lại đối 
+với nhà thầu này.) 
+ 
+ 
+Người thực hiện  
+Đại diện nhà thầu xác nhận 
+ 
+(Ký, ghi rõ họ tên)  
+(Ký, ghi rõ họ tên) 
+ 
+ 
+Ghi chú: 
+(1) Bên mời thầu, tổ chuyên gia phải lưu trữ tài liệu của nhà thầu để phục vụ 
+công tác thẩm định, thanh tra, kiểm tra... 
+(2) Đại diện nhà thầu được mời đến đối chiếu tài liệu phải có giấy giới thiệu 
+của nhà thầu hoặc giấy ủy quyền của người đại diện theo pháp luật của nhà thầu. 
+ 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+41 
+ 
+Phụ lục 2B 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+_____, ngày___ tháng___ năm___ 
+ 
+BIÊN BẢN THƯƠNG THẢO HỢP ĐỒNG 
+(đối với gói thầu mua sắm hàng hóa, xây lắp, hỗn hợp, phi tư vấn áp dụng thương 
+thảo hợp đồng theo quy định tại điểm d khoản 1 Điều 43 của Luật Đấu thầu) 
+Gói thầu: ____ [ghi tên gói thầu] 
+Số: ________/__________  
+ 
+Căn cứ pháp lý: [nêu các căn cứ pháp lý liên quan đến gói thầu như: Luật 
+Đấu thầu số 22/2023/QH15, văn bản quy định về chức năng, nhiệm vụ và cơ cấu 
+tổ chức; văn bản phê duyệt dự án, KHLCNT; các văn bản liên quan đến gói thầu...].  
+ Hôm nay, ngày ___/___/___ tại địa chỉ: _________, chúng tôi, đại diện cho 
+các bên thương thảo hợp đồng, gồm có: 
+Bên mời thầu: _________ [ghi tên Bên mời thầu] 
+Đại diện:_________ 
+Chức vụ:_________ 
+Địa chỉ:_________ 
+Điện thoại: _________Fax:_________ 
+Nhà thầu:_________ [ghi tên nhà thầu] 
+Đại diện:_________ 
+Chức vụ:_________ 
+Địa chỉ:_________ 
+Điện thoại:_________ Fax:_________ 
+Hai bên đã thương thảo(1) và thống nhất những nội dung trong hợp đồng 
+như sau: 
+a) Thương thảo về những nội dung chưa đủ chi tiết, chưa rõ hoặc chưa phù 
+hợp, thống nhất giữa E-HSMT và E-HSDT, giữa các nội dung khác nhau trong 
+E-HSDT có thể dẫn đến các phát sinh, tranh chấp hoặc ảnh hưởng đến trách 
+nhiệm của các bên trong quá trình thực hiện hợp đồng; 
+
+ 
+42 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+b) Thương thảo về các đề xuất thay đổi hoặc phương án kỹ thuật thay thế của 
+nhà thầu nếu trong E-HSMT có quy định cho phép nhà thầu chào phương án kỹ 
+thuật thay thế tại Mục 12.1 E-BDL; 
+c) Thương thảo về nhân sự:  
+d) Thương thảo về các vấn đề phát sinh trong quá trình lựa chọn nhà thầu 
+(nếu có) nhằm mục tiêu hoàn thiện các nội dung chi tiết của gói thầu; 
+đ) Thương thảo về các sai sót không nghiêm trọng quy định; 
+e) Thương thảo về các nội dung cần thiết khác. 
+Việc thương thảo hợp đồng kết thúc vào______ngày___/___/___. Biên bản 
+thương thảo hợp đồng được lập thành______ bản, bên A giữ______ bản, bên B 
+giữ___ bản, các biên bản có giá trị pháp lý như nhau./. 
+ 
+ĐẠI DIỆN BÊN A 
+[Ký tên, đóng dấu (nếu có)] 
+ĐẠI DIỆN BÊN B 
+[Ký tên, đóng dấu (nếu có)] 
+ 
+ 
+ 
+Ghi chú: 
+(1) Nguyên tắc thương thảo hợp đồng phải tuân thủ theo quy định trong E-HSMT, 
+Luật Đấu thầu, Nghị định số 24/2024/NĐ-CP. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+43 
+ 
+Phụ lục 2C 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+____, ngày___ tháng___ năm____ 
+ 
+BIÊN BẢN THƯƠNG THẢO HỢP ĐỒNG 
+(đối với gói thầu cung cấp dịch vụ tư vấn) 
+Gói thầu: ____ [ghi tên gói thầu] 
+Số: ________/__________  
+ 
+Căn cứ pháp lý: [nêu các căn cứ pháp lý liên quan đến gói thầu như: Luật 
+Đấu thầu số 22/2023/QH15, văn bản quy định về chức năng, nhiệm vụ và cơ cấu 
+tổ chức; văn bản phê duyệt dự án, KHLCNT; các văn bản liên quan đến gói thầu....]  
+Hôm nay, ngày ___/___/___ tại địa chỉ: _________, chúng tôi, đại diện cho 
+các bên thương thảo hợp đồng, gồm có: 
+Bên mời thầu: _________ [ghi tên Bên mời thầu] 
+Đại diện: _________ 
+Chức vụ: _________ 
+Địa chỉ: _________ 
+Điện thoại: _________Fax: _________ 
+Nhà thầu: _________ [ghi tên nhà thầu] 
+Đại diện: _________ 
+Chức vụ: _________ 
+Địa chỉ: _________ 
+Điện thoại: _________ Fax: _________ 
+Hai bên đã thương thảo(1) và thống nhất những nội dung trong hợp đồng như sau: 
+a) Thảo luận về điều khoản tham chiếu, phương pháp luận được đề xuất, điều 
+kiện cụ thể của hợp đồng và hoàn thiện phần “Mô tả dịch vụ” của hợp đồng với 
+điều kiện không làm thay đổi đáng kể phạm vi dịch vụ ban đầu theo điều khoản 
+tham chiếu hay điều khoản của hợp đồng; 
+b) Kế hoạch công tác và bố trí nhân sự; 
+c) Tiến độ; 
+
+ 
+44 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+d) Giải quyết thay đổi nhân sự (nếu có); 
+đ) Bố trí điều kiện làm việc; 
+e) Chi phí dịch vụ tư vấn trên cơ sở phù hợp với yêu cầu của gói thầu và điều 
+kiện thực tế, bao gồm việc xác định rõ các khoản thuế nhà thầu phải nộp theo quy 
+định của pháp luật về thuế (nếu có), phương thức nộp thuế (nhà thầu trực tiếp nộp 
+thuế hoặc Chủ đầu tư giữ lại một khoản tiền tương đương với giá trị thuế để nộp 
+thay cho nhà thầu theo quy định của pháp luật hiện hành), giá trị nộp thuế và các 
+vấn đề liên quan khác đến nghĩa vụ nộp thuế phải được nêu cụ thể trong hợp đồng; 
+g) Thương thảo về các vấn đề phát sinh trong quá trình lựa chọn nhà thầu 
+(nếu có) nhằm mục tiêu hoàn thiện các nội dung chi tiết của gói thầu; 
+h) Thương thảo về các sai lệch do nhà thầu đã phát hiện và đề xuất trong 
+E_HSDT (nếu có), bao gồm cả các đề xuất thay đổi hoặc phương án thay thế của 
+nhà thầu nếu trong E-HSMT có quy định cho phép nhà thầu chào phương án 
+thay thế; 
+i) Thương thảo về các nội dung cần thiết khác. 
+Việc thương thảo hợp đồng kết thúc vào______ ngày ___/___/___. Biên bản 
+thương thảo hợp đồng được lập thành______ bản, bên A giữ______ bản, bên B 
+giữ___ bản, các biên bản có giá trị pháp lý như nhau./. 
+ 
+ĐẠI DIỆN BÊN A 
+[Ký tên, đóng dấu (nếu có)] 
+ĐẠI DIỆN BÊN B 
+[Ký tên, đóng dấu (nếu có)] 
+ 
+Ghi chú: 
+(1) Nguyên tắc thương thảo hợp đồng phải tuân thủ theo quy định trong E-HSMT, 
+Luật Đấu thầu, Nghị định số 24/2024/NĐ-CP. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+45 
+ 
+ Phụ lục 3A 
+[TÊN CHỦ ĐẦU TƯ] 
+[TÊN BÊN MỜI THẦU] 
+ 
+Số: _____ /_____ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+____, ngày____tháng____năm____
+ 
+TỜ TRÌNH  
+V/v đề nghị phê duyệt kết quả lựa chọn nhà thầu gói thầu....  
+[ghi tên gói thầu trong KHLCNT được duyệt]  
+ 
+Kính gửi: [ghi tên Chủ đầu tư] 
+ 
+1. Căn cứ pháp lý 
+Nêu các căn cứ pháp lý có liên quan đến quá trình lựa chọn nhà thầu. 
+- Biên bản đối chiếu tài liệu; 
+- Biên bản thương thảo hợp đồng (nếu có). 
+2. Nội dung gói thầu 
+Theo KHLCNT, Bên mời thầu điền các nội dung liên quan đến gói thầu như sau: 
+- Tên gói thầu; 
+- Giá gói thầu; 
+- Nguồn vốn; 
+- Thời gian tổ chức lựa chọn nhà thầu; 
+- Thời gian bắt đầu tổ chức lựa chọn nhà thầu; 
+- Hình thức, phương thức lựa chọn nhà thầu; 
+- Loại hợp đồng;  
+- Thời gian thực hiện gói thầu; 
+- Tùy chọn mua thêm (nếu có). 
+3. Tóm tắt nội dung đánh giá  
+a) Kết quả đánh giá đối với từng hồ sơ dự thầu; 
+b) Danh sách nhà thầu được xem xét, xếp hạng và thứ tự xếp hạng nhà thầu. 
+Đối với mua sắm tập trung áp dụng lựa chọn nhà thầu theo khả năng cung cấp, 
+danh sách xếp hạng nhà thầu theo thứ tự từ thấp đến cao giá dự thầu sau giảm giá 
+(nếu có) tính trên mỗi đơn vị hạng mục hàng hóa mà nhà thầu dự thầu; 
+
+ 
+46 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+c) Kết quả thương thảo hợp đồng (nếu có); 
+d) Danh sách nhà thầu không đáp ứng yêu cầu và bị loại; lý do loại bỏ nhà thầu; 
+đ) Tên nhà thầu được đề nghị trúng thầu, giá đề nghị trúng thầu, loại hợp đồng, 
+thời gian thực hiện gói thầu và thời gian thực hiện hợp đồng. Đối với mua sắm tập 
+trung áp dụng lựa chọn nhà thầu theo khả năng cung cấp, tên các nhà thầu được đề 
+nghị trúng thầu là danh sách các nhà thầu có giá dự thầu sau khi trừ đi giá trị giảm 
+giá (nếu có) tính trên mỗi đơn vị của hạng mục nhà thầu dự thầu theo thứ tự từ 
+thấp đến cao cho đến khi tổng số lượng hàng hóa mà các nhà thầu trúng thầu chào 
+thầu bằng số lượng hàng hóa nêu trong E-HSMT và ghi giá đề nghị trúng thầu 
+tương ứng với từng nhà thầu; 
+e) Nhận xét về tính cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế trong 
+quá trình tổ chức lựa chọn nhà thầu. Trường hợp chưa bảo đảm cạnh tranh, công 
+bằng, minh bạch và hiệu quả kinh tế, phải nêu rõ lý do và đề xuất biện pháp xử lý; 
+g) Những nội dung của E-HSMT chưa phù hợp với quy định của pháp luật về 
+đấu thầu dẫn đến có cách hiểu không rõ hoặc khác nhau trong quá trình thực hiện 
+hoặc có thể dẫn đến làm sai lệch kết quả lựa chọn nhà thầu (nếu có) và đề xuất 
+biện pháp xử lý. 
+4. Quá trình thực hiện 
+a) Bên mời thầu tóm tắt quá trình thực hiện theo bảng sau: 
+Stt 
+Nội dung 
+Thời gian thực hiện 
+1 
+Chuẩn bị lựa chọn nhà thầu 
+2 
+Đăng tải KHLCNT  
+[Ghi ngày đăng tải trên hệ thống mạng 
+đấu thầu quốc gia] 
+3 
+Mời thầu 
+3.1 
+Đăng tải E-TBMT và phát hành 
+E-HSMT 
+[ghi số E-TBMT và thời điểm đăng tải]
+3.2 
+Làm rõ E-HSMT (nếu có) 
+[Ghi ngày làm rõ, số văn bản làm rõ 
+(nếu có) của văn bản yêu cầu làm rõ 
+của nhà thầu và văn bản làm rõ E-HSMT 
+của Bên mời thầu] 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+47 
+ 
+Stt 
+Nội dung 
+Thời gian thực hiện 
+3.3 
+Sửa đổi E-HSMT (nếu có) 
+[Ghi thời gian, số, ngày ban hành văn 
+bản sửa đổi] 
+3.4 
+Thời điểm đóng thầu 
+[Ghi thời điểm đóng thầu] 
+4 
+Mở thầu 
+4.1 
+Thời gian mở thầu 
+[Ghi thời gian hoàn thành mở thầu] 
+4.2 
+Các vấn đề khác trong quá trình 
+mở thầu (nếu có) 
+[Ghi các vấn đề và cách xử lý] 
+5 
+Đánh giá E-HSDT (đối với phương thức 1 giai đoạn 1 túi hồ sơ) 
+ 
+Thời gian đánh giá E-HSDT 
+[Ghi thời gian đánh giá E-HSĐXKT từ 
+ngày, tháng, năm đến ngày, tháng, năm 
+trình phê duyệt kết quả lựa chọn nhà thầu] 
+6 
+Đánh giá E-HSDT (đối với phương thức 1 giai đoạn 2 túi hồ sơ) 
+6.1 
+Thời gian đánh giá E-HSĐXKT 
+[Ghi thời gian đánh giá E-HSĐXKT từ 
+ngày, tháng, năm đến ngày, tháng, năm 
+trình phê duyệt kết quả đánh giá về kỹ 
+thuật] 
+6.2 
+Thời gian đánh giá E-HSĐXTC 
+[Ghi thời gian đánh giá E-HSĐXTC từ 
+ngày, tháng, năm đến ngày, tháng, năm 
+trình phê duyệt kết quả lựa chọn nhà 
+thầu] 
+b) Các vấn đề trong quá trình đánh giá E-HSĐXKT, các vấn đề phát sinh cần 
+xử lý tình huống; 
+c) Kết luận của tổ chuyên gia về danh sách nhà thầu vượt qua bước đánh giá 
+về kỹ thuật; 
+d) Ý kiến của Bên mời thầu về các nội dung đánh giá nêu trong báo cáo của tổ 
+chuyên gia, ý kiến của tổ chuyên gia; 
+
+ 
+48 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+đ) Nhận xét của Bên mời thầu về việc bảo đảm tính cạnh tranh, công bằng, 
+minh bạch. 
+5. Quá trình đối chiếu tài liệu: 
+Bên mời thầu mô tả quá trình đối chiếu tài liệu: 
+- Ngày, tháng, năm thực hiện đối chiếu tài liệu; 
+- Kết quả đối chiếu tài liệu; 
+- Các vấn đề trong quá trình đối chiếu tài liệu (nếu có).  
+6. Quá trình thương thảo hợp đồng (nếu có) 
+a) Bên mời thầu mô tả quá trình thương thảo, tóm tắt các nội dung thương 
+thảo hợp đồng: 
+- Ngày tháng tiến hành thương thảo; 
+- Các vấn đề trong quá trình thương thảo. 
+b) Lưu ý đối với Chủ đầu tư trong quá trình hoàn thiện, ký kết hợp đồng. 
+7. Kiến nghị 
+Trên cơ sở kết quả đánh giá E-HSDT và thương thảo hợp đồng (nếu có) với 
+nhà thầu______ [ghi tên nhà thầu được đề nghị trúng thầu], ______ [ghi tên Bên 
+mời thầu] kiến nghị______ [ghi tên Chủ đầu tư] phê duyệt kết quả lựa chọn nhà 
+thầu gói thầu______ [ghi tên gói thầu theo KHLCNT] với các nội dung sau: 
+- Tên nhà thầu trúng thầu;  
+- Giá đề nghị trúng thầu;  
+(Đối với mua sắm tập trung áp dụng lựa chọn nhà thầu theo khả năng cung 
+cấp, ghi tên nhà thầu trúng thầu và giá đề nghị trúng thầu theo danh sách nêu tại 
+Mục 3) 
+- Loại hợp đồng;  
+- Thời gian thực hiện gói thầu; 
+- Thời gian thực hiện hợp đồng;  
+- Danh sách nhà thầu phụ (nếu có); 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+49 
+ 
+- Các thông tin khác; 
+- Tài liệu gửi kèm theo: báo cáo đánh giá của tổ chuyên gia, kết quả đối chiếu 
+tài liệu, biên bản thương thảo hợp đồng (nếu có), tờ trình và các tài liệu khác có 
+liên quan. 
+ 
+Nơi nhận: 
+- Như trên; 
+- Tổ chức thẩm định (để thẩm định); 
+- Lưu: VT,  
+ĐẠI DIỆN HỢP PHÁP  
+CỦA BÊN MỜI THẦU 
+(Ký tên, đóng dấu (nếu có) 
+ 
+ 
+
+ 
+50 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Phụ lục 3B 
+[TÊN CHỦ ĐẦU TƯ] 
+ 
+ 
+Số: _____ /_____ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+_____, ngày____tháng____năm____  
+ 
+QUYẾT ĐỊNH 
+Về việc phê duyệt kết quả lựa chọn nhà thầu của gói thầu... [ghi tên gói thầu] 
+thuộc kế hoạch lựa chọn nhà thầu... [ghi tên kế hoạch lựa chọn nhà thầu]  
+thuộc dự án/dự toán mua sắm...... [ghi tên dự án/dự toán mua sắm] 
+ 
+[ĐẠI DIỆN THEO PHÁP LUẬT CỦA CHỦ ĐẦU TƯ] 
+ 
+Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23 tháng 6 năm 2023; 
+Căn cứ Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024; 
+[Nêu các căn cứ pháp lý như: Quyết định phê duyệt dự án; Quyết định phê 
+duyệt kế hoạch lựa chọn nhà thầu; Quyết định phê duyệt E-HSMT, Báo cáo đánh 
+giá E-HSDT của Tổ chuyên gia, Tờ trình về kết quả lựa chọn nhà thầu của bên 
+mời thầu; Báo cáo thẩm định của tổ thẩm định, các văn bản khác có liên quan...] 
+Xét đề nghị của......,  
+QUYẾT ĐỊNH: 
+Điều 1. Phê duyệt kết quả lựa chọn nhà thầu của gói thầu.... thuộc kế hoạch lựa 
+chọn nhà thầu, bao gồm: 
+[Tên dự án/dự toán mua sắm; Tên gói thầu; Tên đơn vị trúng thầu; Giá trúng 
+thầu; Nguồn vốn; Thời gian thực hiện gói thầu/Thời gian thực hiện hợp đồng; Loại 
+hợp đồng; Các nội dung cần lưu ý (nếu có)] 
+Điều 2. Tổ chức thực hiện 
+Giao.... [ghi tên đơn vị được giao] căn cứ nội dung được phê duyệt tại Điều 1 
+Quyết định này, tiến hành tổ chức thực hiện các bước tiếp theo theo quy định của 
+Luật Đấu thầu và các văn bản hướng dẫn hiện hành. 
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký..... [ghi tên đơn vị được giao] 
+chịu trách nhiệm thi hành Quyết định này./. 
+ 
+Nơi nhận: 
+- ...... (....) 
+- Lưu: VT, BMT (....).  
+ĐẠI DIỆN THEO PHÁP LUẬT 
+CỦA CHỦ ĐẦU TƯ 
+[Ký tên, đóng dấu] 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+51 
+ 
+Phụ lục 4  
+ 
+BẢN CAM KẾT 
+ 
+Tôi tên là:__________________________________ 
+Là thành viên của tổ chuyên gia đánh giá E-HSDT gói thầu________ theo 
+Quyết định số_____ ngày_____ tháng_____ năm_____ của __________ [ghi tên 
+đơn vị ban hành quyết định]. Tôi được cấp chứng chỉ chuyên môn về đấu thầu số: 
+_____ do_____ [ghi tên đơn vị cấp chứng chỉ] cấp tại_____(1). 
+Tôi cam kết như sau: 
+- Được đào tạo theo quy định của pháp luật hiện hành, có đầy đủ bằng cấp, 
+chứng chỉ chuyên môn phù hợp và có năng lực, kinh nghiệm để đánh giá E-HSDT 
+đối với gói thầu đang xét; 
+- Đánh giá E-HSDT trên cơ sở trung thực, khách quan, công bằng, không chịu 
+bất kỳ sự ràng buộc về lợi ích đối với các bên; 
+- Chịu trách nhiệm trước pháp luật về kết quả đánh giá E-HSDT của mình; 
+- Bảo mật các thông tin và hồ sơ, tài liệu trong quá trình đánh giá E-HSDT 
+theo đúng quy định của pháp luật; 
+- Không vi phạm các quy định về bảo đảm cạnh tranh. 
+Nếu tôi vi phạm nội dung cam kết nêu trên, tôi xin chịu trách nhiệm trước 
+pháp luật. 
+ 
+_____, ngày___ tháng___ năm___ 
+Người cam kết 
+(Ký và ghi rõ họ tên) 
+  
+Ghi chú: 
+Trường hợp thuộc đối tượng có chứng chỉ cơ bản thì nội dung này ghi thông tin về 
+số chứng chỉ cơ bản, đơn vị cấp, ngày cấp. Trường hợp có chứng chỉ hành nghề đấu thầu 
+thì ghi thông tin về số chứng chỉ hành nghề đấu thầu, ngày cấp. Cho đến khi phải có 
+chứng chỉ bồi dưỡng nghiệp vụ chuyên môn về đấu thầu theo quy định của Thông tư số 
+02/2024/TT-BKHĐT thì ghi thông tin về số chứng chỉ, đơn vị cấp, ngày cấp chứng chỉ này. 
+
+ 
+52 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Phụ lục 5 
+PHIẾU ĐĂNG KÝ THÔNG TIN  
+VĂN BẢN QUY PHẠM PHÁP LUẬT VỀ ĐẤU THẦU 
+Kính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư 
+ 
+1. Tên đơn vị: [ghi tên đơn vị gửi phiếu đăng ký]................................................ 
+2. Số văn bản: [ghi số của văn bản quy phạm pháp luật].................................... 
+3. Cơ quan ban hành:............................................................................................ 
+4. Người ký:.......................................................................................................... 
+5. Loại văn bản:..................................................................................................... 
+6. Ngày ban hành:............................. Ngày hiệu lực............................................. 
+7. Tình trạng hiệu lực:........................................................................................... 
+ 
+.........., ngày............. tháng........ năm........ 
+Đại diện hợp pháp của đơn vị đăng ký 
+(Ký, ghi rõ họ tên, chức danh và đóng dấu)
+ 
+  
+ 
+  
+ 
+ 
+ 
+* Ghi chú: Yêu cầu gửi kèm theo văn bản quy phạm pháp luật về đấu thầu (bản cứng 
+và file mềm. File mềm gửi về địa chỉ chinhsachdauthau@mpi.gov.vn). 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+53 
+ 
+Phụ lục 6 
+PHIẾU THÔNG BÁO THÔNG TIN VỀ NHÀ THẦU  
+NƯỚC NGOÀI TRÚNG THẦU TẠI VIỆT NAM1 
+Kính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư 
+ 
+- Thông tin chung:................................................................................................. 
+- Tên hợp đồng:..................................................................................................... 
+- Tên nhà thầu trúng thầu:..................................................................................... 
+- Địa chỉ đăng ký thành lập tại nước hoặc vùng lãnh thổ nơi nhà thầu đang hoạt 
+động:............................................................................................................................ 
+- Số điện thoại:................................................. Fax:............................................. 
+- Email:..................................................... Website:............................................. 
+- Địa chỉ chi nhánh hoặc văn phòng đại diện tại Việt Nam (nếu có):................... 
+...............................................................................................................................  
+- Số điện thoại:................................................. Fax:............................................. 
+- Email:........................................................ Website:.......................................... 
+- Thời gian thực hiện gói thầu/dự án: từ.......................... đến:............................. 
+- Tổng số cán bộ, chuyên gia Việt Nam:.................................................... người 
+- Tổng số cán bộ, chuyên gia nước ngoài:.................................................. người 
+- Cố vấn trưởng:.................................................................................................... 
+- Đội trưởng dự án:............................................................................................... 
+- Giám đốc dự án:................................................................................................. 
+- Tên ngày tháng năm sinh, số hộ chiếu của cán bộ chủ chốt thực hiện gói thầu:  
+............................................................................................................................... 
+............................................................................................................................... 
+ 
+.........., ngày............. tháng........ năm........ 
+Đại diện hợp pháp của đơn vị đăng ký 
+(Ký, ghi rõ họ tên, chức danh và đóng dấu)
+Ghi chú: 
+(1) Chủ đầu tư có trách nhiệm đăng tải kết quả lựa chọn nhà thầu theo quy 
+định tại điểm a khoản 1 Điều 8 của Luật Đấu thầu.  
+
+ 
+54 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Phụ lục 7 
+PHIẾU THÔNG BÁO THÔNG TIN  
+XỬ LÝ VI PHẠM PHÁP LUẬT VỀ ĐẤU THẦU(1)  
+Kính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư 
+ 
+A. Thông tin đơn vị đăng ký: 
+- Tên đơn vị đăng ký:............................................................................................ 
+- Số quyết định:..................................................................................................... 
+- Ngày quyết định:................................................................................................ 
+B. Thông tin tổ chức, cá nhân bị xử lý vi phạm:  
+- Tên tổ chức, cá nhân vi phạm:............................................................................ 
+- Địa chỉ:............................................................................................................... 
+- Hình thức xử lý vi phạm: 
+ Cảnh cáo  
+ Phạt tiền (số tiền) 
+ Cấm tham gia hoạt động đấu thầu (thời gian cấm) 
+- Lý do xử lý vi phạm:.......................................................................................... 
+ 
+.........., ngày............. tháng........ năm........ 
+Đại diện hợp pháp của đơn vị đăng ký 
+(Ký, ghi rõ họ tên, chức danh và đóng dấu)
+ 
+Ghi chú: 
+(1) Quyết định xử lý vi phạm được gửi kèm Phiếu thông báo này. 
+Chủ đầu tư có trách nhiệm đăng tải thông tin xử lý vi phạm theo quy định tại 
+điểm a khoản 1 Điều 8 của Luật Đấu thầu.  
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+55 
+ 
+Phụ lục 8 
+Một số nội dung của E-HSMT dẫn đến hạn chế cạnh tranh theo quy định  
+tại khoản 3 Điều 44 của Luật Đấu thầu  
+ 
+Một số quy định của E-HSMT dẫn đến hạn chế sự tham gia của nhà thầu hoặc 
+tạo lợi thế cho một hoặc một số nhà thầu gây ra sự cạnh tranh không bình đẳng 
+theo quy định tại khoản 3 Điều 44 của Luật Đấu thầu gồm: 
+1. Quy định chung đối với tất cả các gói thầu: 
+a) Quy định về số lượng nhân sự chủ chốt và thiết bị thi công, thiết bị chủ yếu 
+quá mức cần thiết để thực hiện gói thầu; 
+b) Quy định nhà thầu phải có xác nhận tham gia hội nghị tiền đấu thầu hoặc 
+yêu cầu chứng minh việc đã tham gia hội nghị tiền đấu thầu; 
+c) Quy định năng lực, kinh nghiệm của nhà thầu cao hơn mức yêu cầu của gói thầu; 
+d) Quy định hợp đồng tương tự là hợp đồng đã thực hiện trên một địa bàn cụ 
+thể hoặc là công trình tương tự của một đơn vị cụ thể hoặc phải ký với cơ quan 
+nhà nước; 
+đ) Quy định nhân sự thực hiện gói thầu phải được đóng bảo hiểm xã hội, phải 
+là nhân sự đang ký hợp đồng lao động với nhà thầu; yêu cầu về thiết bị thi công 
+chủ yếu, thiết bị cần thiết cho gói thầu phải thuộc sở hữu của nhà thầu mà không 
+được đi thuê;  
+e) Quy định các tiêu chí mà pháp luật quản lý ngành không yêu cầu như: giấy 
+phép hành nghề, giấy xác nhận đối tác và các yêu cầu về chứng chỉ, chứng nhận 
+mà pháp luật quản lý ngành không quy định (Ví dụ: gói thầu chỉnh lý tài liệu yêu 
+cầu nhân sự phải là lưu trữ viên hoặc lưu trữ viên chính); 
+g) Quy định nhân sự chủ chốt được kê khai trong E-HSDT phải đến phỏng vấn 
+trực tiếp trong quá trình đánh giá E-HSDT. 
+2. Quy định đối với gói thầu mua sắm hàng hóa: 
+a) Quy định yêu cầu về kỹ thuật mà chỉ có một sản phẩm cụ thể của một hãng 
+sản xuất cụ thể đáp ứng trong khi trên thị trường có nhiều hãng sản xuất có thể 
+cung cấp hàng hóa thuộc gói thầu; 
+
+ 
+56 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+b) Yêu cầu giấy phép bán hàng của nhà sản xuất hoặc giấy chứng nhận quan hệ 
+đối tác hoặc tài liệu khác có giá trị tương đương đối với những hàng hóa thông 
+dụng, đơn giản; 
+c) Yêu cầu về nhãn hiệu, xuất xứ cụ thể của hàng hóa, trừ trường hợp quy định 
+tại điểm e khoản 3 Điều 10, khoản 2 Điều 44 và khoản 1 Điều 56 của Luật Đấu thầu; 
+d) Yêu cầu về hàng hóa mẫu đối với gói thầu không thuộc trường hợp quy định 
+tại Điều 27 của Thông tư này; 
+đ) Yêu cầu nhà thầu khi tham dự thầu phải có giấy cam kết hỗ trợ kỹ thuật do 
+nhà sản xuất ban hành và phải có dấu xác nhận của nhà sản xuất, nhà nhập khẩu, 
+nhà phân phối; 
+e) Yêu cầu về nhân sự chủ chốt đối với phần công việc cung cấp hàng hóa; 
+g) Yêu cầu về giấy chứng nhận ISO đối với nhà thầu không phải là nhà sản xuất; 
+h) Yêu cầu về thiết bị chủ chốt để thực hiện gói thầu. 
+3. Quy định đối với gói thầu xây lắp: 
+a) Yêu cầu nhà thầu phải có xác nhận khảo sát hiện trường hoặc yêu cầu chứng 
+minh đã khảo sát hiện trường; 
+b) Yêu cầu nhà thầu khi tham dự thầu phải có cam kết hoặc ký hợp đồng 
+nguyên tắc về bãi đổ thải cụ thể, cự ly đổ thải cụ thể, các mỏ vật liệu cụ thể, yêu 
+cầu về cự ly trạm trộn bê tông... trong phạm vi một vùng hoặc một khoảng cách cụ 
+thể mà chỉ có một hoặc một số ít nhà thầu đáp ứng; 
+c) Yêu cầu nhà thầu phải xác định cụ thể vị trí, tuyến đường, địa phương mà xe 
+vận chuyển vật tư, vật liệu cho công trình đi qua trong E-HSDT; 
+d) Yêu cầu nhà thầu phải có tiền mặt hoặc phải có khoản tiết kiệm ở các tổ 
+chức tài chính hoặc phải có số dư tài khoản hoặc các yêu cầu tương tự về nguồn 
+lực tài chính; 
+đ) Yêu cầu về nhân sự chủ chốt đối với các vị trí mà pháp luật về xây dựng 
+không có yêu cầu về tiêu chuẩn đối với chức danh đó hoặc các vị trí kỹ thuật thông 
+thường, công nhân kỹ thuật, lao động phổ thông; 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+57 
+ 
+e) E-HSMT phát hành trên Hệ thống thiếu bản vẽ hoặc bản vẽ không đầy đủ, 
+không đủ cơ sở để lập E-HSDT; 
+g) Nêu tên nhà thầu phụ đặc biệt bắt buộc nhà thầu phải sử dụng. 
+4. Các nội dung khác tương tự quy định tại các khoản 1, 2 và 3 Phụ lục này 
+dẫn đến hạn chế sự tham gia của nhà thầu hoặc tạo lợi thế cho một hoặc một số nhà 
+thầu gây ra sự cạnh tranh không bình đẳng theo quy định tại khoản 3 Điều 44 của 
+Luật Đấu thầu. 
+ 
+ 
+ 
+ 
+
+ 
+58 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MẪU KẾ HOẠCH TỔNG THỂ  
+LỰA CHỌN NHÀ THẦU, KẾ HOẠCH  
+LỰA CHỌN NHÀ THẦU  
+ 
+(Ban hành kèm theo Thông tư số 06/2024/TT-BKHĐT ngày 26 tháng 4 năm 2024 
+của Bộ trưởng Bộ Kế hoạch và Đầu tư) 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+59 
+   
+Mẫu số 01A. Mẫu Tờ trình kế hoạch tổng thể lựa chọn nhà thầu 
+ 
+[CƠ QUAN CỦA CHỦ ĐẦU TƯ1] 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc  
+ 
+Số:____ 
+___, ngày___tháng__ năm___
+ 
+TỜ TRÌNH 
+Kế hoạch tổng thể lựa chọn nhà thầu2 
+dự án:___ [ghi tên dự án] 
+Kính gửi:___ [người có thẩm quyền] 
+ 
+[Chủ đầu tư] trình [người có thẩm quyền] xem xét, phê duyệt kế hoạch tổng 
+thể lựa chọn nhà thầu trên cơ sở những nội dung dưới đây: 
+I. Mô tả tóm tắt dự án 
+Phần này giới thiệu khái quát thông tin về dự án như sau: 
+- Tên dự án; 
+- Tổng mức đầu tư; 
+- Tên chủ đầu tư; 
+- Nguồn vốn; 
+- Thời gian thực hiện dự án; 
+- Địa điểm, quy mô dự án; 
+- Các thông tin khác (nếu có). 
+II. Căn cứ pháp lý 
+Căn cứ___ [Luật Đấu thầu ngày 23 tháng 6 năm 2023, Nghị định số 
+24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu 
+về lựa chọn nhà thầu]; 
+                                          
+1 Trường hợp chưa xác định được chủ đầu tư, thay “chủ đầu tư” thành “đơn vị được giao 
+nhiệm vụ chuẩn bị dự án” trong Tờ trình này. 
+2 Kế hoạch tổng thể lựa chọn nhà thầu chỉ áp dụng đối với dự án theo quy định tại Điều 36 
+của Luật Đấu thầu, không áp dụng đối với dự toán mua sắm.  
+
+ 
+60 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Căn cứ__ [ghi số, ngày ban hành và nội dung văn bản là căn cứ để lập kế 
+hoạch tổng thể lựa chọn nhà thầu: Quyết định chủ trương đầu tư dự án; Quyết 
+định phê duyệt dự án (nếu có); Điều ước quốc tế, thỏa thuận vay đối với dự án sử 
+dụng vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài (nếu có); Kế hoạch bố 
+trí vốn thực hiện dự án hoặc nguồn vốn thực hiện dự án (nếu có); Văn bản pháp lý 
+có liên quan]. 
+III. Nội dung kế hoạch tổng thể lựa chọn nhà thầu 
+1. Phân tích bối cảnh thực hiện dự án 
+[Xác định yêu cầu cụ thể, mục tiêu của dự án, phân tích các yếu tố trong bối 
+cảnh thực hiện dự án có thể tác động tới hoạt động đấu thầu; mức độ sẵn sàng dự 
+thầu của nhà thầu; các yếu tố bao gồm: quy định của pháp luật, các yếu tố về kinh 
+tế, xã hội, công nghệ, đấu thầu bền vững và các yếu tố khác]. 
+2. Đánh giá năng lực, nguồn lực và kinh nghiệm thực hiện của chủ đầu tư 
+[Việc đánh giá năng lực, nguồn lực và kinh nghiệm để thực hiện hoạt động 
+đấu thầu bao gồm:  
+a) Năng lực để thực hiện quy trình lựa chọn nhà thầu từ bước lập kế hoạch 
+tổng thể lựa chọn nhà thầu đến quản lý hợp đồng; 
+b) Kết quả thực hiện công tác đấu thầu của chủ đầu tư thông qua các chỉ 
+tiêu: tỷ lệ tiết kiệm trung bình; số lượng nhà thầu trung bình tham gia đấu thầu 
+rộng rãi, hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo quy trình 
+thông thường, tỷ lệ gói thầu đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh 
+tranh, chào giá trực tuyến theo quy trình thông thường chỉ có 01 nhà thầu tham 
+dự trên tổng số gói thầu; tỷ lệ gói thầu có kiến nghị về hồ sơ mời thầu; tỷ lệ gói 
+thầu có kiến nghị về các nội dung khác trong quá trình tổ chức lựa chọn nhà 
+thầu, kết quả lựa chọn nhà thầu; số lần không trả lời yêu cầu làm rõ hồ sơ mời 
+thầu; số lần không trả lời kiến nghị về hồ sơ mời thầu, các nội dung khác trong 
+quá trình tổ chức lựa chọn nhà thầu và kết quả lựa chọn nhà thầu; các chỉ tiêu 
+khác (nếu có); 
+Thống kê kết quả thực hiện công tác đấu thầu theo Bảng sau:  
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+61 
+ 
+Bảng thống kê kết quả thực hiện công tác đấu thầu1 
+Nội dung thống kê 
+Tổng 
+số 
+Hàng 
+hóa 
+Xây 
+lắp 
+Phi tư 
+vấn 
+Tư 
+vấn 
+Hỗn 
+hợp 
+Tổng số gói thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+Tổng số gói thầu đã có kết quả 
+lựa chọn nhà thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+Tỷ lệ tiết kiệm trung bình 
+ 
+ 
+ 
+ 
+ 
+ 
+Số lượng nhà thầu trung bình 
+tham gia đấu thầu rộng rãi, đấu 
+thầu hạn chế, chào hàng cạnh 
+tranh, chào giá trực tuyến theo 
+quy trình thông thường 
+ 
+ 
+ 
+ 
+ 
+ 
+Tỷ lệ gói thầu đấu thầu rộng 
+rãi, đấu thầu hạn chế, chào 
+hàng cạnh tranh, chào giá trực 
+tuyến theo quy trình thông 
+thường chỉ có 01 nhà thầu tham 
+dự trên tổng số gói thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+Tỷ lệ gói thầu có kiến nghị về 
+hồ sơ mời thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+Tỷ lệ gói thầu có kiến nghị về 
+các nội dung khác trong quá 
+trình tổ chức lựa chọn nhà 
+thầu, kết quả lựa chọn nhà thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+Số lần không trả lời yêu cầu 
+làm rõ hồ sơ mời thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+Số lần không trả lời kiến nghị 
+về hồ sơ mời thầu, các nội dung 
+khác trong quá trình tổ chức 
+lựa chọn nhà thầu và kết quả 
+lựa chọn nhà thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+                                          
+1 Chủ đầu tư trích xuất bảng thống kê từ Hệ thống mạng đấu thầu quốc gia. Thời gian trích 
+xuất là 5 năm tính đến ngày lập kế hoạch tổng thể lựa chọn nhà thầu; trường hợp 5 năm trước đó 
+là trước ngày 16/9/2022 thì tính từ ngày 16/9/2022. 
+
+ 
+62 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+c) Kinh nghiệm về triển khai các dự án tương tự, việc xử lý kiến nghị trong lựa 
+chọn nhà thầu, khiếu nại, tố cáo; 
+d) Các yếu tố khác] 
+3. Phân tích, tham vấn thị trường 
+[Việc phân tích, tham vấn thị trường được thực hiện như sau: 
+a) Phân tích, tham vấn thị trường bao gồm việc đánh giá rủi ro và cơ hội về thị 
+trường đối với hình thức lựa chọn nhà thầu đang xem xét; khả năng tham dự của 
+nhà thầu; thị trường hàng hóa, dịch vụ có khả năng cung cấp cho dự án; xu thế 
+của thị trường trong thời gian thực hiện dự án. Căn cứ vào quy mô, tính chất gói 
+thầu, việc phân tích, tham vấn thị trường bao gồm thông tin về mức độ sẵn có của 
+hàng hóa, dịch vụ thuộc gói thầu trên thị trường; các chi phí có thể phát sinh trong 
+trường hợp cần áp dụng giải pháp đổi mới, sáng tạo; nội dung điều khoản bảo 
+hành, loại hợp đồng thường áp dụng đối với gói thầu mua sắm hàng hóa, dịch vụ 
+tương tự của các chủ đầu tư khác; quy định của pháp luật (nếu có) đối với hàng 
+hóa, dịch vụ thuộc gói thầu; khả năng áp dụng đấu thầu bền vững, mua sắm các 
+dịch vụ thân thiện môi trường, thông tin về các hàng hóa, dịch vụ có sử dụng 
+nguyên vật liệu tái chế, tiết kiệm năng lượng; khả năng tham dự thầu của nhà thầu 
+tiềm năng là doanh nghiệp nhỏ và siêu nhỏ, doanh nghiệp khởi nghiệp sáng tạo, 
+doanh nghiệp có sử dụng nhiều lao động nữ, lao động là thương binh, người 
+khuyết tật, người dân tộc thiểu số; phân tích chuỗi cung ứng (khả năng cung cấp 
+vật tư, vật liệu, hàng hóa dịch vụ cho việc thực hiện hợp đồng); khả năng tổ chức 
+lựa chọn nhà thầu mà chỉ cho phép hàng hóa có xuất xứ Việt Nam được chào thầu 
+theo quy định tại điểm e khoản 3 Điều 10 và khoản 1 Điều 56 của Luật Đấu thầu 
+và các thông tin cần thiết khác; 
+b) Việc tham vấn thị trường được thực hiện theo một hoặc các cách thức sau: 
+tham khảo các kết quả tham vấn thị trường gần nhất đối với hàng hóa, dịch vụ 
+tương tự; đăng tải câu hỏi tham vấn thị trường trên các phương tiện thông tin phù 
+hợp; nghiên cứu catalô và tài liệu giới thiệu sản phẩm của hãng sản xuất, nhà 
+cung cấp, nhà phân phối, đại lý; tham khảo kinh nghiệm của chủ đầu tư khác đã 
+tiến hành tham vấn thị trường, tham vấn kết quả tổ chức lựa chọn nhà thầu đối với 
+gói thầu mua sắm hàng hóa, dịch vụ tương tự; tổ chức hội nghị tham vấn thị 
+trường với các nhà thầu tiềm năng trên cơ sở công khai, minh bạch; tổ chức khảo 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+63 
+ 
+sát thông tin từ các đơn vị sản xuất kinh doanh; tham khảo ý kiến của các chuyên 
+gia trong lĩnh vực có liên quan, các báo in, tạp chí, ấn phẩm phân tích thị trường 
+chuyên ngành, thông tin trên Internet và các hình thức phù hợp khác; 
+c) Chủ đầu tư có thể thuê tư vấn nghiên cứu phân tích thị trường, sử dụng ý 
+kiến tư vấn của các chuyên gia hoặc cơ quan chức năng độc lập hoặc của các 
+doanh nghiệp trên thị trường trong việc lập kế hoạch tổng thể lựa chọn nhà thầu, 
+kế hoạch lựa chọn nhà thầu, hồ sơ mời thầu, hồ sơ yêu cầu nhưng phải đảm bảo 
+nguyên tắc cạnh tranh, công bằng và minh bạch.] 
+4.  Xác định, quản lý rủi ro trong đấu thầu 
+[Nội dung xác định, quản lý rủi ro trong đấu thầu như sau: 
+a) Phân tích các rủi ro chính liên quan tới môi trường hoạt động, điều kiện thị 
+trường, năng lực của tổ chức thực hiện lựa chọn nhà thầu và mức độ phức tạp của 
+hoạt động đấu thầu; 
+b) Đánh giá khả năng xảy ra và tác động của mỗi rủi ro đối với công tác đấu 
+thầu của dự án; 
+c) Xây dựng kế hoạch quản lý và giảm thiểu rủi ro trong công tác đấu thầu của 
+dự án thông qua việc áp dụng hình thức, phương thức lựa chọn nhà thầu, yêu cầu 
+kỹ thuật, tiêu chuẩn và phương pháp đánh giá, điều kiện hợp đồng phù hợp]. 
+5. Mục tiêu cụ thể của hoạt động đấu thầu 
+[Xác định mục tiêu cụ thể của hoạt động đấu thầu (bao gồm các mục tiêu cụ 
+thể về đấu thầu bền vững, nếu áp dụng) bảo đảm mục tiêu tổng quát của dự án]. 
+6. Kế hoạch về tiến độ thực hiện các công việc chính, gói thầu 
+[Xây dựng tiến độ tổng thể để thực hiện các công việc chính, gói thầu phù hợp 
+với tiến độ thực hiện đầu tư dự án]. 
+7. Quản lý công tác lựa chọn nhà thầu 
+[Nêu các nội dung sau: 
+a) Phân chia gói thầu: việc phân chia gói thầu căn cứ theo quy mô, tính chất 
+các công việc thuộc dự án, theo tiến độ thực hiện dự án và căn cứ kết quả phân 
+tích, tham vấn thị trường; xác định số lượng gói thầu và phạm vi công việc của 
+mỗi gói thầu, xác định các gói thầu chia thành nhiều phần; 
+
+ 
+64 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+b) Hình thức và phương thức lựa chọn nhà thầu: xác định hình thức và phương 
+thức lựa chọn nhà thầu phù hợp đối với từng gói thầu thuộc dự án, trong đó nêu rõ 
+gói thầu có áp dụng mua sắm tập trung không, có áp dụng lựa chọn danh sách 
+ngắn không, trong nước hay quốc tế; 
+c) Loại hợp đồng: xác định loại hợp đồng phù hợp với từng gói thầu; 
+d) Nội dung cần lưu ý trong quá trình xây dựng hồ sơ mời thầu, hồ sơ yêu cầu, 
+quản lý thực hiện hợp đồng (nếu có)].  
+IV. Kiến nghị 
+[Trên cơ sở những nội dung phân tích nêu trên, chủ đầu tư đề nghị người có 
+thẩm quyền xem xét, phê duyệt kế hoạch tổng thể lựa chọn nhà thầu của dự án].  
+ 
+Nơi nhận: 
+- Như trên; 
+- Đơn vị thẩm định; 
+- Lưu... 
+ĐẠI DIỆN HỢP PHÁP  
+CỦA CHỦ ĐẦU TƯ 
+[Ghi tên, chức danh, ký tên và đóng dấu] 
+ 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+65 
+ 
+DANH MỤC TÀI LIỆU 
+(Kèm theo Tờ trình phê duyệt kế hoạch tổng thể lựa chọn nhà thầu) 
+ 
+STT 
+Nội dung 
+Ghi chú 
+1 
+Quyết định chủ trương đầu tư chương trình, dự án 
+Bản chụp 
+2 
+Quyết định phê duyệt dự án (nếu có) 
+Bản chụp 
+3 
+Điều ước quốc tế, thỏa thuận vay đối với dự án sử 
+dụng vốn ODA, vốn vay ưu đãi của nhà tài trợ nước 
+ngoài (nếu có) 
+Bản chụp 
+4 
+Kế hoạch bố trí vốn thực hiện dự án hoặc nguồn vốn 
+thực hiện dự án (nếu có) 
+Bản chụp 
+5 
+Văn bản pháp lý có liên quan (nếu có) 
+ 
+ 
+
+ 
+66 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Mẫu số 01B. Mẫu Báo cáo thẩm định kế hoạch tổng thể lựa chọn nhà thầu 
+ 
+[ĐƠN VỊ THẨM ĐỊNH] 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc  
+ 
+Số:____ 
+____ ngày___ tháng___năm___
+ 
+BÁO CÁO THẨM ĐỊNH 
+Kế hoạch tổng thể lựa chọn nhà thầu dự án:___ [Ghi tên dự án] 
+Kính gửi:____ [Người có thẩm quyền] 
+ 
+Trên cơ sở tờ trình của___ [chủ đầu tư1] về việc phê duyệt kế hoạch tổng thể 
+lựa chọn nhà thầu và các tài liệu liên quan_____ [đơn vị thẩm định] đã tiến hành 
+thẩm định kế hoạch tổng thể lựa chọn nhà thầu dự án___ [ghi tên dự án] từ ngày__ 
+tháng__ năm__ [ngày nhận được đầy đủ hồ sơ trình duyệt] và báo cáo về kết quả 
+thẩm định như sau: 
+I. CĂN CỨ PHÁP LÝ VÀ THÔNG TIN CƠ BẢN 
+1. Căn cứ pháp lý: 
+- Căn cứ___ [Luật Đấu thầu ngày 23 tháng 6 năm 2023; Nghị định số 
+24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu 
+về lựa chọn nhà thầu] 
+- Căn cứ___ [căn cứ quy mô, tính chất, yêu cầu của dự án mà quy định các 
+căn cứ pháp lý cho phù hợp]; 
+- Căn cứ___ [văn bản quy định chức năng, nhiệm vụ của đơn vị thẩm định, văn 
+bản giao nhiệm vụ thẩm định]. 
+2. Thông tin cơ bản: 
+[Phần này nêu khái quát về nội dung chính của dự án như sau:] 
+a) Tên dự án; 
+b) Tổng mức đầu tư; 
+c) Nguồn vốn; 
+                                          
+1 Trường hợp chưa xác định được chủ đầu tư, thay “chủ đầu tư” thành “đơn vị được giao 
+nhiệm vụ chuẩn bị dự án” trong Báo cáo thẩm định này. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+67 
+ 
+d) Chủ đầu tư; 
+đ) Thời gian thực hiện dự án; 
+e) Địa điểm, quy mô dự án; 
+g) Các thông tin khác (nếu có). 
+3. Tóm tắt nội dung văn bản trình duyệt kế hoạch tổng thể lựa chọn nhà thầu: 
+[Đơn vị thẩm định tóm tắt các nội dung theo tờ trình, bao gồm các nội dung sau:] 
+a) Cơ sở pháp lý để lập kế hoạch tổng thể lựa chọn nhà thầu; 
+b) Phân tích bối cảnh thực hiện dự án; 
+c) Đánh giá năng lực, nguồn lực và kinh nghiệm thực hiện của chủ đầu tư; 
+d) Phân tích, tham vấn thị trường; 
+đ) Xác định, quản lý rủi ro trong đấu thầu; 
+e) Mục tiêu cụ thể của hoạt động đấu thầu; 
+g) Kế hoạch về tiến độ thực hiện các công việc chính, gói thầu; 
+h) Quản lý công tác lựa chọn nhà thầu. 
+4. Tổ chức thẩm định: 
+a) Đơn vị thẩm định 
+Đơn vị thẩm định là:___ [ghi rõ tên đơn vị, phòng, ban thực hiện thẩm định 
+theo chức năng, nhiệm vụ được phân công hoặc tên đơn vị tư vấn đấu thầu được 
+thuê theo hợp đồng]. 
+b) Cách thức làm việc 
+[Phần này nêu rõ cách thức làm việc của đơn vị thẩm định là theo nhóm hoặc 
+độc lập trong quá trình thẩm định và cách thức thẩm định khi có một hoặc một số 
+thành viên có ý kiến thẩm định khác biệt với đa số thành viên còn lại]. 
+II. TỔNG HỢP KẾT QUẢ THẨM ĐỊNH 
+[Căn cứ các tài liệu do chủ đầu tư trình, đơn vị thẩm định đưa ra ý kiến nhận 
+xét về việc lập kế hoạch tổng thể lựa chọn nhà thầu và những lưu ý cần thiết (nếu 
+có). Đơn vị thẩm định có ý kiến nhận xét về tính hợp lý, phù hợp trong các đề xuất 
+của chủ đầu tư trên cơ sở đảm bảo việc phân chia gói thầu phải căn cứ theo tính 
+chất kỹ thuật, trình tự thực hiện dự án, bảo đảm tính đồng bộ của dự án]. 
+
+ 
+68 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+1. Cơ sở pháp lý để lập kế hoạch tổng thể lựa chọn nhà thầu 
+2. Phân tích bối cảnh thực hiện dự án 
+3. Đánh giá năng lực, nguồn lực và kinh nghiệm thực hiện của chủ đầu tư  
+4. Phân tích, tham vấn thị trường 
+5. Xác định, quản lý rủi ro trong đấu thầu 
+6. Mục tiêu cụ thể của hoạt động đấu thầu 
+7. Kế hoạch về tiến độ thực hiện các công việc chính, gói thầu 
+8. Quản lý công tác lựa chọn nhà thầu  
+III. NHẬN XÉT VÀ KIẾN NGHỊ 
+1. Nhận xét về nội dung kế hoạch tổng thể lựa chọn nhà thầu 
+a) Nhận xét chung: 
+[Trên cơ sở tổng hợp kết quả thẩm định theo từng nội dung nêu trên, đơn vị 
+thẩm định đưa ra nhận xét chung về kế hoạch tổng thể lựa chọn nhà thầu. Trong 
+phần này cần đưa ra ý kiến thống nhất hay không thống nhất với đề nghị của chủ 
+đầu tư về kế hoạch tổng thể lựa chọn nhà thầu. Trường hợp không thống nhất phải 
+đưa ra lý do cụ thể. 
+Đối với nội dung kế hoạch tổng thể lựa chọn nhà thầu cần chỉnh sửa, bổ sung, 
+hoàn thiện sẽ được thuyết minh tại phần này lý do và cách thức cần thực hiện để 
+bảo đảm tuân thủ quy định của pháp luật về đấu thầu, pháp luật khác có liên quan. 
+Những nội dung không tuân thủ hoặc không phù hợp cần được nêu cụ thể]. 
+b) Ý kiến bảo lưu: 
+[Phần này nêu rõ ý kiến bảo lưu của thành viên đơn vị thẩm định trong quá 
+trình thẩm định kế hoạch tổng thể lựa chọn nhà thầu. Nếu không có thì ghi: Không có]. 
+2. Đề xuất và kiến nghị 
+a) Trường hợp nội dung kế hoạch tổng thể lựa chọn nhà thầu phù hợp với quy 
+định của pháp luật về đấu thầu, pháp luật khác có liên quan và đáp ứng yêu cầu 
+thì đơn vị thẩm định đề nghị người có thẩm quyền phê duyệt kế hoạch tổng thể lựa 
+chọn nhà thầu theo nội dung dưới đây: 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+69 
+ 
+Trên cơ sở tờ trình của___ [chủ đầu tư] về việc phê duyệt kế hoạch tổng thể 
+lựa chọn nhà thầu và kết quả thẩm định, phân tích như trên,___ [đơn vị thẩm định] 
+đề nghị___ [người có thẩm quyền]: Phê duyệt kế hoạch tổng thể lựa chọn nhà thầu 
+dự án___ [ghi tên dự án]. 
+b) Trường hợp đơn vị thẩm định không thống nhất với đề nghị của chủ đầu tư 
+thì cần đề xuất biện pháp giải quyết để trình người có thẩm quyền xem xét, quyết định. 
+c) Các lưu ý trong việc phê duyệt kế hoạch tổng thể lựa chọn nhà thầu, lập hồ 
+sơ mời thầu, tổ chức lựa chọn nhà thầu, ký kết và quản lý thực hiện hợp đồng. 
+ 
+ 
+Nơi nhận: 
+- Như trên; 
+- Chủ đầu tư; 
+- Lưu... 
+[ĐẠI DIỆN HỢP PHÁP CỦA 
+ĐƠN VỊ THẨM ĐỊNH] 
+[Ghi tên, chức danh, ký tên và đóng dấu (nếu có)] 
+ 
+
+ 
+70 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+DANH MỤC TÀI LIỆU 
+(Kèm theo Báo cáo thẩm định kế hoạch tổng thể lựa chọn nhà thầu) 
+ 
+STT 
+Nội dung 
+Ghi chú 
+1 
+Văn bản trình kế hoạch tổng thể lựa chọn nhà 
+thầu 
+Bản chính/Bản chụp 
+2 
+Văn bản của đơn vị thẩm định đề nghị đơn vị 
+trình kế hoạch tổng thể lựa chọn nhà thầu bổ 
+sung tài liệu, giải trình (nếu có) 
+Bản chính/Bản chụp 
+3 
+Văn bản giải trình, bổ sung tài liệu của đơn vị 
+trình kế hoạch tổng thể lựa chọn nhà thầu 
+(nếu có) 
+Bản chính/Bản chụp 
+4 
+Ý kiến của các cơ quan liên quan (nếu có) 
+Bản chính/Bản chụp 
+5 
+Biên bản họp thẩm định của đơn vị thẩm định 
+(nếu có) 
+Bản chính/Bản chụp 
+6 
+Ý kiến bảo lưu của cá nhân thuộc đơn vị thẩm 
+định (nếu có) 
+Bản chính/Bản chụp 
+7 
+Danh sách các thành viên tham gia đơn vị 
+thẩm định và phân công công việc giữa các 
+thành viên (nếu có); 
+Chứng chỉ nghiệp vụ chuyên môn về đấu thầu1 
+(trừ trường hợp thành viên không phải có 
+chứng chỉ nghiệp vụ chuyên môn theo quy 
+định tại khoản 2, khoản 3, khoản 4 Điều 19 
+Nghị định số 24/2024/NĐ-CP); 
+Chứng chỉ liên quan khác (nếu có). 
+Bản chính/bản chụp 
+8 
+Các tài liệu có liên quan khác. 
+  
+ 
+                                          
+1 Nội dung chứng chỉ nghiệp vụ chuyên môn đấu thầu thực hiện theo Thông tư số 
+02/2024/TT-BKHĐT ngày 06/3/2024 quy định hoạt động đào tạo, bồi dưỡng kiến thức và thi, 
+cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+71 
+ 
+Mẫu số 01C. Mẫu Quyết định phê duyệt kế hoạch tổng thể lựa chọn nhà thầu 
+ 
+ [CƠ QUAN CỦA NGƯỜI 
+CÓ THẨM QUYỀN] 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc  
+ 
+Số:___ 
+___, ngày___ tháng__ năm____
+  
+QUYẾT ĐỊNH 
+Về việc phê duyệt kế hoạch tổng thể lựa chọn nhà thầu 
+dự án:__ [Ghi tên dự án] 
+____ [Người có thẩm quyền] 
+ 
+- Căn cứ_____ [Luật Đấu thầu ngày 23 tháng 6 năm 2023; Nghị định số 
+24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu 
+về lựa chọn nhà thầu];  
+- Căn cứ___ [căn cứ quy mô, tính chất, yêu cầu của các gói thầu mà quy định 
+các căn cứ pháp lý cho phù hợp]; 
+- Căn cứ báo cáo thẩm định ngày_____ [ghi ngày, tháng, năm] của___ [đơn vị 
+thẩm định] về việc thẩm định kế hoạch tổng thể lựa chọn nhà thầu dự án____ [ghi 
+tên dự án]; 
+Theo đề nghị của___ [chủ đầu tư1] tại tờ trình số____ [ghi số hiệu tờ trình] 
+ngày____ [ghi ngày văn bản] về việc trình duyệt kế hoạch tổng thể lựa chọn nhà 
+thầu dự án___ [ghi tên dự án], 
+ 
+QUYẾT ĐỊNH: 
+ 
+Điều 1. Phê duyệt kế hoạch tổng thể lựa chọn nhà thầu dự án:___ [ghi tên dự 
+án] với nội dung chi tiết như sau: 
+1. Mục tiêu cụ thể của hoạt động đấu thầu(2). 
+2. Kế hoạch về tiến độ thực hiện các công việc chính, gói thầu(2). 
+3. Quản lý công tác lựa chọn nhà thầu(2). 
+                                          
+1 Trường hợp “đơn vị được giao nhiệm vụ chuẩn bị dự án” trình kế hoạch tổng thể lựa chọn 
+nhà thầu thì thay “chủ đầu tư” thành “đơn vị được giao nhiệm vụ chuẩn bị dự án”. 
+2 Ghi tóm tắt theo nội dung tờ trình kế hoạch tổng thể lựa chọn nhà thầu. 
+
+ 
+72 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Điều 2.___ [Chủ đầu tư] chịu trách nhiệm tổ chức thực hiện theo kế hoạch 
+tổng thể lựa chọn nhà thầu được duyệt đảm bảo tuân thủ các quy định hiện hành. 
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký. [Chủ đầu tư] chịu 
+trách nhiệm thi hành Quyết định này. 
+ 
+Nơi nhận: 
+- Như Điều 2; 
+- Lưu... 
+[NGƯỜI CÓ THẨM QUYỀN] 
+[Ghi tên, chức danh, ký tên và đóng dấu] 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+73 
+ 
+Mẫu số 02A. Mẫu tờ trình kế hoạch lựa chọn nhà thầu 
+ 
+[ĐƠN VỊ TRÌNH1] 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc  
+ 
+Số:____ 
+___, ngày___ tháng__ năm___
+  
+TỜ TRÌNH2 
+Kế hoạch lựa chọn nhà thầu 
+dự án, dự toán mua sắm:___[tên dự án, dự toán mua sắm] 
+ 
+Kính gửi:___ [người phê duyệt kế hoạch lựa chọn nhà thầu3]  
+ 
+[Đơn vị trình] trình [người phê duyệt kế hoạch lựa chọn nhà thầu] xem xét, 
+phê duyệt kế hoạch lựa chọn nhà thầu trên cơ sở những nội dung dưới đây: 
+I. Mô tả tóm tắt dự án, dự toán mua sắm 
+1. Đối với dự án, phần này giới thiệu khái quát thông tin về dự án như sau: 
+- Tên dự án 
+- Tổng mức đầu tư 4 
+- Chủ đầu tư hoặc đơn vị được giao nhiệm vụ chuẩn bị dự án trong trường hợp 
+chưa xác định được chủ đầu tư; 
+- Nguồn vốn; 
+ 
+1 Căn cứ quy định tại khoản 2 Điều 40 và khoản 2 Điều 41 của Luật Đấu thầu, trường hợp 
+người có thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu thì đơn vị trình là chủ đầu tư; trường 
+hợp chủ đầu tư (bao gồm cả trường hợp được người có thẩm quyền ủy quyền) hoặc người đứng 
+đầu đơn vị được giao nhiệm vụ chuẩn bị dự án trong trường hợp chưa xác định được chủ đầu tư 
+phê duyệt kế hoạch lựa chọn nhà thầu thì đơn vị trình là do chủ đầu tư hoặc người đứng đầu đơn 
+vị được giao nhiệm vụ chuẩn bị dự án quy định.  
+2 Trường hợp đã lập kế hoạch tổng thể lựa chọn nhà thầu thì cần đảm bảo nội dung của kế 
+hoạch lựa chọn nhà thầu phù hợp với kế hoạch tổng thể lựa chọn nhà thầu. Trong trường hợp 
+này, chủ đầu tư không cần giải trình, nêu lý do đối với các nội dung phù hợp với kế hoạch tổng 
+thể lựa chọn nhà thầu. Trường hợp các nội dung của kế hoạch lựa chọn nhà thầu khác với kế 
+hoạch tổng thể lựa chọn nhà thầu thì chủ đầu tư phải giải trình, nêu rõ lý do trong tờ trình, báo 
+cáo người có thẩm quyền xem xét, quyết định mà không phải trình, phê duyệt lại kế hoạch tổng 
+thể lựa chọn nhà thầu. 
+3 Được xác định căn cứ theo quy định tại khoản 2 Điều 40 và khoản 2 Điều 41 của Luật Đấu thầu. 
+4 Đối với kế hoạch lựa chọn nhà thầu của gói thầu thực hiện trước khi phê duyệt dự án thì 
+thay bằng “dự toán nhiệm vụ chuẩn bị đầu tư” 
+
+ 
+74 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+- Thời gian thực hiện dự án; 
+- Địa điểm, quy mô dự án; 
+- Các thông tin khác (nếu có). 
+2. Đối với dự toán mua sắm, phần này giới thiệu khái quát thông tin về dự 
+toán mua sắm như sau: 
+a) Dự toán ngân sách nhà nước được cấp có thẩm quyền phê duyệt theo niên 
+độ ngân sách hoặc dự kiến dự toán ngân sách được cấp đối với trường hợp mua 
+sắm cho năm tiếp theo hoặc mua sắm cho nhiều năm; dự kiến nguồn tài chính hợp 
+pháp trong năm tài chính hoặc dự kiến nguồn tài chính hợp pháp cho các năm kế 
+tiếp đối với trường hợp mua sắm cho năm tiếp theo hoặc mua sắm cho nhiều năm; 
+b) Giá trị phần công việc mua sắm đã thực hiện trong năm tài chính, năm 
+ngân sách; 
+c) Phần kinh phí không dùng để mua sắm; 
+d) Dự toán mua sắm, được xác định bằng kinh phí quy định tại điểm a khoản 
+này trừ kinh phí quy định tại điểm b và điểm c khoản này. Chủ đầu tư không phải 
+thẩm định, phê duyệt dự toán mua sắm. 
+Trường hợp chủ đầu tư có sẵn kinh phí để mua sắm trong năm ngân sách, năm 
+tài chính và không dùng nguồn thu dự kiến trong năm thì không phải xác định dự 
+toán mua sắm theo quy định tại khoản này. Trong trường hợp này, dự toán mua 
+sắm là khoản kinh phí có sẵn dùng để mua sắm trong năm ngân sách, năm tài 
+chính. Trường hợp gói thầu có thời gian thực hiện hợp đồng dài hơn 01 năm hoặc 
+ngày hợp đồng có hiệu lực và ngày hoàn thành các nghĩa vụ hợp đồng không cùng 
+một năm tài chính thì nêu rõ dự toán mua sắm của năm ngân sách, năm tài chính 
+và dự kiến dự toán mua sắm của các năm tiếp theo.  
+Trong phần này cũng nêu rõ tên chủ đầu tư; năm ngân sách, năm tài chính của 
+dự toán mua sắm. 
+Trường hợp hình thành dự án đầu tư đối với dự toán mua sắm và tổ chức lựa 
+chọn nhà thầu đối với dự án đầu tư thì tại Mục I (Mô tả tóm tắt dự án, dự toán 
+mua sắm) chỉ cần giới thiệu khái quát thông tin về dự án theo hướng dẫn tại Mục I.1 
+mà không phải giới thiệu khái quát thông tin về dự toán mua sắm theo hướng dẫn 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+75 
+ 
+tại Mục I.2. Trong trường hợp này, cần nêu rõ dự án đầu tư thuộc dự toán mua 
+sắm (không phải là dự án đầu tư theo Luật đầu tư công, dự án đầu tư của doanh 
+nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn 
+điều lệ). Thủ tục trình, thẩm định, phê duyệt các nội dung trong đấu thầu thực hiện 
+theo quy định như đối với dự án đầu tư (hình thức lựa chọn nhà thầu thực hiện 
+theo hướng dẫn tại ghi chú (6) Mục V.1). 
+II. Căn cứ pháp lý 
+Căn cứ__ [Luật Đấu thầu ngày 23 tháng 6 năm 2023, Nghị định số 
+24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu 
+về lựa chọn nhà thầu]; Căn cứ__ [Ghi số, ngày ban hành và nội dung văn bản là 
+căn cứ để lập kế hoạch lựa chọn nhà thầu: 
+- Đối với dự án nêu căn cứ theo quy định tại khoản 1 Điều 38 của Luật Đấu 
+thầu ngày 23 tháng 6 năm 2023]; 
+- Đối với dự toán mua sắm nêu căn cứ theo quy định tại khoản 2 Điều 38 của 
+Luật Đấu thầu ngày 23 tháng 6 năm 2023]. 
+III. Phần công việc đã thực hiện(1) 
+Bảng số 1 
+STT 
+Nội dung công việc 
+hoặc tên gói thầu(2) 
+Đơn vị thực hiện(3) 
+Giá trị(4) 
+Văn bản      
+phê duyệt(5) 
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+… 
+  
+  
+  
+  
+Tổng giá trị [kết chuyển sang nội dung tương ứng 
+của Bảng số 5] 
+  
+  
+Ghi chú: 
+(1) Phần công việc đã thực hiện bao gồm nội dung công việc liên quan đến 
+chuẩn bị dự án, các gói thầu, công việc khác đã được thực hiện (gồm cả gói thầu 
+đã được phê duyệt kế hoạch lựa chọn nhà thầu nhưng chưa lựa chọn được nhà 
+thầu, gói thầu đã lựa chọn nhà thầu nhưng chưa ký hợp đồng, gói thầu đã ký kết 
+và đang thực hiện hợp đồng, gói thầu, nội dung mua sắm có giá không quá 50 
+triệu đã thực hiện) với giá trị tương ứng và văn bản phê duyệt là căn cứ pháp lý để 
+thực hiện.  
+
+ 
+76 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+(2) Ghi tóm tắt nội dung công việc hoặc tên các gói thầu đã thực hiện. 
+(3) Ghi cụ thể tên đơn vị thực hiện. 
+(4) Ghi giá trị của phần công việc, ghi cụ thể đồng tiền (ghi theo giá trị 
+thanh lý, nghiệm thu hoặc giá hợp đồng,… tùy theo giá trị nào gần nhất với thời 
+điểm trình). 
+(5) Ghi tên văn bản phê duyệt (Quyết định phê duyệt kế hoạch lựa chọn nhà 
+thầu, Quyết định phê duyệt kết quả lựa chọn nhà thầu, Quyết định giao việc,…). 
+IV. Phần công việc không áp dụng được một trong các hình thức lựa chọn 
+nhà thầu(1) 
+Bảng số 2 
+STT 
+Nội dung công việc(2)
+Đơn vị thực hiện(3) 
+Giá trị(4) 
+1 
+  
+  
+  
+2 
+  
+  
+  
+… 
+  
+  
+  
+Tổng giá trị [kết chuyển sang nội dung tương ứng của 
+Bảng số 5] 
+  
+Ghi chú: 
+(1) Phần công việc không áp dụng được một trong các hình thức lựa chọn nhà 
+thầu bao gồm: hoạt động của ban quản lý dự án, tổ chức đền bù giải phóng mặt 
+bằng, trả lãi vay; các công việc do chủ đầu tư tự tiến hành bao gồm lập, thẩm định 
+hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu; đánh giá 
+hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu, hồ sơ đề xuất; thẩm định kết quả 
+sơ tuyển, kết quả mời quan tâm, kết quả lựa chọn nhà thầu; các công việc khác 
+không áp dụng được các hình thức lựa chọn nhà thầu với giá trị tương ứng. Phần 
+này bao gồm cả các gói thầu, nội dung mua sắm có giá không quá 50 triệu đồng 
+dự kiến sẽ mua sắm theo quy trình quy định tại khoản 4 Điều 23 Luật Đấu thầu. 
+Trường hợp gói thầu, nội dung mua sắm có giá không quá 50 triệu mà dự kiến 
+hình thành gói thầu để tổ chức lựa chọn nhà thầu theo các hình thức: đấu thầu 
+rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, mua sắm trực tiếp, chỉ định 
+thầu, tự thực hiện, tham gia của cộng đồng, lựa chọn nhà thầu theo trường hợp 
+đặc biệt, chào giá trực tuyến, mua sắm trực tuyến thì các gói thầu này thuộc kế 
+hoạch lựa chọn nhà thầu nêu tại Mục V. Trường hợp chủ đầu tư chưa dự kiến 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+77 
+ 
+được gói thầu, nội dung mua sắm có giá không quá 50 triệu đồng có thể phát sinh 
+trong năm tài chính, năm ngân sách thì phần công việc này thuộc phần công việc 
+chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu nêu tại Mục VI. 
+(2) Mô tả tóm tắt nội dung công việc và không bao gồm phần công việc đã kê 
+tại Bảng 1. 
+(3) Ghi cụ thể tên đơn vị thực hiện (nếu có). 
+(4) Ghi giá trị của phần công việc; ghi cụ thể đồng tiền. 
+V. Phần công việc thuộc kế hoạch lựa chọn nhà thầu 
+1. Bảng tổng hợp phần công việc thuộc kế hoạch lựa chọn nhà thầu(1): 
+Bảng số 3 
+Tên gói thầu(3)
+Stt 
+Tên 
+chủ 
+đầu 
+tư(2) 
+Tên 
+gói 
+thầu 
+Tóm tắt 
+công 
+việc 
+chính 
+của gói 
+thầu 
+Giá 
+gói 
+thầu(4 
+Nguồn 
+vốn(5) 
+Hình 
+thức lựa 
+chọn 
+nhà 
+thầu(6) 
+Phương 
+thức 
+lựa 
+chọn 
+nhà 
+thầu(7) 
+Thời 
+gian tổ 
+chức 
+lựa 
+chọn 
+nhà 
+thầu(8)
+Thời 
+gian 
+bắt 
+đầu tổ 
+chức 
+lựa 
+chọn 
+nhà 
+thầu(9) 
+Loại 
+hợp 
+đồng(10) 
+Thời 
+gian 
+thực 
+hiện 
+gói 
+thầu(11) 
+Tùy 
+chọn 
+mua 
+thêm(12)
+Giám 
+sát 
+hoạt 
+động 
+đấu 
+thầu(13)
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tổng giá gói thầu  
+[kết chuyển sang Bảng số 5] 
+  
+Ghi chú: 
+(1) Phần công việc thuộc kế hoạch lựa chọn nhà thầu phải ghi rõ số lượng gói 
+thầu và nội dung của từng gói thầu. Đơn vị trình kế hoạch lựa chọn nhà thầu nêu 
+rõ cơ sở của việc chia dự án, dự toán mua sắm thành các gói thầu tại Mục V.2 của 
+tờ trình này.  
+(2) Điền tên chủ đầu tư hoặc đơn vị được giao nhiệm vụ chuẩn bị dự án trong 
+trường hợp chưa xác định được chủ đầu tư đối với gói thầu đấu thầu trước theo 
+quy định tại Điều 42 của Luật Đấu thầu hoặc gói thầu cần thực hiện trước khi phê 
+duyệt dự án.  
+(3) Ghi tên gói thầu vào cột “Tên gói thầu”; nêu tóm tắt phạm vi công việc 
+chính của gói thầu vào cột “Tóm tắt công việc chính của gói thầu”.  
+
+ 
+78 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Nội dung, phạm vi công việc của gói thầu phù hợp với nội dung nêu trong 
+quyết định phê duyệt dự án, phù hợp với dự toán mua sắm. Trường hợp gói thầu 
+được chia thành nhiều phần riêng biệt thì tên của từng phần cần thể hiện nội dung 
+cơ bản của từng phần. 
+(4) Giá gói thầu thực hiện theo quy định tại khoản 2 Điều 39 của Luật Đấu thầu. 
+(5) Nguồn vốn thực hiện theo quy định tại điểm c và điểm d khoản 1 Điều 38, 
+khoản 3 Điều 39 của Luật Đấu thầu. 
+(6) Hình thức lựa chọn nhà thầu thực hiện theo quy định tại khoản 4 Điều 39 
+của Luật Đấu thầu; việc áp dụng từng hình thức lựa chọn nhà thầu thực hiện theo 
+quy định tại Mục 1 Chương II và khoản 6 Điều 43 Luật Đấu thầu, Mục 2, Mục 3 
+Chương VII Nghị định số 24/2024/NĐ-CP. 
+Đối với gói thầu chỉ định thầu quy định tại điểm m khoản 1 Điều 23 Luật Đấu 
+thầu trường hợp đề xuất áp dụng quy trình rút gọn thì ghi “chỉ định thầu rút gọn” 
+vào Mục này; trường hợp đề xuất áp dụng quy trình thông thường thì ghi “chỉ định 
+thầu thông thường” vào Mục này.  
+Trường hợp hình thành dự án đầu tư đối với dự toán mua sắm theo Mục I (Mô 
+tả tóm tắt dự án, dự toán mua sắm) và gói thầu thuộc hạn mức chỉ định thầu (từ 
+trên 50 triệu đồng đến 100 triệu đồng) thì ghi “chỉ định thầu rút gọn” vào Mục 
+này nếu đề xuất áp dụng quy trình rút gọn; ghi “chỉ định thầu thông thường” vào 
+Mục này nếu đề xuất áp dụng quy trình thông thường.  
+Đối với chào giá trực tuyến, ghi rõ chào giá trực tuyến thông thường hoặc 
+chào giá trực tuyến rút gọn theo quy định tại khoản 2, khoản 3 Điều 98 Nghị định 
+số 24/2024/NĐ-CP. Đối với lựa chọn nhà thầu tư vấn cá nhân, ghi rõ lựa chọn tư 
+vấn cá nhân thông thường hoặc lựa chọn tư vấn cá nhân quy trình rút gọn theo 
+quy định tại khoản 2 Điều 71 Nghị định số 24/2024/NĐ-CP.  
+(7) Phương thức lựa chọn nhà thầu thực hiện theo quy định tại Mục 2 Chương II 
+của Luật Đấu thầu. Trong đó, phương thức một giai đoạn hai túi hồ sơ chỉ được 
+áp dụng đối với đấu thầu rộng rãi, đấu thầu hạn chế gói thầu cung cấp dịch vụ phi 
+tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp đòi hỏi kỹ thuật cao theo quy định của 
+pháp luật về khoa học, công nghệ căn cứ quy định quy định tại khoản 1 Điều 31 Luật 
+Đấu thầu; đấu thầu rộng rãi, đấu thầu hạn chế gói thầu cung cấp dịch vụ tư vấn. 
+Đối với gói thầu áp dụng hình thức chỉ định thầu theo quy trình rút gọn thì 
+không ghi nội dung này. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+79 
+ 
+(8) Ghi tổng thời gian tổ chức lựa chọn nhà thầu (là số ngày tối đa tính từ 
+ngày phát hành hồ sơ mời thầu, hồ sơ yêu cầu đến khi có kết quả lựa chọn nhà 
+thầu, bao gồm cả thời gian thẩm định. Trường hợp cần thiết, có thể ghi rõ thời 
+gian đánh giá hồ sơ dự thầu, hồ sơ đề xuất, thời gian thẩm định vào mục này.  
+Trường hợp gói thầu có lựa chọn danh sách ngắn thì thời gian tổ chức lựa 
+chọn nhà thầu bao gồm cả thời gian lựa chọn danh sách ngắn tính từ ngày phát 
+hành hồ sơ mời sơ tuyển, hồ sơ mời quan tâm đến khi có kết quả lựa chọn danh 
+sách ngắn (có thể ghi rõ thời gian đánh giá hồ sơ dự sơ tuyển, hồ sơ quan tâm, 
+thời gian thẩm định). 
+Đối với trường hợp xử lý tình huống theo quy định tại khoản 4 Điều 131 Nghị 
+định số 24/2024/NĐ-CP và trường hợp hủy thầu theo quy định tại khoản 1 Điều 17 
+của Luật Đấu thầu, không phải điều chỉnh thời gian bắt đầu tổ chức lựa chọn nhà 
+thầu trong kế hoạch lựa chọn nhà thầu. 
+(9) Thời gian bắt đầu tổ chức lựa chọn nhà thầu thực hiện theo quy định tại 
+khoản 5 Điều 39 của Luật Đấu thầu. 
+(10) Loại hợp đồng thực hiện theo quy định tại Điều 64 của Luật Đấu thầu. 
+(11) Thời gian thực hiện gói thầu thực hiện theo quy định tại khoản 7 Điều 39 
+của Luật Đấu thầu. 
+Thời gian thực hiện gói thầu cần phù hợp với tiến độ thực hiện dự án, dự toán 
+mua sắm. Trường hợp gói thầu gồm nhiều phần riêng biệt thì quy định cụ thể thời 
+gian thực hiện gói thầu cho từng phần. 
+Đối với mua sắm tập trung áp dụng thỏa thuận khung, thời gian thực hiện gói 
+thầu căn cứ theo thỏa thuận khung.  
+(12) Tùy chọn mua thêm chỉ áp dụng đối với gói thầu mua sắm rộng rãi, đàm 
+phán giá và thực hiện theo quy định tại khoản 8 Điều 39 của Luật Đấu thầu 
+Trường hợp áp dụng tùy chọn mua thêm thì ghi rõ khối lượng, số lượng có thể mua 
+bổ sung theo tỷ lệ phần trăm so với khối lượng tương ứng của hợp đồng nhưng bảo 
+đảm không vượt 30%; nêu giá trị ước tính tương ứng. Trường hợp không áp dụng 
+tùy chọn mua thêm thì ghi “không áp dụng”. 
+(13) Đối với gói thầu được đề xuất áp dụng giám sát, ghi rõ cá nhân, đơn vị 
+được đề xuất thực hiện giám sát hoạt động đấu thầu kèm theo email, số điện thoại, 
+địa chỉ liên hệ. Đối với gói thầu không đề xuất áp dụng giám sát hoạt động đấu 
+thầu thì để trống nội dung này. 
+
+ 
+80 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Đối với gói thầu có giá dưới 500 triệu đồng, chủ đầu tư đề xuất người có thẩm 
+quyền áp dụng hoặc không áp dụng việc chỉ cho phép nhà thầu sau được tham dự 
+thầu: có từ 50% lao động trở lên là người khuyết tật, thương binh, dân tộc thiểu số 
+có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên và đến 
+thời điểm đóng thầu vẫn còn hiệu lực theo quy định tại khoản 1 Điều 7 Nghị định 
+số 24/2024/NĐ-CP. Trường hợp người có thẩm quyền quyết định áp dụng mà 
+không có nhà thầu tham dự hoặc không có nhà thầu đáp ứng yêu cầu thì tổ chức 
+đấu thầu lại, nhà thầu không phải đáp ứng yêu cầu này. Việc áp dụng các hình 
+thức lựa chọn nhà thầu trong trường hợp này căn cứ ghi chú (6). 
+2. Giải trình nội dung kế hoạch lựa chọn nhà thầu: 
+Trong Mục này cần giải trình các nội dung tại Bảng số 3, cụ thể như sau: 
+a) Cơ sở phân chia các gói thầu:___ [giải trình cơ sở phân chia dự án, dự toán 
+mua sắm thành các gói thầu. Việc phân chia dự án, dự toán mua sắm thành các 
+gói thầu phải căn cứ vào nội dung dự án, dự toán mua sắm, tính chất của công 
+việc, trình tự thực hiện theo thời gian và theo các nguyên tắc sau: 
++ Đảm bảo tính đồng bộ về mặt kỹ thuật và công nghệ của dự án, dự toán mua 
+sắm, không được chia công việc của dự án, dự toán mua sắm thành các gói thầu 
+quá nhỏ, làm mất sự thống nhất, đồng bộ về kỹ thuật và công nghệ; 
++ Đảm bảo tiến độ thực hiện dự án, dự toán mua sắm; 
++ Đảm bảo quy mô hợp lý (phù hợp với điều kiện của dự án, dự toán mua sắm 
+năng lực của nhà thầu hiện tại và phù hợp với sự phát triển của thị trường trong 
+nước...); 
+Việc chia dự án, dự toán mua sắm thành các gói thầu trái với quy định để thực 
+hiện chỉ định thầu hoặc tạo cơ hội cho số ít nhà thầu tham gia là không phù hợp 
+với quy định của pháp luật về đấu thầu]; 
+b) Giá gói thầu; 
+c) Nguồn vốn; 
+d) Hình thức và phương thức lựa chọn nhà thầu; 
+đ) Thời gian tổ chức lựa chọn nhà thầu; 
+e) Thời gian bắt đầu tổ chức lựa chọn nhà thầu;  
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+81 
+ 
+g) Loại hợp đồng; 
+h) Thời gian thực hiện gói thầu; 
+i) Tùy chọn mua thêm (nếu có); 
+k) Giám sát hoạt động đấu thầu (nếu có). 
+VI. Phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu (nếu có) 
+Trường hợp tại thời điểm lập kế hoạch lựa chọn nhà thầu, dự án, dự toán mua 
+sắm có những phần công việc chưa đủ điều kiện để lập kế hoạch lựa chọn nhà 
+thầu thì cần nêu rõ nội dung và giá trị của phần công việc này tại Bảng số 4.  
+Bảng số 4 
+STT 
+Nội dung 
+Giá trị 
+1 
+  
+  
+2 
+  
+  
+3 
+  
+  
+... 
+  
+  
+Tổng giá trị [kết chuyển sang Bảng số 5] 
+  
+VII. Tổng giá trị các phần công việc 
+Bảng số 5 
+STT 
+Nội dung 
+Giá trị 
+1 
+Tổng giá trị phần công việc đã thực hiện 
+  
+2 
+Tổng giá trị phần công việc không áp dụng được một 
+trong các hình thức lựa chọn nhà thầu 
+  
+3 
+Tổng giá trị phần công việc thuộc kế hoạch lựa chọn 
+nhà thầu 
+  
+4 
+Tổng giá trị phần công việc chưa đủ điều kiện lập kế 
+hoạch lựa chọn nhà thầu (nếu có) 
+  
+Tổng giá trị các phần công việc 
+  
+Tổng mức đầu tư của dự án, dự toán mua sắm hoặc dự 
+toán nhiệm vụ chuẩn bị đầu tư 
+[ghi giá trị] 
+
+ 
+82 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+VIII. Kiến nghị 
+Trên cơ sở những nội dung phân tích nêu trên, [đơn vị trình] đề nghị___ 
+[người phê duyệt kế hoạch lựa chọn nhà thầu] xem xét, phê duyệt kế hoạch lựa 
+chọn nhà thầu dự án, dự toán mua sắm:___ [ghi tên dự án, dự toán mua sắm]. 
+Kính trình [người phê duyệt kế hoạch lựa chọn nhà thầu] xem xét, quyết định./. 
+ 
+Nơi nhận: 
+- Như trên; 
+- Đơn vị thẩm định; 
+- Lưu VT. 
+ĐẠI DIỆN HỢP PHÁP CỦA ĐƠN VỊ TRÌNH 
+[Ghi tên, chức danh, ký tên và đóng dấu] 
+  
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+83 
+ 
+DANH MỤC TÀI LIỆU 
+(Kèm theo Tờ trình phê duyệt kế hoạch lựa chọn nhà thầu) 
+ 
+STT 
+Nội dung 
+Ghi chú 
+I 
+Đối với dự án 
+ 
+1 
+Quyết định phê duyệt dự án và các tài liệu có liên 
+quan. Đối với gói thầu cần thực hiện trước khi phê 
+duyệt dự án là quyết định của người đứng đầu chủ 
+đầu tư hoặc người đứng đầu đơn vị được giao 
+nhiệm vụ chuẩn bị dự án trong trường hợp chưa 
+xác định được chủ đầu tư. 
+Bản chụp 
+2 
+Quyết định phê duyệt kế hoạch tổng thể lựa chọn 
+nhà thầu (nếu có) 
+Bản chụp 
+3 
+Tài liệu về giao kế hoạch đầu tư công trung hạn, 
+trừ trường hợp dự án đầu tư công khẩn cấp theo 
+quy định của pháp luật về đầu tư công 
+Bản chụp 
+4 
+Kế hoạch bố trí vốn thực hiện dự án hoặc nguồn 
+vốn thực hiện dự án đối với các dự án không thuộc 
+trường hợp quy định tại điểm c khoản 1 Điều 38 
+của Luật Đấu thầu ngày 23 tháng 6 năm 2023. 
+Bản chụp 
+5 
+Điều ước quốc tế, thỏa thuận vay đối với các dự án 
+sử dụng vốn ODA, vốn vay ưu đãi, trừ trường hợp 
+đấu thầu trước quy định tại Điều 42 của Luật Đấu 
+thầu ngày 23 tháng 6 năm 2023. 
+Bản chụp 
+6 
+Văn bản pháp lý có liên quan 
+ 
+II 
+Đối với dự toán mua sắm 
+ 
+1 
+Tài liệu về tiêu chuẩn, định mức sử dụng tài sản 
+công của cơ quan, tổ chức, đơn vị và cán bộ, công 
+chức, viên chức, người lao động (nếu có) 
+Bản chụp 
+2 
+Văn bản pháp lý có liên quan 
+ 
+ 
+
+ 
+84 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Mẫu số 02B. Mẫu Báo cáo thẩm định kế hoạch lựa chọn nhà thầu 
+ 
+ [ĐƠN VỊ THẨM ĐỊNH] 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc  
+ 
+Số:____ 
+____ ngày___ tháng___ năm___
+  
+BÁO CÁO THẨM ĐỊNH 
+Kế hoạch lựa chọn nhà thầu dự án, dự toán mua sắm:___ [Ghi tên dự án,  
+dự toán mua sắm] 
+ 
+Kính gửi:____ [Người phê duyệt kế hoạch lựa chọn nhà thầu1] 
+ 
+Trên cơ sở tờ trình của___ [đơn vị trình] về việc phê duyệt kế hoạch lựa chọn 
+nhà thầu và các tài liệu liên quan được cung cấp,_____ [đơn vị thẩm định] đã tiến 
+hành thẩm định kế hoạch lựa chọn nhà thầu dự án, dự toán mua sắm___ [ghi tên 
+dự án, dự toán mua sắm] từ ngày__ tháng__ năm__ [ngày nhận được đầy đủ hồ sơ 
+trình duyệt] và báo cáo về kết quả thẩm định như sau: 
+I. CĂN CỨ PHÁP LÝ VÀ THÔNG TIN CƠ BẢN 
+1. Căn cứ pháp lý 
+- Căn cứ_____ [Luật Đấu thầu ngày 23 tháng 6 năm 2023; Nghị định số 
+24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu 
+về lựa chọn nhà thầu]; 
+- Căn cứ___ [căn cứ quy mô, tính chất, yêu cầu của dự án mà quy định các 
+căn cứ pháp lý cho phù hợp]; 
+- Căn cứ___ [ văn bản quy định chức năng, nhiệm vụ của tổ thẩm định, văn 
+bản giao nhiệm vụ thẩm định]. 
+2. Thông tin cơ bản 
+2.1. Đối với dự án, phần này giới thiệu khái quát thông tin về dự án như sau: 
+- Tên dự án 
+- Tổng mức đầu tư2; 
+                                          
+1 Được xác định căn cứ theo quy định tại khoản 2 Điều 40 và khoản 2 Điều 41 của Luật Đấu thầu. 
+2 Đối với kế hoạch lựa chọn nhà thầu của gói thầu thực hiện trước khi phê duyệt dự án thì 
+thay bằng “dự toán nhiệm vụ chuẩn bị đầu tư” 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+85 
+ 
+- Chủ đầu tư hoặc đơn vị được giao nhiệm vụ chuẩn bị dự án trong trường hợp 
+chưa xác định được chủ đầu tư; 
+- Nguồn vốn; 
+- Thời gian thực hiện dự án; 
+- Địa điểm, quy mô dự án; 
+- Các thông tin khác (nếu có). 
+2.2. Đối với dự toán mua sắm, phần này giới thiệu khái quát thông tin về dự 
+toán mua sắm như sau: 
+- Chủ đầu tư; 
+- Giá trị dự toán mua sắm;  
+- Năm ngân sách, năm tài chính của dự toán mua sắm. 
+3. Tóm tắt nội dung văn bản trình duyệt kế hoạch lựa chọn nhà thầu: 
+Đơn vị thẩm định tóm tắt các nội dung theo tờ trình của đơn vị trình, cụ thể 
+như sau: 
+a) Tổng giá trị phần công việc đã thực hiện:___ [ghi giá trị]; 
+b) Tổng giá trị phần công việc chưa thực hiện mà không áp dụng được một 
+trong các hình thức lựa chọn nhà thầu:___ [ghi giá trị]; 
+c) Tổng giá trị phần công việc thuộc kế hoạch lựa chọn nhà thầu:____ [ghi giá trị]; 
+d) Tổng giá trị phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà 
+thầu (nếu có):___ [ghi giá trị]; 
+đ) Tổng giá trị các phần công việc:__ [bằng tổng các giá trị tại điểm a, b, c và d 
+Mục này]; 
+e) Tổng mức đầu tư của dự án, dự toán mua sắm hoặc dự toán nhiệm vụ chuẩn 
+bị đầu tư:___ [ghi giá trị]. 
+4. Tổ chức thẩm định: 
+a) Đơn vị thẩm định 
+Đơn vị thẩm định là:___ [ghi rõ tên đơn vị, phòng, ban thực hiện thẩm định 
+theo chức năng, nhiệm vụ được phân công hoặc tên đơn vị tư vấn đấu thầu được 
+thuê theo hợp đồng]. 
+
+ 
+86 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+b) Cách thức làm việc 
+Phần này nêu rõ cách thức làm việc của đơn vị thẩm định là theo nhóm hoặc 
+độc lập trong quá trình thẩm định và cách thức thẩm định khi có một hoặc một số 
+thành viên có ý kiến thẩm định khác biệt với đa số thành viên còn lại. 
+II. TỔNG HỢP KẾT QUẢ THẨM ĐỊNH 
+1. Căn cứ pháp lý để lập kế hoạch lựa chọn nhà thầu: 
+a) Tổng hợp kết quả thẩm định về căn cứ pháp lý: 
+Kết quả thẩm định về căn cứ pháp lý của việc lập kế hoạch lựa chọn nhà thầu 
+được tổng hợp theo Bảng số 1 dưới đây: 
+Bảng số 1 
+Kết quả thẩm định 
+STT 
+Nội dung kiểm tra 
+Có 
+Không có 
+  
+(1) 
+(2) 
+(3) 
+I 
+Đối với dự án 
+ 
+ 
+1 
+Quyết định phê duyệt dự án và các tài liệu 
+có liên quan. Đối với gói thầu cần thực 
+hiện trước khi phê duyệt dự án là quyết 
+định của người đứng đầu chủ đầu tư hoặc 
+người đứng đầu đơn vị được giao nhiệm 
+vụ chuẩn bị dự án trong trường hợp chưa 
+xác định được chủ đầu tư. 
+  
+  
+2 
+Quyết định phê duyệt kế hoạch tổng thể 
+lựa chọn nhà thầu (nếu có) 
+  
+  
+3 
+Tài liệu về giao kế hoạch đầu tư công 
+trung hạn, trừ trường hợp dự án đầu tư 
+công khẩn cấp theo quy định của pháp 
+luật về đầu tư công 
+  
+  
+4 
+Kế hoạch bố trí vốn thực hiện dự án hoặc 
+nguồn vốn thực hiện dự án đối với các dự 
+án không thuộc trường hợp quy định tại 
+điểm c khoản 1 Điều 38 của Luật Đấu thầu  
+ 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+87 
+ 
+Kết quả thẩm định 
+STT 
+Nội dung kiểm tra 
+Có 
+Không có 
+  
+(1) 
+(2) 
+(3) 
+5 
+Điều ước quốc tế, thỏa thuận vay đối với 
+các dự án sử dụng vốn ODA, vốn vay ưu 
+đãi, trừ trường hợp đấu thầu trước quy 
+định tại Điều 42 của Luật Đấu thầu  
+ 
+ 
+6 
+Văn bản pháp lý có liên quan 
+ 
+ 
+II 
+Đối với dự toán mua sắm 
+ 
+ 
+1 
+Tài liệu về tiêu chuẩn, định mức sử dụng 
+tài sản công của cơ quan, tổ chức, đơn vị 
+và cán bộ, công chức, viên chức, người lao 
+động (nếu có) 
+ 
+ 
+2 
+Văn bản pháp lý có liên quan 
+ 
+ 
+Ghi chú: 
+- Cột (1) ghi rõ tên, số, ngày, thẩm quyền ban hành và trích yếu của văn bản. 
+- Cột (2) đánh dấu "X" vào các ô tương ứng đối với từng văn bản tại cột (1) 
+mà đơn vị thẩm định nhận được. 
+- Cột (3) đánh dấu "X" vào các ô tương ứng đối với từng văn bản tại cột (1) 
+mà đơn vị thẩm định không nhận được (sau khi đã yêu cầu bổ sung tài liệu). 
+b) Ý kiến thẩm định về căn cứ pháp lý:___ [căn cứ các tài liệu chủ đầu tư 
+trình và kết quả thẩm định được tổng hợp tại Bảng số 1, đơn vị thẩm định đưa ra ý 
+kiến nhận xét về cơ sở pháp lý của việc lập kế hoạch lựa chọn nhà thầu và những 
+lưu ý cần thiết (nếu có)]. 
+2. Phân chia dự án thành các gói thầu: 
+[Đơn vị thẩm định kiểm tra và có ý kiến nhận xét về việc phân chia dự án, dự 
+toán mua sắm thành các gói thầu căn cứ theo tính chất kỹ thuật, trình tự thực hiện, 
+tính đồng bộ của dự án và quy mô gói thầu hợp lý.] 
+
+ 
+88 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+3. Nội dung tờ trình phê duyệt kế hoạch lựa chọn nhà thầu: 
+a) Phần công việc không thuộc kế hoạch lựa chọn nhà thầu: 
+- Phần công việc đã thực hiện:___ [đơn vị thẩm định kiểm tra và có ý kiến về 
+sự phù hợp giữa phần công việc đã thực hiện với kế hoạch lựa chọn nhà thầu đã 
+được phê duyệt trước đây]; 
+- Phần công việc không áp dụng được một trong các hình thức lựa chọn nhà 
+thầu:___ [đơn vị thẩm định kiểm tra và có ý kiến đối với phần công việc không áp 
+dụng được một trong các hình thức lựa chọn nhà thầu]; 
+- Phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu (nếu 
+có):___ [đơn vị thẩm định kiểm tra và có ý kiến đối với phần công việc chưa đủ 
+điều kiện lập kế hoạch lựa chọn nhà thầu]. 
+b) Phần công việc thuộc kế hoạch lựa chọn nhà thầu: 
+Đơn vị thẩm định kiểm tra và có ý kiến về kế hoạch lựa chọn nhà thầu đối với 
+các nội dung theo Bảng số 2 dưới đây: 
+Bảng số 2 
+TỔNG HỢP KẾT QUẢ THẨM ĐỊNH NỘI DUNG 
+KẾ HOẠCH LỰA CHỌN NHÀ THẦU 
+Kết quả thẩm định 
+STT 
+Nội dung thẩm định 
+Tuân thủ, 
+phù hợp 
+Không tuân thủ 
+hoặc không phù hợp
+ 
+(1) 
+(2) 
+(3) 
+1 
+Tên gói thầu, bao gồm cả nội dung 
+công việc chính của gói thầu 
+  
+  
+2 
+Giá gói thầu 
+  
+  
+3 
+Nguồn vốn 
+  
+  
+4 
+Hình thức lựa chọn nhà thầu 
+  
+  
+5 
+Phương thức lựa chọn nhà thầu 
+ 
+ 
+6 
+Thời gian tổ chức lựa chọn nhà thầu    
+  
+7 
+Thời gian bắt đầu tổ chức lựa chọn 
+nhà thầu  
+ 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+89 
+ 
+TỔNG HỢP KẾT QUẢ THẨM ĐỊNH NỘI DUNG 
+KẾ HOẠCH LỰA CHỌN NHÀ THẦU 
+Kết quả thẩm định 
+STT 
+Nội dung thẩm định 
+Tuân thủ, 
+phù hợp 
+Không tuân thủ 
+hoặc không phù hợp
+ 
+(1) 
+(2) 
+(3) 
+8 
+Loại hợp đồng 
+  
+  
+9 
+Thời gian thực hiện gói thầu 
+  
+  
+10 
+Tùy chọn mua thêm 
+ 
+ 
+11 
+Giám sát hoạt động đấu thầu 
+ 
+ 
+Ghi chú: 
+- Cột số (2): đánh dấu “X” vào các ô tương ứng đối với từng nội dung tại cột 
+số (1) nếu kết quả kiểm tra về nội dung kế hoạch lựa chọn nhà thầu của đơn vị 
+thẩm định là tuân thủ quy định của pháp luật về đấu thầu, pháp luật liên quan; 
+phù hợp với yêu cầu của dự án, dự toán mua sắm. 
+- Cột số (3): đánh dấu “X” vào các ô tương ứng đối với từng nội dung tại cột 
+số (1) nếu kết quả kiểm tra về nội dung kế hoạch lựa chọn nhà thầu của đơn vị 
+thẩm định là không tuân thủ quy định của pháp luật về đấu thầu và pháp luật có 
+liên quan hoặc không phù hợp với yêu cầu của dự án, dự toán mua sắm. Đối với 
+trường hợp này phải nêu rõ lý do không tuân thủ hoặc có nội dung cần chỉnh sửa, 
+bổ sung, hoàn thiện theo quy định của pháp luật về đấu thầu và pháp luật liên 
+quan hoặc không phù hợp với dự án, dự toán mua sắm kế hoạch lựa chọn nhà thầu 
+đã được phê duyệt, tính chất, yêu cầu của gói thầu. 
+- Ý kiến thẩm định về nội dung kế hoạch lựa chọn nhà thầu:___ [căn cứ tài 
+liệu do tổ chức có trách nhiệm trình duyệt kế hoạch lựa chọn nhà thầu và kết quả 
+thẩm định được tổng hợp tại Bảng số 2, đơn vị thẩm định đưa ra những ý kiến 
+thẩm định về nội dung kế hoạch lựa chọn nhà thầu căn cứ vào quy định của pháp 
+luật về đấu thầu, pháp luật liên quan, yêu cầu của dự án, dự toán mua sắm và 
+những lưu ý cần thiết khác (nếu có). 
+
+ 
+90 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Đối với nội dung kế hoạch lựa chọn nhà thầu được đánh giá là không tuân thủ 
+hoặc không phù hợp hoặc có nội dung cần chỉnh sửa, bổ sung, hoàn thiện sẽ được 
+thuyết minh tại phần này lý do và cách thức cần thực hiện để bảo đảm tuân thủ quy 
+định của pháp luật về đấu thầu. Những nội dung không tuân thủ hoặc không phù 
+hợp cần được nêu cụ thể]. 
+c) Ý kiến thẩm định về tổng giá trị của các phần công việc:___ [kiểm tra tổng 
+giá trị của phần công việc đã thực hiện, phần công việc chưa thực hiện mà không 
+áp dụng được một trong các hình thức lựa chọn nhà thầu, phần công việc thuộc kế 
+hoạch lựa chọn nhà thầu, phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn 
+nhà thầu (nếu có) và giá trị các gói thầu đã được phê duyệt kế hoạch lựa chọn nhà 
+thầu mà chưa ký hợp đồng không được vượt tổng mức đầu tư, dự toán mua sắm 
+hoặc dự toán nhiệm vụ chuẩn bị đầu tư đồng thời nêu những nội dung cần chỉnh 
+sửa cho phù hợp]. 
+III. NHẬN XÉT VÀ KIẾN NGHỊ 
+1. Nhận xét về nội dung kế hoạch lựa chọn nhà thầu 
+Trên cơ sở tổng hợp kết quả thẩm định theo từng nội dung nêu trên, đơn vị 
+thẩm định đưa ra nhận xét chung về kế hoạch lựa chọn nhà thầu. Trong phần này 
+cần đưa ra ý kiến thống nhất hay không thống nhất với đề nghị của chủ đầu tư về 
+kế hoạch lựa chọn nhà thầu. Trường hợp không thống nhất phải đưa ra lý do cụ thể. 
+Phần này nêu rõ ý kiến bảo lưu của thành viên thẩm định trong quá trình thẩm 
+định kế hoạch lựa chọn nhà thầu. 
+Căn cứ quy mô, tính chất của gói thầu, đơn vị thẩm định có ý kiến đối với việc 
+người có thẩm quyền cử cá nhân, đơn vị thực hiện giám sát hoạt động đấu thầu. 
+2. Kiến nghị 
+a) Trường hợp nội dung kế hoạch lựa chọn nhà thầu phù hợp với quy định của 
+pháp luật về đấu thầu, pháp luật liên quan và đáp ứng yêu cầu thì đơn vị thẩm 
+định đề nghị người có thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu theo nội 
+dung dưới đây: 
+Trên cơ sở tờ trình của___ [chủ đầu tư] về việc phê duyệt kế hoạch lựa chọn 
+nhà thầu và kết quả thẩm định, phân tích như trên,___ [đơn vị thẩm định] đề 
+nghị___ [người có thẩm quyền]: 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+91 
+ 
+- Phê duyệt kế hoạch lựa chọn nhà thầu dự án, dự toán mua sắm___ [ghi tên 
+dự án, dự toán mua sắm]. 
+- Cử cá nhân, đơn vị thực hiện giám sát hoạt động đấu thầu đối với gói 
+thầu:___ [ghi tên gói thầu] trong nội dung kế hoạch lựa chọn nhà thầu để bảo đảm 
+việc thực hiện tuân thủ quy định của pháp luật về đấu thầu (nếu có). 
+b) Trường hợp đơn vị thẩm định không thống nhất với đề nghị của đơn vị trình 
+thì cần đề xuất biện pháp giải quyết để trình người có thẩm quyền xem xét, 
+quyết định. 
+ 
+Nơi nhận: 
+- Như trên; 
+- Đơn vị trình; 
+- Lưu VT. 
+[ĐẠI DIỆN HỢP PHÁP  
+CỦA  ĐƠN VỊ THẨM ĐỊNH] 
+[Ghi tên, chức danh, ký tên và đóng dấu (nếu có)] 
+ 
+
+ 
+92 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+DANH MỤC TÀI LIỆU 
+(Kèm theo Báo cáo thẩm định kế hoạch lựa chọn nhà thầu) 
+ 
+STT 
+Nội dung 
+Ghi chú 
+1 
+Văn bản trình kế hoạch lựa chọn nhà thầu 
+Bản chính/Bản chụp 
+2 
+Văn bản của đơn vị thẩm định đề nghị đơn vị 
+trình kế hoạch lựa chọn nhà thầu bổ sung tài 
+liệu, giải trình (nếu có) 
+Bản chính/Bản chụp 
+3 
+Văn bản giải trình, bổ sung tài liệu của đơn vị 
+trình kế hoạch lựa chọn nhà thầu (nếu có) 
+Bản chính/Bản chụp 
+4 
+Ý kiến của các cơ quan liên quan (nếu có) 
+Bản chính/Bản chụp 
+5 
+Biên bản họp thẩm định của đơn vị thẩm định 
+(nếu có) 
+Bản chính/Bản chụp 
+6 
+Ý kiến bảo lưu của cá nhân thuộc đơn vị thẩm 
+định (nếu có) 
+Bản chính/Bản chụp 
+7 
+Danh sách các thành viên tham gia đơn vị 
+thẩm định và phân công công việc giữa các 
+thành viên (nếu có); 
+Chứng chỉ nghiệp vụ chuyên môn về đấu thầu1 
+(trừ trường hợp thành viên không phải có 
+chứng chỉ nghiệp vụ chuyên môn theo quy 
+định tại khoản 2, khoản 3, khoản 4 Điều 19 
+Nghị định số 24/2024/NĐ-CP); 
+Chứng chỉ liên quan khác (nếu có). 
+Bản chính/bản chụp 
+8 
+Các tài liệu có liên quan khác. 
+  
+  
+                                          
+1 Nội dung chứng chỉ nghiệp vụ chuyên môn đấu thầu thực hiện theo Thông tư số 
+02/2024/TT-BKHĐT ngày 06/3/2024 quy định hoạt động đào tạo, bồi dưỡng kiến thức và thi, 
+cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu. 
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+93 
+ 
+Mẫu số 02C. Mẫu Quyết định phê duyệt kế hoạch lựa chọn nhà thầu 
+ 
+ [CƠ QUAN CỦA NGƯỜI 
+PHÊ DUYỆT KẾ HOẠCH 
+LỰA CHỌN NHÀ THẦU] 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc  
+ 
+Số:___ 
+___, ngày___ tháng__ năm____
+ 
+QUYẾT ĐỊNH 
+Về việc phê duyệt kế hoạch lựa chọn nhà thầu 
+dự án, dự toán mua sắm:__ [ghi tên dự án, dự toán mua sắm] 
+ 
+____[NGƯỜI PHÊ DUYỆT KẾ HOẠCH LỰA CHỌN NHÀ THẦU]1 
+ 
+Căn cứ Luật Đấu thầu ngày 23 tháng 6 năm 2023; 
+Căn cứ Nghị định số 24/2024/NĐ-CP quy định chi tiết một số điều và biện 
+pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu; 
+Căn cứ___ [căn cứ tính chất, yêu cầu của các gói thầu mà quy định các căn cứ 
+pháp lý cho phù hợp]; 
+Căn cứ báo cáo thẩm định ngày_____ [ghi ngày, tháng, năm] của___ [đơn vị 
+thẩm định] về việc thẩm định kế hoạch lựa chọn nhà thầu dự án, dự toán mua 
+sắm____ [ghi tên dự án, dự toán mua sắm]; 
+Theo đề nghị của___ [đơn vị trình] tại tờ trình số____ [ghi số hiệu tờ trình] 
+ngày____ [ghi ngày văn bản] về việc trình kế hoạch lựa chọn nhà thầu dự án, dự 
+toán mua sắm___ [ghi tên dự án, dự toán mua sắm], 
+ 
+QUYẾT ĐỊNH: 
+ 
+Điều 1. Phê duyệt kế hoạch lựa chọn nhà thầu dự án, dự toán mua sắm:___ 
+[ghi tên dự án, dự toán mua sắm] với nội dung chi tiết theo phụ lục đính kèm. 
+                                          
+1 Được xác định căn cứ theo quy định tại khoản 2 Điều 40 và khoản 2 Điều 41 của Luật Đấu 
+thầu. Đối với gói thầu cần thực hiện trước khi phê duyệt dự án quy định tại khoản 2 Điều 40 
+Luật Đấu thầu mà thuộc hạn mức chỉ định thầu quy định tại điểm m khoản 1 Điều 23 Luật Đấu 
+thầu, chủ đầu tư (hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án trong trường 
+hợp chưa xác định được chủ đầu tư) phê duyệt kế hoạch lựa chọn nhà thầu đối với gói thầu này, 
+bao gồm hình thức chỉ định thầu theo quy trình rút gọn.  
+
+ 
+94 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+  
+Điều 2. [Chủ đầu tư hoặc đơn vị được giao trách nhiệm lựa chọn nhà thầu] 
+chịu trách nhiệm tổ chức lựa chọn nhà thầu theo kế hoạch lựa chọn nhà thầu được 
+duyệt đảm bảo tuân thủ các quy định hiện hành. 
+[Cá nhân, đơn vị giám sát hoạt động đấu thầu] chịu trách nhiệm tổ chức giám 
+sát hoạt động đấu thầu được giao theo Phụ lục kèm theo Quyết định này. 
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký. [Người đứng đầu 
+cơ quan chủ đầu tư hoặc đơn vị được giao trách nhiệm lựa chọn nhà thầu]chịu 
+trách nhiệm thi hành Quyết định này. 
+ 
+Nơi nhận: 
+- Như Điều 2; 
+- Lưu VT. 
+[NGƯỜI PHÊ DUYỆT KẾ HOẠCH  
+LỰA CHỌN NHÀ THẦU] 
+[Ghi tên, chức danh, ký tên và đóng dấu] 
+  
+
+ 
+ 
+CÔNG BÁO/Số 619 + 620/Ngày 21-5-2024 
+95 
+ 
+Phụ lục 
+ 
+KẾ HOẠCH LỰA CHỌN NHÀ THẦU 
+DỰ ÁN, DỰ TOÁN MUA SẮM:__ [ghi tên dự án, dự toán mua sắm] 
+(Kèm theo Quyết định số___ ngày___ tháng___ năm___ của___) 
+ 
+Tên gói 
+thầu 
+Stt 
+Tên 
+chủ 
+đầu 
+tư1 
+Tên 
+gói 
+thầu 
+Tóm 
+tắt 
+công 
+việc 
+chính 
+của 
+gói 
+thầu
+Giá 
+gói 
+thầu 
+Nguồn 
+vốn 
+Hình 
+thức 
+lựa 
+chọn 
+nhà 
+thầu 
+Phương
+thức 
+lựa 
+chọn 
+nhà 
+thầu 
+Thời 
+gian 
+tổ 
+chức 
+lựa 
+chọn 
+nhà 
+thầu 
+Thời 
+gian 
+bắt 
+đầu 
+tổ 
+chức 
+lựa 
+chọn 
+nhà 
+thầu 
+Loại 
+hợp 
+đồng 
+Thời 
+gian 
+thực 
+hiện 
+gói 
+thầu 
+Tùy 
+chọn 
+mua 
+thêm
+Giám 
+sát 
+hoạt 
+động
+đấu
+thầu
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tổng giá gói thầu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                          
+1 Đối với kế hoạch lựa chọn nhà thầu của gói thầu thực hiện trước khi phê duyệt dự án chưa xác định được chủ 
+đầu tư thì thay bằng “Tên đơn vị được giao nhiệm vụ chuẩn bị dự án”. 
+ 
+ 
+ 
+(Xem tiếp Công báo số 621 + 622) 
+

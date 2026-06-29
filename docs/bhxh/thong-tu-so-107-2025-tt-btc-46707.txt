@@ -1,0 +1,5577 @@
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+2 
+  
+VĂN BẢN QUY PHẠM PHÁP LUẬT 
+ 
+BỘ TÀI CHÍNH 
+ 
+BỘ TÀI CHÍNH 
+ 
+ 
+Số: 107/2025/TT-BTC 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+Hà Nội, ngày 14 tháng 11 năm 2025 
+THÔNG TƯ 
+Hướng dẫn kế toán quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, 
+quỹ bảo hiểm thất nghiệp 
+ 
+Căn cứ Luật Kế toán số 88/2015/QH13 ngày 20 tháng 11 năm 2015; Luật sửa 
+đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc 
+lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý 
+thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành 
+chính số 56/2024/QH15 ngày 29 tháng 11 năm 2024; 
+Căn cứ Luật Bảo hiểm xã hội số 41/2024/QH15 ngày 29 tháng 6 năm 2024; 
+Căn cứ Luật Bảo hiểm y tế số 25/2008/QH12 ngày 14 tháng 11 năm 2008; 
+Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế số 46/2014/QH13 
+ngày 13 tháng 6 năm 2014 và Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm y 
+tế số 51/2024/QH15 ngày 27 tháng 11 năm 2024; 
+Căn cứ Luật Việc làm số 74/2025/QH15 ngày 16 tháng 6 năm 2025; 
+Căn cứ Luật An toàn, vệ sinh lao động số 84/2015/QH13 ngày 25 tháng 6 năm 2015; 
+Căn cứ Nghị định số 174/2016/NĐ-CP ngày 30 tháng 12 năm 2016 của Chính phủ 
+quy định chi tiết một số điều của Luật Kế toán; 
+Căn cứ Nghị định số 233/2025/NĐ-CP ngày 26 tháng 8 năm 2025 của Chính phủ 
+quy định cơ chế tài chính về bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế; 
+chi tổ chức và hoạt động bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế; 
+Căn cứ Nghị định số 29/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ 
+quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; 
+Nghị định số 166/2025/NĐ-CP ngày 30 tháng 6 năm 2025 sửa đổi, bổ sung một số 
+điều của Nghị định số 29/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ 
+quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; 
+Người ký: CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: VĂN PHÒNG CHÍNH PHỦ
+Thời gian ký: 15.12.2025 15:13:45 +07:00
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+3 
+ 
+Theo đề nghị của Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán; 
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn kế toán quỹ bảo hiểm 
+xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp. 
+ 
+Chương I 
+QUY ĐỊNH CHUNG 
+ 
+Điều 1. Phạm vi điều chỉnh  
+1. Thông tư này hướng dẫn kế toán quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, 
+quỹ bảo hiểm thất nghiệp, gồm: chứng từ kế toán, tài khoản kế toán, sổ kế toán, 
+báo cáo tài chính, báo cáo nghiệp vụ quỹ bảo hiểm áp dụng cho các đơn vị quy 
+định tại Điều 2 Thông tư này. 
+2. Đối với công tác quản lý, sử dụng kinh phí chi tổ chức và hoạt động bảo 
+hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, các đơn vị quy định tại Điều 2 
+Thông tư này thực hiện kế toán theo hướng dẫn tại Thông tư số 24/2024/TT-BTC 
+ngày 17 tháng 4 năm 2024 của Bộ trưởng Bộ Tài chính hướng dẫn Chế độ kế toán 
+hành chính, sự nghiệp. 
+3. Các khoản thu nộp, chi trả chế độ, chi tổ chức và hoạt động bảo hiểm xã hội, 
+bảo hiểm y tế, bảo hiểm thất nghiệp phát sinh tại các đơn vị không thuộc đối tượng 
+tại Điều 2 Thông tư này thực hiện kế toán theo chế độ kế toán hiện hành áp dụng 
+cho hoạt động của đơn vị. 
+Điều 2. Đối tượng áp dụng  
+1. Thông tư này áp dụng cho cơ quan bảo hiểm xã hội, gồm: Bảo hiểm xã hội 
+Việt Nam; Bảo hiểm xã hội tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt 
+là Bảo hiểm xã hội cấp tỉnh); Bảo hiểm xã hội cơ sở thuộc Bảo hiểm xã hội cấp 
+tỉnh (sau đây gọi tắt là Bảo hiểm xã hội cơ sở). 
+2. Cơ quan, tổ chức thuộc Bộ Quốc phòng, Bộ Công an thực hiện bảo hiểm xã 
+hội, bảo hiểm y tế, bảo hiểm thất nghiệp (sau đây gọi tắt là Bảo hiểm xã hội Quân 
+đội, Bảo hiểm xã hội Công an nhân dân) áp dụng Chế độ kế toán hành chính, sự 
+nghiệp thì công tác kế toán phải đảm bảo: 
+a) Phản ánh tách bạch thông tin, số liệu kế toán hoạt động của các quỹ bảo 
+hiểm với thông tin, số liệu kế toán hoạt động thường xuyên của đơn vị;  
+b) Báo cáo thông tin tài chính quỹ bảo hiểm theo quy định tại khoản 6 Điều 7 
+Thông tư này, gửi Bảo hiểm xã hội Việt Nam để Bảo hiểm xã hội Việt Nam lập 
+báo cáo tài chính quỹ bảo hiểm; 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+4 
+  
+c) Trong quá trình báo cáo thông tin tài chính quỹ bảo hiểm, trường hợp phát 
+sinh nội dung liên quan đến bí mật nhà nước, Bảo hiểm xã hội Quân đội, Bảo hiểm xã 
+hội Công an nhân dân phối hợp với Bảo hiểm xã hội Việt Nam thực hiện đúng quy 
+định pháp luật về bảo vệ bí mật nhà nước và yêu cầu quản lý các quỹ bảo hiểm. 
+ 
+Chương II 
+QUY ĐỊNH CỤ THỂ 
+ 
+Điều 3. Quy định về chứng từ kế toán  
+1. Cơ quan bảo hiểm xã hội được tự thiết kế mẫu chứng từ kế toán để phản ánh 
+các nghiệp vụ kinh tế, tài chính phát sinh liên quan đến hoạt động thu, chi quỹ bảo 
+hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp thuộc phạm vi quản lý, 
+đảm bảo cung cấp đầy đủ các thông tin phục vụ hạch toán kế toán các quỹ bảo 
+hiểm, trừ chứng từ kế toán đã có quy định tại các văn bản pháp luật có liên quan. 
+Chứng từ kế toán tự thiết kế phải phản ánh đúng bản chất của nghiệp vụ kinh tế, tài 
+chính phát sinh, đáp ứng các nội dung quy định tại Luật Kế toán, phù hợp với 
+thông tin cần ghi sổ kế toán và yêu cầu quản lý của quỹ bảo hiểm xã hội, quỹ bảo 
+hiểm y tế, quỹ bảo hiểm thất nghiệp. 
+2. Trường hợp cơ quan bảo hiểm xã hội sử dụng các chứng từ kế toán in sẵn, 
+thì phải thực hiện bảo quản cẩn thận, không được để hư hỏng, mục nát. Đối với 
+loại chứng từ kế toán được cơ quan có thẩm quyền quy định phải quản lý riêng 
+biệt, chặt chẽ như quản lý tiền, thì đơn vị phải thực hiện đúng quy trình quản lý, 
+đảm bảo tuyệt đối an toàn. 
+Điều 4. Quy định về tài khoản kế toán  
+1. Tài khoản kế toán phản ánh thường xuyên, liên tục, có hệ thống về tình hình 
+thu, chi, kết dư quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp 
+do cơ quan bảo hiểm xã hội quản lý; tình hình đầu tư quỹ bảo hiểm, trích lập các 
+quỹ dự phòng và thanh toán giữa cơ quan bảo hiểm xã hội với nhau theo quy định 
+của pháp luật. 
+2. Phân loại và nguyên tắc sử dụng hệ thống tài khoản kế toán 
+a) Tài khoản trong bảng gồm tài khoản từ loại 1 đến loại 9, được hạch toán kép 
+(hạch toán bút toán đối ứng giữa các tài khoản).  
+b) Tài khoản ngoài bảng gồm tài khoản loại 0, được hạch toán đơn (không hạch 
+toán bút toán đối ứng giữa các tài khoản). 
+c) Căn cứ vào danh mục Hệ thống tài khoản kế toán tại Phụ lục I kèm theo 
+Thông tư này, cơ quan bảo hiểm xã hội lựa chọn tài khoản kế toán để áp dụng tại 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+5 
+ 
+đơn vị phù hợp với cơ chế tài chính của quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, 
+quỹ bảo hiểm thất nghiệp và hoạt động theo chức năng, nhiệm vụ được giao.  
+d) Cơ quan bảo hiểm xã hội được bổ sung các tài khoản chi tiết cho các tài 
+khoản đã được quy định trong danh mục Hệ thống tài khoản kế toán tại Phụ lục I 
+kèm theo Thông tư này để hạch toán chi tiết phù hợp với yêu cầu quản lý của 
+mình, đảm bảo theo dõi minh bạch, độc lập theo từng quỹ bảo hiểm và các quỹ 
+thành phần của quỹ bảo hiểm xã hội theo quy định. 
+đ) Trường hợp cần bổ sung tài khoản ngang cấp với các tài khoản đã được quy 
+định trong danh mục Hệ thống tài khoản kế toán tại Phụ lục I kèm theo Thông tư 
+này, thì cơ quan bảo hiểm xã hội phải thực hiện theo quy định tại Luật Kế toán để 
+đảm bảo thống nhất trong sử dụng tài khoản và trình bày thông tin trên báo cáo tài 
+chính, tránh bỏ sót hoặc trùng lặp thông tin báo cáo tài chính. 
+3. Danh mục Hệ thống tài khoản kế toán, giải thích nội dung, kết cấu và 
+phương pháp hạch toán tài khoản kế toán quy định tại Phụ lục I “Hệ thống tài 
+khoản kế toán và hướng dẫn hạch toán kế toán” kèm theo Thông tư này. 
+Điều 5. Quy định về sổ kế toán  
+1. Cơ quan bảo hiểm xã hội phải mở sổ kế toán để ghi chép, hệ thống và lưu 
+giữ toàn bộ các nghiệp vụ kinh tế, tài chính đã phát sinh liên quan đến hoạt động 
+thu, chi quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp được 
+giao quản lý. Việc mở sổ, ghi sổ, khóa sổ, bảo quản, lưu trữ sổ kế toán thực hiện 
+theo quy định của pháp luật về kế toán, các văn bản pháp luật có liên quan và quy 
+định tại Thông tư này. 
+2. Các loại sổ kế toán 
+a) Mỗi cơ quan bảo hiểm xã hội chỉ sử dụng một hệ thống sổ kế toán cho một 
+kỳ kế toán năm để kế toán các hoạt động thu, chi quỹ bảo hiểm xã hội, quỹ bảo 
+hiểm y tế, quỹ bảo hiểm thất nghiệp được giao quản lý, bao gồm sổ kế toán tổng 
+hợp và sổ kế toán chi tiết.  
+Cơ quan bảo hiểm xã hội phải mở đầy đủ các sổ kế toán tổng hợp, sổ kế toán 
+chi tiết và thực hiện đầy đủ, đúng nội dung, trình tự và phương pháp ghi sổ theo 
+quy định tại Thông tư này. 
+b) Sổ kế toán tổng hợp dùng để ghi sổ tổng hợp các nghiệp vụ kinh tế, tài 
+chính phát sinh theo trình tự thời gian hoặc theo nội dung kinh tế. Trường hợp cần 
+thiết, có thể kết hợp việc ghi sổ theo trình tự thời gian với việc phân loại, hệ thống 
+hóa các nghiệp vụ kinh tế đã phát sinh theo nội dung kinh tế.  
+c) Sổ kế toán chi tiết: 
+- Sổ kế toán chi tiết dùng để ghi chi tiết các nghiệp vụ kinh tế, tài chính phát 
+sinh liên quan đến các đối tượng kế toán quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+6 
+  
+quỹ bảo hiểm thất nghiệp theo yêu cầu quản lý mà sổ kế toán tổng hợp chưa phản 
+ánh chi tiết. Số liệu trên sổ kế toán chi tiết cung cấp các thông tin cụ thể phục vụ 
+cho việc quản lý quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp 
+trong cơ quan bảo hiểm xã hội và để tính toán nhằm lập các chỉ tiêu trên báo cáo 
+tài chính và báo cáo nghiệp vụ quỹ bảo hiểm theo quy định.  
+- Căn cứ vào yêu cầu quản lý và yêu cầu hạch toán của từng đối tượng kế toán 
+riêng biệt, cơ quan bảo hiểm xã hội được phép bổ sung thêm các thông tin trên sổ 
+kế toán chi tiết để phục vụ lập báo cáo tài chính, báo cáo nghiệp vụ quỹ bảo hiểm 
+và yêu cầu quản lý khác. 
+- Thông tin, số liệu trên sổ kế toán chi tiết phải đảm bảo khớp đúng với các chỉ 
+tiêu, số liệu có liên quan trên sổ kế toán tổng hợp. 
+3. Trách nhiệm của người quản lý và ghi sổ kế toán 
+a) Sổ kế toán phải được cơ quan bảo hiểm xã hội quản lý chặt chẽ, phân công 
+rõ ràng trách nhiệm cá nhân quản lý và ghi sổ kế toán.  
+b) Sổ kế toán phải được giao cho từng người làm kế toán quản lý cụ thể và 
+chịu trách nhiệm kiểm soát về nội dung, số liệu được ghi sổ trong thời gian quản lý 
+và ghi sổ. Trường hợp phân quyền cho nhiều người làm kế toán nhập dữ liệu vào 
+một sổ kế toán trên phương tiện điện tử, thì từng người phải chịu trách nhiệm về 
+các dữ liệu do mình ghi sổ. 
+c) Khi có sự thay đổi người được giao quản lý và ghi sổ kế toán, phải tổ chức 
+bàn giao trách nhiệm quản lý, ghi sổ kế toán và toàn bộ hồ sơ, tài liệu kế toán có 
+liên quan thuộc trách nhiệm của người làm kế toán cũ cho người làm kế toán mới. 
+Người làm kế toán cũ phải chịu trách nhiệm về toàn bộ những nội dung ghi trong 
+sổ trong thời gian mình quản lý và ghi sổ kế toán, người làm kế toán mới chịu 
+trách nhiệm từ ngày nhận bàn giao. 
+d) Người ghi sổ kế toán phải thực hiện việc ghi sổ kịp thời, rõ ràng, đầy đủ 
+theo các nội dung quy định của sổ kế toán. Thông tin, số liệu ghi vào sổ kế toán 
+phải chính xác, trung thực, phù hợp với nội dung nghiệp vụ kinh tế, tài chính phát 
+sinh trên chứng từ kế toán, dữ liệu, hồ sơ tương ứng làm căn cứ để ghi sổ. 
+đ) Người ghi sổ kế toán phải thực hiện trình bày thông tin, số liệu trên sổ kế 
+toán theo trình tự thời gian phát sinh của nghiệp vụ kinh tế, tài chính. Thông tin, số 
+liệu ghi trên sổ kế toán của năm sau phải kế tiếp thông tin, số liệu ghi trên sổ kế 
+toán của năm trước liền kề, đảm bảo liên tục từ khi mở sổ đến khi khóa sổ. 
+4. Mở sổ kế toán 
+a) Sổ kế toán phải được mở vào đầu kỳ kế toán năm hoặc ngay sau khi có quyết 
+định thành lập đơn vị. Sổ kế toán được mở đầu kỳ kế toán năm mới để chuyển thông 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+7 
+ 
+tin, số liệu từ sổ kế toán năm cũ sang và ghi ngay nghiệp vụ kinh tế, tài chính mới 
+phát sinh thuộc năm mới từ ngày 01/01 của năm tài chính mới.  
+b) Trên sổ kế toán của cơ quan bảo hiểm xã hội phải thể hiện tên cơ quan bảo 
+hiểm xã hội lập sổ, tên sổ kế toán và ký hiệu sổ; ngày, tháng, năm lập sổ kế toán; 
+phải có đầy đủ chữ ký của người ghi sổ kế toán, kế toán trưởng hoặc phụ trách kế 
+toán của cơ quan bảo hiểm xã hội.  
+c) Các thông tin, dữ liệu của sổ kế toán trên phần mềm kế toán phải đảm bảo 
+đầy đủ các nội dung của sổ kế toán theo quy định của pháp luật về kế toán và quy 
+định tại Thông tư này.  
+5. Ghi sổ kế toán 
+a) Việc ghi sổ kế toán phải căn cứ vào chứng từ kế toán hoặc thông tin, dữ liệu 
+chứng minh nghiệp vụ kinh tế, tài chính phát sinh; nội dung ghi sổ phải chính xác, 
+trung thực; tài khoản sử dụng trong hạch toán kế toán phải phù hợp với nội dung 
+nghiệp vụ kinh tế, tài chính phát sinh; số liệu trình bày trên sổ kế toán phải đảm 
+bảo rõ ràng, liên tục theo thời gian, thông tin được hiển thị đầy đủ, có hệ thống; 
+không được viết tắt, không được bỏ cách dòng.  
+b) Việc ghi sổ kế toán phải thực hiện theo trình tự ghi sổ, thể hiện đầy đủ các 
+thông tin đối với từng sổ kế toán theo quy định tại Phụ lục II “Hệ thống sổ kế toán” 
+kèm theo Thông tư này. 
+6. Khóa sổ kế toán 
+Khóa sổ kế toán là việc cộng sổ để tính ra tổng số phát sinh bên Nợ, bên Có và 
+số dư cuối kỳ của từng tài khoản kế toán hoặc tổng số thu, chi, tồn quỹ trong kỳ. 
+Cơ quan bảo hiểm xã hội không được phép thay đổi thông tin, số liệu trên sổ kế 
+toán sau khi đã khóa sổ kế toán và báo cáo tài chính, báo cáo nghiệp vụ quỹ bảo 
+hiểm đã được nộp cho cơ quan có thẩm quyền. Trường hợp điều chỉnh số liệu kế 
+toán phải thực hiện theo quy định tại Điều 6 Thông tư này. 
+a) Kỳ khóa sổ 
+- Cơ quan bảo hiểm xã hội phải khóa sổ kế toán tại thời điểm cuối kỳ kế toán 
+năm, trước khi lập báo cáo tài chính. 
+- Sổ tiền gửi ngân hàng, kho bạc phải khóa sổ vào cuối mỗi tháng và thực hiện 
+đối chiếu số liệu với ngân hàng, kho bạc nhà nước. 
+- Sổ kế toán tiền mặt phải thực hiện khóa sổ vào cuối mỗi ngày hoặc theo định 
+kỳ do cơ quan bảo hiểm xã hội quyết định phù hợp với quy mô, tổ chức hoạt động, 
+đảm bảo quản lý an toàn tiền mặt theo quy định.  
+- Ngoài ra, cơ quan bảo hiểm xã hội phải khóa sổ kế toán trong các trường hợp 
+kiểm kê đột xuất hoặc các trường hợp khác theo quy định của pháp luật.  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+8 
+  
+b) Trình tự khóa sổ kế toán 
+b1) Bước 1: Kiểm tra, đối chiếu thông tin, số liệu trước khi khóa sổ kế toán 
+- Cuối kỳ kế toán, sau khi đã hạch toán hết các chứng từ kế toán phát sinh 
+trong kỳ vào sổ kế toán, xử lý kết chuyển cuối kỳ, kế toán phải tiến hành đối chiếu 
+số liệu đã ghi sổ, bao gồm đối chiếu số liệu tiền, số liệu các khoản đầu tư quỹ bảo 
+hiểm, số dư các khoản phải thu, phải trả và các số liệu kế toán khác với bộ phận 
+quản lý thu, bộ phận quản lý chi và các bên, các tài liệu có liên quan để đảm bảo 
+phù hợp, khớp đúng.  
+- Đối với Sổ kế toán chi tiết tiền mặt, khi khóa sổ phải thực hiện đối chiếu với 
+Sổ quỹ tiền mặt và tiền mặt thực tế có tại cơ quan bảo hiểm xã hội đảm bảo chính 
+xác, khớp đúng. Riêng ngày cuối tháng nếu cơ quan bảo hiểm xã hội có tồn quỹ 
+tiền mặt phải lập Bảng kiểm kê quỹ tiền mặt theo thực tế kiểm kê, Bảng kiểm kê 
+quỹ tiền mặt phải được lưu cùng với Sổ kế toán chi tiết tiền mặt ngày cuối cùng 
+của tháng. 
+- Đối với Sổ tiền gửi ngân hàng, kho bạc, khi khóa sổ phải đối chiếu số liệu 
+từng tài khoản tiền gửi của cơ quan bảo hiểm xã hội với ngân hàng, kho bạc nhà 
+nước đảm bảo chính xác, khớp đúng. Xác nhận đối chiếu số liệu với ngân hàng, 
+kho bạc nhà nước (có chữ ký và dấu của ngân hàng, kho bạc nhà nước) phải được 
+lưu cùng Sổ tiền gửi ngân hàng, kho bạc hàng tháng.  
+- Tiến hành cộng số phát sinh bên Nợ, số phát sinh bên Có của tất cả các tài 
+khoản trên sổ kế toán tổng hợp và sổ kế toán chi tiết. Lập Bảng tổng hợp sổ kế 
+toán chi tiết đối với các tài khoản phải mở nhiều sổ chi tiết. Sau đó tiếp tục tiến 
+hành đối chiếu giữa số liệu trên sổ kế toán tổng hợp với số liệu trên sổ kế toán chi 
+tiết hoặc Bảng tổng hợp sổ kế toán chi tiết đảm bảo số liệu khớp đúng. 
+- Sau khi đảm bảo khớp đúng thì tiến hành khóa sổ kế toán. Trường hợp có 
+chênh lệch thì phải xác định nguyên nhân và xử lý số chênh lệch cho đến khi 
+khớp đúng. 
+b2) Bước 2: Khóa sổ kế toán 
+- Trước khi khóa sổ kế toán năm, cơ quan bảo hiểm xã hội phải kiểm tra các 
+trường hợp có điều chỉnh hồi tố, áp dụng hồi tố để tính toán lại số dư đầu năm của 
+các tài khoản có liên quan (nếu có). 
+- Khi khóa sổ, trên sổ kế toán phải thể hiện được các thông tin như sau: 
++ Số dư đầu kỳ: Phải thể hiện được số dư mang sang từ kỳ trước. Riêng đối 
+với số dư đầu năm thì phải thể hiện được số dư mang sang từ năm trước; tổng cộng 
+số đã điều chỉnh hồi tố, áp dụng hồi tố và số dư đầu năm sau khi điều chỉnh hồi tố, 
+áp dụng hồi tố (nếu có); 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+9 
+ 
++ Tổng cộng số phát sinh trong kỳ khóa sổ; 
++ Số dư cuối kỳ (được tính toán trên cơ sở số dư đầu năm sau khi điều chỉnh 
+hồi tố, áp dụng hồi tố); 
++ Tổng cộng số phát sinh lũy kế từ đầu năm đến ngày khóa sổ; 
+Số dư cuối kỳ tính như sau: 
+Số dư          
+Nợ cuối kỳ 
+= 
+Số dư       
+Nợ đầu kỳ 
++ 
+Số phát sinh    
+Nợ trong kỳ 
+- 
+Số phát sinh      
+Có trong kỳ 
+Số dư          
+Có cuối kỳ 
+= 
+Số dư       
+Có đầu kỳ 
++ 
+Số phát sinh    
+Có trong kỳ 
+- 
+Số phát sinh      
+Nợ trong kỳ 
+Khi khóa sổ kế toán, kế toán trưởng hoặc người phụ trách kế toán của cơ quan 
+bảo hiểm xã hội phải kiểm tra đảm bảo sự chính xác, cân đối của thông tin, số liệu 
+đã ghi sổ trong năm để làm cơ sở lập báo cáo tài chính, báo cáo nghiệp vụ quỹ bảo 
+hiểm theo quy định tại Thông tư này.  
+7. Cơ quan bảo hiểm xã hội thiết kế mẫu sổ kế toán theo danh mục sổ kế toán 
+và hướng dẫn nội dung sổ kế toán tại Phụ lục II “Hệ thống sổ kế toán” kèm theo 
+Thông tư này. Ngoài ra, cơ quan bảo hiểm xã hội được mở thêm các sổ kế toán chi 
+tiết theo yêu cầu quản lý, nhưng phải đảm bảo tuân thủ quy định pháp luật kế toán 
+về sổ kế toán và quy định pháp luật có liên quan. 
+Điều 6. Quy định về sửa chữa thông tin, số liệu trên sổ kế toán 
+1. Phương pháp sửa chữa sổ kế toán phải được thực hiện theo quy định tại Luật 
+Kế toán và quy định tại Thông tư này. 
+2. Sửa chữa thông tin, số liệu trong năm (giai đoạn từ ngày 01/01 đến ngày 31/12): 
+Trường hợp phát hiện các sai sót đã ghi sổ kế toán trong năm, cơ quan bảo hiểm xã 
+hội thực hiện điều chỉnh, sửa chữa thông tin, số liệu vào sổ kế toán năm hiện tại 
+đảm bảo chính xác, khớp đúng.  
+3. Sửa chữa thông tin, số liệu sau ngày khóa sổ kế toán (sau ngày 31/12):  
+a) Giai đoạn từ sau ngày khóa sổ kế toán (sau ngày 31/12) đến trước ngày 
+báo cáo tài chính quỹ bảo hiểm được ký duyệt phát hành để nộp cho cơ quan có 
+thẩm quyền. 
+Trong khoảng thời gian từ sau ngày khóa sổ kế toán (sau ngày 31/12) đến 
+trước ngày báo cáo tài chính quỹ bảo hiểm được ký duyệt phát hành sẽ có các sự 
+kiện phát sinh thêm gọi là sự kiện phát sinh sau ngày kết thúc kỳ kế toán năm có 
+liên quan đến số liệu lập báo cáo tài chính, bao gồm sự kiện không phải điều chỉnh 
+và sự kiện phải điều chỉnh vào thông tin, số liệu của kỳ kế toán đã khóa sổ. Trong 
+đó, các sự kiện phát sinh sau ngày kết thúc kỳ kế toán năm phải điều chỉnh vào 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+10 
+  
+thông tin, số liệu của kỳ kế toán đã khóa sổ là các sự kiện cung cấp bằng chứng 
+cho thấy các sự việc đã tồn tại trong năm báo cáo, trước khi kết thúc kỳ kế toán 
+năm. Các sự kiện phát sinh sau ngày kết thúc kỳ kế toán năm phải điều chỉnh vào 
+thông tin, số liệu của kỳ kế toán đã khóa sổ, bao gồm:  
+- Các sai sót đã ghi sổ kế toán trong năm báo cáo (thông tin, số liệu đã hạch 
+toán từ ngày 01/01 đến hết ngày 31/12) được phát hiện sau ngày khóa sổ kế toán 
+(sau ngày 31/12); 
+- Quyết định của cấp có thẩm quyền mà cơ quan bảo hiểm xã hội nhận được 
+sau ngày khóa sổ kế toán (sau ngày 31/12) liên quan đến một vụ việc đang xử lý, 
+trong đó phát sinh nghĩa vụ hiện tại mà cơ quan bảo hiểm xã hội cần ghi nhận hoặc 
+điều chỉnh một khoản dự phòng liên quan đến thông tin, số liệu của năm báo cáo; 
+- Các sự kiện khác phát sinh sau ngày khóa sổ kế toán (sau ngày 31/12) cung 
+cấp cho cơ quan bảo hiểm xã hội bằng chứng rõ ràng về các sự việc đã tồn tại từ 
+ngày 31/12 trở về trước, mà phải xem xét quyết định việc điều chỉnh vào thông tin, 
+số liệu đã khóa sổ để trình bày vào báo cáo tài chính của năm đã khóa sổ đảm bảo 
+phù hợp, khách quan; cơ quan bảo hiểm xã hội chịu trách nhiệm về quyết định điều 
+chỉnh này. 
+b) Giai đoạn sau khi báo cáo tài chính năm của các quỹ bảo hiểm đã được nộp 
+cho cơ quan có thẩm quyền hoặc đã được công khai theo quy định. 
+b1) Nghiêm cấm cơ quan bảo hiểm xã hội tự ý làm thay đổi thông tin, số 
+liệu trình bày trên báo cáo tài chính quỹ bảo hiểm đã được nộp cho cơ quan có 
+thẩm quyền theo quy định. Trường hợp phát hiện có sai sót, thì cơ quan bảo 
+hiểm xã hội phải sửa chữa trên sổ kế toán của năm phát hiện sai sót theo quy 
+định tại Thông tư này.  
+b2) Các trường hợp điều chỉnh, sửa chữa thông tin, số liệu: 
+- Phát hiện các sai sót trọng yếu: Là trường hợp bỏ sót thông tin, số liệu hoặc 
+xử lý chưa đúng các thông tin đã có tại thời điểm khóa sổ kế toán để lập báo cáo 
+tài chính quỹ bảo hiểm các năm trước, dẫn đến làm sai lệch thông tin trên báo cáo 
+tài chính của cơ quan bảo hiểm xã hội trong các năm trước và có thể làm ảnh 
+hưởng đến quyết định của người đọc báo cáo tài chính quỹ bảo hiểm. Những sai 
+sót này có thể là các lỗi về tính toán; sai sót trong áp dụng các quy định; bỏ quên, 
+hiểu và diễn giải sai thực tế; hoặc gian lận. Căn cứ vào phạm vi, tính chất của sai 
+sót, cơ quan bảo hiểm xã hội tự đánh giá để xác định là trường hợp sai sót trọng 
+yếu đối với mình và quyết định việc điều chỉnh thông tin, số liệu. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+11 
+ 
+- Thực hiện văn bản của cơ quan có thẩm quyền (cơ quan kiểm toán nhà nước, 
+cơ quan thanh tra, các cơ quan chức năng có thẩm quyền khác), trong đó yêu 
+cầu/kiến nghị cơ quan bảo hiểm xã hội phải điều chỉnh thông tin, số liệu trình bày 
+trên báo cáo tài chính quỹ bảo hiểm đã nộp cho cơ quan có thẩm quyền. 
+- Thay đổi trong chính sách kế toán: Bao gồm các trường hợp thay đổi chế độ 
+kế toán; thay đổi cơ chế tài chính mà trong đó có quy định phải điều chỉnh thông 
+tin, số liệu các năm trước; hoặc cơ quan bảo hiểm xã hội thay đổi phương pháp ghi 
+nhận hoặc xác định giá trị của một giao dịch, sự kiện có ảnh hưởng trọng yếu đến 
+thông tin, số liệu các năm trước. 
+- Thay đổi số liệu ước tính kế toán: Là trường hợp số liệu phải hạch toán kế 
+toán trong kỳ, nhưng cơ quan bảo hiểm xã hội chưa có đủ cơ sở để xác định chính 
+xác mà phải tự ước tính số liệu. Để ước tính số liệu, phải dựa trên cơ sở các thông 
+tin, dữ liệu thực tế hiện có đến thời điểm đơn vị thực hiện ước tính; kết quả số liệu 
+thông qua ước tính này, cơ quan bảo hiểm xã hội sử dụng để hạch toán và trình bày 
+trên báo cáo tài chính trong kỳ thực hiện ước tính. Trong các kỳ sau, khi có thêm 
+các thông tin, dữ liệu mới, dẫn đến số liệu đã ước tính này bị thay đổi, thì được 
+phép điều chỉnh, sửa chữa thông tin, số liệu đã ước tính trước đó cho phù hợp với 
+thông tin, dữ liệu cập nhật theo quy định tại Thông tư này.  
+b3) Các phương pháp điều chỉnh, sửa chữa: 
+(1) Điều chỉnh hồi tố 
+- Điều chỉnh hồi tố là việc cơ quan bảo hiểm xã hội thực hiện điều chỉnh số 
+liệu các chỉ tiêu thuộc khoản mục tài sản, nợ phải trả, tài sản thuần đã trình bày 
+trên báo cáo tài chính quỹ bảo hiểm năm trước bằng cách điều chỉnh số dư đầu kỳ 
+trên báo cáo tài chính năm hiện tại, gồm điều chỉnh số liệu cột số đầu năm trên báo 
+cáo tình hình tài chính quỹ bảo hiểm năm hiện tại và thuyết minh báo cáo tài chính 
+quỹ bảo hiểm năm hiện tại. 
+- Cơ quan bảo hiểm xã hội thực hiện điều chỉnh hồi tố trong các trường hợp 
+sau đây: 
++ Phát hiện các sai sót trọng yếu; 
++ Thực hiện theo yêu cầu/kiến nghị của cơ quan nhà nước có thẩm quyền. 
+(2) Áp dụng hồi tố 
+Áp dụng hồi tố là việc một chính sách kế toán mới được áp dụng cho các giao 
+dịch, sự kiện đã phát sinh trước đó. Cơ quan bảo hiểm xã hội áp dụng hồi tố trong 
+trường hợp thay đổi chính sách kế toán, trong đó có quy định phải điều chỉnh 
+thông tin, số liệu kế toán các năm trước. Việc áp dụng hồi tố thực hiện như sau: 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+12 
+  
+- Điều chỉnh số liệu các chỉ tiêu thuộc khoản mục tài sản, nợ phải trả, tài sản 
+thuần đã trình bày trên báo cáo tài chính quỹ bảo hiểm năm trước bị ảnh hưởng bởi 
+sự thay đổi chính sách kế toán, bằng cách điều chỉnh số đầu kỳ trên báo cáo tài 
+chính quỹ bảo hiểm năm hiện tại (cột số đầu năm trên báo cáo tình hình tài chính 
+quỹ bảo hiểm năm hiện tại và thuyết minh báo cáo tài chính quỹ bảo hiểm năm 
+hiện tại). 
+- Điều chỉnh số liệu đã trình bày trên báo cáo kết quả hoạt động quỹ bảo hiểm 
+năm trước bị ảnh hưởng bởi sự thay đổi chính sách kế toán, bằng cách điều chỉnh 
+số liệu các chỉ tiêu trình bày trên cột năm trước của báo cáo kết quả hoạt động quỹ 
+bảo hiểm năm hiện tại. Ngoài ra, các thay đổi liên quan đến báo cáo kết quả hoạt 
+động quỹ bảo hiểm của một hoặc nhiều năm trước phải được tính toán và điều 
+chỉnh số dư đầu năm của tài sản thuần có liên quan trên báo cáo tình hình tài chính 
+quỹ bảo hiểm năm hiện tại. 
+(3) Áp dụng phi hồi tố: Là việc cơ quan bảo hiểm xã hội ghi nhận ảnh hưởng của 
+các thay đổi trong ước tính kế toán vào số phát sinh trên sổ kế toán của năm hiện tại. 
+Trường hợp này thông tin, số liệu ước tính bị thay đổi khi các dữ kiện làm cơ sở cho 
+ước tính trong các kỳ trước có thay đổi hoặc khi có thêm các thông tin mới.  
+(4) Các trường hợp điều chỉnh hồi tố, áp dụng hồi tố nêu trên phải được thuyết 
+minh đầy đủ trên thuyết minh báo cáo tài chính quỹ bảo hiểm năm hiện tại. Trước 
+khi khóa sổ kế toán để lập báo cáo tài chính, cơ quan bảo hiểm xã hội phải tính 
+toán lại số dư đầu năm (hoặc số liệu năm trước nếu liên quan đến báo cáo kết quả 
+hoạt động) trên cơ sở các số liệu điều chỉnh hối tố, áp dụng hồi tố trong năm để 
+trình bày trên báo cáo tài chính quỹ bảo hiểm năm hiện tại. 
+c) Việc điều chỉnh số liệu kế toán quy định tại điểm a và điểm b khoản này không 
+được làm thay đổi số liệu các tài khoản tiền mặt; tiền gửi ngân hàng, kho bạc đã được 
+đối chiếu khớp đúng đến cuối ngày 31/12 theo quy định tại Thông tư này. 
+Điều 7. Quy định về báo cáo tài chính quỹ bảo hiểm 
+1. Báo cáo tài chính quỹ bảo hiểm là hệ thống thông tin kinh tế, tài chính của 
+quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp được trình bày 
+theo nguyên tắc và mẫu biểu quy định tại Thông tư này, phản ánh toàn bộ thông 
+tin, số liệu các hoạt động kinh tế, tài chính phát sinh trong năm của quỹ bảo hiểm 
+xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp. 
+2. Bảo hiểm xã hội Việt Nam phải lập báo cáo tài chính quỹ bảo hiểm theo quy 
+định của Thông tư này, trên cơ sở tổng hợp thông tin, số liệu từ báo cáo thông tin 
+tài chính quỹ bảo hiểm của các cơ quan bảo hiểm xã hội, Bảo hiểm xã hội Quân 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+13 
+ 
+đội, Bảo hiểm xã hội Công an nhân dân và thông tin, số liệu đã ghi sổ kế toán tại 
+Bảo hiểm xã hội Việt Nam, sau khi loại trừ các giao dịch thanh toán nội bộ giữa 
+các đơn vị. 
+3. Mục đích của báo cáo tài chính quỹ bảo hiểm 
+Báo cáo tài chính quỹ bảo hiểm cung cấp thông tin tài chính minh bạch về hoạt 
+động quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp trong năm, 
+giúp xem xét và đưa ra các quyết định điều hành hoạt động của các quỹ bảo hiểm 
+phù hợp, hiệu quả.  
+4. Kỳ báo cáo, nơi nhận, thời hạn nộp và phương thức gửi báo cáo tài chính 
+quỹ bảo hiểm 
+a) Bảo hiểm xã hội Việt Nam phải lập báo cáo tài chính quỹ bảo hiểm cho kỳ 
+kế toán năm kết thúc vào ngày 31/12 theo quy định của Luật Kế toán, nộp cho Bộ 
+Tài chính và các cơ quan có thẩm quyền khác theo quy định pháp luật về bảo hiểm 
+xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp. 
+Trường hợp có yêu cầu cụ thể, Bảo hiểm xã hội Việt Nam phải lập báo cáo tài 
+chính quỹ bảo hiểm các kỳ khác theo quy định của pháp luật. 
+b) Thời hạn nộp báo cáo tài chính quỹ bảo hiểm thực hiện theo quy định của 
+pháp luật kế toán, đảm bảo yêu cầu báo cáo các cơ quan, đơn vị có liên quan theo 
+quy định. 
+c) Báo cáo tài chính quỹ bảo hiểm có thể được thể hiện dưới hình thức văn bản 
+giấy hoặc văn bản điện tử, tùy theo điều kiện thực tế và yêu cầu của cơ quan nhận 
+báo cáo. 
+5. Công khai báo cáo tài chính quỹ bảo hiểm 
+Báo cáo tài chính quỹ bảo hiểm được công khai theo quy định của pháp luật kế 
+toán, quy định pháp luật về quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm 
+thất nghiệp và văn bản pháp luật khác có liên quan. 
+6. Báo cáo thông tin tài chính quỹ bảo hiểm: 
+a) Báo cáo thông tin tài chính quỹ bảo hiểm phản ánh toàn bộ thông tin, số liệu 
+đã ghi sổ kế toán của các hoạt động thu, chi, quản lý quỹ bảo hiểm xã hội, quỹ bảo 
+hiểm y tế, quỹ bảo hiểm thất nghiệp phát sinh trong năm tại cơ quan bảo hiểm xã 
+hội, Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội Công an nhân dân. 
+b) Cơ quan bảo hiểm xã hội phải lập báo cáo thông tin tài chính quỹ bảo hiểm 
+của đơn vị mình để nộp cho cơ quan có thẩm quyền như sau: 
+- Bảo hiểm xã hội cơ sở lập báo cáo thông tin tài chính quỹ bảo hiểm của đơn 
+vị mình theo mẫu biểu hướng dẫn tại Phụ lục III kèm theo Thông tư này, để nộp 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+14 
+  
+cho Bảo hiểm xã hội cấp tỉnh quản lý trực tiếp, làm căn cứ để Bảo hiểm xã hội cấp 
+tỉnh kiểm tra, đối chiếu số liệu và lập báo cáo thông tin tài chính quỹ bảo hiểm 
+tổng hợp của toàn tỉnh. 
+- Bảo hiểm xã hội cấp tỉnh lập báo cáo thông tin tài chính quỹ bảo hiểm của 
+đơn vị mình theo mẫu biểu hướng dẫn tại Phụ lục III kèm theo Thông tư này để đối 
+chiếu số liệu với báo cáo thông tin tài chính của Bảo hiểm xã hội cơ sở trực thuộc 
+và lập báo cáo thông tin tài chính quỹ bảo hiểm tổng hợp của toàn tỉnh. 
+c) Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội Công an nhân dân lập báo cáo 
+thông tin tài chính quỹ bảo hiểm theo Phụ lục III kèm theo Thông tư này để gửi 
+Bảo hiểm xã hội Việt Nam số liệu, nội dung cần thiết, làm căn cứ để Bảo hiểm xã 
+hội Việt Nam kiểm tra, đối chiếu số liệu và lập báo cáo tài chính quỹ bảo hiểm, 
+bảo đảm bí mật nhà nước theo quy định pháp luật. 
+d) Bảo hiểm xã hội cấp tỉnh phải lập báo cáo thông tin tài chính quỹ bảo hiểm 
+tổng hợp toàn tỉnh theo mẫu biểu hướng dẫn tại Phụ lục III kèm theo Thông tư này, 
+trên cơ sở tổng hợp số liệu báo cáo thông tin tài chính quỹ bảo hiểm của đơn vị 
+mình và Bảo hiểm xã hội cơ sở trực thuộc, sau khi loại trừ các giao dịch thanh toán 
+nội bộ giữa các cơ quan bảo hiểm xã hội trong toàn tỉnh. Báo cáo thông tin tài 
+chính quỹ bảo hiểm tổng hợp của toàn tỉnh được nộp cho Bảo hiểm xã hội Việt Nam, 
+làm căn cứ để Bảo hiểm xã hội Việt Nam đối chiếu số liệu và lập báo cáo tài chính 
+quỹ bảo hiểm. 
+đ) Báo cáo thông tin tài chính quỹ bảo hiểm quy định tại điểm b, c, d khoản 
+này phải được nộp chậm nhất trong thời hạn 90 ngày kể từ ngày kết thúc kỳ kế 
+toán năm. Trường hợp cần tiếp nhận báo cáo thông tin tài chính quỹ bảo hiểm sớm 
+hơn thời hạn nêu trên để đảm bảo công tác lập và nộp báo cáo tài chính quỹ bảo 
+hiểm, Bảo hiểm xã hội Việt Nam hướng dẫn Bảo hiểm xã hội cấp tỉnh, Bảo hiểm 
+xã hội cơ sở và phối hợp, đề nghị Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội 
+Công an nhân dân về thời hạn nộp báo cáo của các đơn vị. 
+7. Danh mục, mẫu biểu, giải thích nội dung và phương pháp lập hệ thống báo 
+cáo tài chính quỹ bảo hiểm, báo cáo thông tin tài chính quỹ bảo hiểm quy định tại 
+Phụ lục III “Hệ thống báo cáo tài chính quỹ bảo hiểm” kèm theo Thông tư này. 
+Điều 8. Quy định về báo cáo nghiệp vụ quỹ bảo hiểm 
+1. Báo cáo nghiệp vụ quỹ bảo hiểm là hệ thống báo cáo theo yêu cầu quản lý 
+của cơ quan có thẩm quyền về thông tin, số liệu của quỹ bảo hiểm xã hội, quỹ bảo 
+hiểm y tế, quỹ bảo hiểm thất nghiệp. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+15 
+ 
+2. Cơ quan bảo hiểm xã hội lập và nộp các báo cáo nghiệp vụ theo mẫu biểu 
+hướng dẫn của Bảo hiểm xã hội Việt Nam và theo yêu cầu của cơ quan có thẩm 
+quyền; đảm bảo quy định hiện hành liên quan đến quyết toán và các yêu cầu quản 
+lý khác đối với quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo hiểm thất nghiệp. 
+Điều 9. Quy định về sắp xếp tài liệu kế toán để lưu trữ 
+1. Tài liệu kế toán quỹ bảo hiểm phải được cơ quan bảo hiểm xã hội đưa vào 
+lưu trữ theo quy định hiện hành của pháp luật kế toán.  
+2. Trước khi đưa tài liệu kế toán vào lưu trữ, cơ quan bảo hiểm xã hội phải tổ 
+chức kiểm tra, đối chiếu, đảm bảo tài liệu kế toán đưa vào lưu trữ phải bao gồm 
+đầy đủ các hồ sơ tài liệu có liên quan đến việc hạch toán, ghi sổ kế toán cần phải 
+lưu trữ theo quy định; tài liệu đưa vào lưu trữ phải là tài liệu đã hoàn chỉnh, trong 
+đó phản ánh đầy đủ chỉ tiêu, thông tin, số liệu và đã có đầy đủ các yếu tố pháp lý 
+trên tài liệu lưu trữ theo đúng quy định, nếu là lưu trữ tài liệu bản giấy còn phải 
+được đóng dấu đầy đủ, sắp xếp, phân loại đóng thành tập chắc chắn. Cơ quan bảo 
+hiểm xã hội phải kiểm tra, phân loại để không đưa vào lưu trữ các tài liệu không 
+thuộc trách nhiệm lưu trữ của kế toán.  
+3. Tài liệu kế toán được đưa vào bảo quản, lưu trữ phải đảm bảo đầy đủ, an 
+toàn, nguyên vẹn theo đúng quy trình, thời hạn quy định của pháp luật kế toán, 
+pháp luật khác có liên quan. Tài liệu kế toán đưa vào lưu trữ phải được sắp xếp có 
+hệ thống, đảm bảo khoa học, theo thứ tự, dễ tra cứu và sử dụng khi cần thiết. 
+Thông tin, số liệu đưa vào lưu trữ phải phù hợp với thông tin đã ghi sổ kế toán. 
+Nghiêm cấm việc để thất lạc hồ sơ, tài liệu kế toán đang trong thời gian phải lưu 
+trữ theo quy định. 
+4. Cơ quan bảo hiểm xã hội phải cử người làm nhiệm vụ bảo quản, lưu trữ hồ 
+sơ, tài liệu kế toán các quỹ bảo hiểm; phải mở sổ theo dõi tài liệu lưu trữ, bảo quản 
+tài liệu kế toán quỹ bảo hiểm lưu trữ đảm bảo đầy đủ, nguyên vẹn, an toàn, không 
+được để xảy ra thất lạc, hư hỏng, sửa chữa tẩy xóa trên tài liệu bản giấy hoặc làm 
+sai lệch dữ liệu điện tử trong suốt thời gian bảo quản, lưu trữ.  
+ 
+Chương III 
+TỔ CHỨC THỰC HIỆN 
+ 
+Điều 10. Hiệu lực thi hành  
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2026. 
+2. Thông tư số 102/2018/TT-BTC ngày 14 tháng 11 năm 2018 của Bộ trưởng 
+Bộ Tài chính hướng dẫn kế toán bảo hiểm xã hội hết hiệu lực kể từ ngày Thông tư 
+này có hiệu lực thi hành.  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+16 
+  
+3. Trong quá trình thực hiện, trường hợp các văn bản quy phạm pháp luật được 
+viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản quy 
+phạm pháp luật mới thì áp dụng theo các văn bản ban hành mới. 
+Điều 11. Điều khoản chuyển tiếp 
+1. Sau khi khóa sổ kế toán, lập báo cáo tài chính năm 2025, cơ quan bảo hiểm 
+xã hội phải thực hiện chuyển đổi số dư sang tài khoản kế toán mới theo quy định 
+tại Thông tư này. 
+2. Số dư đầu năm 2026 trên các báo cáo sau đây được áp dụng hồi tố sau khi 
+kết chuyển số dư từ năm 2025 sang, gồm: 
+a) Báo cáo tình hình tài chính quỹ bảo hiểm; 
+b) Thuyết minh báo cáo tài chính quỹ bảo hiểm cho phần báo cáo tình hình 
+tài chính. 
+Điều 12. Tổ chức thực hiện 
+1. Bảo hiểm xã hội Việt Nam và các đơn vị liên quan chịu trách nhiệm chỉ đạo, 
+triển khai thực hiện tới các đơn vị thuộc phạm vi quản lý là đối tượng áp dụng 
+Thông tư này. 
+a) Bảo hiểm xã hội Việt Nam hướng dẫn Bảo hiểm xã hội cấp tỉnh, Bảo hiểm 
+xã hội cơ sở thực hiện chuyển đổi số dư đầu năm 2026 theo tài khoản kế toán mới 
+đảm bảo quy định tại Thông tư này. 
+b) Trường hợp cần thực hiện thống nhất về chứng từ kế toán, tài khoản kế toán 
+chi tiết, sổ kế toán, thông tin chi tiết trên Báo cáo thông tin tài chính quỹ bảo hiểm, 
+Bảo hiểm xã hội Việt Nam ban hành, hướng dẫn áp dụng chung cho các cơ quan 
+bảo hiểm xã hội. 
+c) Bảo hiểm xã hội Việt Nam hướng dẫn Bảo hiểm xã hội Quân đội, Bảo hiểm 
+xã hội Công an nhân dân lập báo cáo thông tin tài chính quỹ bảo hiểm theo 
+mẫu biểu quy định tại Phụ lục III ban hành kèm theo Thông tư này. 
+2. Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán và Thủ trưởng các 
+đơn vị chức năng có liên quan thuộc Bộ Tài chính chịu trách nhiệm phổ biến, 
+hướng dẫn, kiểm tra và thi hành Thông tư này./. 
+ 
+KT. BỘ TRƯỞNG 
+THỨ TRƯỞNG 
+ 
+Nguyễn Đức Tâm 
+ 
+ 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+17 
+ 
+Phụ lục I 
+HỆ THỐNG TÀI KHOẢN KẾ TOÁN 
+VÀ HƯỚNG DẪN HẠCH TOÁN KẾ TOÁN 
+(Kèm theo Thông tư số 107/2025/TT-BTC ngày 14 tháng 11 năm 2025 
+của Bộ trưởng Bộ Tài chính) 
+ 
+I. DANH MỤC HỆ THỐNG TÀI KHOẢN KẾ TOÁN 
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+A 
+ 
+ 
+ 
+ 
+TÀI KHOẢN TRONG BẢNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+111 
+ 
+ 
+ 
+Tiền mặt 
+ 
+ 
+1111 
+ 
+ 
+Tiền Việt Nam 
+ 
+ 
+1112 
+ 
+ 
+Ngoại tệ 
+Cơ quan 
+bảo hiểm 
+xã hội 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+112 
+ 
+ 
+ 
+Tiền gửi ngân hàng, kho bạc 
+ 
+ 
+1121 
+ 
+ 
+Tiền Việt Nam 
+ 
+ 
+1122 
+ 
+ 
+Ngoại tệ 
+Cơ quan 
+bảo hiểm 
+xã hội 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+113 
+ 
+ 
+ 
+Tiền đang chuyển 
+Cơ quan 
+bảo hiểm 
+xã hội 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+114 
+ 
+ 
+ 
+Các khoản tương đương tiền 
+Bảo hiểm 
+xã hội  
+Việt Nam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+121 
+ 
+ 
+ 
+Đầu tư tài chính 
+ 
+ 
+1211 
+ 
+ 
+Đầu tư quỹ bảo hiểm xã hội  
+ 
+ 
+ 
+12111 
+ 
+Quỹ ốm đau và thai sản 
+Bảo hiểm 
+xã hội  
+Việt Nam 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+18 
+  
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+12112 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+12113 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+1212 
+ 
+ 
+Đầu tư quỹ bảo hiểm y tế 
+ 
+ 
+1213 
+ 
+ 
+Đầu tư quỹ bảo hiểm thất nghiệp 
+ 
+ 
+1218 
+ 
+ 
+Đầu tư tài chính khác 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+123 
+ 
+ 
+ 
+Khoản đầu tư quỹ bảo hiểm 
+chờ xử lý 
+ 
+ 
+1231 
+ 
+ 
+Đầu tư quỹ bảo hiểm xã hội chờ 
+xử lý 
+ 
+ 
+ 
+12311 
+ 
+Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+12312 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+12313 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+1232 
+ 
+ 
+Đầu tư quỹ bảo hiểm y tế chờ 
+xử lý 
+ 
+ 
+1233 
+ 
+ 
+Đầu tư quỹ bảo hiểm thất nghiệp 
+chờ xử lý 
+Bảo hiểm 
+xã hội  
+Việt Nam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+131 
+ 
+ 
+ 
+Phải thu của đối tượng đóng 
+bảo hiểm 
+ 
+ 
+1311 
+ 
+ 
+Phải thu theo quy định 
+ 
+ 
+ 
+13111 
+ 
+Bảo hiểm xã hội  
+ 
+ 
+ 
+ 
+131111 Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+ 
+131112 Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+ 
+1311121 Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp bắt buộc 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+19 
+ 
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+ 
+1311122 Quỹ bảo hiểm tai nạn lao động 
+tự nguyện 
+ 
+ 
+ 
+ 
+131113 Quỹ hưu trí và tử tuất 
+ 
+ 
+ 
+ 
+1311131 Bắt buộc 
+ 
+ 
+ 
+ 
+1311132 Tự nguyện 
+ 
+ 
+ 
+13112 
+ 
+Bảo hiểm y tế 
+ 
+ 
+ 
+13113 
+ 
+Bảo hiểm thất nghiệp 
+ 
+ 
+1312 
+ 
+ 
+Phải thu tiền xử lý chậm đóng, 
+trốn đóng 
+ 
+ 
+ 
+13121 
+ 
+Bảo hiểm xã hội 
+ 
+ 
+ 
+ 
+131211 Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+ 
+131212 Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+ 
+131213 Quỹ hưu trí và tử tuất 
+ 
+ 
+ 
+ 
+1312131 Bắt buộc 
+ 
+ 
+ 
+ 
+1312132 Tự nguyện 
+ 
+ 
+ 
+13122 
+ 
+Bảo hiểm y tế 
+ 
+ 
+ 
+13123 
+ 
+Bảo hiểm thất nghiệp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+132 
+ 
+ 
+ 
+Phải thu bảo hiểm chờ phân bổ 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+133 
+ 
+ 
+ 
+Phải thu từ ngân sách nhà nước 
+ 
+ 
+1331 
+ 
+ 
+Phải thu ngân sách nhà nước hỗ 
+trợ đóng bảo hiểm 
+ 
+ 
+ 
+13311 
+ 
+Ngân sách nhà nước hỗ trợ đóng 
+bảo hiểm xã hội 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+20 
+  
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+13312 
+ 
+Ngân sách nhà nước hỗ trợ đóng 
+bảo hiểm y tế 
+ 
+ 
+ 
+13313 
+ 
+Ngân sách nhà nước hỗ trợ đóng 
+bảo hiểm thất nghiệp 
+ 
+ 
+1332 
+ 
+ 
+Phải thu kinh phí chi bảo hiểm 
+ 
+ 
+ 
+13321 
+ 
+Kinh phí chi bảo hiểm xã hội 
+ 
+ 
+ 
+13322 
+ 
+Kinh phí chi khám chữa bệnh 
+bảo hiểm y tế khối an ninh - 
+quốc phòng 
+ 
+ 
+1338 
+ 
+ 
+Phải thu khác từ ngân sách nhà nước 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+134 
+ 
+ 
+ 
+Phải thu tổ chức hỗ trợ chi trả 
+Bảo hiểm 
+xã hội  
+cấp tỉnh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+135 
+ 
+ 
+ 
+Phải thu giữa các cơ quan bảo 
+hiểm xã hội 
+ 
+ 
+ 
+1351 
+ 
+ 
+Phải thu từ tiền thu các quỹ 
+bảo hiểm 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+1352 
+ 
+ 
+Phải thu kinh phí chi bảo hiểm 
+ 
+ 
+ 
+13521 
+ 
+Bảo hiểm xã hội 
+ 
+ 
+ 
+ 
+135211 Chế độ ốm đau, thai sản 
+ 
+ 
+ 
+ 
+135212 Chế độ bảo hiểm tai nạn lao động, 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+ 
+135213 Chế độ hưu trí, tử tuất 
+ 
+ 
+ 
+13522 
+ 
+Bảo hiểm y tế 
+ 
+ 
+ 
+13523 
+ 
+Bảo hiểm thất nghiệp 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+21 
+ 
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+1353 
+ 
+ 
+Phải thu kinh phí thu hồi chi sai 
+năm trước 
+ 
+ 
+ 
+13531 
+ 
+Bảo hiểm xã hội 
+ 
+ 
+ 
+ 
+135311 Chế độ ốm đau, thai sản 
+ 
+ 
+ 
+ 
+135312 Chế độ bảo hiểm tai nạn lao động, 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+ 
+135313 Chế độ hưu trí, tử tuất 
+ 
+ 
+ 
+13532 
+ 
+Bảo hiểm y tế 
+ 
+ 
+ 
+13533 
+ 
+Bảo hiểm thất nghiệp 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+1358 
+ 
+ 
+Phải thu khác giữa các cơ quan 
+bảo hiểm xã hội 
+Cơ quan 
+bảo hiểm 
+xã hội  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+137 
+ 
+ 
+ 
+Phải thu lãi từ hoạt động đầu tư 
+ 
+ 
+1371 
+ 
+ 
+Phải thu lãi từ đầu tư quỹ bảo 
+hiểm xã hội  
+ 
+ 
+ 
+13711 
+ 
+Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+13712 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+13713 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+1372 
+ 
+ 
+Phải thu lãi từ đầu tư quỹ bảo 
+hiểm y tế 
+ 
+ 
+1373 
+ 
+ 
+Phải thu lãi từ đầu tư quỹ bảo 
+hiểm thất nghiệp 
+ 
+ 
+1378 
+ 
+ 
+Phải thu lãi khác 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+138 
+ 
+ 
+ 
+Phải thu khác 
+ 
+ 
+1381 
+ 
+ 
+Phải thu khác quỹ bảo hiểm 
+xã hội 
+Cơ quan 
+bảo hiểm 
+xã hội  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+22 
+  
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+13811 
+ 
+Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+13812 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+13813 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+1382 
+ 
+ 
+Phải thu khác quỹ bảo hiểm y tế 
+ 
+ 
+1383 
+ 
+ 
+Phải thu khác quỹ bảo hiểm thất 
+nghiệp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+331 
+ 
+ 
+ 
+Phải trả đối tượng hưởng các 
+chế độ bảo hiểm 
+ 
+ 
+3311 
+ 
+ 
+Phải trả đối tượng hưởng chế độ 
+bảo hiểm xã hội 
+ 
+ 
+ 
+33111 
+ 
+Phải trả đối tượng hưởng chế độ 
+bảo hiểm xã hội do quỹ đảm bảo 
+ 
+ 
+ 
+ 
+331111 Phải trả đối tượng hưởng chế độ 
+ốm đau, thai sản 
+ 
+ 
+ 
+ 
+331112 
+Phải trả đối tượng hưởng chế độ 
+bảo hiểm tai nạn lao động, bệnh 
+nghề nghiệp 
+ 
+ 
+ 
+ 
+331113 Phải trả đối tượng hưởng chế độ 
+hưu trí, tử tuất 
+ 
+ 
+ 
+33112 
+ 
+Phải trả đối tượng hưởng chế độ 
+bảo hiểm xã hội do ngân sách 
+nhà nước đảm bảo 
+ 
+ 
+3312 
+ 
+ 
+Phải trả đối tượng hưởng chế độ 
+bảo hiểm y tế 
+ 
+ 
+3313 
+ 
+ 
+Phải trả đối tượng hưởng chế độ 
+bảo hiểm thất nghiệp 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+23 
+ 
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+15 
+332 
+ 
+ 
+ 
+Phải trả các đơn vị theo chế độ 
+quy định 
+ 
+ 
+3321 
+ 
+ 
+Phải trả chế độ bảo hiểm xã hội 
+ 
+ 
+ 
+33211 
+ 
+Phải trả chế độ ốm đau, thai sản 
+ 
+ 
+ 
+33212 
+ 
+Phải trả chế độ bảo hiểm tai nạn 
+lao động, bệnh nghề nghiệp 
+ 
+ 
+ 
+33213 
+ 
+Phải trả chế độ hưu trí, tử tuất 
+ 
+ 
+3322 
+ 
+ 
+Phải trả chế độ bảo hiểm y tế 
+ 
+ 
+3323 
+ 
+ 
+Phải trả chế độ bảo hiểm thất 
+nghiệp 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+335 
+ 
+ 
+ 
+Phải trả giữa các cơ quan bảo 
+hiểm xã hội 
+ 
+ 
+ 
+3351 
+ 
+ 
+Phải trả số thu bảo hiểm 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+ 
+ 
+3352 
+ 
+ 
+Phải trả kinh phí chi bảo hiểm 
+ 
+ 
+ 
+33521 
+ 
+Bảo hiểm xã hội 
+ 
+ 
+ 
+ 
+335211 Chế độ ốm đau, thai sản 
+ 
+ 
+ 
+ 
+335212 Chế độ bảo hiểm tai nạn lao 
+động, bệnh nghề nghiệp 
+ 
+ 
+ 
+ 
+335213 Chế độ hưu trí, tử tuất 
+ 
+ 
+ 
+33522 
+ 
+Bảo hiểm y tế 
+ 
+ 
+ 
+33523 
+ 
+Bảo hiểm thất nghiệp 
+Bảo hiểm 
+xã hội 
+Việt Nam, 
+Bảo hiểm 
+xã hội cấp 
+tỉnh 
+ 
+ 
+3353 
+ 
+ 
+Phải trả kinh phí thu hồi chi sai 
+năm trước 
+ 
+ 
+ 
+33531 
+ 
+Bảo hiểm xã hội 
+ 
+ 
+ 
+ 
+335311 Chế độ ốm đau, thai sản 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+24 
+  
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+ 
+335312 Chế độ bảo hiểm tai nạn lao động, 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+ 
+335313 Chế độ hưu trí, tử tuất 
+ 
+ 
+ 
+33532 
+ 
+Bảo hiểm y tế 
+ 
+ 
+ 
+33533 
+ 
+Bảo hiểm thất nghiệp 
+ 
+ 
+ 
+3358 
+ 
+ 
+Phải trả khác giữa các cơ quan 
+bảo hiểm xã hội 
+Cơ quan 
+bảo hiểm 
+xã hội  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+338 
+ 
+ 
+ 
+Phải trả khác 
+ 
+ 
+3381 
+ 
+ 
+Phải trả khác quỹ bảo hiểm xã hội 
+ 
+ 
+ 
+33811 
+ 
+Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+33812 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+33813 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+3382 
+ 
+ 
+Phải trả khác quỹ bảo hiểm y tế 
+ 
+ 
+3383 
+ 
+ 
+Phải trả khác quỹ bảo hiểm thất 
+nghiệp 
+ 
+ 
+3388 
+ 
+ 
+Phải trả khác 
+Cơ quan 
+bảo hiểm 
+xã hội  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+421 
+ 
+ 
+ 
+Thặng dư (thâm hụt) lũy kế 
+ 
+ 
+4211 
+ 
+ 
+Thặng dư (thâm hụt) lũy kế quỹ 
+bảo hiểm xã hội 
+ 
+ 
+ 
+42111 
+ 
+Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+42112 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+42113 
+ 
+Quỹ hưu trí và tử tuất 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+25 
+ 
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+4212 
+ 
+ 
+Thặng dư (thâm hụt) lũy kế quỹ 
+bảo hiểm y tế 
+ 
+ 
+4213 
+ 
+ 
+Thặng dư (thâm hụt) lũy kế quỹ 
+bảo hiểm thất nghiệp 
+ 
+ 
+4218 
+ 
+ 
+Thặng dư (thâm hụt) lũy kế khác 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+431 
+ 
+ 
+ 
+Kết dư quỹ bảo hiểm 
+ 
+ 
+4311 
+ 
+ 
+Kết dư quỹ bảo hiểm xã hội  
+ 
+ 
+ 
+43111 
+ 
+Kết dư quỹ ốm đau và thai sản 
+ 
+ 
+ 
+43112 
+ 
+Kết dư quỹ bảo hiểm tai nạn lao 
+động - bệnh nghề nghiệp 
+ 
+ 
+ 
+43113 
+ 
+Kết dư quỹ hưu trí và tử tuất 
+ 
+ 
+4312 
+ 
+ 
+Kết dư quỹ bảo hiểm y tế 
+ 
+ 
+ 
+43121 
+ 
+Kết dư quỹ khám chữa bệnh bảo 
+hiểm y tế 
+ 
+ 
+ 
+43122 
+ 
+Quỹ dự phòng khám chữa bệnh 
+bảo hiểm y tế 
+ 
+ 
+4313 
+ 
+ 
+Kết dư quỹ bảo hiểm thất nghiệp 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+432 
+ 
+ 
+ 
+Dự phòng rủi ro trong hoạt động 
+đầu tư 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+4321 
+ 
+ 
+Dự phòng rủi ro đầu tư quỹ bảo 
+hiểm xã hội 
+ 
+ 
+ 
+43211 
+ 
+Dự phòng rủi ro đầu tư quỹ ốm 
+đau và thai sản 
+ 
+ 
+ 
+43212 
+ 
+Dự phòng rủi ro đầu tư quỹ bảo 
+hiểm tai nạn lao động - bệnh 
+nghề nghiệp 
+Trường 
+hợp pháp 
+luật có 
+quy định 
+phân bổ 
+số dư dự 
+phòng rủi  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+26 
+  
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+43213 
+ 
+Dự phòng rủi ro đầu tư quỹ hưu 
+trí và tử tuất 
+ 
+ 
+4322 
+ 
+ 
+Dự phòng rủi ro đầu tư quỹ bảo 
+hiểm y tế 
+ 
+ 
+4323 
+ 
+ 
+Dự phòng rủi ro đầu tư quỹ bảo 
+hiểm thất nghiệp 
+ro theo 
+từng quỹ 
+bảo hiểm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+521 
+ 
+ 
+ 
+Doanh thu quỹ bảo hiểm xã hội  
+ 
+ 
+5211 
+ 
+ 
+Thu theo quy định 
+ 
+ 
+ 
+52111 
+ 
+Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+52112 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+ 
+521121 Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp bắt buộc 
+ 
+ 
+ 
+ 
+521122 Quỹ bảo hiểm tai nạn lao động 
+tự nguyện 
+ 
+ 
+ 
+52113 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+ 
+ 
+521131 Bắt buộc 
+ 
+ 
+ 
+ 
+521132 Tự nguyện 
+ 
+ 
+5212 
+ 
+ 
+Thu tiền xử lý chậm đóng, trốn 
+đóng 
+ 
+ 
+ 
+52121 
+ 
+Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+52122 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+52123 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+ 
+ 
+521231 Bắt buộc 
+ 
+ 
+ 
+ 
+521232 Tự nguyện 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+27 
+ 
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+5213 
+ 
+ 
+Doanh thu từ ngân sách nhà nước 
+hỗ trợ 
+ 
+ 
+5218 
+ 
+ 
+Doanh thu khác của quỹ bảo hiểm 
+xã hội 
+ 
+ 
+ 
+52181 
+ 
+Quỹ ốm đau và thai sản 
+ 
+ 
+ 
+52182 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+52183 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+522 
+ 
+ 
+ 
+Doanh thu quỹ bảo hiểm y tế  
+ 
+ 
+5221 
+ 
+ 
+Thu theo quy định 
+ 
+ 
+5222 
+ 
+ 
+Thu tiền xử lý chậm đóng, trốn 
+đóng 
+ 
+ 
+5223 
+ 
+ 
+Doanh thu từ ngân sách nhà nước 
+hỗ trợ 
+ 
+ 
+5228 
+ 
+ 
+Doanh thu khác của quỹ bảo hiểm 
+y tế 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+523 
+ 
+ 
+ 
+Doanh thu quỹ bảo hiểm thất 
+nghiệp  
+ 
+ 
+5231 
+ 
+ 
+Thu theo quy định 
+ 
+ 
+5232 
+ 
+ 
+Thu tiền xử lý chậm đóng, trốn 
+đóng 
+ 
+ 
+5233 
+ 
+ 
+Doanh thu từ ngân sách nhà nước 
+hỗ trợ đóng bảo hiểm thất nghiệp 
+ 
+ 
+5238 
+ 
+ 
+Doanh thu khác của quỹ bảo hiểm 
+thất nghiệp 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+28 
+  
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+24 
+525 
+ 
+ 
+ 
+Doanh thu tài chính 
+ 
+ 
+5251 
+ 
+ 
+Doanh thu đầu tư quỹ bảo hiểm 
+xã hội 
+ 
+ 
+ 
+52511 
+ 
+Doanh thu đầu tư quỹ ốm đau và 
+thai sản 
+ 
+ 
+ 
+52512 
+ 
+Doanh thu đầu tư quỹ bảo hiểm 
+tai nạn lao động - bệnh nghề nghiệp 
+ 
+ 
+ 
+52513 
+ 
+Doanh thu đầu tư quỹ hưu trí và 
+tử tuất 
+ 
+ 
+5252 
+ 
+ 
+Doanh thu đầu tư quỹ bảo hiểm 
+y tế 
+ 
+ 
+5253 
+ 
+ 
+Doanh thu đầu tư quỹ bảo hiểm 
+thất nghiệp 
+ 
+ 
+5258 
+ 
+ 
+Doanh thu tài chính khác 
+ 
+ 
+ 
+52581 
+ 
+Doanh thu tài chính khác của 
+quỹ bảo hiểm xã hội 
+ 
+ 
+ 
+ 
+525811 Doanh thu tài chính khác của 
+quỹ ốm đau và thai sản 
+ 
+ 
+ 
+ 
+525812 
+Doanh thu tài chính khác của 
+quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+ 
+525813 Doanh thu tài chính khác của 
+quỹ hưu trí và tử tuất 
+ 
+ 
+ 
+52582 
+ 
+Doanh thu tài chính khác của 
+quỹ bảo hiểm y tế 
+ 
+ 
+ 
+52583 
+ 
+Doanh thu tài chính khác của 
+quỹ bảo hiểm thất nghiệp 
+ 
+ 
+ 
+52588 
+ 
+Doanh thu tài chính khác 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+29 
+ 
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+ 
+ 
+LOẠI 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+621 
+ 
+ 
+ 
+Chi phí theo chế độ quy định 
+ 
+ 
+6211 
+ 
+ 
+Chi phí chế độ bảo hiểm xã hội 
+ 
+ 
+ 
+62111 
+ 
+Chi phí chế độ ốm đau, thai sản 
+ 
+ 
+ 
+62112 
+ 
+Chi phí chế độ bảo hiểm tai nạn 
+lao động, bệnh nghề nghiệp 
+ 
+ 
+ 
+62113 
+ 
+Chi phí chế độ hưu trí, tử tuất 
+ 
+ 
+6212 
+ 
+ 
+Chi phí chế độ bảo hiểm y tế 
+ 
+ 
+6213 
+ 
+ 
+Chi phí chế độ bảo hiểm thất nghiệp 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+622 
+ 
+ 
+ 
+Trích chi phí tổ chức và hoạt động 
+ 
+ 
+6221 
+ 
+ 
+Trích chi phí tổ chức và hoạt 
+động bảo hiểm xã hội 
+ 
+ 
+ 
+62211 
+ 
+Trích chi phí tổ chức và hoạt 
+động quỹ ốm đau và thai sản 
+ 
+ 
+ 
+62212 
+ 
+Trích chi phí tổ chức và hoạt 
+động quỹ bảo hiểm tai nạn lao 
+động - bệnh nghề nghiệp 
+ 
+ 
+ 
+62213 
+ 
+Trích chi phí tổ chức và hoạt 
+động quỹ hưu trí và tử tuất 
+ 
+ 
+6222 
+ 
+ 
+Trích chi phí tổ chức và hoạt 
+động bảo hiểm y tế 
+ 
+ 
+6223 
+ 
+ 
+Trích chi phí tổ chức và hoạt 
+động bảo hiểm thất nghiệp 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+625 
+ 
+ 
+ 
+Chi phí tài chính 
+ 
+ 
+6251 
+ 
+ 
+Chi phí tài chính quỹ bảo hiểm 
+xã hội 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+30 
+  
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+62511 
+ 
+Chi phí tài chính của quỹ ốm 
+đau và thai sản 
+ 
+ 
+ 
+62512 
+ 
+Chi phí tài chính của quỹ bảo 
+hiểm tai nạn lao động - bệnh 
+nghề nghiệp 
+ 
+ 
+ 
+62513 
+ 
+Chi phí tài chính của quỹ hưu trí 
+và tử tuất 
+ 
+ 
+6252 
+ 
+ 
+Chi phí tài chính quỹ bảo hiểm 
+y tế 
+ 
+ 
+6253 
+ 
+ 
+Chi phí tài chính quỹ bảo hiểm 
+thất nghiệp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+628 
+ 
+ 
+ 
+Chi phí khác của quỹ bảo hiểm 
+ 
+ 
+6281 
+ 
+ 
+Chi phí khác của quỹ bảo hiểm 
+xã hội 
+ 
+ 
+ 
+62811 
+ 
+Chi phí khác của quỹ ốm đau và 
+thai sản 
+ 
+ 
+ 
+62812 
+ 
+Chi phí khác của quỹ bảo hiểm tai 
+nạn lao động - bệnh nghề nghiệp 
+ 
+ 
+ 
+62813 
+ 
+Chi phí khác của quỹ hưu trí và 
+tử tuất 
+ 
+ 
+6282 
+ 
+ 
+Chi phí khác của quỹ bảo hiểm 
+y tế 
+ 
+ 
+6283 
+ 
+ 
+Chi phí khác của quỹ bảo hiểm 
+thất nghiệp 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOẠI 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+911 
+ 
+ 
+ 
+Xác định kết quả 
+ 
+ 
+9111 
+ 
+ 
+Kết quả quỹ bảo hiểm xã hội  
+ 
+ 
+ 
+91111 
+ 
+Quỹ ốm đau và thai sản 
+Bảo hiểm 
+xã hội 
+Việt Nam 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+31 
+ 
+Số hiệu tài khoản 
+STT TK 
+cấp 1 
+TK 
+cấp 2 
+TK 
+cấp 3 
+TK 
+cấp 4, 5 
+Tên tài khoản 
+Phạm vi 
+áp dụng 
+A 
+B 
+C 
+D 
+E 
+G 
+H 
+ 
+ 
+ 
+91112 
+ 
+Quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp 
+ 
+ 
+ 
+91113 
+ 
+Quỹ hưu trí và tử tuất 
+ 
+ 
+9112 
+ 
+ 
+Kết quả quỹ bảo hiểm y tế 
+ 
+ 
+9113 
+ 
+ 
+Kết quả quỹ bảo hiểm thất nghiệp 
+ 
+ 
+9118 
+ 
+ 
+Kết quả hoạt động khác 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B 
+ 
+ 
+ 
+ 
+TÀI KHOẢN NGOÀI BẢNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01 
+011 
+ 
+ 
+ 
+Theo dõi chi khám chữa bệnh 
+bảo hiểm y tế chờ quyết toán 
+Cơ quan 
+bảo hiểm 
+xã hội có 
+phát sinh 
+ 
+II. GIẢI THÍCH NỘI DUNG, KẾT CẤU VÀ PHƯƠNG PHÁP HẠCH 
+TOÁN TÀI KHOẢN KẾ TOÁN 
+ 
+A- TÀI KHOẢN TRONG BẢNG 
+ 
+TÀI KHOẢN LOẠI 1 
+ 
+Tài khoản loại 1 gồm 3 nhóm tài khoản sau đây: 
+- Nhóm tài khoản tiền và tương đương tiền; 
+- Nhóm tài khoản đầu tư tài chính; 
+- Nhóm tài khoản phải thu. 
+ 
+NGUYÊN TẮC KẾ TOÁN NHÓM TÀI KHOẢN 
+TIỀN VÀ TƯƠNG ĐƯƠNG TIỀN THUỘC TÀI KHOẢN LOẠI 1 
+ 
+1. Các tài khoản tiền dùng để phản ánh số tiền hiện có và tình hình biến 
+động các loại tiền hiện có mà cơ quan bảo hiểm xã hội quản lý để thực hiện thu, 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+32 
+  
+chi các quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp (không bao 
+gồm các khoản tiền phục vụ chi tổ chức và hoạt động bảo hiểm xã hội, bảo hiểm 
+thất nghiệp, bảo hiểm y tế của cơ quan bảo hiểm xã hội). Các loại tiền gồm tiền 
+Việt Nam và các loại ngoại tệ; bao gồm: Tiền mặt hiện có tại đơn vị; tiền đang 
+gửi tại ngân hàng hoặc kho bạc nhà nước và tiền đang chuyển. 
+2. Kế toán các tài khoản tiền phải sử dụng thống nhất một đơn vị tiền tệ là 
+đồng Việt Nam. Các nghiệp vụ phát sinh bằng ngoại tệ phải đồng thời theo dõi 
+ngoại tệ và quy đổi ra đồng Việt Nam theo tỷ giá quy định để ghi sổ kế toán. 
+3. Số liệu trên sổ kế toán các tài khoản tiền đều phải được khóa sổ theo định kỳ 
+và đối chiếu theo quy định. Số dư tiền cuối ngày 31/12 đã đối chiếu phải bảo đảm 
+khớp đúng với số liệu trình bày trên báo cáo tài chính, không được hạch toán các 
+nghiệp vụ phát sinh tiền sau khi đã khóa sổ và đối chiếu cuối ngày 31/12 vào sổ kế 
+toán năm trước. 
+4. Tương đương tiền là các khoản có tính thanh khoản cao, có khả năng 
+chuyển đổi dễ dàng thành một lượng tiền xác định và không có nhiều rủi ro về giá 
+trị của việc chuyển đổi thành tiền, bao gồm các khoản gửi tiền có kỳ hạn theo 
+phương thức chuyển tiền tự động đối với số dư trên tài khoản thanh toán tổng hợp 
+trong thời gian chưa thực hiện chi chế độ, chi tổ chức và hoạt động, chưa chuyển 
+tiền để thực hiện hoạt động đầu tư và chi khác; các khoản tương đương tiền khác 
+(nếu có). 
+Nhóm tài khoản tiền gồm có 04 tài khoản: 
+- Tài khoản 111- Tiền mặt; 
+- Tài khoản 112- Tiền gửi ngân hàng, kho bạc; 
+- Tài khoản 113- Tiền đang chuyển; 
+- Tài khoản 114- Các khoản tương đương tiền. 
+ 
+TÀI KHOẢN 111 
+TIỀN MẶT 
+1. Nguyên tắc kế toán  
+1.1. Tài khoản này dùng để phản ánh tình hình thu, chi, tồn quỹ tiền mặt của 
+cơ quan bảo hiểm xã hội trong quá trình thu, chi các quỹ bảo hiểm xã hội, bảo 
+hiểm y tế, bảo hiểm thất nghiệp (không bao gồm các khoản tiền mặt phục vụ chi tổ 
+chức và hoạt động bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế của cơ 
+quan bảo hiểm xã hội), bao gồm tiền Việt Nam, ngoại tệ. Cơ quan bảo hiểm xã hội 
+chỉ phản ánh vào tài khoản này giá trị tiền mặt, ngoại tệ thực tế nhập, xuất quỹ. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+33 
+ 
+1.2. Cơ quan bảo hiểm xã hội phải mở sổ kế toán tiền mặt để ghi sổ hàng ngày, 
+liên tục theo trình tự phát sinh các khoản nhập, xuất quỹ tiền mặt và tính ra số tồn 
+quỹ tại mọi thời điểm, luôn bảo đảm khớp đúng giữa giá trị ghi trên sổ kế toán, sổ 
+quỹ và thực tế tiền mặt tại cơ quan bảo hiểm xã hội. Thủ quỹ chịu trách nhiệm trực 
+tiếp nộp tiền vào và rút tiền ra từ ngân hàng, kho bạc nhà nước; trực tiếp nhập, xuất 
+quỹ, ghi sổ quỹ và bảo quản tiền mặt theo quy định. Nghiêm cấm kế toán trưởng, 
+phụ trách kế toán của cơ quan bảo hiểm xã hội trực tiếp thực hiện rút tiền mặt tại 
+ngân hàng thay thủ quỹ. 
+1.3. Việc ghi sổ kế toán tiền mặt phải trên cơ sở chứng từ đã thực nhập, xuất 
+quỹ có phê duyệt của người có thẩm quyền của cơ quan bảo hiểm xã hội.  
+1.4. Về đối chiếu số liệu: 
+a) Kế toán phải thực hiện khóa sổ kế toán tiền mặt vào cuối mỗi ngày hoặc 
+theo định kỳ phù hợp với thực tế hoạt động, bảo đảm quản lý an toàn tiền mặt tại 
+cơ quan bảo hiểm xã hội, trước khi khóa sổ phải thực hiện đối chiếu giữa số liệu kế 
+toán tiền mặt của kế toán với số liệu sổ quỹ và tiền mặt thực tế có tại cơ quan bảo 
+hiểm xã hội bảo đảm chính xác, khớp đúng.  
+b) Ngày cuối tháng, cơ quan bảo hiểm xã hội phải thực hiện kiểm kê tiền mặt 
+thực tế có tại quỹ; trên cơ sở tiền kiểm kê thực tế, lập Bảng kiểm kê quỹ tiền mặt 
+tồn thực tế; thực hiện đối chiếu với số dư tiền trên sổ kế toán tiền mặt và số dư tiền 
+trên sổ quỹ. Trường hợp có chênh lệch phải tìm nguyên nhân và xử lý kịp thời. Sổ 
+kế toán tiền mặt ngày cuối cùng của tháng, sau khi đối chiếu khớp đúng với sổ quỹ 
+và tiền mặt thực tế, phải được kết xuất, in, ký đầy đủ các chữ ký theo quy định và 
+đóng để lưu trữ cùng với Bảng kiểm kê quỹ tiền mặt. 
+1.5. Kế toán tiền mặt phải chấp hành nghiêm chỉnh các quy định trong chế độ 
+quản lý lưu thông tiền tệ hiện hành và các quy định về thủ tục thu, chi, nhập quỹ, 
+xuất quỹ, kiểm soát trước quỹ và kiểm kê quỹ bảo đảm an toàn tiền mà cơ quan 
+bảo hiểm xã hội đang quản lý.  
+2. Kết cấu và nội dung phản ánh của Tài khoản 111- Tiền mặt  
+Bên Nợ: Các khoản tiền mặt tăng. 
+Bên Có: Các khoản tiền mặt giảm. 
+Số dư bên Nợ: Các khoản tiền mặt còn tồn quỹ. 
+Tài khoản 111- Tiền mặt, có 2 tài khoản cấp 2: 
+- Tài khoản 1111- Tiền Việt Nam: Phản ánh tình hình thu, chi, tồn tiền 
+Việt Nam tại quỹ tiền mặt của cơ quan bảo hiểm xã hội. 
+- Tài khoản 1112- Ngoại tệ: Phản ánh tình hình thu, chi, tồn ngoại tệ 
+(theo nguyên tệ và quy đổi theo đồng Việt Nam) tại quỹ tiền mặt của Bảo hiểm 
+xã hội Việt Nam. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+34 
+  
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Khi rút tiền gửi ngân hàng, kho bạc về quỹ tiền mặt của cơ quan bảo hiểm 
+xã hội, ghi: 
+Nợ TK 111- Tiền mặt 
+Có TK 112- Tiền gửi ngân hàng, kho bạc. 
+3.2. Khi nhận được cổ tức, lợi nhuận từ hoạt động đầu tư bằng tiền mặt, ghi:  
+Nợ TK 111- Tiền mặt 
+Có TK 525- Doanh thu tài chính. 
+3.3. Trường hợp nộp tiền mặt vào tài khoản tiền gửi tại ngân hàng, kho bạc, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc  
+Có TK 111- Tiền mặt. 
+3.4. Trường hợp cơ quan bảo hiểm xã hội chi trả chế độ bảo hiểm bằng tiền 
+mặt, ghi: 
+Nợ các TK 331, 332  
+Có TK 111- Tiền mặt. 
+ 
+TÀI KHOẢN 112 
+TIỀN GỬI NGÂN HÀNG, KHO BẠC 
+ 
+1. Nguyên tắc kế toán  
+1.1. Tài khoản này phản ánh số hiện có, tình hình biến động tất cả các tài 
+khoản tiền gửi không kỳ hạn của cơ quan bảo hiểm xã hội trong quá trình thu, chi 
+các quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp gửi tại các ngân 
+hàng, kho bạc nhà nước (không bao gồm các tài khoản tiền gửi phục vụ chi tổ chức 
+và hoạt động bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế của cơ quan 
+bảo hiểm xã hội), bao gồm tiền gửi bằng đồng Việt Nam và ngoại tệ. 
+1.2. Việc ghi sổ kế toán tài khoản tiền gửi ngân hàng, kho bạc phải trên cơ sở 
+các giấy báo Có, báo Nợ hoặc sao kê của ngân hàng, kho bạc nhà nước kèm theo 
+các chứng từ gốc. Nghiêm cấm việc tự ý ghi tăng, giảm số liệu trên tài khoản này 
+mà không trên cơ sở chứng từ đã có xác nhận thanh toán của ngân hàng, kho bạc 
+nhà nước. 
+1.3. Kế toán phải mở sổ kế toán chi tiết để theo dõi đến từng tài khoản tiền gửi 
+mở tại ngân hàng và kho bạc nhà nước. 
+1.4. Định kỳ hàng tháng cơ quan bảo hiểm xã hội phải kiểm tra, đối chiếu 
+nhằm bảo đảm số tiền gửi vào, rút ra và tồn cuối kỳ khớp đúng với số liệu của tài 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+35 
+ 
+khoản do ngân hàng, kho bạc nhà nước quản lý. Khi thực hiện đối chiếu phải kiểm 
+tra số liệu chi tiết tương ứng với từng tài khoản tiền gửi tại ngân hàng, kho bạc nhà 
+nước. Nghiêm cấm việc ký xác nhận đối chiếu khớp đúng trong khi số liệu tại cơ 
+quan bảo hiểm xã hội và số liệu tại ngân hàng, kho bạc nhà nước còn chênh lệch. 
+Trường hợp có chênh lệch phải báo ngay cho ngân hàng, kho bạc nhà nước để 
+kiểm tra và điều chỉnh kịp thời. 
+1.5. Hàng tháng sổ chi tiết tài khoản tiền gửi tại ngân hàng, kho bạc nhà nước 
+phải được cơ quan bảo hiểm xã hội kết xuất, in, đối chiếu và ký đầy đủ các chữ ký 
+của những người có liên quan theo quy định và đóng lưu trữ cùng Bảng đối chiếu 
+số liệu đã có xác nhận của ngân hàng, kho bạc nhà nước nơi mở tài khoản.  
+1.6. Kế toán tiền gửi ngân hàng, kho bạc nhà nước phải chấp hành nghiêm 
+chỉnh chế độ quản lý, lưu thông tiền tệ và các quy định có liên quan.  
+2. Kết cấu và nội dung phản ánh của Tài khoản 112- Tiền gửi ngân hàng, 
+kho bạc  
+Bên Nợ: Các khoản tiền gửi ngân hàng, kho bạc tăng. 
+Bên Có: Các khoản tiền gửi ngân hàng, kho bạc giảm. 
+Số dư bên Nợ: Các khoản tiền còn gửi tại ngân hàng, kho bạc nhà nước. 
+Tài khoản 112- Tiền gửi ngân hàng, kho bạc, có 2 tài khoản cấp 2: 
+- Tài khoản 1121- Tiền Việt Nam: Phản ánh số hiện có và tình hình biến động 
+các khoản tiền Việt Nam của cơ quan bảo hiểm xã hội đang gửi tại các ngân hàng, 
+kho bạc nhà nước. 
+- Tài khoản 1122- Ngoại tệ: Phản ánh số hiện có và tình hình biến động giá trị 
+của các loại ngoại tệ của Bảo hiểm xã hội Việt Nam đang gửi tại các ngân hàng, 
+kho bạc nhà nước. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Căn cứ vào giấy báo Có của ngân hàng, kho bạc về nhận khoản tiền đóng 
+vào quỹ bảo hiểm, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có các TK 131, 132.  
+3.2. Căn cứ vào giấy báo Có của ngân hàng, kho bạc về nhận khoản tiền thu 
+các quỹ bảo hiểm và tiền xử lý chậm đóng, trốn đóng các quỹ bảo hiểm do các cơ 
+quan bảo hiểm xã hội chuyển về Bảo hiểm xã hội Việt Nam, ghi:  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 1351- Phải thu giữa các cơ quan bảo hiểm xã hội (1351). 
+3.3. Căn cứ vào giấy báo Có của ngân hàng, kho bạc về nhận khoản kinh phí 
+chi chế độ bảo hiểm do Bảo hiểm xã hội cấp trên chuyển về, ghi:  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+36 
+  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1352). 
+3.4. Khi nhận được cổ tức, lợi nhuận từ hoạt động đầu tư; nhận lãi tiền gửi 
+ngân hàng, kho bạc, ghi:  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 525- Doanh thu tài chính. 
+3.5. Đối với các khoản đầu tư quỹ bảo hiểm, khi Bảo hiểm xã hội Việt Nam 
+thu hồi khoản đã đầu tư, ghi:  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 121- Đầu tư tài chính 
+3.6. Khi ngân sách nhà nước chuyển trả kinh phí theo quy định, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 133- Phải thu từ ngân sách nhà nước. 
+3.7. Trường hợp nộp tiền mặt vào tài khoản tiền gửi tại ngân hàng, kho bạc, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc  
+Có TK 111- Tiền mặt. 
+3.8. Khi rút tiền gửi ngân hàng, kho bạc về quỹ tiền mặt của cơ quan bảo hiểm 
+xã hội, ghi: 
+Nợ TK 111- Tiền mặt 
+Có TK 112- Tiền gửi ngân hàng, kho bạc. 
+3.9. Trường hợp cơ quan bảo hiểm xã hội chuyển khoản để chi trả chế độ bảo 
+hiểm, ghi: 
+Nợ các TK 331, 332  
+Có TK 112- Tiền gửi ngân hàng, kho bạc. 
+ 
+TÀI KHOẢN 113 
+TIỀN ĐANG CHUYỂN 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh các khoản tiền đã xuất quỹ để mang đi 
+nộp tiền vào tài khoản tại các ngân hàng, kho bạc nhà nước nhưng chưa nhận được 
+giấy báo Có của ngân hàng, kho bạc nhà nước và trường hợp tiền đang chuyển 
+khác (nếu có) đối với các khoản tiền phục vụ quá trình thu, chi các quỹ bảo hiểm 
+xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp của cơ quan bảo hiểm xã hội. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+37 
+ 
+1.2. Cơ quan bảo hiểm xã hội phải mở sổ kế toán chi tiết để theo dõi theo yêu 
+cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 113- Tiền đang chuyển 
+Bên Nợ: Các khoản tiền đang chuyển tăng. 
+Bên Có: Các khoản tiền đang chuyển giảm. 
+Số dư bên Nợ: Các khoản tiền còn đang chuyển. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Xuất quỹ tiền mặt đem tiền đi gửi vào ngân hàng, kho bạc nhưng chưa nhận 
+được giấy báo Có của ngân hàng, kho bạc, ghi: 
+Nợ TK 113- Tiền đang chuyển 
+Có TK 111- Tiền mặt. 
+3.2. Khi nhận được giấy báo Có của ngân hàng, kho bạc, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 113- Tiền đang chuyển. 
+ 
+TÀI KHOẢN 114 
+CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN 
+ 
+1. Nguyên tắc kế toán  
+1.1. Tài khoản này dùng để phản ánh số hiện có và tình hình biến động các 
+khoản tương đương tiền của các quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất 
+nghiệp mà Bảo hiểm xã hội Việt Nam đang nắm giữ theo quy định hiện hành. 
+1.2. Các khoản tương đương tiền theo quy định tại Thông tư này gồm có: 
+a) Các khoản gửi tiền có kỳ hạn theo phương thức chuyển tiền tự động đối với số 
+dư trên tài khoản thanh toán tổng hợp trong thời gian chưa thực hiện chi chế độ, chi tổ 
+chức và hoạt động, chưa chuyển tiền để thực hiện hoạt động đầu tư và chi khác. 
+b) Các khoản tương đương tiền khác theo quy định (nếu có). 
+1.3. Các khoản tiền gửi có kỳ hạn theo phương thức chuyển tiền tự động phải 
+được thực hiện theo đúng quy định hiện hành. 
+1.4. Các khoản lãi phát sinh từ hoạt động gửi tiền có kỳ hạn theo phương thức 
+chuyển tiền tự động các quỹ bảo hiểm phải được hạch toán vào doanh thu tài chính 
+để phản ánh đầy đủ doanh thu phát sinh trong năm.  
+1.5. Bảo hiểm xã hội Việt Nam phải mở sổ kế toán chi tiết để theo dõi từng 
+khoản tiền gửi có kỳ hạn theo phương thức chuyển tiền tự động thuộc quỹ bảo 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+38 
+  
+hiểm theo ngày gửi tiền, số tiền đã gửi vào ngân hàng thương mại, từng lần gửi, 
+các khoản đã thu hồi và các chi tiết khác theo yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 114- Các khoản tương 
+đương tiền 
+Bên Nợ: Giá trị các khoản tương đương tiền thuộc các quỹ bảo hiểm tăng.  
+Bên Có: Giá trị các khoản tương đương tiền thuộc các quỹ bảo hiểm giảm. 
+Số dư bên Nợ: Giá trị khoản tương đương tiền thuộc các quỹ bảo hiểm mà 
+Bảo hiểm xã hội Việt Nam đang nắm giữ. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Căn cứ báo Nợ của ngân hàng thương mại về việc đã trích tự động tài 
+khoản tiền gửi vượt định mức để chuyển sang tiền gửi có kỳ hạn, ghi: 
+Nợ TK 114- Các khoản tương đương tiền 
+Có TK 112- Tiền gửi ngân hàng, kho bạc. 
+3.2. Khi thu hồi khoản tương đương tiền, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 114- Các khoản tương đương tiền. 
+ 
+TÀI KHOẢN 121 
+ĐẦU TƯ TÀI CHÍNH 
+ 
+1. Nguyên tắc kế toán  
+1.1. Tài khoản này dùng để phản ánh số hiện có và tình hình biến động các 
+khoản đầu tư tài chính của Bảo hiểm xã hội Việt Nam từ các quỹ bảo hiểm và đầu 
+tư tài chính khác (như quỹ dự phòng rủi ro trong hoạt động đầu tư) theo quy định 
+hiện hành về hoạt động đầu tư quỹ bảo hiểm.  
+1.2. Các khoản đầu tư tài chính phải được ghi sổ kế toán theo giá thực tế mua 
+(giá gốc), bao gồm: Giá mua cộng (+) các chi phí mua (nếu có, trừ các khoản được 
+tính vào chi tổ chức và hoạt động của bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm 
+thất nghiệp). 
+1.3. Bảo hiểm xã hội Việt Nam phải hạch toán đầy đủ, kịp thời các khoản lãi từ 
+hoạt động đầu tư tài chính vào doanh thu tài chính phát sinh trong năm; các khoản 
+cổ tức, lợi nhuận được chia cho giai đoạn trước ngày đầu tư được ghi giảm giá trị 
+khoản đầu tư. 
+Trường hợp phát sinh các khoản lỗ được sử dụng quỹ dự phòng rủi ro để bù 
+đắp thì các khoản lỗ này được hạch toán vào chi phí tài chính của quỹ bảo hiểm. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+39 
+ 
+Định kỳ hoặc cuối năm, Bảo hiểm xã hội Việt Nam phải kết chuyển số đã sử dụng 
+quỹ dự phòng rủi ro (ghi Nợ TK 432/Có TK 421).  
+1.4. Trường hợp các khoản đầu tư quỹ bị rủi ro phải thực hiện xử lý rủi ro theo 
+quy định của pháp luật về hoạt động đầu tư từ quỹ bảo hiểm xã hội, bảo hiểm y tế, 
+bảo hiểm thất nghiệp thì phải kết chuyển để theo dõi riêng giá trị ghi sổ của các 
+khoản đầu tư quỹ bảo hiểm chờ xử lý trên tài khoản 123 “Khoản đầu tư quỹ bảo 
+hiểm chờ xử lý”. 
+1.5. Bảo hiểm xã hội Việt Nam phải mở sổ kế toán chi tiết để theo dõi từng khoản 
+đầu tư quỹ bảo hiểm theo từng quỹ, từng phương thức đầu tư, danh mục đầu tư, từng 
+loại nguyên tệ,... để theo dõi theo yêu cầu quản lý. Khi lập báo cáo tài chính quỹ bảo 
+hiểm, Bảo hiểm xã hội Việt Nam căn cứ vào kỳ hạn còn lại của khoản đầu tư quỹ bảo 
+hiểm (từ 12 tháng trở xuống hay trên 12 tháng kể từ thời điểm kết thúc kỳ kế toán) để 
+trình bày là khoản đầu tư ngắn hạn hoặc khoản đầu tư dài hạn. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 121- Đầu tư tài chính  
+Bên Nợ: Giá trị các khoản đầu tư tài chính các quỹ bảo hiểm tăng.  
+Bên Có: Giá trị các khoản đầu tư tài chính các quỹ bảo hiểm giảm. 
+Số dư bên Nợ: Giá trị khoản đầu tư tài chính từ các quỹ bảo hiểm mà Bảo 
+hiểm xã hội Việt Nam đang nắm giữ tại thời điểm kết thúc kỳ kế toán. 
+Tài khoản 121- Đầu tư tài chính, có 4 tài khoản cấp 2: 
+- Tài khoản 1211- Đầu tư quỹ bảo hiểm xã hội: Phản ánh tình hình tăng, giảm 
+và số dư các khoản đầu tư của quỹ bảo hiểm xã hội theo quy định. 
+Tài khoản 1211 có 3 tài khoản cấp 3: 
++ Tài khoản 12111- Quỹ ốm đau và thai sản: Phản ánh tình hình tăng, giảm và 
+số dư các khoản đầu tư của quỹ ốm đau và thai sản theo quy định. 
++ Tài khoản 12112- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp: Phản 
+ánh tình hình tăng, giảm và số dư các khoản đầu tư của quỹ tai nạn lao động - bệnh 
+nghề nghiệp theo quy định. 
++ Tài khoản 12113- Quỹ hưu trí và tử tuất: Phản ánh tình hình tăng, giảm và 
+số dư các khoản đầu tư của quỹ hưu trí và tử tuất theo quy định. 
+- Tài khoản 1212- Đầu tư quỹ bảo hiểm y tế: Phản ánh tình hình tăng, giảm và 
+số dư các khoản đầu tư của quỹ bảo hiểm y tế theo quy định. 
+- Tài khoản 1213- Đầu tư quỹ bảo hiểm thất nghiệp: Phản ánh tình hình tăng, 
+giảm và số dư các khoản đầu tư của quỹ bảo hiểm thất nghiệp theo quy định. 
+- Tài khoản 1218- Đầu tư tài chính khác: Phản ánh tình hình tăng, giảm và số 
+dư các khoản đầu tư tài chính khác theo quy định hiện hành về đầu tư các quỹ 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+40 
+  
+nhưng chưa phân bổ được vào quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế, quỹ bảo 
+hiểm thất nghiệp (chưa được phản ánh vào tài khoản 1211, tài khoản 1212, tài 
+khoản 1213). 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Kế toán tiền gửi có kỳ hạn, đầu tư chứng khoán nắm giữ đến ngày đáo hạn: 
+a) Trường hợp nhận lãi định kỳ: 
+- Khi chuyển tiền để đầu tư các quỹ, ghi: 
+Nợ TK 121- Đầu tư tài chính 
+Có các TK 111, 112. 
+- Khi nhận lãi định kỳ, ghi: 
+Nợ các TK 111, 112,... 
+Có TK 525- Doanh thu tài chính. 
+- Khi thu hồi khoản đã đầu tư, ghi: 
+Nợ các TK 111, 112 
+Có TK 121- Đầu tư tài chính. 
+b) Trường hợp nhận lãi trước: 
+- Khi gửi tiền có kỳ hạn, đầu tư mua chứng khoán, ghi: 
+Nợ TK 121- Đầu tư tài chính 
+Có các TK 111, 112,... (số tiền thực bỏ ra) 
+Có TK 338- Phải trả khác (số lãi nhận trước, chi tiết theo từng quỹ). 
+- Định kỳ, kết chuyển số lãi nhận trước của từng kỳ vào doanh thu trong kỳ, ghi: 
+Nợ TK 338- Phải trả khác 
+Có TK 525- Doanh thu tài chính.  
+- Khi thu hồi khoản đã đầu tư, ghi: 
+Nợ các TK 111, 112,... 
+Có TK 121- Đầu tư tài chính. 
+c) Trường hợp nhận lãi sau: 
+- Khi chuyển tiền đầu tư, ghi: 
+Nợ TK 121- Đầu tư tài chính 
+Có các TK 111, 112,... 
+- Định kỳ xác định số lãi phải thu trong kỳ báo cáo, ghi: 
+Nợ TK 137- Phải thu lãi từ hoạt động đầu tư 
+Có TK 525- Doanh thu tài chính.  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+41 
+ 
+- Khi thu hồi khoản đã đầu tư, ghi: 
+Nợ các TK 111, 112,... 
+Có TK 121- Đầu tư tài chính 
+Có TK 137- Phải thu lãi từ hoạt động đầu tư (tiền lãi đã ghi vào thu nhập của 
+các kỳ trước nhận tiền vào kỳ này) 
+Có TK 525- Doanh thu tài chính (tiền lãi của kỳ đáo hạn). 
+3.2. Kế toán đầu tư khác: 
+a) Khi mua chứng khoán kinh doanh, căn cứ vào chi phí thực tế mua theo 
+quy định, ghi: 
+Nợ TK 121- Đầu tư tài chính  
+Có các TK 111, 112,... 
+b) Khi nhận lãi từ chứng khoán kinh doanh: 
+- Đối với lãi nhận được cho giai đoạn trước ngày đầu tư, ghi: 
+Nợ các TK 111, 112,... 
+Có TK 121- Đầu tư tài chính. 
+- Đối với lãi nhận được tính cho giai đoạn đầu tư, ghi: 
+Nợ TK 111, 112,... 
+Có TK 525- Doanh thu tài chính. 
+c) Khi bán chứng khoán: 
+- Trường hợp bán chứng khoán có lãi, ghi: 
+Nợ các TK 111, 112,... 
+Có TK 121- Đầu tư tài chính 
+Có TK 525- Doanh thu tài chính (chênh lệch giữa giá bán lớn hơn giá trị 
+ghi sổ). 
+- Trường hợp bán chứng khoán bị lỗ, ghi: 
+Nợ các TK 111, 112,... 
+Nợ TK 625- Chi phí tài chính (chênh lệch giữa giá bán nhỏ hơn giá trị ghi sổ) 
+Có TK 121- Đầu tư tài chính. 
+3.3. Trường hợp phát sinh khoản đầu tư chờ xử lý: Căn cứ quyết định của cấp 
+có thẩm quyền, ghi: 
+Nợ TK 123- Khoản đầu tư quỹ bảo hiểm chờ xử lý 
+Có TK 121- Đầu tư tài chính (phần gốc chờ xử lý) 
+Có TK 137- Phải thu lãi từ hoạt động đầu tư (tiền lãi chờ xử lý). 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+42 
+  
+3.4. Trường hợp khoản đầu tư được xóa nợ gốc: Căn cứ quyết định của cấp có 
+thẩm quyền về việc xóa nợ gốc, ghi: 
+Nợ TK 625- Chi phí tài chính 
+Có TK 121- Đầu tư tài chính. 
+- Định kỳ hoặc cuối năm, kết chuyển số được sử dụng quỹ dự phòng rủi ro để 
+bù đắp xóa nợ, ghi: 
+Nợ TK 432- Dự phòng rủi ro trong hoạt động đầu tư 
+Có TK 421- Thặng dư (thâm hụt) lũy kế. 
+ 
+TÀI KHOẢN 123 
+KHOẢN ĐẦU TƯ QUỸ BẢO HIỂM CHỜ XỬ LÝ 
+ 
+1. Nguyên tắc kế toán  
+1.1. Tài khoản này dùng để phản ánh số hiện có và tình hình biến động của các 
+khoản đầu tư từ các quỹ bảo hiểm đang được Bảo hiểm xã hội Việt Nam xử lý rủi 
+ro theo các biện pháp theo quy định hiện hành. 
+1.2. Bảo hiểm xã hội Việt Nam phải mở sổ kế toán chi tiết để theo dõi từng 
+khoản đầu tư quỹ bảo hiểm chờ xử lý theo quyết định của cấp có thẩm quyền theo 
+từng hình thức chờ xử lý như gia hạn nợ, khoanh nợ,..., theo từng hình thức đầu tư, 
+số tiền đã đầu tư theo từng hình thức đầu tư, thời hạn đầu tư, thời hạn gia hạn nợ, 
+khoanh nợ, gốc, lãi... các khoản đã xử lý, các khoản quá hạn thanh toán và các chi 
+tiết khác theo yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 123- Khoản đầu tư quỹ 
+bảo hiểm chờ xử lý 
+Bên Nợ: Giá trị các khoản đầu tư đang chờ xử lý.  
+Bên Có: Giá trị các khoản đầu tư đã xử lý. 
+Số dư bên Nợ: Giá trị khoản đầu tư còn lại chưa xử lý. 
+Tài khoản 123- Khoản đầu tư quỹ bảo hiểm chờ xử lý, có 3 tài khoản cấp 2: 
+- Tài khoản 1231- Đầu tư quỹ bảo hiểm xã hội chờ xử lý: Phản ánh số hiện 
+có và tình hình biến động của các khoản đầu tư từ quỹ bảo hiểm xã hội đang 
+được Bảo hiểm xã hội Việt Nam xử lý rủi ro theo quyết định của cơ quan có 
+thẩm quyền. 
+Tài khoản 1231 có 3 tài khoản cấp 3: 
++ Tài khoản 12311- Quỹ ốm đau và thai sản 
++ Tài khoản 12312- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+43 
+ 
++ Tài khoản 12313- Quỹ hưu trí và tử tuất 
+- Tài khoản 1232- Đầu tư quỹ bảo hiểm y tế chờ xử lý: Phản ánh số hiện có và 
+tình hình biến động của các khoản đầu tư từ quỹ bảo hiểm y tế đang được Bảo 
+hiểm xã hội Việt Nam xử lý rủi ro theo quyết định của cơ quan có thẩm quyền. 
+- Tài khoản 1233- Đầu tư quỹ bảo hiểm thất nghiệp chờ xử lý: Phản ánh số 
+hiện có và tình hình biến động của các khoản đầu tư từ quỹ bảo hiểm thất nghiệp 
+đang được Bảo hiểm xã hội Việt Nam xử lý rủi ro theo quyết định của cơ quan có 
+thẩm quyền. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Trường hợp phát sinh khoản đầu tư chờ xử lý: Căn cứ quyết định của cấp 
+có thẩm quyền, ghi: 
+Nợ TK 123- Khoản đầu tư quỹ bảo hiểm chờ xử lý 
+Có TK 121- Đầu tư tài chính (phần gốc chờ xử lý). 
+Có TK 137- Phải thu lãi từ hoạt động đầu tư (tiền lãi chờ xử lý). 
+3.2. Khi khoản đầu tư chờ xử lý đã thu hồi được, ghi: 
+Nợ các TK 111, 112 
+Có TK 123- Khoản đầu tư quỹ bảo hiểm chờ xử lý. 
+3.3. Trường hợp được phép ghi nhận khoản lãi phát sinh từ khoản đầu tư chờ 
+xử lý, ghi: 
+Nợ TK 123- Khoản đầu tư quỹ bảo hiểm chờ xử lý 
+Có TK 525- Doanh thu tài chính. 
+3.4. Trường hợp khoản đầu tư đang chờ xử lý được xóa nợ và sử dụng quỹ dự 
+phòng rủi ro để bù đắp, căn cứ quyết định của cấp có thẩm quyền, ghi: 
+Nợ TK 625- Chi phí tài chính 
+Có TK 123- Khoản đầu tư quỹ bảo hiểm chờ xử lý. 
+Định kỳ hoặc cuối năm kết chuyển số sử dụng quỹ dự phòng rủi ro, ghi: 
+Nợ TK 432- Dự phòng rủi ro trong hoạt động đầu tư 
+Có TK 421- Thặng dư (thâm hụt) lũy kế. 
+3.5. Trường hợp khoản đầu tư đang chờ xử lý được bên khác mua lại, căn cứ 
+hợp đồng mua bán nợ và các chứng từ có liên quan, ghi: 
+Nợ TK 111, 112 (số tiền bên mua nợ mua lại khoản nợ theo hợp đồng) 
+Nợ TK 625- Chi phí tài chính (trường hợp số tiền mua nợ nhỏ hơn số tiền bị 
+rủi ro) 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+44 
+  
+Có TK 123- Khoản đầu tư quỹ bảo hiểm chờ xử lý. 
+Trường hợp được phép sử dụng quỹ dự phòng rủi ro để bù đắp trong trường 
+hợp số tiền mua nợ nhỏ hơn số tiền bị rủi ro, định kỳ hoặc cuối năm kết chuyển số 
+sử dụng quỹ dự phòng rủi ro, ghi: 
+Nợ TK 432- Dự phòng rủi ro trong hoạt động đầu tư 
+Có TK 421- Thặng dư (thâm hụt) lũy kế. 
+3.6. Trường hợp khoản đầu tư đang chờ xử lý được xóa lãi, căn cứ quyết định 
+của cấp có thẩm quyền, ghi: 
+Nợ TK 625- Chi phí tài chính (đối với số lãi phát sinh từ các năm trước chưa 
+thu được) 
+Nợ TK 525- Doanh thu tài chính (đối với lãi phát sinh trong năm chưa thu được) 
+Có TK 123- Khoản đầu tư quỹ bảo hiểm chờ xử lý. 
+ 
+NGUYÊN TẮC KẾ TOÁN NHÓM CÁC TÀI KHOẢN  
+PHẢI THU THUỘC TÀI KHOẢN LOẠI 1 
+ 
+1. Các khoản phải thu của cơ quan bảo hiểm xã hội phát sinh trong quan hệ 
+thanh toán các quỹ bảo hiểm được phân loại như sau:  
+- Phải thu của đối tượng đóng bảo hiểm;  
+- Phải thu của ngân sách nhà nước; 
+- Phải thu tổ chức hỗ trợ chi trả; 
+- Phải thu giữa các cơ quan bảo hiểm xã hội; 
+- Phải thu lãi từ hoạt động đầu tư quỹ; 
+- Phải thu khác. 
+2. Cơ quan bảo hiểm xã hội phải mở sổ kế toán chi tiết theo từng đối tượng, 
+nhóm đối tượng có quan hệ thanh toán trong kỳ. Đồng thời phải theo dõi chi tiết 
+theo từng nội dung phải thu, từng lần phải thanh toán và các yêu cầu quản lý khác. 
+Thường xuyên kiểm tra, đôn đốc thu hồi nợ, tránh tình trạng bị chiếm dụng vốn. 
+3. Cuối kỳ kế toán tại thời điểm khóa sổ kế toán để lập báo cáo tài chính, đối 
+với số dư khoản phải thu của các đối tượng đóng bảo hiểm; phải thu của ngân sách 
+nhà nước; phải thu tổ chức hỗ trợ chi trả, cơ quan bảo hiểm xã hội phải đối chiếu, 
+kiểm tra và xác nhận số liệu công nợ còn phải thu tại bộ phận kế toán và bộ phận 
+nghiệp vụ liên quan, bảo đảm khớp đúng. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+45 
+ 
+Riêng số dư khoản phải thu giữa các cơ quan bảo hiểm xã hội, phải thu hoạt 
+động đầu tư quỹ, khoản phải thu khác, phải xác nhận công nợ còn phải thu với các 
+đối tượng thanh toán.  
+4. Bù trừ công nợ:  
+a) Trường hợp một đối tượng thanh toán vừa có nợ phải thu, vừa có nợ phải trả 
+với cơ quan bảo hiểm xã hội, sau khi hai bên đã đối chiếu, xác nhận công nợ khớp 
+đúng, cơ quan bảo hiểm xã hội được thực hiện bù trừ công nợ. Khi bù trừ kế toán 
+phải lập Bảng kê thanh toán bù trừ để bù trừ số nợ phải thu với số nợ phải trả.  
+b) Nghiêm cấm việc bù trừ các khoản công nợ giữa các đối tượng thanh toán 
+khác nhau, kể cả bù trừ trên cùng một tài khoản chi tiết, trên cùng tài khoản tổng 
+hợp hoặc bù trừ số liệu trình bày trên báo cáo. 
+Nhóm tài khoản phải thu có 07 tài khoản:  
+- Tài khoản 131- Phải thu của đối tượng đóng bảo hiểm;  
+- Tài khoản 132- Phải thu bảo hiểm chờ phân bổ;  
+- Tài khoản 133- Phải thu từ ngân sách nhà nước; 
+- Tài khoản 134- Phải thu tổ chức hỗ trợ chi trả; 
+- Tài khoản 135- Phải thu giữa các cơ quan bảo hiểm xã hội; 
+- Tài khoản 137- Phải thu lãi từ hoạt động đầu tư; 
+- Tài khoản 138- Phải thu khác. 
+ 
+TÀI KHOẢN 131 
+PHẢI THU CỦA ĐỐI TƯỢNG ĐÓNG BẢO HIỂM 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh các khoản phải thu và tình hình thanh 
+toán các khoản phải thu của các đối tượng có trách nhiệm đóng bảo hiểm xã hội, 
+bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định. 
+1.2. Các khoản phải thu phản ánh vào tài khoản này bao gồm: 
+- Các khoản phải thu theo quy định của các đối tượng có trách nhiệm đóng bảo 
+hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, gồm phải thu bảo hiểm xã hội 
+bắt buộc, phải thu bảo hiểm xã hội tự nguyện, phải thu bảo hiểm y tế, phải thu bảo 
+hiểm thất nghiệp; 
+- Các khoản phải thu tiền xử lý chậm đóng, trốn đóng vào các quỹ bảo hiểm xã 
+hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+46 
+  
+1.3. Bảo hiểm xã hội Việt Nam chịu trách nhiệm hướng dẫn Bảo hiểm xã 
+hội cấp tỉnh, Bảo hiểm xã hội cơ sở mở sổ kế toán chi tiết theo các nhóm đối 
+tượng đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo đảm khoa 
+học và thống nhất nhưng không trùng lắp thông tin chi tiết do bộ phận quản lý 
+thu đã theo dõi. 
+1.4. Số nợ phải thu của cơ quan bảo hiểm xã hội trên tài khoản tổng hợp phải 
+bằng tổng số nợ phải thu từ các chi tiết phải thu đối tượng đóng bảo hiểm xã hội, 
+bảo hiểm y tế, bảo hiểm thất nghiệp, không được bù trừ các khoản nợ giữa các 
+nhóm đối tượng khác nhau. Việc hạch toán chi tiết phải bảo đảm rõ ràng, minh 
+bạch, kế toán phải theo dõi chặt chẽ các khoản phải thu của các nhóm đối tượng 
+đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp để đối chiếu và có số 
+liệu cho bộ phận thu đôn đốc thanh toán kịp thời, đúng hạn. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 131- Phải thu của đối 
+tượng đóng bảo hiểm 
+Bên Nợ: Khoản phải thu của đối tượng đóng bảo hiểm xã hội, bảo hiểm y tế, 
+bảo hiểm thất nghiệp. 
+Bên Có:  
+- Khoản phải thu của đối tượng đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm 
+thất nghiệp đã thu được; 
+- Khoản đã nhận trước của đối tượng đóng bảo hiểm xã hội, bảo hiểm y tế, bảo 
+hiểm thất nghiệp; 
+- Bù trừ giữa nợ phải thu với nợ phải trả của cùng một đối tượng đóng bảo 
+hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp. 
+Số dư bên Nợ: Các khoản còn phải thu của đối tượng đóng bảo hiểm xã hội, 
+bảo hiểm y tế, bảo hiểm thất nghiệp. 
+Tài khoản này có thể có số dư bên Có: Phản ánh khoản đã thu lớn hơn khoản 
+phải thu đối tượng đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bao 
+gồm cả số thu trước của đối tượng đóng bảo hiểm, số thu thừa (nếu phân bổ được 
+theo từng quỹ bảo hiểm). 
+Tài khoản 131- Phải thu của đối tượng đóng bảo hiểm, có 2 tài khoản cấp 2: 
+a) Tài khoản 1311- Phải thu theo quy định: Phản ánh các khoản phải thu và 
+tình hình thanh toán khoản phải thu tiền đóng vào các quỹ bảo hiểm xã hội, bảo 
+hiểm y tế, bảo hiểm thất nghiệp đối với các đối tượng có trách nhiệm đóng bảo 
+hiểm theo quy định. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+47 
+ 
+Tài khoản 1311 có 3 tài khoản cấp 3: 
+- Tài khoản 13111- Bảo hiểm xã hội: Phản ánh các khoản phải thu và tình hình 
+thanh toán khoản phải thu tiền đóng bảo hiểm xã hội của đối tượng vào quỹ bảo 
+hiểm xã hội theo quy định.  
+Tài khoản 13111 gồm có 3 tài khoản cấp 4: 
++ Tài khoản 131111- Quỹ ốm đau và thai sản; 
++ Tài khoản 131112- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp, 
+gồm 2 tài khoản cấp 5: 
+./ Tài khoản 1311121- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp 
+bắt buộc; 
+./ Tài khoản 1311122- Quỹ bảo hiểm tai nạn lao động tự nguyện; 
++ Tài khoản 131113- Quỹ hưu trí và tử tuất, gồm 2 tài khoản cấp 5: 
+./ Tài khoản 1311131- Bắt buộc; 
+./ Tài khoản 1311132- Tự nguyện; 
+- Tài khoản 13112- Bảo hiểm y tế: Phản ánh các khoản phải thu và tình hình 
+thanh toán khoản phải thu tiền đóng bảo hiểm y tế của đối tượng vào quỹ bảo hiểm 
+y tế theo quy định. 
+- Tài khoản 13113- Bảo hiểm thất nghiệp: Phản ánh các khoản phải thu và tình 
+hình thanh toán khoản phải thu tiền đóng bảo hiểm thất nghiệp của đối tượng vào 
+quỹ bảo hiểm thất nghiệp theo quy định. 
+b) Tài khoản 1312- Phải thu tiền xử lý chậm đóng, trốn đóng: Phản ánh các 
+khoản phải thu và tình hình thanh toán khoản phải thu tiền xử lý chậm đóng, trốn 
+đóng của đối tượng đóng bảo hiểm. 
+Tài khoản 1312 có 3 tài khoản cấp 3: 
+- Tài khoản 13121- Bảo hiểm xã hội: Phản ánh các khoản phải thu và tình hình 
+thanh toán khoản phải thu tiền xử lý chậm đóng, trốn đóng bảo hiểm xã hội của đối 
+tượng đóng bảo hiểm.  
+Tài khoản 13121 gồm có 3 tài khoản cấp 4: 
++ Tài khoản 131211- Quỹ ốm đau và thai sản 
++ Tài khoản 131212- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp 
++ Tài khoản 131213- Quỹ hưu trí và tử tuất, gồm 2 tài khoản cấp 5: 
+./ Tài khoản 1312131- Bắt buộc 
+./ Tài khoản 1312132- Tự nguyện 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+48 
+  
+- Tài khoản 13122- Bảo hiểm y tế: Phản ánh các khoản phải thu và tình hình 
+thanh toán khoản phải thu tiền xử lý chậm đóng, trốn đóng bảo hiểm y tế của đối 
+tượng đóng bảo hiểm. 
+- Tài khoản 13123- Bảo hiểm thất nghiệp: Phản ánh các khoản phải thu và tình 
+hình thanh toán khoản phải thu tiền xử lý chậm đóng, trốn đóng bảo hiểm thất 
+nghiệp của đối tượng đóng bảo hiểm. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Căn cứ vào Bảng tổng hợp số phải thu bảo hiểm xã hội, bảo hiểm y tế, bảo 
+hiểm thất nghiệp từ các đối tượng đóng bảo hiểm và căn cứ số phải thu tiền xử lý 
+chậm đóng, trốn đóng các quỹ bảo hiểm do bộ phận quản lý thu chuyển sang, hạch 
+toán số phải thu các quỹ bảo hiểm từ các đối tượng, ghi: 
+Nợ TK 131- Phải thu của đối tượng đóng bảo hiểm 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351). 
+3.2. Khi thu tiền: 
+- Căn cứ vào giấy báo Có của ngân hàng, kho bạc về việc nhận khoản tiền 
+đóng các quỹ bảo hiểm của đối tượng đóng, ghi:  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 132- Phải thu bảo hiểm chờ phân bổ. 
+- Căn cứ hồ sơ tài liệu có liên quan của bộ phận quản lý thu về việc phân bổ số 
+thu cho từng đối tượng, phân bổ vào từng quỹ bảo hiểm tương ứng, ghi: 
+Nợ TK 132- Phải thu bảo hiểm chờ phân bổ 
+Có TK 131- Phải thu của đối tượng đóng bảo hiểm. 
+3.3. Trường hợp được điều chỉnh giảm số phải thu của đối tượng đóng bảo 
+hiểm, căn cứ hồ sơ tài liệu có liên quan, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351) 
+Có TK 131- Phải thu của đối tượng đóng bảo hiểm. 
+ 
+TÀI KHOẢN 132 
+PHẢI THU BẢO HIỂM CHỜ PHÂN BỔ 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh các khoản tiền đóng bảo hiểm mà cơ 
+quan bảo hiểm xã hội đã nhận được, đang chờ phân bổ chi tiết đến đối tượng đóng 
+và quỹ bảo hiểm tương ứng. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+49 
+ 
+1.2. Tài khoản này được mở tại Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cơ 
+sở để ghi nhận số tiền mà đối tượng đóng bảo hiểm đã chuyển vào tài khoản thu 
+chế độ nhưng chưa xác định được đối tượng đóng và quỹ bảo hiểm tương ứng.  
+1.3. Cơ quan bảo hiểm xã hội phải mở sổ chi tiết phù hợp với yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 132- Phải thu bảo hiểm 
+chờ phân bổ 
+Bên Nợ: Khoản tiền đóng bảo hiểm đã phân bổ chi tiết đến đối tượng đóng và 
+quỹ bảo hiểm tương ứng. 
+Bên Có: Khoản tiền đóng bảo hiểm mà cơ quan bảo hiểm xã hội đã nhận được 
+nhưng chưa có thông tin để phân bổ chi tiết đến đối tượng đóng và quỹ bảo hiểm 
+tương ứng. 
+Số dư bên Có: Các khoản tiền đóng bảo hiểm mà cơ quan bảo hiểm xã hội 
+đã nhận được, đang chờ phân bổ chi tiết đến đối tượng đóng và quỹ bảo hiểm 
+tương ứng. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Căn cứ vào giấy báo Có của ngân hàng, kho bạc về việc nhận được khoản 
+tiền đóng các quỹ bảo hiểm, ghi:  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 132- Phải thu bảo hiểm chờ phân bổ  
+3.2. Căn cứ hồ sơ tài liệu có liên quan của bộ phận quản lý thu về việc phân bổ 
+số thu cho từng đối tượng thu, phân bổ vào từng quỹ bảo hiểm tương ứng, ghi: 
+Nợ TK 132- Phải thu bảo hiểm chờ phân bổ 
+Có TK 131- Phải thu của đối tượng đóng bảo hiểm (đối với khoản thu từ đối 
+tượng đóng) 
+Có TK 133- Phải thu từ ngân sách nhà nước (1331) (đối với khoản thu từ ngân 
+sách nhà nước). 
+ 
+TÀI KHOẢN 133 
+PHẢI THU TỪ NGÂN SÁCH NHÀ NƯỚC 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này sử dụng để phản ánh khoản phải thu và số nhận trước phát 
+sinh trong quan hệ thanh toán giữa cơ quan bảo hiểm xã hội và ngân sách nhà 
+nước, gồm: Kinh phí ngân sách nhà nước hỗ trợ đóng bảo hiểm cho đối tượng và 
+kinh phí chi bảo hiểm do ngân sách nhà nước bảo đảm. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+50 
+  
+1.2. Khoản phải thu kinh phí ngân sách nhà nước hỗ trợ đóng bảo hiểm cho đối 
+tượng bao gồm các khoản phải thu tiền hỗ trợ đóng bảo hiểm xã hội, bảo hiểm y tế, 
+bảo hiểm thất nghiệp cho các đối tượng theo quy định. 
+1.3. Khoản phải thu kinh phí chi bảo hiểm do ngân sách nhà nước bảo đảm 
+bao gồm các khoản phải thu kinh phí chi bảo hiểm xã hội cho đối tượng hưởng 
+chế độ bảo hiểm từ nguồn ngân sách nhà nước và kinh phí chi khám chữa bệnh 
+bảo hiểm y tế của khối an ninh, quốc phòng bị vượt quỹ ngoài phạm vi mức 
+hưởng theo quy định. 
+1.4. Cơ quan bảo hiểm xã hội mở sổ kế toán chi tiết để bảo đảm theo dõi số 
+liệu theo chính sách hỗ trợ của nhà nước, theo các quỹ bảo hiểm, quỹ thành phần 
+của quỹ bảo hiểm xã hội và các chi tiết khác theo yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 133- Phải thu từ ngân 
+sách nhà nước 
+Bên Nợ:  
+- Số phải thu từ ngân sách nhà nước; 
+- Kết chuyển số đã nhận trước.  
+Bên Có:  
+- Số phải thu đã thanh toán; 
+- Số nhận trước kinh phí từ ngân sách nhà nước. 
+Tài khoản này có thể có số dư bên nợ và số dư bên có: 
+- Số dư bên Nợ: Phản ánh số còn phải thu từ ngân sách nhà nước. 
+- Số dư bên Có: Phản ánh số đã nhận trước kinh phí từ ngân sách nhà nước. 
+Tài khoản 133- Phải thu từ ngân sách nhà nước, có 3 tài khoản cấp 2:  
+- Tài khoản 1331- Phải thu ngân sách nhà nước hỗ trợ đóng bảo hiểm: Phản 
+ánh các khoản phải thu của ngân sách nhà nước đối với tiền hỗ trợ đóng bảo hiểm 
+cho đối tượng. 
+Tài khoản 1331 có 3 tài khoản cấp 3: 
++ Tài khoản 13311- Ngân sách nhà nước hỗ trợ đóng bảo hiểm xã hội 
++ Tài khoản 13312- Ngân sách nhà nước hỗ trợ đóng bảo hiểm y tế 
++ Tài khoản 13313- Ngân sách nhà nước hỗ trợ đóng bảo hiểm thất nghiệp 
+- Tài khoản 1332- Phải thu kinh phí chi bảo hiểm: Phản ánh các khoản phải thu 
+của ngân sách nhà nước về kinh phí chi bảo hiểm do ngân sách nhà nước bảo đảm. 
+Tài khoản 1332 có 2 tài khoản cấp 3: 
++ Tài khoản 13321- Phải thu kinh phí chi bảo hiểm xã hội  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+51 
+ 
++ Tài khoản 13322- Phải thu kinh phí chi khám chữa bệnh bảo hiểm y tế khối 
+an ninh - quốc phòng. 
+- Tài khoản 1338- Phải thu khác từ ngân sách nhà nước: Phản ánh các khoản 
+phải thu khác mà ngân sách nhà nước phải bảo đảm. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Trường hợp ngân sách nhà nước hỗ trợ đóng bảo hiểm: 
+3.1.1. Tại Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cơ sở: 
+a) Căn cứ vào hồ sơ, tài liệu có liên quan về số kinh phí ngân sách trung ương, 
+ngân sách địa phương hỗ trợ đóng bảo hiểm theo quy định, ghi: 
+Nợ TK 133- Phải thu từ ngân sách nhà nước (1331) 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351). 
+b) Đối với kinh phí do ngân sách trung ương hỗ trợ đóng bảo hiểm căn cứ hồ 
+sơ tài liệu có liên quan về việc phân bổ số thu cho từng đối tượng thu và quỹ bảo 
+hiểm tương ứng, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351) 
+Có TK 133- Phải thu từ ngân sách nhà nước (1331). 
+c) Đối với kinh phí do ngân sách địa phương hỗ trợ đóng bảo hiểm: 
+(1) Trường hợp ngân sách địa phương chuyển trực tiếp kinh phí cho cơ quan 
+bảo hiểm xã hội quản lý đối tượng: 
+- Khi cơ quan bảo hiểm xã hội quản lý đối tượng nhận được kinh phí ngân sách 
+địa phương hỗ trợ, ghi:  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 132- Phải thu bảo hiểm chờ phân bổ 
+- Căn cứ hồ sơ tài liệu có liên quan về việc phân bổ số thu chờ phân bổ cho 
+từng đối tượng được ngân sách nhà nước hỗ trợ đóng bảo hiểm, phân bổ vào từng 
+quỹ bảo hiểm tương ứng, ghi: 
+Nợ TK 132- Phải thu bảo hiểm chờ phân bổ 
+Có TK 133- Phải thu từ ngân sách nhà nước (1331). 
+(2) Trường hợp ngân sách địa phương chuyển tiền hỗ trợ đóng bảo hiểm của 
+toàn tỉnh cho Bảo hiểm xã hội cấp tỉnh: 
+- Tại Bảo hiểm xã hội cấp tỉnh: 
++ Khi nhận được kinh phí ngân sách địa phương hỗ trợ cho toàn tỉnh, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 132- Phải thu bảo hiểm chờ phân bổ 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+52 
+  
++ Căn cứ hồ sơ tài liệu có liên quan về việc phân bổ số thu chờ phân bổ cho 
+từng đối tượng do Bảo hiểm xã hội cấp tỉnh quản lý được ngân sách nhà nước hỗ 
+trợ đóng bảo hiểm, phân bổ vào từng quỹ bảo hiểm tương ứng, ghi: 
+Nợ TK 132- Phải thu bảo hiểm chờ phân bổ 
+Có TK 133- Phải thu từ ngân sách nhà nước (13311, 13312, 13313). 
++ Căn cứ hồ sơ tài liệu có liên quan, kết chuyển số ngân sách nhà nước hỗ trợ 
+đóng bảo hiểm cho đối tượng do Bảo hiểm xã hội cơ sở quản lý, ghi: 
+Nợ TK 132- Phải thu bảo hiểm chờ phân bổ 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351) 
+- Tại Bảo hiểm xã hội cơ sở: Căn cứ hồ sơ tài liệu có liên quan về số kinh phí 
+ngân sách địa phương đã chuyển Bảo hiểm xã hội cấp tỉnh để hỗ trợ đóng cho đối 
+tượng do Bảo hiểm xã hội cơ sở quản lý và việc phân bổ số thu cho từng đối tượng 
+thu và quỹ bảo hiểm tương ứng, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351) 
+Có TK 133- Phải thu từ ngân sách nhà nước (13311, 13312, 13313). 
+3.1.2. Tại Bảo hiểm xã hội Việt Nam: 
+a) Căn cứ hồ sơ tài liệu có liên quan về số liệu thu bảo hiểm do ngân sách 
+trung ương hỗ trợ trong năm, ghi: 
+Nợ TK 133- Phải thu từ ngân sách nhà nước (13311, 13312, 13313) 
+Có các TK 521, 522, 523. 
+b) Khi nhận được kinh phí ngân sách trung ương hỗ trợ, ghi:  
+ Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 133- Phải thu từ ngân sách nhà nước (13311, 13312, 13313). 
+3.2. Trường hợp Bảo hiểm xã hội Việt Nam nhận kinh phí từ ngân sách trung 
+ương để chi lương hưu, trợ cấp bảo hiểm xã hội cho các đối tượng do ngân sách 
+nhà nước bảo đảm: 
+a) Khi nhận kinh phí từ ngân sách trung ương, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 133- Phải thu từ ngân sách nhà nước (13321). 
+b) Khi chuyển kinh phí cho các cơ quan bảo hiểm xã hội để thực hiện chi trả 
+lương hưu, trợ cấp bảo hiểm xã hội cho các đối tượng, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352) 
+Có TK 112- Tiền gửi ngân hàng, kho bạc 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+53 
+ 
+c) Căn cứ hồ sơ tài liệu có liên quan về số liệu chi trả lương hưu, trợ cấp bảo 
+hiểm xã hội cho các đối tượng do ngân sách nhà nước bảo đảm tại các cơ quan bảo 
+hiểm xã hội, ghi: 
+Nợ TK 133- Phải thu từ ngân sách nhà nước (13321) 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352). 
+3.3. Trường hợp Bảo hiểm xã hội Việt Nam nhận kinh phí ngân sách nhà 
+nước về số chi khám chữa bệnh bảo hiểm y tế của đối tượng do Bảo hiểm xã hội 
+Quân đội, Bảo hiểm xã hội Công an nhân dân quản lý bị vượt quỹ ngoài phạm 
+vi mức hưởng: 
+- Căn cứ hồ sơ, chứng từ có liên quan về số vượt quỹ ngoài phạm vi mức 
+hưởng mà ngân sách nhà nước phải chi trả, ghi: 
+Nợ TK 133- Phải thu từ ngân sách nhà nước (13322) 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352) (chi tiết Bảo 
+hiểm xã hội Quân đội, Bảo hiểm xã hội Công an nhân dân) 
+- Khi ngân sách nhà nước chuyển trả số kinh phí khám bệnh, chữa bệnh vượt 
+quỹ ngoài phạm vi mức hưởng, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 133- Phải thu từ ngân sách nhà nước (13322). 
+ 
+TÀI KHOẢN 134 
+PHẢI THU TỔ CHỨC HỖ TRỢ CHI TRẢ 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh các khoản nợ phải thu và tình hình thanh 
+toán các khoản nợ phải thu giữa Bảo hiểm xã hội cấp tỉnh với các tổ chức hỗ trợ 
+chi trả bảo hiểm, để chi các chế độ bảo hiểm cho các đối tượng hưởng từ quỹ bảo 
+hiểm xã hội, quỹ bảo hiểm thất nghiệp, quỹ bảo hiểm y tế và do ngân sách nhà 
+nước bảo đảm. Tài khoản này chỉ mở tại Bảo hiểm xã hội cấp tỉnh.  
+1.2. Bảo hiểm xã hội cấp tỉnh mở tài khoản chi tiết theo từng tổ chức hỗ trợ chi 
+trả, theo chế độ bảo hiểm và các chi tiết khác theo yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 134- Phải thu tổ chức hỗ 
+trợ chi trả 
+Bên Nợ: Số phải thu giữa các cơ quan bảo hiểm xã hội với các tổ chức hỗ trợ 
+chi trả bảo hiểm. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+54 
+  
+Bên Có: 
+- Số phải thu đã thu được;  
+- Bù trừ phải thu với phải trả của cùng một đối tượng. 
+Số dư bên Nợ: Số nợ còn phải thu giữa các cơ quan bảo hiểm xã hội với các tổ 
+chức hỗ trợ chi trả bảo hiểm. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Khi Bảo hiểm xã hội cấp tỉnh ứng tiền cho tổ chức hỗ trợ chi trả để thực 
+hiện chi trả trực tiếp cho các đối tượng được hưởng chế độ bảo hiểm theo quy 
+định, ghi: 
+Nợ TK 134- Phải thu tổ chức hỗ trợ chi trả 
+Có TK 112- Tiền gửi ngân hàng, kho bạc. 
+3.2. Khi quyết toán với tổ chức hỗ trợ chi trả: Căn cứ hồ sơ, tài liệu có liên 
+quan về việc quyết toán số tiền thực tế mà tổ chức hỗ trợ chi trả đã chi các loại bảo 
+hiểm cho đối tượng hưởng: 
+a) Đối tượng hưởng thuộc Bảo hiểm xã hội cấp tỉnh quản lý, ghi: 
+Nợ TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm  
+Có TK 134- Phải thu tổ chức hỗ trợ chi trả. 
+b) Đối tượng hưởng thuộc Bảo hiểm xã hội cơ sở quản lý, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352, chi tiết Bảo 
+hiểm xã hội cơ sở) 
+Có TK 134- Phải thu tổ chức hỗ trợ chi trả. 
+3.3. Trường hợp tổ chức hỗ trợ chi trả nộp trả tiền không chi hết, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 134- Phải thu tổ chức hỗ trợ chi trả. 
+ 
+TÀI KHOẢN 135 
+PHẢI THU GIỮA CÁC CƠ QUAN BẢO HIỂM XÃ HỘI 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này được dùng để phản ánh khoản phải thu giữa các cơ quan 
+bảo hiểm xã hội với nhau, bao gồm: 
+- Khoản phải thu về số thu bảo hiểm từ đối tượng đóng của Bảo hiểm xã hội 
+Việt Nam với các Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội Quân đội, Bảo hiểm 
+xã hội Công an nhân dân.  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+55 
+ 
+- Khoản phải thu về kinh phí chi bảo hiểm cho đối tượng hưởng của Bảo hiểm 
+xã hội cơ sở với Bảo hiểm xã hội cấp tỉnh; của Bảo hiểm xã hội cấp tỉnh với Bảo 
+hiểm xã hội Việt Nam. 
+- Khoản phải thu của Bảo hiểm xã hội Việt Nam về kinh phí thu hồi chi sai 
+năm trước mà Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cấp cơ sở, Bảo hiểm xã 
+hội Quân đội, Bảo hiểm xã hội Công an nhân dân phải thu hồi để nộp trả các quỹ 
+bảo hiểm theo quy định. 
+- Khoản phải thu khác ngoài các khoản nêu trên của cơ quan bảo hiểm xã hội 
+với các cơ quan bảo hiểm xã hội khác, ví dụ khoản lãi tiền gửi không kỳ hạn phát 
+sinh tại các cơ quan bảo hiểm xã hội mà Bảo hiểm xã hội Việt Nam phải thu của 
+các cơ quan bảo hiểm xã hội theo quy định. 
+1.2. Bảo hiểm xã hội cấp tỉnh không ghi nhận số phải thu với Bảo hiểm xã hội 
+cấp cơ sở về số thu bảo hiểm từ đối tượng đóng. 
+1.3. Cơ quan bảo hiểm xã hội phải mở sổ kế toán theo dõi chi tiết theo từng đối 
+tượng thanh toán và chi tiết khác phù hợp với yêu cầu quản lý cụ thể. 
+1.4. Cuối kỳ kế toán, khi lập báo cáo tài chính quỹ bảo hiểm, Bảo hiểm xã hội 
+Việt Nam và cơ quan bảo hiểm xã hội các cấp phải đối chiếu số dư Tài khoản 135, 
+Tài khoản 335 liên quan đến các giao dịch nội bộ trong hệ thống cơ quan bảo 
+hiểm xã hội bảo đảm khớp đúng; Bảo hiểm xã hội Việt Nam đối chiếu số liệu 
+liên quan đến các giao dịch với Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội 
+Công an nhân dân. Khi đối chiếu, nếu có chênh lệch, phải tìm nguyên nhân và 
+điều chỉnh kịp thời để bảo đảm việc loại trừ toàn bộ giao dịch nội bộ khi lập báo 
+cáo tài chính quỹ bảo hiểm. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 135- Phải thu giữa các cơ 
+quan bảo hiểm xã hội 
+Bên Nợ: Số phải thu giữa các cơ quan bảo hiểm xã hội. 
+Bên Có: 
+- Số phải thu đã thu được; 
+- Số nhận trước. 
+Số dư bên Nợ: 
+- Tại Bảo hiểm xã hội Việt Nam: Phản ánh số phải thu về các quỹ bảo hiểm 
+theo quy định nhưng chưa thu được. 
+- Tại Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cấp cơ sở: Phản ánh số còn 
+phải thu về kinh phí chi chế độ bảo hiểm của cơ quan bảo hiểm xã hội với Bảo 
+hiểm xã hội Việt Nam 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+56 
+  
+Số dư bên Có: Tài khoản này có thể có số dư bên Có: 
+- Tại Bảo hiểm xã hội Việt Nam: Phản ánh số đã thu lớn hơn số phải thu, bao 
+gồm thu trước bảo hiểm y tế năm sau, thu trước bảo hiểm xã hội tự nguyện cho 
+năm sau, số thu thừa,... do cơ quan bảo hiểm xã hội nộp về. 
+- Tại Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cấp cơ sở: Phản ánh số nhận 
+trước từ Bảo hiểm xã hội Việt Nam về kinh phí chi chế độ bảo hiểm của cơ quan 
+bảo hiểm xã hội 
+Tài khoản 135- Phải thu giữa các cơ quan bảo hiểm xã hội, có 4 tài khoản 
+cấp 2: 
+- Tài khoản 1351- Phải thu từ tiền thu các quỹ bảo hiểm: Phản ánh khoản phải 
+thu giữa các cơ quan bảo hiểm xã hội về tiền thu các quỹ bảo hiểm; 
+- Tài khoản 1352- Phải thu kinh phí chi bảo hiểm: Phản ánh khoản phải thu 
+giữa các cơ quan bảo hiểm xã hội về kinh phí chi bảo hiểm do Bảo hiểm xã hội 
+Việt Nam chi trả. 
+Tài khoản 1352 có 3 tài khoản cấp 3: 
++ Tài khoản 13521- Bảo hiểm xã hội, gồm 3 tài khoản cấp 4: 
+./ Tài khoản 135211- Chế độ ốm đau, thai sản; 
+./ Tài khoản 135212- Chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; 
+./ Tài khoản 135213- Chế độ hưu trí, tử tuất; 
++ Tài khoản 13522- Bảo hiểm y tế 
++ Tài khoản 13523- Bảo hiểm thất nghiệp 
+- Tài khoản 1353- Phải thu kinh phí thu hồi chi sai năm trước: Phản ánh khoản 
+phải thu của Bảo hiểm xã hội Việt Nam về kinh phí thu hồi chi sai năm trước mà 
+Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cấp cơ sở, Bảo hiểm xã hội Quân đội, 
+Bảo hiểm xã hội Công an nhân dân phải thu hồi để nộp trả các quỹ bảo hiểm theo 
+quy định. 
+Tài khoản 1353 có 3 tài khoản cấp 3: 
++ Tài khoản 13531- Bảo hiểm xã hội, gồm 3 tài khoản cấp 4: 
+./ Tài khoản 135311- Chế độ ốm đau, thai sản; 
+./ Tài khoản 135312- Chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; 
+./ Tài khoản 135313- Chế độ hưu trí, tử tuất; 
++ Tài khoản 13532- Bảo hiểm y tế; 
++ Tài khoản 13533- Bảo hiểm thất nghiệp. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+57 
+ 
+- Tài khoản 1358- Phải thu khác giữa các cơ quan bảo hiểm xã hội: Phản ánh 
+khoản phải thu khác ngoài các khoản nêu trên của cơ quan bảo hiểm xã hội với các 
+cơ quan bảo hiểm xã hội khác. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Tại Bảo hiểm xã hội cấp cơ sở:  
+a) Căn cứ danh sách chi trả chế độ bảo hiểm do bộ phận quản lý chi chuyển 
+sang, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523)  
+Có các TK 331, 332. 
+b) Căn cứ vào giấy báo Có của ngân hàng, kho bạc về việc nhận kinh phí chi 
+các chế độ bảo hiểm do Bảo hiểm xã hội cấp tỉnh chuyển về, ghi:  
+ Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523). 
+c) Trường hợp phát sinh khoản chi sai trong năm phải thu hồi của các đơn vị, 
+tổ chức, cá nhân do Bảo hiểm xã hội cấp cơ sở quản lý, căn cứ hồ sơ tài liệu có liên 
+quan, ghi: 
+Nợ các TK 331, 332 
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523). 
+3.2. Tại Bảo hiểm xã hội cấp tỉnh:  
+a) Căn cứ danh sách chi trả chế độ bảo hiểm do Bảo hiểm xã hội cấp tỉnh quản 
+lý từ bộ phận quản lý chi chuyển sang, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523)  
+Có các TK 331, 332. 
+b) Đối với kinh phí chi trả chế độ bảo hiểm do Bảo hiểm xã hội cấp cơ sở quản 
+lý, căn cứ hồ sơ tài liệu có liên quan, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523) 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (33521, 33522, 33523, 
+chi tiết phải trả từng Bảo hiểm xã hội cấp cơ sở) 
+c) Căn cứ vào giấy báo Có của ngân hàng, kho bạc về việc nhận kinh phí chi 
+các chế độ bảo hiểm của cả tỉnh do Bảo hiểm xã hội Việt Nam chuyển về, ghi:  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523). 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+58 
+  
+d) Trường hợp phát sinh khoản chi sai trong năm phải thu hồi của các đơn vị, 
+tổ chức, cá nhân do Bảo hiểm xã hội cấp tỉnh quản lý, căn cứ hồ sơ tài liệu có liên 
+quan, ghi: 
+Nợ các TK 331, 332 
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523). 
+3.3. Tại Bảo hiểm xã hội Việt Nam: 
+a) Căn cứ vào giấy báo Có của ngân hàng, kho bạc về nhận khoản tiền thu các 
+quỹ bảo hiểm và tiền xử lý chậm đóng, trốn đóng do các cơ quan bảo hiểm xã hội 
+chuyển về, ghi:  
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1351, chi tiết nhận 
+trước của Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội 
+Công an nhân dân).  
+b) Căn cứ vào hồ sơ, tài liệu có liên quan về việc xác định số tiền các cơ quan 
+bảo hiểm xã hội đã thu bằng tiền phân bổ vào các quỹ bảo hiểm tương ứng, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1351) 
+Có các TK 521, 522, 523 
+c) Căn cứ vào hồ sơ, tài liệu có liên quan về việc xác định số phải thu hồi kinh 
+phí chi sai năm trước mà Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cấp cơ sở, 
+Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội Công an nhân dân phải thu hồi để nộp 
+trả các quỹ bảo hiểm theo quy định, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13531, 13532, 13533, 
+chi tiết từng Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội 
+Công an nhân dân) 
+Có các TK 521, 522, 523. 
+3.4. Trường hợp cơ quan bảo hiểm xã hội phát sinh khoản phải thu khác với cơ 
+quan bảo hiểm xã hội khác, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1358)  
+Có TK liên quan. 
+- Khi xử lý các khoản phải thu khác, ghi: 
+Nợ TK liên quan 
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1358). 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+59 
+ 
+TÀI KHOẢN 137 
+PHẢI THU LÃI TỪ HOẠT ĐỘNG ĐẦU TƯ 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này phản ánh các khoản phải thu lãi phát sinh từ hoạt động đầu 
+tư quỹ bảo hiểm theo quy định hiện hành như tiền lãi mua trái phiếu Chính phủ, lãi 
+tiền gửi ngân hàng,... Tài khoản nay chỉ mở tại Bảo hiểm xã hội Việt Nam. 
+1.2. Bảo hiểm xã hội Việt Nam phải mở tài khoản chi tiết cho từng hoạt động 
+đầu tư (phương thức đầu tư, danh mục đầu tư), từng đối tượng phải thu và từng lần 
+thanh toán và chi tiết khác phục vụ yêu cầu quản lý.  
+2. Kết cấu và nội dung phản ánh của Tài khoản 137- Phải thu lãi từ hoạt 
+động đầu tư 
+Bên Nợ: Số lãi khoản đầu tư đã phát sinh nhưng chưa thu được tiền;  
+Bên Có: Số lãi khoản đầu tư đã thu được tiền. 
+Số dư bên Nợ: Các khoản lãi từ hoạt động đầu tư còn phải thu. 
+Tài khoản 137- Phải thu lãi từ hoạt động đầu tư, có 4 tài khoản cấp 2: 
+- Tài khoản 1371- Phải thu lãi từ đầu tư quỹ bảo hiểm xã hội: Tài khoản này 
+phản ánh các khoản phải thu tiền lãi phát sinh từ các khoản đầu tư quỹ bảo hiểm 
+xã hội. 
+Tài khoản này có 3 tài khoản cấp 3: 
++ Tài khoản 13711- Quỹ ốm đau và thai sản; 
++ Tài khoản 13712- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp; 
++ Tài khoản 13713- Quỹ hưu trí và tử tuất. 
+- Tài khoản 1372- Phải thu lãi từ đầu tư quỹ bảo hiểm y tế: Tài khoản này 
+phản ánh các khoản phải thu tiền lãi phát sinh từ các khoản đầu tư quỹ bảo hiểm 
+y tế. 
+- Tài khoản 1373- Phải thu lãi từ đầu tư quỹ bảo hiểm thất nghiệp: Tài khoản 
+này phản ánh các khoản phải thu tiền lãi phát sinh từ các khoản đầu tư quỹ bảo 
+hiểm thất nghiệp. 
+- Tài khoản 1378- Phải thu lãi khác: Tài khoản này phản ánh các khoản phải 
+thu lãi khác phát sinh từ các khoản đầu tư ngoài khoản phải thu tiền lãi nêu trên. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Trường hợp nhận lãi 1 lần vào ngày đáo hạn từ hoạt động đầu tư quỹ 
+bảo hiểm: 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+60 
+  
+- Định kỳ, tính số lãi phải thu từng kỳ, ghi: 
+Nợ TK 137- Phải thu lãi từ hoạt động đầu tư 
+Có TK 525- Doanh thu tài chính. 
+- Khi thanh toán các khoản đầu tư đến kỳ đáo hạn, ghi: 
+Nợ các TK 111, 112,... 
+Có TK 121- Đầu tư tài chính (số tiền gốc) 
+Có TK 525- Doanh thu tài chính (số tiền lãi của kỳ đáo hạn) 
+Có TK 137- Phải thu lãi từ hoạt động đầu tư (tiền lãi đã ghi vào thu nhập của 
+các kỳ trước nhận tiền vào kỳ này). 
+ 3.2. Trường hợp phát sinh các khoản phải thu khác từ các khoản đầu tư quỹ 
+bảo hiểm, ghi: 
+Nợ TK 137- Phải thu lãi từ hoạt động đầu tư  
+Có TK liên quan 
+3.3. Trường hợp được xóa lãi: Căn cứ theo quyết định của cấp có thẩm quyền, ghi: 
+Nợ TK 625- Chi phí tài chính (nếu là khoản lãi đã ghi nhận vào doanh thu các 
+năm trước) 
+Nợ TK 525- Doanh thu tài chính (nếu là khoản lãi đã ghi nhận vào doanh thu 
+năm nay) 
+Có TK 137- Phải thu lãi từ hoạt động đầu tư. 
+ 
+TÀI KHOẢN 138 
+PHẢI THU KHÁC 
+ 
+1. Nguyên tắc kế toán  
+1.1. Tài khoản này dùng để phản ánh các khoản phải thu khác và tình hình thanh 
+toán các khoản phải thu khác chưa phản ánh vào các tài khoản phải thu đã có. 
+1.2. Các khoản phải thu khác được hạch toán chi tiết theo từng đối tượng phải 
+thu, từng khoản phải thu, từng lần thanh toán và chi tiết khác phục vụ yêu cầu quản lý.  
+2. Kết cấu và nội dung phản ánh của Tài khoản 138- Phải thu khác 
+Bên Nợ: Số phải thu khác của các cơ quan bảo hiểm xã hội. 
+Bên Có: 
+- Số phải thu đã thu được; 
+- Số đã nhận trước. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+61 
+ 
+Số dư bên Nợ: Số còn phải thu khác của các cơ quan bảo hiểm xã hội. 
+Tài khoản này có thể có số dư bên Có: Phản ánh số đã nhận trước lớn hơn số 
+phải thu. 
+Tài khoản 138- Phải thu khác, có 3 tài khoản cấp 2: 
+- Tài khoản 1381- Phải thu khác quỹ bảo hiểm xã hội: phản ánh các khoản 
+phải thu khác và tình hình thanh toán các khoản phải thu khác của cơ quan bảo 
+hiểm xã hội liên quan đến quỹ bảo hiểm xã hội. 
+Tài khoản này có 3 tài khoản cấp 3: 
++ Tài khoản 13811- Quỹ ốm đau và thai sản; 
++ Tài khoản 13812- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp; 
++ Tài khoản 13813- Quỹ hưu trí và tử tuất. 
+- Tài khoản 1382- Phải thu khác quỹ bảo hiểm y tế: phản ánh các khoản phải 
+thu khác và tình hình thanh toán các khoản phải thu khác của cơ quan bảo hiểm xã 
+hội liên quan đến quỹ bảo hiểm y tế. 
+- Tài khoản 1383- Phải thu khác quỹ bảo hiểm thất nghiệp: phản ánh các 
+khoản phải thu khác và tình hình thanh toán các khoản phải thu khác của cơ quan 
+bảo hiểm xã hội liên quan đến quỹ bảo hiểm thất nghiệp. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+ 3.1. Trường hợp phát sinh các khoản phải thu khác tại các cơ quan bảo hiểm 
+xã hội, ghi: 
+Nợ TK 138- Phải thu khác  
+Có TK liên quan 
+3.2. Khi xử lý các khoản phải thu khác, ghi: 
+Nợ TK liên quan 
+Có TK 138- Phải thu khác 
+ 
+TÀI KHOẢN LOẠI 3 
+NGUYÊN TẮC KẾ TOÁN TÀI KHOẢN LOẠI 3 
+ 
+1. Tài khoản loại 3 gồm các tài khoản phản ánh khoản nợ phải trả của các cơ 
+quan bảo hiểm xã hội, cụ thể như sau: 
+- Phải trả chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho các 
+cá nhân là đối tượng được hưởng chế độ bảo hiểm theo quy định. 
+- Phải trả chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho các 
+đơn vị trong trường hợp đơn vị được nhận tiền bảo hiểm theo quy định. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+62 
+  
+- Phải trả trong quan hệ thanh toán giữa các cơ quan bảo hiểm xã hội với nhau. 
+- Các khoản phải trả khác.  
+2. Tất cả các khoản nợ phải trả của cơ quan bảo hiểm xã hội đều phải được 
+hạch toán chi tiết theo từng nội dung phải trả, từng đối tượng thanh toán, từng lần 
+trả và chi tiết theo các yếu tố khác phù hợp với yêu cầu quản lý của cơ quan bảo 
+hiểm xã hội.  
+3. Các cơ quan bảo hiểm xã hội phải theo dõi chặt chẽ số liệu các khoản phải 
+trả. Cuối kỳ kế toán, tại thời điểm khóa sổ kế toán để lập báo cáo tài chính, đối 
+với số dư khoản phải trả của các đối tượng hưởng bảo hiểm và phải trả các đơn 
+vị theo chế độ quy định, cơ quan bảo hiểm xã hội phải đối chiếu, kiểm tra và 
+xác nhận số liệu công nợ còn phải trả tại bộ phận kế toán và bộ phận quản lý 
+chi, bảo đảm khớp đúng. 
+Riêng số dư khoản phải trả giữa các cơ quan bảo hiểm xã hội và khoản phải 
+trả khác, phải xác nhận công nợ còn phải trả với các đối tượng thanh toán.  
+4. Bù trừ công nợ: 
+a) Trường hợp cùng một đối tượng thanh toán vừa có nợ phải thu, vừa có nợ 
+phải trả với cơ quan bảo hiểm xã hội, sau khi hai bên đã đối chiếu, xác nhận công 
+nợ khớp đúng thì được thực hiện bù trừ công nợ, khi bù trừ phải lập Bảng kê thanh 
+toán bù trừ làm căn cứ hạch toán bù trừ số nợ phải thu với số nợ phải trả.  
+b) Nghiêm cấm việc bù trừ các khoản nợ giữa các đối tượng thanh toán 
+khác nhau (kể cả bù trừ trên cùng một tài khoản chi tiết, trên cùng tài khoản tổng 
+hợp hoặc bù trừ số liệu trình bày trên sổ kế toán, trên báo cáo). 
+Tài khoản loại 3 gồm có 4 tài khoản: 
+- Tài khoản 331- Phải trả đối tượng hưởng các chế độ bảo hiểm; 
+- Tài khoản 332- Phải trả các đơn vị theo chế độ quy định; 
+- Tài khoản 335- Phải trả giữa các cơ quan bảo hiểm xã hội; 
+- Tài khoản 338- Phải trả khác. 
+ 
+TÀI KHOẢN 331 
+PHẢI TRẢ ĐỐI TƯỢNG HƯỞNG CÁC CHẾ ĐỘ BẢO HIỂM 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh các khoản phải trả và tình hình thanh 
+toán các khoản phải trả của cơ quan bảo hiểm xã hội với các cá nhân là đối tượng 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+63 
+ 
+được hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo 
+quy định (kể cả khoản trả cho cá nhân được thanh toán thông qua đơn vị sử dụng 
+lao động). 
+1.2. Các khoản phải trả phản ánh vào tài khoản này bao gồm: 
+- Các khoản phải trả mà cơ quan bảo hiểm xã hội phải trả cho các cá nhân là 
+đối tượng hưởng chế độ bảo hiểm xã hội, gồm: Đối tượng hưởng chế độ ốm đau, 
+thai sản; đối tượng hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; đối 
+tượng hưởng chế độ hưu trí, tử tuất theo quy định; 
+- Các khoản phải trả mà cơ quan bảo hiểm xã hội phải trả cho các cá nhân là 
+đối tượng hưởng chế độ bảo hiểm y tế; 
+- Các khoản phải trả mà cơ quan bảo hiểm xã hội phải trả cho các cá nhân là 
+đối tượng hưởng chế độ bảo hiểm thất nghiệp.  
+1.3. Bảo hiểm xã hội Việt Nam chịu trách nhiệm hướng dẫn Bảo hiểm xã hội 
+cấp tỉnh, Bảo hiểm xã hội cơ sở mở sổ kế toán chi tiết theo các đối tượng, nhóm 
+đối tượng hưởng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo đảm 
+khoa học và thống nhất nhưng không trùng lắp thông tin chi tiết do bộ phận quản 
+lý chi đã theo dõi. 
+1.4. Số nợ phải trả của cơ quan bảo hiểm xã hội trên tài khoản tổng hợp phải 
+bằng tổng số nợ phải trả từ các tài khoản chi tiết phải trả đối tượng hưởng bảo 
+hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, không được bù trừ các khoản nợ 
+giữa các nhóm đối tượng khác nhau. Việc hạch toán chi tiết phải bảo đảm rõ ràng, 
+minh bạch, kế toán phải theo dõi chặt chẽ các khoản phải trả của cơ quan bảo hiểm 
+xã hội với các nhóm đối tượng hưởng chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo 
+hiểm thất nghiệp đã mở theo dõi chi tiết. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 331- Phải trả đối tượng 
+hưởng các chế độ bảo hiểm 
+Bên Nợ: 
+- Khoản phải trả đã trả cho các đối tượng hưởng các chế độ bảo hiểm xã hội, 
+bảo hiểm y tế, bảo hiểm thất nghiệp. 
+- Bù trừ giữa nợ phải thu với nợ phải trả của cùng đối tượng hưởng các chế độ 
+bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp. 
+Bên Có: Khoản cơ quan bảo hiểm xã hội phải trả cho đối tượng hưởng các chế 
+độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp. 
+Số dư bên Có: Các khoản cơ quan bảo hiểm xã hội còn phải trả cho đối tượng 
+hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+64 
+  
+Tài khoản này có thể có số dư bên Nợ: Phản ánh khoản các cơ quan bảo hiểm xã 
+hội đã trả lớn hơn khoản phải trả cho đối tượng hưởng các chế độ bảo hiểm xã hội, 
+bảo hiểm y tế, bảo hiểm thất nghiệp. 
+Tài khoản 331- Phải trả đối tượng hưởng các chế độ bảo hiểm, có 3 tài 
+khoản cấp 2: 
+a) Tài khoản 3311- Phải trả đối tượng hưởng chế độ bảo hiểm xã hội: Phản 
+ánh các khoản phải trả và tình hình thanh toán khoản phải trả của các cơ quan bảo 
+hiểm xã hội với đối tượng hưởng chế độ bảo hiểm xã hội theo quy định. 
+Tài khoản 3311 có 2 tài khoản cấp 3: 
+- Tài khoản 33111- Phải trả đối tượng hưởng chế độ bảo hiểm xã hội do quỹ 
+bảo đảm: Phản ánh các khoản phải trả và tình hình thanh toán khoản phải trả của 
+các cơ quan bảo hiểm xã hội cho đối tượng hưởng chế độ bảo hiểm xã hội do quỹ 
+bảo hiểm xã hội bảo đảm theo quy định. 
+Tài khoản này có 3 tài khoản cấp 4: 
++ Tài khoản 331111- Phải trả đối tượng hưởng chế độ ốm đau, thai sản: Phản 
+ánh các khoản phải trả và tình hình thanh toán khoản phải trả của các cơ quan bảo 
+hiểm xã hội với đối tượng hưởng chế độ ốm đau, thai sản do quỹ bảo hiểm xã hội 
+bảo đảm theo quy định. 
++ Tài khoản 331112- Phải trả đối tượng hưởng chế độ bảo hiểm tai nạn lao 
+động, bệnh nghề nghiệp: Phản ánh các khoản phải trả và tình hình thanh toán 
+khoản phải trả của các cơ quan bảo hiểm xã hội với đối tượng hưởng chế độ bảo 
+hiểm tai nạn lao động, bệnh nghề nghiệp do quỹ bảo hiểm xã hội bảo đảm theo 
+quy định. 
++ Tài khoản 331113- Phải trả đối tượng hưởng chế độ hưu trí, tử tuất: Phản 
+ánh các khoản phải trả và tình hình thanh toán khoản phải trả của các cơ quan bảo 
+hiểm xã hội với đối tượng hưởng chế độ hưu trí, tử tuất do quỹ bảo hiểm xã hội 
+bảo đảm theo quy định. 
+- Tài khoản 33112- Phải trả đối tượng hưởng chế độ bảo hiểm xã hội do ngân 
+sách nhà nước bảo đảm: Phản ánh các khoản phải trả và tình hình thanh toán 
+khoản phải trả của các cơ quan bảo hiểm xã hội cho đối tượng hưởng chế độ bảo 
+hiểm xã hội do ngân sách nhà nước chịu trách nhiệm chi trả theo quy định. 
+b) Tài khoản 3312- Phải trả đối tượng hưởng chế độ bảo hiểm y tế: Phản ánh 
+các khoản phải trả và tình hình thanh toán khoản phải trả của các cơ quan bảo hiểm 
+xã hội với đối tượng hưởng chế độ bảo hiểm y tế theo quy định. 
+c) Tài khoản 3313- Phải trả đối tượng hưởng chế độ bảo hiểm thất nghiệp: 
+Phản ánh các khoản phải trả và tình hình thanh toán khoản phải trả của các cơ quan 
+bảo hiểm xã hội với đối tượng hưởng chế độ bảo hiểm thất nghiệp theo quy định. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+65 
+ 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Tại Bảo hiểm xã hội cấp cơ sở: Căn cứ danh sách chi trả cho đối tượng 
+hưởng chế độ bảo hiểm từ bộ phận quản lý chi chuyển sang, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523)  
+Có TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm. 
+3.2. Tại Bảo hiểm xã hội cấp tỉnh: Căn cứ danh sách chi trả cho đối tượng 
+hưởng chế độ bảo hiểm trực tiếp quản lý từ bộ phận quản lý chi chuyển sang, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (13521, 13522, 13523)  
+Có TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm. 
+3.3. Khi thanh toán chế độ bảo hiểm cho đối tượng hưởng: 
+3.3.1. Trường hợp cơ quan bảo hiểm xã hội thanh toán trực tiếp cho các đối 
+tượng được hưởng, căn cứ hồ sơ chứng từ có liên quan về việc đã thanh toán, ghi: 
+Nợ TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm 
+Có các TK 111, 112,... 
+3.3.2. Trường hợp thanh toán qua tổ chức hỗ trợ chi trả, căn cứ hồ sơ, tài liệu 
+có liên quan về việc quyết toán số tiền thực tế mà tổ chức hỗ trợ chi trả đã chi các 
+loại bảo hiểm cho đối tượng hưởng: 
+a) Nếu đối tượng hưởng thuộc Bảo hiểm xã hội cấp cơ sở quản lý: 
+- Tại Bảo hiểm xã hội cấp cơ sở, ghi: 
+Nợ TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm  
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1352). 
+- Tại Bảo hiểm xã hội cấp tỉnh, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352, chi tiết Bảo hiểm 
+xã hội cấp cơ sở) 
+Có TK 134- Phải thu tổ chức hỗ trợ chi trả. 
+b) Nếu đối tượng hưởng thuộc Bảo hiểm xã hội cấp tỉnh quản lý: Tại Bảo hiểm 
+xã hội cấp tỉnh, ghi: 
+Nợ TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm  
+Có TK 134- Phải thu tổ chức hỗ trợ chi trả. 
+3.4. Trường hợp phát sinh khoản đã chi sai chế độ bảo hiểm trong năm phải 
+thu hồi, căn cứ hồ sơ có liên quan, ghi: 
+Nợ TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm 
+Có TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1352) 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+66 
+  
+3.5. Trường hợp trích đóng bảo hiểm y tế cho các đối tượng do quỹ bảo hiểm 
+xã hội bảo đảm: 
+- Căn cứ vào Bảng tổng hợp số phải thu từ các đối tượng đóng bảo hiểm do bộ 
+phận quản lý thu chuyển sang, hạch toán số phải thu bảo hiểm y tế cho các đối 
+tượng do quỹ bảo hiểm xã hội bảo đảm, ghi: 
+Nợ TK 131- Phải thu của đối tượng đóng bảo hiểm 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351, chi tiết phải trả 
+Bảo hiểm xã hội Việt Nam). 
+- Căn cứ danh sách đối tượng được trích đóng bảo hiểm y tế từ quỹ bảo hiểm 
+xã hội theo quy định, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351, chi tiết phải trả 
+Bảo hiểm xã hội Việt Nam) 
+Có TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm 
+Đồng thời, ghi: 
+Nợ TK 331- Phải trả đối tượng hưởng các chế độ bảo hiểm 
+Có TK 131- Phải thu của đối tượng đóng bảo hiểm 
+ 
+TÀI KHOẢN 332 
+PHẢI TRẢ CÁC ĐƠN VỊ THEO CHẾ ĐỘ QUY ĐỊNH 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh các khoản phải trả và tình hình thanh 
+toán các khoản phải trả của cơ quan bảo hiểm xã hội với các đơn vị được hưởng 
+các chế độ bảo hiểm theo quy định.  
+1.2. Tài khoản này sử dụng ở Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cấp 
+cơ sở để phản ánh:  
+- Khoản phải trả phát sinh trong quan hệ thanh toán giữa cơ quan bảo hiểm xã 
+hội với đơn vị sử dụng lao động như thanh quyết toán tiền y tế cơ quan được trích 
+cho đơn vị sử dụng lao động; thanh toán tiền đào tạo chuyển đổi nghề nghiệp; tiền 
+hỗ trợ đơn vị sử dụng lao động kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ 
+năng nghề để duy trì việc làm cho người lao động,... 
+- Khoản phải trả phát sinh trong quan hệ thanh toán giữa cơ quan bảo hiểm xã 
+hội với cơ sở khám chữa bệnh (có ký hợp đồng khám chữa bệnh với cơ quan bảo 
+hiểm xã hội) về các khoản chi khám, chữa bệnh cho các đối tượng do quỹ bảo 
+hiểm y tế bảo đảm. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+67 
+ 
+- Khoản phải trả phát sinh trong quan hệ thanh toán giữa cơ quan bảo hiểm xã 
+hội với cơ sở dạy nghề về các khoản hỗ trợ học nghề cho các đối tượng do quỹ bảo 
+hiểm thất nghiệp bảo đảm; 
+- Khoản phải trả phát sinh trong quan hệ thanh toán giữa cơ quan bảo hiểm xã 
+hội với trường học về các khoản trích chuyển kinh phí chăm sóc sức khỏe ban đầu 
+cho các đối tượng do quỹ bảo hiểm y tế bảo đảm. 
+- Khoản phải trả phát sinh trong quan hệ thanh toán giữa cơ quan bảo hiểm xã 
+hội với cơ quan lao động về hỗ trợ các hoạt động phòng ngừa, chia sẻ rủi ro về tai 
+nạn lao động, bệnh nghề nghiệp như điều tra lại tai nạn lao động bảo đảm. 
+- Khoản phải trả khác giữa cơ quan bảo hiểm xã hội và các đơn vị được hưởng 
+các chế độ bảo hiểm theo quy định. 
+1.3. Các cơ quan bảo hiểm xã hội phải mở sổ kế toán chi tiết theo chế độ bảo 
+hiểm, theo đơn vị được hưởng các chế độ bảo hiểm theo quy định (đơn vị sử dụng 
+lao động, cơ sở khám chữa bệnh,...) và chi tiết khác phù hợp với yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 332- Phải trả các đơn vị 
+theo chế độ quy định 
+Bên Nợ: Số cơ quan bảo hiểm xã hội đã ứng trước hoặc đã chuyển trả cho các 
+đơn vị. 
+Bên Có: Số cơ quan bảo hiểm xã hội phải trả cho đơn vị trên cơ sở số liệu 
+quyết toán của cơ quan bảo hiểm xã hội; 
+Số dư bên Có: Phản ánh số cơ quan bảo hiểm xã hội còn phải trả cho đơn vị. 
+Tài khoản này có thể có số dư bên Nợ: Phản ánh số các cơ quan bảo hiểm xã 
+hội đã trả lớn hơn số phải trả. 
+Tài khoản 332- Phải trả các đơn vị theo chế độ quy định, có 3 tài khoản 
+cấp 2: 
+a) Tài khoản 3321- Phải trả chế độ bảo hiểm xã hội: Phản ánh các khoản phải 
+trả và tình hình thanh toán khoản phải trả của các cơ quan bảo hiểm xã hội với các 
+cơ quan, đơn vị về chế độ bảo hiểm xã hội theo quy định. 
+Tài khoản 3321 có 3 tài khoản cấp 3: 
+- Tài khoản 33211- Phải trả chế độ ốm đau, thai sản: Phản ánh các khoản phải 
+trả và tình hình thanh toán khoản phải trả của các cơ quan bảo hiểm xã hội với cơ 
+quan, đơn vị về chế độ ốm đau, thai sản theo quy định. 
+- Tài khoản 33212- Phải trả chế độ bảo hiểm tai nạn lao động, bệnh nghề 
+nghiệp: Phản ánh các khoản phải trả và tình hình thanh toán khoản phải trả của các 
+cơ quan bảo hiểm xã hội với cơ quan, đơn vị về chế độ bảo hiểm tai nạn lao động, 
+bệnh nghề nghiệp theo quy định. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+68 
+  
+- Tài khoản 33213- Phải trả chế độ hưu trí, tử tuất: Phản ánh các khoản phải 
+trả và tình hình thanh toán khoản phải trả của các cơ quan bảo hiểm xã hội với cơ 
+quan, đơn vị về chế độ hưu trí, tử tuất theo quy định. 
+b) Tài khoản 3322- Phải trả chế độ bảo hiểm y tế: Phản ánh các khoản phải trả 
+và tình hình thanh toán khoản phải trả của các cơ quan bảo hiểm xã hội với cơ 
+quan, đơn vị về chế độ bảo hiểm y tế theo quy định. 
+c) Tài khoản 3323- Phải trả chế độ bảo hiểm thất nghiệp: Phản ánh các khoản 
+phải trả và tình hình thanh toán khoản phải trả của các cơ quan bảo hiểm xã hội với 
+cơ quan, đơn vị về chế độ bảo hiểm thất nghiệp theo quy định. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Tại Bảo hiểm xã hội cấp cơ sở: Căn cứ danh sách chi trả cho các đơn vị được 
+hưởng chế độ bảo hiểm theo quy định (từ bộ phận quản lý chi chuyển sang), ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1352, chi tiết phải thu 
+của Bảo hiểm xã hội cấp tỉnh) 
+Có TK 332- Phải trả các đơn vị theo chế độ quy định. 
+3.2. Tại Bảo hiểm xã hội cấp tỉnh: Căn cứ danh sách chi trả cho các đơn vị được 
+hưởng chế độ bảo hiểm theo quy định từ bộ phận quản lý chi chuyển sang, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1352, chi tiết phải thu 
+của Bảo hiểm xã hội Việt Nam) 
+ Có TK 332- Phải trả các đơn vị theo chế độ quy định. 
+3.3. Khi cơ quan bảo hiểm xã hội thanh toán trực tiếp cho các đơn vị hưởng 
+chế độ bảo hiểm, căn cứ hồ sơ chứng từ có liên quan về việc đã thanh toán, ghi: 
+Nợ TK 332- Phải trả các đơn vị theo chế độ quy định 
+Có các TK 111, 112,... 
+ 
+TÀI KHOẢN 335 
+PHẢI TRẢ GIỮA CÁC CƠ QUAN BẢO HIỂM XÃ HỘI 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này được dùng để phản ánh khoản phải trả giữa các cơ quan bảo 
+hiểm xã hội với nhau, bao gồm: 
+- Khoản phải trả số thu bảo hiểm từ đối tượng đóng giữa Bảo hiểm xã hội cấp 
+cơ sở, Bảo hiểm xã hội cấp tỉnh với Bảo hiểm xã hội Việt Nam.  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+69 
+ 
+- Khoản phải trả kinh phí chi chế độ bảo hiểm mà Bảo hiểm xã hội Việt Nam 
+phải trả cho Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội Quân đội, Bảo hiểm xã 
+hội Công an nhân dân; Bảo hiểm xã hội cấp tỉnh phải trả cho Bảo hiểm xã hội 
+cấp cơ sở. 
+- Khoản phải trả kinh phí thu hồi chi sai năm trước mà Bảo hiểm xã hội cấp 
+tỉnh, Bảo hiểm xã hội cấp cơ sở phải nộp về Bảo hiểm xã hội Việt Nam. 
+- Khoản phải trả khác ngoài các khoản nêu trên của cơ quan bảo hiểm xã hội 
+với các cơ quan bảo hiểm xã hội khác, ví dụ khoản lãi tiền gửi không kỳ hạn các 
+cơ quan bảo hiểm xã hội phải nộp về Bảo hiểm xã hội Việt Nam theo quy định. 
+1.2. Cơ quan bảo hiểm xã hội phải khẩn trương thu hồi các khoản còn phải 
+thu từ đối tượng đóng để nộp về các quỹ bảo hiểm theo quy định. Đối với khoản 
+phải thu từ đối tượng đóng bảo hiểm đã ghi nhận trên TK 131 (bút toán Nợ TK 131/ 
+Có TK 3351) nhưng chưa thu được để nộp về quỹ bảo hiểm theo quy định, thì 
+đến cuối kỳ kế toán, cơ quan bảo hiểm xã hội phải kết chuyển số liệu này trên 
+TK 3351 sang TK 338 (chi tiết số dự thu chưa thu được) để phản ánh chính xác 
+tình hình thanh toán thực tế với Bảo hiểm xã hội Việt Nam về số thu bảo hiểm, 
+bảo đảm việc đối chiếu theo nguyên tắc kế toán tại mục 1.4 (bút toán Nợ TK 3351/ 
+Có TK 338). 
+Sang đầu năm sau, đối với số chưa thu được các năm trước mà trong năm cơ 
+quan bảo hiểm xã hội phải tiếp tục theo dõi thu hồi để nộp về quỹ bảo hiểm, đơn vị 
+kết chuyển số liệu tương ứng trên tài khoản 338 sang tài khoản 3351 để theo dõi 
+tình hình thanh toán với Bảo hiểm xã hội Việt Nam về số thu bảo hiểm trong năm 
+(bút toán Nợ TK 338/Có TK 3351). 
+1.3. Cơ quan bảo hiểm xã hội phải mở sổ kế toán theo dõi chi tiết đến đối 
+tượng thanh toán và chi tiết khác phù hợp với yêu cầu quản lý cụ thể. 
+1.4. Cuối kỳ kế toán, khi lập báo cáo tài chính quỹ bảo hiểm, Bảo hiểm xã hội 
+Việt Nam và cơ quan bảo hiểm xã hội các cấp phải đối chiếu số dư Tài khoản 135, 
+Tài khoản 335 liên quan đến các giao dịch nội bộ trong hệ thống cơ quan bảo 
+hiểm xã hội bảo đảm khớp đúng; Bảo hiểm xã hội Việt Nam đối chiếu số liệu 
+liên quan đến các giao dịch với Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội 
+Công an nhân dân. Khi đối chiếu, nếu có chênh lệch, phải tìm nguyên nhân và 
+điều chỉnh kịp thời để bảo đảm việc loại trừ toàn bộ giao dịch nội bộ khi lập báo 
+cáo tài chính quỹ bảo hiểm. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 335- Phải trả giữa các 
+cơ quan bảo hiểm xã hội 
+Bên Nợ: 
+- Số cơ quan bảo hiểm xã hội đã trả. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+70 
+  
+- Số chuyển trước cho cơ quan bảo hiểm xã hội khác. 
+Bên Có: Số phải trả các cơ quan bảo hiểm xã hội khác. 
+Số dư bên Có: 
+- Tại Bảo hiểm xã hội Việt Nam: Khoản còn phải trả kinh phí chi chế độ bảo 
+hiểm cho Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội 
+Công an nhân dân. 
+- Tại Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cấp cơ sở: Khoản còn phải 
+nộp cấp trên về số thu bảo hiểm từ đối tượng đóng; Khoản còn phải trả kinh phí 
+chi chế độ bảo hiểm mà Bảo hiểm xã hội cấp tỉnh phải trả cho Bảo hiểm xã hội cấp 
+cơ sở; Khoản còn phải nộp về Bảo hiểm xã hội Việt Nam kinh phí thu hồi chi sai 
+năm trước. 
+Tài khoản này có thể có số dư bên Nợ trong các trường hợp sau: 
+- Tại Bảo hiểm xã hội Việt Nam: Khoản đã chuyển trước cho Bảo hiểm xã hội 
+cấp tỉnh, Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội Công an nhân dân về kinh 
+phí chi chế độ bảo hiểm.  
+- Tại Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội cấp cơ sở: Phản ánh số kinh 
+phí đã nộp lớn hơn kinh phí phải nộp cấp trên về số thu bảo hiểm từ đối tượng 
+đóng (như thu bảo hiểm y tế năm sau, thu thừa,... đã chuyển về Bảo hiểm xã hội 
+Việt Nam); Khoản Bảo hiểm xã hội cấp tỉnh đã chuyển trước cho Bảo hiểm xã hội 
+cấp cơ sở về kinh phí chi chế độ bảo hiểm. 
+Tài khoản 335- Phải trả giữa các cơ quan bảo hiểm xã hội, có 4 tài khoản 
+cấp 2: 
+- Tài khoản 3351- Phải trả số thu bảo hiểm: Phản ánh khoản phải trả của các 
+cơ quan bảo hiểm xã hội về Bảo hiểm xã hội Việt Nam đối với số thu từ đối tượng 
+đóng bảo hiểm; 
+- Tài khoản 3352- Phải trả kinh phí chi bảo hiểm: Phản ánh khoản phải trả của 
+Bảo hiểm xã hội Việt Nam với các cơ quan bảo hiểm xã hội về kinh phí chi chế độ 
+bảo hiểm.  
+Tài khoản 3352 có 3 tài khoản cấp 3: 
++ Tài khoản 33521- Bảo hiểm xã hội, gồm 3 tài khoản cấp 4: 
+./ Tài khoản 335211- Chế độ ốm đau, thai sản; 
+./ Tài khoản 335212- Chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; 
+./ Tài khoản 335213- Chế độ hưu trí, tử tuất; 
++ Tài khoản 33522- Bảo hiểm y tế 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+71 
+ 
++ Tài khoản 33523- Bảo hiểm thất nghiệp 
+- Tài khoản 3353- Phải trả kinh phí thu hồi chi sai năm trước: Phản ánh khoản 
+phải nộp trả Bảo hiểm xã hội Việt Nam của Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã 
+hội cấp cơ sở về kinh phí thu hồi chi sai năm trước phải thu hồi theo quy định. 
+Tài khoản 3353 có 3 tài khoản cấp 3: 
++ Tài khoản 33531- Bảo hiểm xã hội, gồm 3 tài khoản cấp 4: 
+./ Tài khoản 335311- Chế độ ốm đau, thai sản; 
+./ Tài khoản 335312- Chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; 
+./ Tài khoản 335313- Chế độ hưu trí, tử tuất; 
++ Tài khoản 33532- Bảo hiểm y tế 
++ Tài khoản 33533- Bảo hiểm thất nghiệp 
+- Tài khoản 3358- Phải trả khác giữa các cơ quan bảo hiểm xã hội: Phản ánh 
+khoản phải trả khác ngoài các khoản nêu trên của cơ quan bảo hiểm xã hội với các 
+cơ quan bảo hiểm xã hội khác. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Kế toán phải trả số thu các quỹ bảo hiểm 
+a) Tại Bảo hiểm xã hội cấp cơ sở: 
+- Căn cứ vào Bảng tổng hợp số phải thu bảo hiểm xã hội, bảo hiểm y tế, bảo 
+hiểm thất nghiệp từ các đối tượng đóng bảo hiểm và căn cứ số phải thu tiền xử lý 
+chậm đóng, trốn đóng các quỹ bảo hiểm do bộ phận quản lý thu chuyển sang, hạch 
+toán số phải thu các quỹ bảo hiểm từ các đối tượng đóng, ghi: 
+Nợ TK 131- Phải thu của đối tượng đóng bảo hiểm 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351, chi tiết phải trả 
+Bảo hiểm xã hội cấp tỉnh). 
+- Căn cứ vào giấy báo Nợ của ngân hàng, kho bạc về số tiền thu bảo hiểm đã 
+chuyển về Bảo hiểm xã hội cấp tỉnh, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351) 
+Có TK 112- Tiền gửi ngân hàng, kho bạc 
+b) Tại Bảo hiểm xã hội cấp tỉnh: 
+- Căn cứ vào Bảng tổng hợp số phải thu bảo hiểm xã hội, bảo hiểm y tế, bảo 
+hiểm thất nghiệp từ các đối tượng đóng bảo hiểm và căn cứ số phải thu tiền xử lý 
+chậm đóng, trốn đóng các quỹ bảo hiểm do bộ phận quản lý thu chuyển sang, hạch 
+toán số phải thu các quỹ bảo hiểm từ các đối tượng đóng do Bảo hiểm xã hội cấp 
+tỉnh quản lý trực tiếp, ghi: 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+72 
+  
+Nợ TK 131- Phải thu của đối tượng đóng bảo hiểm 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351, chi tiết phải trả 
+Bảo hiểm xã hội Việt Nam). 
+- Khi nhận giấy báo Có của ngân hàng, kho bạc về số tiền thu theo quy định và 
+tiền thu xử lý chậm đóng, trốn đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất 
+nghiệp từ Bảo hiểm xã hội cấp cơ sở chuyển về, ghi: 
+Nợ TK 112- Tiền gửi ngân hàng, kho bạc 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351, chi tiết phải trả 
+Bảo hiểm xã hội Việt Nam) 
+- Căn cứ giấy báo Nợ của ngân hàng, kho bạc về chuyển trả số tiền thu theo 
+quy định và tiền thu xử lý chậm đóng, trốn đóng bảo hiểm xã hội, bảo hiểm y tế, 
+bảo hiểm thất nghiệp trên địa bàn toàn tỉnh về Bảo hiểm xã hội Việt Nam, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351, chi tiết phải trả 
+Bảo hiểm xã hội Việt Nam) 
+Có TK 112- Tiền gửi ngân hàng, kho bạc 
+c) Cuối kỳ kế toán, đối với khoản phải thu từ đối tượng đóng bảo hiểm nhưng 
+chưa thu được để nộp về quỹ bảo hiểm theo quy định, Bảo hiểm xã hội cấp tỉnh, 
+Bảo hiểm xã hội cấp cơ sở, Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội Công an 
+nhân dân thực hiện kết chuyển theo dõi số dự thu chưa thu được, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351) 
+Có TK 338- Phải trả khác (chi tiết số dự thu chưa thu được). 
+- Sang đầu năm sau, đối với số chưa thu được các năm trước mà trong năm cơ 
+quan bảo hiểm xã hội phải tiếp tục theo dõi thu hồi để nộp về quỹ bảo hiểm, đơn vị 
+kết chuyển số liệu để theo dõi tình hình thanh toán với Bảo hiểm xã hội Việt Nam 
+về số thu bảo hiểm trong năm ghi: 
+Nợ TK 338- Phải trả khác (chi tiết số dự thu chưa thu được) 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351). 
+3.2. Kế toán phải trả kinh phí chi chế độ bảo hiểm 
+a) Tại Bảo hiểm xã hội Việt Nam: 
+- Khi chuyển kinh phí cho Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội Quân 
+đội, Bảo hiểm xã hội Công an nhân dân, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352) 
+Có TK 112- Tiền gửi ngân hàng, kho bạc. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+73 
+ 
+- Căn cứ hồ sơ, chứng từ có liên quan về việc xác định kinh phí chi phải 
+chuyển cho Bảo hiểm xã hội cấp tỉnh, Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội 
+Công an nhân dân, ghi: 
+Nợ TK 621- Chi phí theo chế độ quy định 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352). 
+b) Tại Bảo hiểm xã hội cấp tỉnh: 
+- Khi chuyển kinh phí chi chế độ bảo hiểm cho bảo hiểm xã hội cấp cơ sở trực 
+tiếp chi, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352) 
+Có TK 112- Tiền gửi ngân hàng, kho bạc. 
+- Trường hợp tổ chức hỗ trợ chi trả chi các loại bảo hiểm cho đối tượng hưởng 
+thuộc Bảo hiểm xã hội cấp cơ sở quản lý: Căn cứ hồ sơ, tài liệu có liên quan về 
+việc quyết toán số tiền thực tế mà tổ chức hỗ trợ chi trả đã chi cho đối tượng 
+hưởng, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352, chi tiết Bảo 
+hiểm xã hội cấp cơ sở) 
+Có TK 134- Phải thu tổ chức hỗ trợ chi trả. 
+- Kết chuyển kinh phí chi chế độ bảo hiểm của Bảo hiểm xã hội cấp cơ sở theo 
+số thực tế phải chi trả, căn cứ hồ sơ, chứng từ có liên quan, ghi: 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1352, chi tiết phải thu 
+của Bảo hiểm xã hội Việt Nam) 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352, chi tiết phải trả 
+từng Bảo hiểm xã hội cấp cơ sở) 
+3.3. Kế toán phải trả kinh phí thu hồi chi sai năm trước: Tại Bảo hiểm xã hội 
+cấp tỉnh, Bảo hiểm xã hội cấp cơ sở: 
+- Căn cứ vào hồ sơ, tài liệu có liên quan về việc xác định kinh phí chi sai năm 
+trước mà đơn vị phải thu hồi để nộp trả về quỹ bảo hiểm theo quy định, ghi: 
+Nợ các TK 331, 332 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3353). 
+- Khi thu hồi được khoản chi sai, ghi: 
+Nợ các TK 111, 112 
+Có các TK 331, 332 
+- Khi nộp khoản thu hồi chi sai lên Bảo hiểm xã hội cấp trên, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3353) 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+74 
+  
+Có TK 112- Tiền gửi Ngân hàng, kho bạc. 
+- Tại Bảo hiểm xã hội cấp tỉnh, khi nhận kinh phí thu hồi chi sai năm trước do 
+Bảo hiểm xã hội cấp cơ sở nộp về, ghi: 
+Nợ TK 112- Tiền gửi Ngân hàng, kho bạc 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3353) 
+3.4. Tại cơ quan bảo hiểm xã hội cấp dưới, đối với các khoản lãi tiền gửi 
+không kỳ hạn trên các tài khoản thu, chi chế độ mà cơ quan bảo hiểm xã hội cấp 
+dưới phải nộp về cơ quan bảo hiểm xã hội cấp trên, ghi: 
+Nợ các TK 111, 112 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3358) 
+3.5. Trường hợp cơ quan bảo hiểm xã hội phát sinh khoản phải trả khác với cơ 
+quan bảo hiểm xã hội khác, ghi: 
+Nợ TK liên quan 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3358) 
+- Khi xử lý các khoản phải trả khác, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3358) 
+Có TK liên quan. 
+ 
+TÀI KHOẢN 338 
+PHẢI TRẢ KHÁC 
+ 
+1. Nguyên tắc kế toán  
+1.1. Tài khoản này dùng để phản ánh các khoản phải trả khác chưa được phản 
+ánh vào các tài khoản phải trả đã có và tình hình thanh toán các khoản phải trả này, 
+bao gồm: 
+a) Khoản phải trả kinh phí chi tổ chức và hoạt động bảo hiểm xã hội, bảo 
+hiểm y tế, bảo hiểm thất nghiệp của các cơ quan bảo hiểm xã hội theo quy định 
+của pháp luật.  
+b) Khoản đầu tư được nhận lãi trước chờ phân bổ. 
+c) Khoản phải trả khác. 
+1.2. Các khoản phải trả khác được hạch toán chi tiết theo từng đối tượng 
+phải trả, từng khoản phải trả, từng lần thanh toán và chi tiết khác phục vụ yêu 
+cầu quản lý.  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+75 
+ 
+2. Kết cấu và nội dung phản ánh của Tài khoản 338- Phải trả khác 
+Bên Nợ: Số phải trả khác cơ quan bảo hiểm xã hội đã trả cho các đối tượng có 
+liên quan. 
+Bên Có: 
+- Số phải trả khác của các cơ quan bảo hiểm xã hội. 
+- Số nhận trước của các đối tượng có liên quan đến khoản phải trả khác. 
+Số dư bên Có: Số phải trả khác mà cơ quan bảo hiểm xã hội còn phải trả cho 
+các đối tượng có liên quan. 
+Tài khoản này có thể có số dư bên Nợ: Phản ánh số đã trả lớn hơn số phải trả 
+khác của cơ quan bảo hiểm xã hội. 
+Tài khoản 338- Phải trả khác, có 3 tài khoản cấp 2: 
+- Tài khoản 3381- Phải trả khác quỹ bảo hiểm xã hội: Phản ánh các khoản phải 
+trả khác của quỹ bảo hiểm xã hội và tình hình thanh toán các khoản phải trả này. 
+Tài khoản này có 3 tài khoản cấp 3: 
++ Tài khoản 33811- Quỹ ốm đau và thai sản; 
++ Tài khoản 33812- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp; 
++ Tài khoản 33813- Quỹ hưu trí và tử tuất. 
+- Tài khoản 3382- Phải trả khác quỹ bảo hiểm y tế: Phản ánh các khoản phải 
+trả khác của quỹ bảo hiểm y tế và tình hình thanh toán các khoản phải trả này. 
+- Tài khoản 3383- Phải trả khác quỹ bảo hiểm thất nghiệp: Phản ánh các 
+khoản phải trả khác của quỹ bảo hiểm thất nghiệp và tình hình thanh toán các 
+khoản phải trả này. 
+- Tài khoản 3388- Phải trả khác: Phản ánh các khoản phải trả khác ngoài các 
+khoản nêu trên. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Trường hợp tại Bảo hiểm xã hội Việt Nam xác định phải trả kinh phí chi 
+tổ chức và hoạt động:  
+- Định kỳ, căn cứ vào hồ sơ chứng từ có liên quan về việc phải trả kinh phí chi 
+tổ chức và hoạt động bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế theo 
+quy định của pháp luật, ghi:  
+Nợ TK 622- Trích chi phí tổ chức và hoạt động 
+Có TK 338- Phải trả khác. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+76 
+  
+- Khi chuyển kinh phí chi tổ chức và hoạt động cho các đơn vị, ghi: 
+Nợ TK 338- Phải trả khác 
+Có TK 112- Tiền gửi ngân hàng, kho bạc 
+3.2. Trường hợp tại Bảo hiểm xã hội Việt Nam tạm ứng kinh phí chi tổ chức 
+và hoạt động từ quỹ bảo hiểm xã hội, quỹ bảo hiểm thất nghiệp, quỹ bảo hiểm y tế 
+cho các đơn vị, ghi: 
+Nợ TK 338- Phải trả khác 
+Có TK 112- Tiền gửi ngân hàng, kho bạc 
+- Định kỳ, căn cứ vào hồ sơ chứng từ có liên quan về việc phải trả kinh phí chi 
+tổ chức và hoạt động bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế theo 
+quy định của pháp luật, ghi:  
+ Nợ TK 622- Trích chi phí tổ chức và hoạt động 
+Có TK 338- Phải trả khác. 
+3.3. Trường hợp khoản đầu tư được nhận lãi trước: Khi gửi tiền có kỳ hạn hoặc 
+các khoản đầu tư khác được nhận lãi trước,... ghi: 
+Nợ TK 121- Đầu tư tài chính 
+Có các TK 111, 112,... (số tiền thực bỏ ra) 
+Có TK 338- Phải trả khác (chi tiết số lãi nhận trước theo từng quỹ). 
+3.4. Cuối kỳ kế toán, đối với khoản phải thu từ đối tượng đóng bảo hiểm 
+nhưng chưa thu được để nộp về quỹ bảo hiểm theo quy định, Bảo hiểm xã hội cấp 
+tỉnh, Bảo hiểm xã hội cấp cơ sở thực hiện kết chuyển theo dõi số dự thu chưa thu 
+được, ghi: 
+Nợ TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351) 
+Có TK 338- Phải trả khác (chi tiết số dự thu chưa thu được). 
+- Sang đầu năm sau, đối với số chưa thu được các năm trước mà cơ quan bảo 
+hiểm xã hội phải tiếp tục theo dõi thu hồi để nộp về quỹ bảo hiểm, đơn vị kết 
+chuyển số liệu để theo dõi tình hình thanh toán với Bảo hiểm xã hội Việt Nam về 
+số thu bảo hiểm, ghi: 
+Nợ TK 338- Phải trả khác (chi tiết số dự thu chưa thu được) 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3351). 
+3.5. Trường hợp phát sinh các khoản phải trả khác tại các cơ quan bảo hiểm xã 
+hội, ghi: 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+77 
+ 
+Nợ TK liên quan 
+Có TK 338- Phải trả khác 
+3.6. Khi xử lý các khoản phải trả khác, ghi: 
+Nợ TK 338- Phải trả khác  
+Có TK liên quan 
+ 
+TÀI KHOẢN LOẠI 4 
+NGUYÊN TẮC KẾ TOÁN TÀI KHOẢN LOẠI 4 
+ 
+1. Loại tài khoản này dùng để phản ánh số hiện có, tình hình biến động tài sản 
+thuần của các quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp do Bảo 
+hiểm xã hội Việt Nam quản lý. 
+2. Tài sản thuần là phần nguồn lực thuộc về các quỹ bảo hiểm xã hội, bảo hiểm 
+y tế, bảo hiểm thất nghiệp do Bảo hiểm xã hội Việt Nam quản lý, được xác định 
+bằng tổng tài sản trừ đi nợ phải trả. Các tài khoản này chỉ được sử dụng tại Bảo 
+hiểm xã hội Việt Nam. 
+3. Khi nhận hoặc sử dụng các nguồn lực làm tăng, giảm tài sản thuần, Bảo 
+hiểm xã hội Việt Nam không hạch toán tăng, giảm trực tiếp vào các tài khoản tài 
+sản thuần (không hạch toán đối ứng tài khoản Loại 1, 3 với tài khoản Loại 4). Tất 
+cả các khoản tăng, giảm tài sản thuần đều phải được hạch toán thông qua tài khoản 
+doanh thu, tài khoản chi phí. 
+Tài khoản Loại 4 có 03 tài khoản: 
+- Tài khoản 421- Thặng dư (thâm hụt) lũy kế;  
+- Tài khoản 431- Kết dư quỹ bảo hiểm; 
+- Tài khoản 432- Dự phòng rủi ro trong hoạt động đầu tư. 
+ 
+TÀI KHOẢN 421 
+THẶNG DƯ (THÂM HỤT) LŨY KẾ 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này dùng để phản ánh thặng dư (thâm hụt) của các quỹ bảo 
+hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp do Bảo hiểm xã hội Việt Nam 
+quản lý tại ngày khóa sổ kế toán để lập báo cáo tài chính. Tài khoản này chỉ áp 
+dụng tại Bảo hiểm xã hội Việt Nam. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+78 
+  
+1.2. Các khoản thặng dư (thâm hụt) được xác định trên cơ sở số chênh lệch 
+giữa doanh thu trong năm (bao gồm doanh thu của các quỹ bảo hiểm xã hội, bảo 
+hiểm y tế, bảo hiểm thất nghiệp và doanh thu tài chính của các quỹ bảo hiểm) và 
+chi phí trong năm (bao gồm chi phí theo chế độ quy định, khoản trích chi phí tổ 
+chức và hoạt động, chi phí tài chính và chi phí khác của quỹ bảo hiểm), có điều 
+chỉnh cho trường hợp sử dụng quỹ dự phòng rủi ro trong hoạt động đầu tư quỹ bảo 
+hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, sử dụng kết dư quỹ khám chữa 
+bệnh bảo hiểm y tế năm trước và sử dụng quỹ dự phòng khám chữa bệnh bảo hiểm 
+y tế trong năm (số điều chỉnh).  
+Trong đó, chênh lệch giữa doanh thu trong năm và số điều chỉnh lớn hơn chi 
+phí trong năm được xác định là khoản thặng dư. Chênh lệch giữa doanh thu trong 
+năm và số điều chỉnh nhỏ hơn chi phí trong năm được xác định là khoản thâm hụt. 
+1.3. Bảo hiểm xã hội Việt Nam xử lý khoản thặng dư, thâm hụt các quỹ bảo 
+hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định pháp luật. 
+1.4. Bảo hiểm xã hội Việt Nam phải mở sổ kế toán chi tiết theo yêu cầu 
+quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 421- Thặng dư (thâm hụt) 
+lũy kế 
+Bên Nợ:  
+- Phản ánh khoản thâm hụt do chi phí trong năm lớn hơn doanh thu trong năm; 
+- Kết chuyển vào kết dư quỹ bảo hiểm, dự phòng rủi ro trong hoạt động đầu tư 
+quỹ bảo hiểm và các khoản kết chuyển xử lý khác đối với thặng dư theo quy định. 
+Bên Có:  
+- Phản ánh khoản thặng dư phát sinh do doanh thu trong năm lớn hơn chi phí 
+trong năm; 
+- Nhận kết chuyển nguồn do trong năm sử dụng quỹ dự phòng rủi ro trong hoạt 
+động đầu tư quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, sử dụng kết 
+dư quỹ khám chữa bệnh bảo hiểm y tế năm trước, sử dụng quỹ dự phòng khám 
+chữa bệnh bảo hiểm y tế; 
+- Bù đắp khoản thâm hụt theo quy định (nếu có). 
+Tài khoản này có số dư bên Nợ hoặc số dư bên Có: 
+Số dư bên Nợ: Số thâm hụt luỹ kế chưa được xử lý. 
+Số dư bên Có: Số thặng dư lũy kế chưa kết chuyển. 
+Tài khoản 421- Thặng dư (thâm hụt) lũy kế, có 4 tài khoản cấp 2: 
+- Tài khoản 4211- Thặng dư (thâm hụt) lũy kế quỹ bảo hiểm xã hội 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+79 
+ 
+Tài khoản 4211 có 3 tài khoản cấp 3: 
++ Tài khoản 42111- Quỹ ốm đau và thai sản 
++ Tài khoản 42112- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp 
++ Tài khoản 42113- Quỹ hưu trí và tử tuất 
+- Tài khoản 4212- Thặng dư (thâm hụt) lũy kế quỹ bảo hiểm y tế 
+- Tài khoản 4213- Thặng dư (thâm hụt) lũy kế quỹ bảo hiểm thất nghiệp 
+- Tài khoản 4218- Thặng dư (thâm hụt) lũy kế khác. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu 
+3.1. Cuối kỳ, trước khi khóa sổ kế toán để lập báo cáo tài chính, Bảo hiểm xã 
+hội Việt Nam tính và kết chuyển thặng dư (thâm hụt) trong kỳ:  
+a) Nếu thặng dư, ghi: 
+Nợ TK 911- Xác định kết quả 
+Có TK 421- Thặng dư (thâm hụt) lũy kế. 
+b) Nếu thâm hụt, ghi: 
+Nợ TK 421- Thặng dư (thâm hụt) lũy kế 
+Có TK 911- Xác định kết quả. 
+3.2. Cuối kỳ, trường hợp có thặng dư, căn cứ hồ sơ chứng từ có liên quan về 
+việc kết chuyển khoản thặng dư vào kết dư quỹ bảo hiểm, ghi: 
+Nợ TK 421- Thặng dư (thâm hụt) lũy kế  
+Có TK 431- Kết dư quỹ bảo hiểm (TK chi tiết tương ứng). 
+3.3. Căn cứ hồ sơ chứng từ có liên quan về số phải trích lập quỹ dự phòng 
+khám chữa bệnh bảo hiểm y tế theo quy định, kết chuyển ghi tăng quỹ, ghi: 
+Nợ TK 421- Thặng dư (thâm hụt) lũy kế  
+Có TK 431- Kết dư quỹ bảo hiểm (43122). 
+3.4. Căn cứ số phải trích lập quỹ dự phòng rủi ro trong hoạt động đầu tư theo 
+quy định, kết chuyển ghi tăng quỹ, ghi:  
+Nợ TK 421- Thặng dư (thâm hụt) lũy kế  
+Có TK 432- Dự phòng rủi ro trong hoạt động đầu tư. 
+3.5. Căn cứ số sử dụng quỹ dự phòng rủi ro trong hoạt động đầu tư, kết dư quỹ 
+khám chữa bệnh bảo hiểm y tế năm trước, quỹ dự phòng khám chữa bệnh bảo 
+hiểm y tế trong năm, kết chuyển ghi giảm quỹ, ghi 
+Nợ TK các 432, 431 (43121, 43122) 
+Có TK 421- Thặng dư (thâm hụt) lũy kế. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+80 
+  
+TÀI KHOẢN 431 
+KẾT DƯ QUỸ BẢO HIỂM 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này phản ánh số kết dư quỹ bảo hiểm xã hội, quỹ bảo hiểm y tế 
+(bao gồm kết dư quỹ khám chữa bệnh bảo hiểm y tế và quỹ dự phòng khám chữa 
+bệnh bảo hiểm y tế), quỹ bảo hiểm thất nghiệp do Bảo hiểm xã hội Việt Nam quản 
+lý trong năm. Tài khoản này chỉ áp dụng tại Bảo hiểm xã hội Việt Nam. 
+1.2. Việc xác định số phải trích lập và số sử dụng quỹ dự phòng khám chữa 
+bệnh bảo hiểm y tế phải bảo đảm đúng quy định của pháp luật về bảo hiểm y tế. 
+1.3. Bảo hiểm xã hội Việt Nam phải mở sổ kế toán chi tiết theo yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 431- Kết dư quỹ bảo hiểm 
+Bên Nợ: 
+- Phản ánh số kết chuyển các khoản thâm hụt do chi phí phải chi trả chế độ bảo 
+hiểm trong năm lớn hơn khoản thu được của các quỹ bảo hiểm xã hội, bảo hiểm y 
+tế, bảo hiểm thất nghiệp trong năm.  
+- Kết chuyển số đã sử dụng dự phòng khám chữa bệnh bảo hiểm y tế trong năm. 
+Bên Có:  
+- Phản ánh số kết chuyển các khoản thặng dư phát sinh do khoản thu được 
+trong năm của các quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp lớn 
+hơn chi phí phải chi trả chế độ bảo hiểm trong năm. 
+- Trích lập quỹ dự phòng khám chữa bệnh bảo hiểm y tế trong năm. 
+Số dư bên Có: Phản ánh số kết dư hiện có các quỹ bảo hiểm xã hội, bảo hiểm 
+y tế, bảo hiểm thất nghiệp. 
+Tài khoản 431- Kết dư quỹ bảo hiểm, có 3 tài khoản cấp 2: 
+- Tài khoản 4311- Kết dư quỹ bảo hiểm xã hội: Phản ánh số kết dư quỹ bảo 
+hiểm xã hội do Bảo hiểm xã hội Việt Nam quản lý, bao gồm số kết dư quỹ ốm 
+đau và thai sản; quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp; quỹ hưu trí 
+và tử tuất. 
+Tài khoản này có 3 tài khoản cấp 3:  
++ Tài khoản 43111- Kết dư quỹ ốm đau và thai sản: Tài khoản này dùng để 
+phản ánh số kết dư quỹ ốm đau và thai sản do Bảo hiểm xã hội Việt Nam quản lý 
+theo quy định. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+81 
+ 
++ Tài khoản 43112- Kết dư quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp: 
+Tài khoản này dùng để phản ánh số kết dư quỹ bảo hiểm tai nạn lao động - bệnh 
+nghề nghiệp do Bảo hiểm xã hội Việt Nam quản lý theo quy định. 
++ Tài khoản 43113- Kết dư quỹ hưu trí và tử tuất: Tài khoản này dùng để 
+phản ánh số kết dư quỹ hưu trí và tử tuất do Bảo hiểm xã hội Việt Nam quản lý 
+theo quy định. 
+- Tài khoản 4312- Kết dư quỹ bảo hiểm y tế: Phản ánh số kết dư quỹ bảo hiểm 
+y tế do Bảo hiểm xã hội Việt Nam quản lý. 
+Tài khoản này có 2 tài khoản cấp 3: 
++ Tài khoản 43121- Kết dư quỹ khám chữa bệnh bảo hiểm y tế: Tài khoản này 
+dùng để phản ánh số kết dư và tình hình sử dụng kết dư quỹ khám chữa bệnh bảo 
+hiểm y tế do Bảo hiểm xã hội Việt Nam quản lý theo quy định. 
++ Tài khoản 43122- Quỹ dự phòng khám chữa bệnh bảo hiểm y tế: Tài khoản 
+này dùng để phản ánh số trích lập và tình hình sử dụng quỹ dự phòng khám chữa 
+bệnh bảo hiểm y tế theo quy định. 
+- Tài khoản 4313- Kết dư quỹ bảo hiểm thất nghiệp: Phản ánh số kết dư quỹ 
+bảo hiểm thất nghiệp do Bảo hiểm xã hội Việt Nam quản lý.  
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu 
+3.1. Cuối kỳ, trường hợp có thặng dư, căn cứ hồ sơ chứng từ có liên quan về 
+việc kết chuyển khoản thặng dư vào kết dư quỹ bảo hiểm, ghi: 
+Nợ TK 421- Thặng dư (thâm hụt) lũy kế  
+Có TK 431- Kết dư quỹ bảo hiểm (TK chi tiết tương ứng). 
+3.2. Cuối kỳ, trường hợp phát sinh khoản thâm hụt được tính vào kết dư quỹ, 
+căn cứ hồ sơ chứng từ có liên quan kết chuyển các khoản thâm hụt, ghi: 
+Nợ TK 431- Kết dư quỹ bảo hiểm (TK chi tiết tương ứng)  
+Có 421- Thặng dư (thâm hụt) lũy kế. 
+3.3. Trích lập và sử dụng quỹ dự phòng khám chữa bệnh bảo hiểm y tế: 
+- Căn cứ hồ sơ tài liệu có liên quan về việc xác định số phải trích lập quỹ dự 
+phòng khám chữa bệnh bảo hiểm y tế theo quy định, kết chuyển ghi tăng quỹ, ghi:  
+Nợ TK 421- Thặng dư (thâm hụt) lũy kế  
+Có TK 431- Kết dư quỹ bảo hiểm (43122). 
+- Căn cứ hồ sơ tài liệu có liên quan về việc xác định số được sử dụng từ quỹ dự 
+phòng khám chữa bệnh bảo hiểm y tế trong năm, kết chuyển ghi giảm quỹ, ghi 
+Nợ TK 431- Kết dư quỹ bảo hiểm (43122) 
+Có TK 421- Thặng dư (thâm hụt) lũy kế. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+82 
+  
+3.4. Trường hợp trong năm sử dụng kết dư quỹ khám chữa bệnh bảo hiểm y tế 
+năm trước, căn cứ hồ sơ tài liệu có liên quan về việc xác định số được sử dụng kết 
+dư quỹ khám chữa bệnh bảo hiểm y tế năm trước, kết chuyển ghi giảm quỹ, ghi: 
+Nợ TK 431- Kết dư quỹ bảo hiểm (43121)  
+Có 421- Thặng dư (thâm hụt) lũy kế. 
+ 
+TÀI KHOẢN 432 
+DỰ PHÒNG RỦI RO TRONG HOẠT ĐỘNG ĐẦU TƯ 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này phản ánh số trích lập và tình hình sử dụng quỹ dự phòng rủi 
+ro trong hoạt động đầu tư quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất 
+nghiệp theo quy định.  
+1.2. Tài khoản này chỉ áp dụng tại Bảo hiểm xã hội Việt Nam. Việc trích lập 
+và sử dụng quỹ dự phòng rủi ro trong hoạt động đầu tư quỹ bảo hiểm xã hội, bảo 
+hiểm y tế, bảo hiểm thất nghiệp phải bảo đảm đúng quy định. 
+1.3. Bảo hiểm xã hội Việt Nam thực hiện phân bổ số dư dự phòng rủi ro trong 
+hoạt động đầu tư theo quy định hiện hành về hoạt động đầu tư quỹ bảo hiểm. 
+Trường hợp pháp luật có quy định Bảo hiểm xã hội Việt Nam phân bổ số dư dự 
+phòng rủi ro theo từng quỹ bảo hiểm thì phải mở sổ kế toán chi tiết theo từng quỹ.  
+1.4. Bảo hiểm xã hội Việt Nam phải mở sổ kế toán chi tiết theo yêu cầu 
+quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 432- Dự phòng rủi ro 
+trong hoạt động đầu tư 
+Bên Nợ: Kết chuyển số đã sử dụng quỹ dự phòng rủi ro trong hoạt động đầu tư 
+trong năm.  
+Bên Có: Số trích lập quỹ dự phòng rủi ro trong hoạt động đầu tư trong năm. 
+Số dư bên Có: Phản ánh số dư hiện có của quỹ dự phòng rủi ro trong hoạt 
+động đầu tư. 
+Trường hợp pháp luật có quy định Bảo hiểm xã hội Việt Nam phân bổ số dư 
+dự phòng rủi ro trong hoạt động đầu tư theo từng quỹ bảo hiểm thì chi tiết Tài 
+khoản 432- Dự phòng rủi ro trong hoạt động đầu tư theo các tài khoản cấp 2, 3 
+như sau: 
+- Tài khoản 4321- Dự phòng rủi ro đầu tư quỹ bảo hiểm xã hội: Phản ánh số 
+trích lập và tình hình sử dụng dự phòng rủi ro trong hoạt động đầu tư quỹ bảo hiểm 
+xã hội. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+83 
+ 
+Tài khoản này có 3 tài khoản cấp 3: 
++ Tài khoản 43211- Dự phòng rủi ro đầu tư quỹ ốm đau và thai sản; 
++ Tài khoản 43212- Dự phòng rủi ro đầu tư quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp; 
++ Tài khoản 43213- Dự phòng rủi ro đầu tư quỹ hưu trí và tử tuất; 
+- Tài khoản 4322- Dự phòng rủi ro đầu tư quỹ bảo hiểm y tế: Phản ánh số trích 
+lập và tình hình sử dụng dự phòng rủi ro trong hoạt động đầu tư quỹ bảo hiểm y tế. 
+- Tài khoản 4323- Dự phòng rủi ro đầu tư quỹ bảo hiểm thất nghiệp: Phản ánh 
+số trích lập và tình hình sử dụng dự phòng rủi ro trong hoạt động đầu tư quỹ bảo 
+hiểm thất nghiệp. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu 
+3.1. Căn cứ hồ sơ tài liệu có liên quan về việc xác định số phải trích lập quỹ dự 
+phòng rủi ro trong hoạt động đầu tư theo quy định, kết chuyển ghi tăng quỹ, ghi:  
+Nợ TK 421- Thặng dư (thâm hụt) lũy kế  
+Có TK 432- Dự phòng rủi ro trong hoạt động đầu tư. 
+3.2. Căn cứ hồ sơ tài liệu có liên quan về việc xác định số được phép sử 
+dụng quỹ dự phòng rủi ro trong hoạt động đầu tư trong năm, kết chuyển ghi 
+giảm quỹ, ghi 
+Nợ TK 432- Dự phòng rủi ro trong hoạt động đầu tư 
+Có TK 421- Thặng dư (thâm hụt) lũy kế. 
+ 
+TÀI KHOẢN LOẠI 5 
+NGUYÊN TẮC KẾ TOÁN TÀI KHOẢN LOẠI 5 
+ 
+1. Loại tài khoản này dùng để phản ánh doanh thu của các quỹ bảo hiểm xã 
+hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong năm và doanh thu tài chính của các 
+quỹ bảo hiểm theo quy định. Các tài khoản này chỉ được áp dụng tại Bảo hiểm xã 
+hội Việt Nam. 
+2. Doanh thu ghi nhận vào tài khoản doanh thu quỹ bảo hiểm xã hội, bảo hiểm 
+y tế, bảo hiểm thất nghiệp (TK 521, 522, 523) bao gồm: 
+a) Số thu mà quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp thu 
+được trong năm từ đối tượng đóng trên địa bàn cả nước, gồm cả khoản thu tiền xử 
+lý chậm đóng, trốn đóng theo quy định; 
+b) Doanh thu từ kinh phí do ngân sách nhà nước hỗ trợ đóng bảo hiểm theo 
+quy định. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+84 
+  
+c) Doanh thu phát sinh từ các hoạt động khác được nộp vào quỹ bảo hiểm xã 
+hội, quỹ bảo hiểm y tế (quỹ dự phòng khám chữa bệnh bảo hiểm y tế), quỹ bảo 
+hiểm thất nghiệp theo quy định (như số đã chi sai năm trước phải thu hồi để nộp 
+trả các quỹ bảo hiểm theo quy định), không bao gồm doanh thu tài chính của quỹ 
+bảo hiểm. 
+3. Doanh thu tài chính (TK 525) trong năm bao gồm doanh thu phát sinh từ 
+hoạt động đầu tư các quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp do 
+Bảo hiểm xã hội Việt Nam thực hiện theo cơ chế đầu tư quỹ hiện hành và các 
+khoản doanh thu tài chính khác của quỹ bảo hiểm theo quy định pháp luật. 
+4. Không phản ánh vào tài khoản doanh thu các khoản có bản chất là khoản chi 
+trả hộ ngân sách nhà nước như kinh phí chi bảo hiểm do ngân sách nhà nước bảo 
+đảm cho các đối tượng hưởng chế độ bảo hiểm, kinh phí chi khám chữa bệnh bảo 
+hiểm y tế của khối an ninh, quốc phòng bị vượt quỹ ngoài phạm vi mức hưởng 
+theo quy định. 
+5. Các tài khoản phản ánh doanh thu không có số dư cuối kỳ. Bảo hiểm xã hội 
+Việt Nam phải kết chuyển hết số liệu trong năm (sau khi trừ đi số ghi giảm) để xác 
+định kết quả hoạt động tại thời điểm cuối kỳ kế toán trước khi khóa sổ lập báo cáo 
+tài chính.  
+Tài khoản Loại 5 có 04 tài khoản: 
+- Tài khoản 521- Doanh thu quỹ bảo hiểm xã hội; 
+- Tài khoản 522- Doanh thu quỹ bảo hiểm y tế; 
+- Tài khoản 523- Doanh thu quỹ bảo hiểm thất nghiệp; 
+- Tài khoản 525- Doanh thu tài chính. 
+ 
+TÀI KHOẢN 521 
+DOANH THU QUỸ BẢO HIỂM XÃ HỘI 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này phản ánh doanh thu của quỹ bảo hiểm xã hội trong năm do 
+Bảo hiểm xã hội Việt Nam quản lý, bao gồm: 
+a) Khoản thu bảo hiểm xã hội bắt buộc trong năm đã thu được từ đối tượng 
+đóng trên địa bàn cả nước, gồm cả khoản thu tiền xử lý chậm đóng, trốn đóng. 
+b) Khoản thu bảo hiểm xã hội tự nguyện trong năm đã thu được từ đối tượng 
+đóng trên địa bàn cả nước, gồm cả khoản thu tiền xử lý chậm đóng, trốn đóng. 
+c) Doanh thu từ kinh phí do ngân sách nhà nước các cấp hỗ trợ đóng bảo hiểm 
+xã hội trong năm theo quy định. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+85 
+ 
+d) Doanh thu phát sinh từ các hoạt động khác được bổ sung vào quỹ bảo hiểm 
+xã hội theo quy định (như số đã chi sai năm trước phải thu hồi để nộp trả quỹ bảo 
+hiểm xã hội theo quy định), không bao gồm doanh thu tài chính. 
+1.2. Tài khoản này chỉ được mở tại Bảo hiểm xã hội Việt Nam. 
+1.3. Bảo hiểm xã hội Việt Nam mở sổ kế toán chi tiết theo yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 521- Doanh thu quỹ bảo 
+hiểm xã hội 
+Bên Nợ: 
+- Các khoản giảm doanh thu quỹ bảo hiểm xã hội trong năm (nếu có); 
+- Kết chuyển sang TK 911 “Xác định kết quả”. 
+Bên Có: Doanh thu của quỹ bảo hiểm xã hội phát sinh trong năm.  
+Tài khoản này không có số dư cuối kỳ. 
+Tài khoản 521- Doanh thu quỹ bảo hiểm xã hội có 4 tài khoản cấp 2: 
+a) Tài khoản 5211- Thu theo quy định: Phản ánh số tiền đã thu được theo quy 
+định từ đối tượng đóng vào quỹ bảo hiểm xã hội trong năm. 
+Tài khoản này có 3 tài khoản cấp 3: 
+- Tài khoản 52111- Quỹ ốm đau và thai sản: Phản ánh số tiền đã thu được theo 
+quy định từ đối tượng đóng vào quỹ ốm đau và thai sản trong năm. 
+- Tài khoản 52112- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp: Phản 
+ánh số tiền đã thu được theo quy định từ đối tượng đóng vào quỹ bảo hiểm tai nạn 
+lao động - bệnh nghề nghiệp. 
+Tài khoản này có 2 tài khoản cấp 4: 
++ Tài khoản 521121- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp 
+bắt buộc; 
++ Tài khoản 521122- Quỹ bảo hiểm tai nạn lao động tự nguyện. 
+- Tài khoản 52113- Quỹ hưu trí và tử tuất: Phản ánh số tiền đã thu được theo 
+quy định từ đối tượng đóng vào quỹ hưu trí và tử tuất trong năm. 
+Tài khoản này có 2 tài khoản cấp 4: 
++ Tài khoản 521131- Bắt buộc; 
++ Tài khoản 521132- Tự nguyện. 
+b) Tài khoản 5212- Thu tiền xử lý chậm đóng, trốn đóng: Phản ánh số đã thu 
+tiền xử lý chậm đóng, trốn đóng quỹ bảo hiểm xã hội trong năm. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+86 
+  
+Tài khoản này có 3 tài khoản cấp 3: 
+- Tài khoản 52121- Quỹ ốm đau và thai sản: Phản ánh số đã thu tiền xử lý 
+chậm đóng, trốn đóng vào quỹ ốm đau và thai sản trong năm. 
+- Tài khoản 52122- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp: Phản 
+ánh số đã thu tiền xử lý chậm đóng, trốn đóng vào quỹ bảo hiểm tai nạn lao động - 
+bệnh nghề nghiệp. 
+- Tài khoản 52123- Quỹ hưu trí và tử tuất: Phản ánh số đã thu tiền xử lý chậm 
+đóng, trốn đóng vào quỹ hưu trí và tử tuất trong năm. 
+Tài khoản này có 2 tài khoản cấp 4: 
++ Tài khoản 521231- Bắt buộc; 
++ Tài khoản 521232- Tự nguyện. 
+c) Tài khoản 5213- Doanh thu từ ngân sách nhà nước hỗ trợ: Phản ánh 
+doanh thu từ kinh phí do ngân sách nhà nước hỗ trợ đóng bảo hiểm xã hội cho các 
+đối tượng trong năm theo quy định. 
+d) Tài khoản 5218- Doanh thu khác của quỹ bảo hiểm xã hội: Phản ánh 
+doanh thu phát sinh từ các hoạt động khác được bổ sung vào quỹ bảo hiểm xã hội 
+theo quy định, không bao gồm doanh thu từ hoạt động đầu tư quỹ. 
+Tài khoản này có 3 tài khoản cấp 3: 
+- Tài khoản 52181- Quỹ ốm đau và thai sản 
+- Tài khoản 52182- Quỹ bảo hiểm tai nạn lao động - bệnh nghề nghiệp. 
+- Tài khoản 52183- Quỹ hưu trí và tử tuất. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu 
+ 3.1. Căn cứ vào hồ sơ, tài liệu có liên quan về việc xác định số tiền thu của 
+quỹ bảo hiểm xã hội và tiền xử lý chậm đóng, trốn đóng quỹ bảo hiểm xã hội trong 
+năm, ghi:  
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1351) 
+Có TK 521- Doanh thu quỹ bảo hiểm xã hội (5211, 5212). 
+3.2. Căn cứ số kinh phí ngân sách nhà nước hỗ trợ đóng bảo hiểm xã hội, ghi: 
+Nợ TK 133- Phải thu từ ngân sách nhà nước (13311) (đối với ngân sách 
+trung ương) 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1351) (đối với ngân 
+sách địa phương) 
+Có TK 521- Doanh thu quỹ bảo hiểm xã hội (5213). 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+87 
+ 
+3.3. Trường hợp phát sinh khoản doanh thu khác của quỹ bảo hiểm xã hội, căn 
+cứ vào hồ sơ, tài liệu có liên quan, ghi: 
+Nợ các TK 111, 112, 135, 138,... 
+Có TK 521- Doanh thu quỹ bảo hiểm xã hội (5218) 
+3.4. Trường hợp ghi giảm doanh thu quỹ bảo hiểm xã hội trong năm, ghi: 
+Nợ TK 521- Doanh thu quỹ bảo hiểm xã hội 
+Có TK liên quan 
+3.5. Cuối kỳ kế toán, trước khi khóa sổ kế toán để lập báo cáo tài chính, kết 
+chuyển doanh thu để xác định kết quả, ghi: 
+Nợ TK 521- Doanh thu quỹ bảo hiểm xã hội  
+Có TK 911- Xác định kết quả.  
+ 
+TÀI KHOẢN 522 
+DOANH THU QUỸ BẢO HIỂM Y TẾ 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này phản ánh doanh thu của quỹ bảo hiểm y tế trong năm, 
+bao gồm:  
+a) Khoản thu quỹ bảo hiểm y tế từ đối tượng đóng, bao gồm cả thu tiền xử lý 
+chậm đóng, trốn đóng quỹ bảo hiểm y tế thu được trên địa bàn cả nước (gồm cả số 
+thu bảo hiểm y tế của các đối tượng do Bảo hiểm xã hội Quân đội, Bảo hiểm xã 
+hội Công an nhân dân được giữ lại quản lý trực tiếp để sử dụng cho việc khám 
+bệnh, chữa bệnh cho người tham gia bảo hiểm y tế theo quy định của pháp luật). 
+b) Doanh thu từ kinh phí do ngân sách nhà nước hỗ trợ đóng bảo hiểm y tế 
+trong năm theo quy định. 
+c) Doanh thu phát sinh từ các hoạt động khác được bổ sung vào quỹ bảo hiểm 
+y tế (quỹ dự phòng khám chữa bệnh bảo hiểm y tế) theo quy định (như số đã chi 
+sai năm trước phải thu hồi để nộp trả quỹ bảo hiểm y tế (quỹ dự phòng khám chữa 
+bệnh bảo hiểm y tế) theo quy định), không bao gồm doanh thu tài chính. 
+1.2. Tài khoản này chỉ được mở tại Bảo hiểm xã hội Việt Nam. 
+1.3. Bảo hiểm xã hội Việt Nam phải mở sổ kế toán chi tiết theo yêu cầu quản 
+lý (như chi tiết khoản thu của các đối tượng theo Nghị định số 188/2025/NĐ-CP 
+ngày 01/7/2025 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số 
+điều của Luật Bảo hiểm y tế, Nghị định số 70/2015/NĐ-CP ngày 01/9/2015 của 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+88 
+  
+Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm 
+y tế đối với Quân đội nhân dân, Công an nhân dân và người làm công tác cơ yếu 
+và các văn bản sửa đổi, bổ sung, thay thế (nếu có)). 
+2. Kết cấu và nội dung phản ánh của Tài khoản 522- Doanh thu quỹ bảo 
+hiểm y tế 
+Bên Nợ: 
+- Các khoản giảm doanh thu quỹ bảo hiểm y tế trong năm (nếu có); 
+- Kết chuyển sang TK 911 “Xác định kết quả”. 
+Bên Có: Doanh thu của quỹ bảo hiểm y tế phát sinh trong năm.  
+Tài khoản này không có số dư cuối kỳ. 
+Tài khoản 522- Doanh thu quỹ bảo hiểm y tế có 4 tài khoản cấp 2: 
+- Tài khoản 5221- Thu theo quy định: Phản ánh số tiền đã thu được theo quy 
+định từ đối tượng đóng vào quỹ bảo hiểm y tế trong năm. 
+- Tài khoản 5222- Thu tiền xử lý chậm đóng, trốn đóng: Phản ánh số đã thu 
+tiền xử lý chậm đóng, trốn đóng quỹ bảo hiểm y tế trong năm. 
+- Tài khoản 5223- Doanh thu từ ngân sách nhà nước hỗ trợ: Phản ánh doanh 
+thu từ kinh phí do ngân sách nhà nước hỗ trợ đóng bảo hiểm y tế cho các đối tượng 
+trong năm theo quy định. 
+- Tài khoản 5228- Doanh thu khác của quỹ bảo hiểm y tế: Phản ánh doanh thu 
+phát sinh từ các hoạt động khác được bổ sung vào quỹ bảo hiểm y tế (quỹ dự 
+phòng khám chữa bệnh bảo hiểm y tế) theo quy định, không bao gồm doanh thu từ 
+hoạt động đầu tư quỹ bảo hiểm y tế. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu 
+3.1. Căn cứ vào hồ sơ, tài liệu có liên quan về việc xác định số tiền thu của quỹ 
+bảo hiểm y tế và tiền xử lý chậm đóng, trốn đóng quỹ bảo hiểm y tế, ghi:  
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1351) 
+Có TK 522- Doanh thu quỹ bảo hiểm y tế.  
+3.2. Căn cứ hồ sơ, tài liệu có liên quan về việc xác định số kinh phí ngân sách 
+nhà nước hỗ trợ chế độ bảo hiểm y tế, ghi: 
+Nợ TK 133- Phải thu từ ngân sách nhà nước (13312) (đối với kinh phí ngân 
+sách trung ương hỗ trợ đóng bảo hiểm y tế cho các đối tượng) 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1351) (đối với kinh 
+phí ngân sách địa phương hỗ trợ đóng bảo hiểm y tế cho các đối tượng) 
+Có TK 522- Doanh thu quỹ bảo hiểm y tế (5223).  
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+89 
+ 
+3.3. Đối với số chi khám bệnh, chữa bệnh cho quân nhân, công an nhân dân, 
+người làm công tác cơ yếu có thẻ bảo hiểm y tế do Bảo hiểm xã hội Quân đội, Bảo 
+hiểm xã hội Công an nhân dân cấp được cân đối nguồn tại chỗ: Căn cứ vào các hồ 
+sơ tài liệu có liên quan, ghi: 
+Nợ TK 621- Chi phí theo chế độ quy định (6212) 
+Có TK 522- Doanh thu quỹ bảo hiểm y tế. 
+3.4. Trường hợp phát sinh khoản doanh thu khác của quỹ bảo hiểm y tế (quỹ 
+dự phòng khám chữa bệnh bảo hiểm y tế), căn cứ vào hồ sơ, tài liệu có liên 
+quan, ghi: 
+Nợ các TK 111, 112, 135, 138,... 
+Có TK 522- Doanh thu quỹ bảo hiểm y tế (5228) 
+3.5. Trường hợp ghi giảm doanh thu quỹ bảo hiểm y tế trong năm, ghi: 
+Nợ TK 522- Doanh thu quỹ bảo hiểm y tế 
+Có TK liên quan 
+3.6. Cuối kỳ kế toán, trước khi khóa sổ kế toán để lập báo cáo tài chính, kết chuyển 
+doanh thu để xác định kết quả, ghi: 
+Nợ TK 522- Doanh thu quỹ bảo hiểm y tế 
+Có TK 911- Xác định kết quả.  
+ 
+TÀI KHOẢN 523 
+DOANH THU QUỸ BẢO HIỂM THẤT NGHIỆP 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này phản ánh doanh thu của quỹ bảo hiểm thất nghiệp trong 
+năm, bao gồm: 
+a) Số tiền thu quỹ bảo hiểm thất nghiệp từ đối tượng đóng trên địa bàn cả 
+nước, bao gồm cả khoản thu tiền xử lý chậm đóng, trốn đóng quỹ bảo hiểm thất 
+nghiệp. 
+b) Doanh thu từ kinh phí ngân sách nhà nước hỗ trợ đóng bảo hiểm thất nghiệp 
+theo quy định. 
+c) Doanh thu phát sinh từ các hoạt động khác được bổ sung vào quỹ bảo hiểm 
+thất nghiệp theo quy định (như số đã chi sai năm trước phải thu hồi để nộp trả quỹ 
+bảo hiểm thất nghiệp theo quy định), không bao gồm doanh thu tài chính. 
+1.2. Tài khoản này chỉ được mở tại Bảo hiểm xã hội Việt Nam. 
+1.3. Bảo hiểm xã hội Việt Nam mở sổ kế toán chi tiết theo yêu cầu quản lý. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+90 
+  
+2. Kết cấu và nội dung phản ánh của Tài khoản 523- Doanh thu quỹ bảo 
+hiểm thất nghiệp 
+Bên Nợ: 
+- Các khoản giảm doanh thu quỹ bảo hiểm thất nghiệp trong năm (nếu có); 
+- Kết chuyển sang TK 911 “Xác định kết quả”. 
+Bên Có: Doanh thu của quỹ bảo hiểm thất nghiệp phát sinh trong năm. 
+Tài khoản này không có số dư cuối kỳ. 
+Tài khoản 523- Doanh thu quỹ bảo hiểm thất nghiệp có 4 tài khoản cấp 2: 
+- Tài khoản 5231- Thu theo quy định: Phản ánh số tiền đã thu được theo quy 
+định từ đối tượng đóng vào quỹ bảo hiểm thất nghiệp trong năm. 
+- Tài khoản 5232- Thu tiền xử lý chậm đóng, trốn đóng: Phản ánh số đã thu 
+tiền xử lý chậm đóng, trốn đóng quỹ bảo hiểm thất nghiệp trong năm. 
+- Tài khoản 5233- Doanh thu từ ngân sách nhà nước hỗ trợ đóng bảo hiểm 
+thất nghiệp: Phản ánh doanh thu từ kinh phí ngân sách nhà nước hỗ trợ đóng bảo 
+hiểm thất nghiệp. 
+- Tài khoản 5238- Doanh thu khác của quỹ bảo hiểm thất nghiệp: Phản ánh 
+doanh thu phát sinh từ các hoạt động khác được bổ sung vào quỹ bảo hiểm thất 
+nghiệp theo quy định, không bao gồm doanh thu từ hoạt động đầu tư quỹ bảo hiểm 
+thất nghiệp. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu 
+3.1. Căn cứ vào hồ sơ, tài liệu có liên quan về việc xác định số tiền thu của 
+quỹ bảo hiểm thất nghiệp và tiền xử lý chậm đóng, trốn đóng quỹ bảo hiểm thất 
+nghiệp, ghi:  
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1351) 
+Có TK 523- Doanh thu quỹ bảo hiểm thất nghiệp (5231, 5232).  
+3.2. Căn cứ số kinh phí ngân sách nhà nước hỗ trợ đóng bảo hiểm thất 
+nghiệp, ghi: 
+Nợ TK 133- Phải thu từ ngân sách nhà nước (13313) (đối với ngân sách trung ương) 
+Nợ TK 135- Phải thu giữa các cơ quan bảo hiểm xã hội (1351) (đối với ngân 
+sách địa phương) 
+Có TK 523- Doanh thu quỹ bảo hiểm thất nghiệp (5233). 
+3.3. Trường hợp phát sinh khoản doanh thu khác của quỹ bảo hiểm thất nghiệp, 
+căn cứ vào hồ sơ, tài liệu có liên quan, ghi: 
+Nợ các TK 111, 112, 135, 138,... 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+91 
+ 
+Có TK 523- Doanh thu quỹ bảo hiểm thất nghiệp (5238) 
+3.4. Trường hợp ghi giảm doanh thu quỹ bảo hiểm thất nghiệp trong năm, ghi: 
+Nợ TK 523- Doanh thu quỹ bảo hiểm thất nghiệp 
+Có TK liên quan 
+3.5. Cuối kỳ kế toán, trước khi khóa sổ kế toán để lập báo cáo tài chính, kết 
+chuyển doanh thu để xác định kết quả, ghi: 
+Nợ TK 523- Doanh thu quỹ bảo hiểm thất nghiệp 
+Có TK 911- Xác định kết quả.  
+ 
+TÀI KHOẢN 525 
+DOANH THU TÀI CHÍNH 
+ 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này sử dụng để phản ánh doanh thu tài chính của các quỹ bảo 
+hiểm từ hoạt động đầu tư các quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất 
+nghiệp do Bảo hiểm xã hội Việt Nam thực hiện theo cơ chế đầu tư quỹ hiện hành 
+và các khoản doanh thu tài chính khác của quỹ bảo hiểm theo quy định pháp luật, 
+bao gồm:  
+a) Tiền lãi: Lãi tiền gửi ngân hàng, kho bạc; lãi đầu tư trái phiếu, tín phiếu; lãi 
+chuyển nhượng vốn khi thanh lý các khoản đầu tư, lãi chênh lệch tỷ giá (nếu có),...  
+b) Cổ tức lợi nhuận được chia cho giai đoạn sau ngày đầu tư; thu nhập hoạt 
+động đầu tư quỹ khác theo quy định. 
+1.2. Tài khoản này chỉ mở tại Bảo hiểm xã hội Việt Nam. Doanh thu tài chính 
+được ghi nhận khi có khả năng chắc chắn thu được lợi ích từ giao dịch và doanh 
+thu được xác định giá trị một cách đáng tin cậy. Trong đó việc ghi nhận doanh thu 
+tài chính trong năm được thực hiện như sau: 
+a) Tiền lãi được ghi nhận doanh thu trên cơ sở thời gian và lãi suất thực tế 
+từng kỳ; 
+b) Cổ tức, lợi nhuận được chia hoặc các khoản được phân phối tương tự, 
+doanh thu hoạt động đầu tư quỹ khác được ghi nhận doanh thu khi Bảo hiểm xã 
+hội Việt Nam được quyền nhận các khoản này. 
+1.3. Bảo hiểm xã hội Việt Nam phải mở sổ kế toán chi tiết để theo dõi doanh 
+thu hoạt động đầu tư quỹ theo yêu cầu quản lý. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+92 
+  
+2. Kết cấu và nội dung phản ánh của Tài khoản 525- Doanh thu tài chính 
+Bên Nợ:  
+- Các khoản giảm doanh thu tài chính trong năm (nếu có); 
+- Kết chuyển sang TK 911 “Xác định kết quả”. 
+Bên Có: Doanh thu tài chính phát sinh trong năm.  
+Tài khoản này không có số dư cuối kỳ.  
+Tài khoản 525- Doanh thu tài chính, có 4 tài khoản cấp 2: 
+- Tài khoản 5251- Doanh thu đầu tư quỹ bảo hiểm xã hội: Phản ánh doanh thu 
+hoạt động đầu tư quỹ bảo hiểm xã hội do Bảo hiểm xã hội Việt Nam thực hiện theo 
+cơ chế đầu tư quỹ hiện hành. 
+Tài khoản này có 3 tài khoản cấp 3: 
++ Tài khoản 52511- Doanh thu đầu tư quỹ ốm đau và thai sản; 
++ Tài khoản 52512- Doanh thu đầu tư quỹ bảo hiểm tai nạn lao động - bệnh 
+nghề nghiệp; 
++ Tài khoản 52513- Doanh thu đầu tư quỹ hưu trí và tử tuất. 
+- Tài khoản 5252- Doanh thu đầu tư quỹ bảo hiểm y tế: Phản ánh doanh thu 
+hoạt động đầu tư quỹ bảo hiểm y tế do Bảo hiểm xã hội Việt Nam thực hiện theo 
+cơ chế đầu tư quỹ hiện hành. 
+- Tài khoản 5253- Doanh thu đầu tư quỹ bảo hiểm thất nghiệp: Phản ánh doanh 
+thu hoạt động đầu tư quỹ bảo hiểm thất nghiệp do Bảo hiểm xã hội Việt Nam thực hiện 
+theo cơ chế đầu tư quỹ hiện hành. 
+- Tài khoản 5258- Doanh thu tài chính khác: Phản ánh doanh thu tài chính 
+khác của quỹ bảo hiểm theo quy định pháp luật. 
+Tài khoản này có 4 tài khoản cấp 3: 
++ Tài khoản 52581- Doanh thu tài chính khác của quỹ bảo hiểm xã hội: Phản 
+ánh doanh thu tài chính khác của quỹ bảo hiểm xã hội. 
+Tài khoản này gồm 3 tài khoản cấp 4: 
+./ Tài khoản 52511- Doanh thu tài chính khác của quỹ ốm đau và thai sản; 
+./ Tài khoản 52512- Doanh thu tài chính khác của quỹ bảo hiểm tai nạn 
+lao động - bệnh nghề nghiệp; 
+./ Tài khoản 52513- Doanh thu tài chính khác của quỹ hưu trí và tử tuất. 
++ Tài khoản 52582- Doanh thu tài chính khác của quỹ bảo hiểm y tế: Phản ánh 
+doanh thu tài chính khác của quỹ bảo hiểm y tế. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+93 
+ 
++ Tài khoản 52583- Doanh thu tài chính khác quỹ bảo hiểm thất nghiệp: Phản 
+ánh doanh thu tài chính khác của quỹ bảo hiểm thất nghiệp. 
++ Tài khoản 52588- Doanh thu tài chính khác: Phản ánh doanh thu tài chính 
+khác theo quy định nhưng không được phân bổ vào quỹ bảo hiểm xã hội, quỹ bảo 
+hiểm y tế, quỹ bảo hiểm thất nghiệp (không phản ánh vào các tài khoản nêu trên).  
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu  
+3.1. Khi phát sinh lãi từ khoản đầu tư, ghi:  
+Nợ các TK 112, 137,... 
+Có TK 525- Doanh thu tài chính. 
+3.2. Đối với các khoản đầu tư góp vốn vào đơn vị khác, khi kết thúc hợp đồng 
+góp vốn, Bảo hiểm xã hội Việt Nam thu hồi vốn góp hoặc nhượng bán vốn góp 
+cho các bên khác (nếu có), ghi:  
+Nợ các TK 111, 112 
+Nợ TK 625- Chi phí tài chính (nếu khoản lỗ được phép sử dụng quỹ dự phòng 
+rủi ro để bù đắp) 
+Có TK 121- Đầu tư tài chính 
+Có TK 525- Doanh thu tài chính (nếu lãi). 
+3.3. Đối với các khoản lãi tiền gửi không kỳ hạn trên các tài khoản thu, chi chế độ 
+mà cơ quan bảo hiểm xã hội cấp dưới phải nộp về Bảo hiểm xã hội Việt Nam, ghi: 
+Nợ các TK 111, 112, 135 (1358) 
+Có TK 525- Doanh thu tài chính (5258)  
+3.4. Trường hợp ghi giảm doanh thu tài chính trong năm, ghi: 
+Nợ TK 525- Doanh thu tài chính 
+Có TK liên quan 
+3.5. Cuối kỳ kế toán, trước khi khóa sổ kế toán để lập báo cáo tài chính, kết 
+chuyển doanh thu để xác định kết quả, ghi: 
+Nợ TK 525- Doanh thu tài chính 
+Có TK 911- Xác định kết quả.  
+  
+TÀI KHOẢN LOẠI 6 
+NGUYÊN TẮC KẾ TOÁN TÀI KHOẢN LOẠI 6 
+ 
+1. Loại tài khoản này dùng để phản ánh các khoản chi phí phải chi trả chế độ 
+bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong năm cho đối tượng 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+94 
+  
+hưởng bảo hiểm, khoản trích chi phí tổ chức và hoạt động, chi phí tài chính (không 
+bao gồm các khoản được tính vào chi tổ chức và hoạt động của bảo hiểm xã hội, 
+bảo hiểm y tế, bảo hiểm thất nghiệp) và chi phí khác của các quỹ bảo hiểm theo 
+quy định. Các tài khoản này chỉ được sử dụng tại Bảo hiểm xã hội Việt Nam. 
+2. Chi phí theo chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp là 
+các khoản chi phí phải chi trả cho các cá nhân, tổ chức, đơn vị được hưởng chế độ 
+bảo hiểm trong năm theo quy định, được bảo đảm từ nguồn thu quỹ bảo hiểm theo 
+quy định được quản lý tập trung tại Bảo hiểm xã hội Việt Nam.  
+3. Các tài khoản chi phí không có số dư cuối kỳ. Bảo hiểm xã hội Việt Nam 
+phải kết chuyển chi phí (sau khi trừ đi số ghi giảm chi phí) để xác định kết quả 
+hoạt động tại thời điểm cuối kỳ kế toán, trước khi khóa sổ kế toán để lập báo cáo 
+tài chính.  
+Tài khoản Loại 6 có 04 tài khoản: 
+- Tài khoản 621- Chi phí theo chế độ quy định; 
+- Tài khoản 622- Trích chi phí tổ chức và hoạt động; 
+- Tài khoản 625- Chi phí tài chính; 
+- Tài khoản 628- Chi phí khác của quỹ bảo hiểm. 
+ 
+TÀI KHOẢN 621 
+CHI PHÍ THEO CHẾ ĐỘ QUY ĐỊNH 
+ 
+1. Nguyên tắc kế toán 
+1.1. Tài khoản này phản ánh chi phí phải chi trả cho các cá nhân, tổ chức, đơn 
+vị được hưởng chế độ bảo hiểm trong năm do các quỹ bảo hiểm bảo đảm theo quy 
+định của pháp luật, bao gồm chi phí chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo 
+hiểm thất nghiệp. 
+1.2. Tài khoản này chỉ được mở tại Bảo hiểm xã hội Việt Nam. Bảo hiểm xã 
+hội Việt Nam bảo đảm kinh phí chi trả cho các đối tượng được hưởng chế độ bảo 
+hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong năm theo quy định của 
+pháp luật. 
+1.3. Bảo hiểm xã hội Việt Nam mở sổ kế toán chi tiết theo yêu cầu quản lý. 
+2. Kết cấu và nội dung phản ánh của Tài khoản 621- Chi phí theo chế độ 
+quy định 
+Bên Nợ: Chi phí phải chi trả chế độ bảo hiểm trong năm do quỹ bảo hiểm đảm 
+bảo theo quy định của pháp luật. 
+
+ 
+ 
+CÔNG BÁO/Số 1657 + 1658/Ngày 09-12-2025 
+95 
+ 
+Bên Có: 
+- Các khoản giảm chi phí trong năm (nếu có); 
+- Kết chuyển sang TK 911 “Xác định kết quả”. 
+Tài khoản này không có số dư cuối kỳ. 
+Tài khoản 621- Chi phí theo chế độ quy định có 3 tài khoản cấp 2: 
+- Tài khoản 6211- Chi phí chế độ bảo hiểm xã hội: Phản ánh chi phí phải chi 
+trả chế độ bảo hiểm xã hội trong năm theo quy định của pháp luật. 
+Tài khoản này có 3 tài khoản cấp 3: 
++ Tài khoản 62111- Chi phí chế độ ốm đau, thai sản; 
++ Tài khoản 62112- Chi phí chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp; 
++ Tài khoản 62113- Chi phí chế độ hưu trí, tử tuất. 
+- Tài khoản 6212- Chi phí chế độ bảo hiểm y tế: Phản ánh chi phí phải chi trả 
+chế độ bảo hiểm y tế trong năm theo quy định của pháp luật. 
+- Tài khoản 6213- Chi phí chế độ bảo hiểm thất nghiệp: Phản ánh chi phí phải 
+chi trả chế độ bảo hiểm thất nghiệp trong năm theo quy định của pháp luật. 
+3. Phương pháp kế toán một số nghiệp vụ kinh tế chủ yếu 
+3.1. Định kỳ, căn cứ vào hồ sơ chứng từ có liên quan về việc phải trả kinh phí 
+chi cho các cơ quan bảo hiểm xã hội, Bảo hiểm xã hội Quân đội, Bảo hiểm xã hội 
+Công an nhân dân để thanh toán chế độ bảo hiểm trong năm do các quỹ bảo hiểm 
+bảo đảm theo quy định của pháp luật, ghi:  
+ Nợ TK 621- Chi phí theo chế độ quy định 
+Có TK 335- Phải trả giữa các cơ quan bảo hiểm xã hội (3352).  
+3.2. Trường hợp ghi giảm chi phí trong năm, ghi: 
+Nợ TK liên quan  
+Có TK 621- Chi phí theo chế độ quy định 
+3.3. Cuối kỳ kế toán, trước khi khóa sổ kế toán để lập báo cáo tài chính, kết 
+chuyển chi phí để xác định kết quả, ghi: 
+Nợ TK 911- Xác định kết quả 
+Có TK 621- Chi phí theo chế độ quy định.  
+ 
+ 
+ 
+(Xem tiếp Công báo số 1659 + 1660)  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VĂN PHÒNG CHÍNH PHỦ XUẤT BẢN 
+Địa chỉ: 
+Số 1, Hoàng Hoa Thám, Ba Đình, Hà Nội 
+Điện thoại liên hệ: 
+ 
+- Nội dung: 
+080.44417 
+- Phát hành:  
+080.44243 
+Email:  
+congbao@chinhphu.vn 
+Website 
+http://congbao.chinhphu.vn 
+ 
